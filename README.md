@@ -3,7 +3,7 @@
 "author": "BY TINTXI",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "url": "https://pastebin.com/bdgdJK1C",
-"telegram": "Lista_TinWorld",
+"telegram": "",
 "info":"",
 "groups":
 [
