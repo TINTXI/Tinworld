@@ -10,50 +10,50 @@
 {
 "name": "AGENDA TV",
 "image": "https://i.postimg.cc/QN1r4K4Q/logo4-7-114753.png",
-"url": "https://tinworld.vercel.app/02.Menú.Agenda.Tv.w3u",
+"url": "https://tinworld.vercel.app/02.Menu.Agenda.Tv.w3u",
 "info":"",
 "import": false
 },
 {
 "name": "ABECEDARIO",
 "image": "https://i.postimg.cc/fTH47dDz/logo4-7-12200.png",
-"url": "https://tinworld.vercel.app/03.Menú.Abecedarios.w3u",
+"url": "https://tinworld.vercel.app/03.Menu.Abecedarios.w3u",
 "import": false
 },
 {
 "name": "WORLD ACESTREAM",
 "image": "https://i.postimg.cc/C5ps3c0G/logo4-7-12932.png",
-"url": "https://tinworld.vercel.app/04.Menú.Mundo.Acestream.w3u",
+"url": "https://tinworld.vercel.app/04.Menu.Mundo.Acestream.w3u",
 "import": false
 },
 {
 "name": "IPTV",
 "image": "https://i.postimg.cc/cH0CgzQk/logo4-7-123251.png",
-"url": "https://tinworld.vercel.app/05.Menú.Iptv.+.Vpn.w3u",
+"url": "https://tinworld.vercel.app/05.Menu.Iptv.+.Vpn.w3u",
 "import": false
 },
 {
 "name": "EVENTOS TOP",
 "image": "https://i.postimg.cc/pLD4sVhT/logo4-7-124654.png",
-"url": "https://tinworld.vercel.app/06.Menú.Eventos.Top.w3u",
+"url": "https://tinworld.vercel.app/06.Menu.Eventos.Top.w3u",
 "import": false
 },
 {
 "name": "SPAIN 1",
 "image": "https://i.postimg.cc/ZRmPYZVW/logo4-7-125552.png",
-"url": "https://tinworld.vercel.app/07.Menú.Spain.1.w3u",
+"url": "https://tinworld.vercel.app/07.Menu.Spain.1.w3u",
 "import": false
 },
 {
 "name": "SPAIN 2",
 "image": "https://i.postimg.cc/DzzDn9yd/logo4-7-13134.png",
-"url": "https://tinworld.vercel.app/08.Menú.Spain.2.w3u",
+"url": "https://tinworld.vercel.app/08.Menu.Spain.2.w3u",
 "import": false
 },
 {
 "name": "SPAIN 3",
 "image": "https://i.postimg.cc/y8DQGFfv/logo4-7-13529.png",
-"url": "https://tinworld.vercel.app/09.Menú,Spain.3.w3u",
+"url": "https://tinworld.vercel.app/09.Menu,Spain.3.w3u",
 "import": false
 },
 {
