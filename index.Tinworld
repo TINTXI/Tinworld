@@ -10,86 +10,87 @@
 {
 "name": "AGENDA TV",
 "image": "https://i.postimg.cc/QN1r4K4Q/logo4-7-114753.png",
-"url": "https://pastebin.com/DLaYqVAb",
+"url": "https://tinworld.vercel.app/02.Menú.Agenda.Tv.w3u",
 "info":"",
 "import": false
 },
 {
 "name": "ABECEDARIO",
 "image": "https://i.postimg.cc/fTH47dDz/logo4-7-12200.png",
-"url": "https://pastebin.com/M8JFYjJm",
+"url": "https://tinworld.vercel.app/03.Menú.Abecedarios.w3u",
 "import": false
 },
 {
 "name": "WORLD ACESTREAM",
 "image": "https://i.postimg.cc/C5ps3c0G/logo4-7-12932.png",
-"url": "https://pastebin.com/XyGRUXGM",
+"url": "https://tinworld.vercel.app/04.Menú.Mundo.Acestream.w3u",
 "import": false
 },
 {
 "name": "IPTV",
 "image": "https://i.postimg.cc/cH0CgzQk/logo4-7-123251.png",
-"url": "https://pastebin.com/4GPRETTt",
+"url": "https://tinworld.vercel.app/05.Menú.Iptv.+.Vpn.w3u",
 "import": false
 },
 {
 "name": "EVENTOS TOP",
 "image": "https://i.postimg.cc/pLD4sVhT/logo4-7-124654.png",
-"url": "https://pastebin.com/e5Z2ViC3",
+"url": "https://tinworld.vercel.app/06.Menú.Eventos.Top.w3u",
 "import": false
 },
 {
 "name": "SPAIN 1",
 "image": "https://i.postimg.cc/ZRmPYZVW/logo4-7-125552.png",
-"url": "https://pastebin.com/5UPzyRyQ",
+"url": "https://tinworld.vercel.app/07.Menú.Spain.1.w3u",
 "import": false
 },
 {
 "name": "SPAIN 2",
 "image": "https://i.postimg.cc/DzzDn9yd/logo4-7-13134.png",
-"url": "https://pastebin.com/vXHT7Y0K",
+"url": "https://tinworld.vercel.app/08.Menú.Spain.2.w3u",
 "import": false
 },
 {
 "name": "SPAIN 3",
 "image": "https://i.postimg.cc/y8DQGFfv/logo4-7-13529.png",
-"url": "https://pastebin.com/5H6eHapw",
+"url": "https://tinworld.vercel.app/09.Menú,Spain.3.w3u",
 "import": false
 },
 {
 "name": "FILMS",
 "image": "https://i.postimg.cc/nrq8fDYQ/logo4-7-131253.png",
-"url": "https://pastebin.com/WL8wU3CU",
+"url": "https://tinworld.vercel.app/10.Menu.Films.w3u
+",
 "import": false
 },
 {
 "name": "SERIES",
 "image": "https://i.postimg.cc/vHMHhrsn/logo4-7-132546.png",
-"url": "https://pastebin.com/iSewmnre",
+"url": "https://tinworld.vercel.app/11.Menu.Series.w3u",
 "import": false
 },
 {
 "name": "DOCUS",
 "image": "https://i.postimg.cc/prhtsddp/logo4-7-133143.png",
-"url": "https://pastebin.com/ugH5kTG9",
+"url": "https://tinworld.vercel.app/12.Menu.Docus.w3u",
 "import": false
 },
 {
 "name": "ENTRETENIMIENTO",
 "image": "https://i.postimg.cc/zBBB1W7B/logo4-7-133646.png",
-"url": "https://pastebin.com/7ZfEicLC",
+"url": "https://tinworld.vercel.app/13.Menu.Entretenimiento.w3u",
 "import": false
 },
 {
 "name": "MIX",
 "image": "https://i.postimg.cc/HsDRymMW/logo4-7-134118.png",
-"url": "https://pastebin.com/4GAJVn1R",
+"url": "https://tinworld.vercel.app/14.Menu.Mix.w3u",
 "import": false
 },
 {
 "name": "VARIADA",
 "image": "https://i.postimg.cc/yxgKYy2f/logo4-7-134320.png",
-"url": "https://pastebin.com/8FjCZNuY",
+"url": "https://tinworld.vercel.app/15.Menu.Variada.w3u",
 "import": false
 },
 {
