@@ -8,28 +8,28 @@
 [ 							
 { 								
 "name": "Movistar", 								
-"image": "https://i.postimg.cc/QNP5kkNV/logo4-12-223232.png", 								
+"image": "https://i.postimg.cc/B6tvzkZD/IMG-20240413-001954.png", 								
 "url": "https://www.movistarplus.es/guiamovil", 								
 "embed": "true" 							
 }, 
 
 { 								
 "name": "DAZN", 								
-"image": "https://i.postimg.cc/zXCCzH5B/logo4-12-222834.png", 								
+"image": "https://i.postimg.cc/T1D3dbD3/IMG-20240413-001932.png", 								
 "url": "https://www.dazn.com/es-ES/schedule", 								
 "embed": "true" 							
 }, 
 
 { 								
 "name": "Champions League", 								
-"image": "https://i.postimg.cc/KcPX2QKg/logo4-12-22276.png", 								
+"image": "https://i.postimg.cc/QMfkLF5z/IMG-20240413-001906.png", 								
 "url": "https://www.futboltv.info/competicion/champions-league", 								
 "embed": "true" 							
 }, 
 { 								
 "name": "Champions League", 								
 "info": "Femenina", 								
-"image": "https://i.ibb.co/QXw2WyV/Logo-UWCL.jpg", 								
+"image": "https://i.postimg.cc/L4Yk76sy/IMG-20240413-002022.png", 								
 "url": "https://www.futboltv.info/competicion/womens-champions-league", 								
 "embed": "true" 							
 }, 
