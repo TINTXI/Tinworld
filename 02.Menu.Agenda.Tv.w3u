@@ -110,131 +110,133 @@
 
 { 								
 "name": "Bundesliga", 							
-"image": "https://i.postimg.cc/vHQ6LQC2/IMG-20240413-003519.png", 								
+"image": "https://i.postimg.cc/4NW05x2W/IMG-20240413-004838.png", 								
 "url": "https://www.futbolenlatv.es/competicion/bundesliga", 								
 "embed": "true" 							
 }, 
 
 { 								
 "name": "Supercoppa Italia", 								
-"image": "https://media-assets.wired.it/photos/63c7f3d05e4f0f08fb7ac208/16:9/w_2560%2Cc_limit/1457058625", 								
+"image": "https://i.postimg.cc/DZ5QT8XD/IMG-20240413-004154.png", 								
 "url": "https://www.futbolenlatv.es/competicion/supercopa-italia", 								
 "embed": "true" 							
 }, 
 
 { 								
 "name": "Coppa Italia", 								
-"image": "https://cdn1-production-images-kly.akamaized.net/hZqYuMG1xn5lWdwE_dRVNF80QKQ=/1x177:1080x785/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4673701/original/012652800_1701689515-Ilustrasi_Coppa_Italia_-_Bola.com_Salsa_Dwi_Novita.jpg", 								"url": "https://www.futbolenlatv.es/competicion/copa-de-italia", 								
+"image": "https://i.postimg.cc/9Mx9ks3H/IMG-20240413-004211.png", 								
+"url": "https://www.futbolenlatv.es/competicion/copa-de-italia", 								
 "embed": "true" 						
 }, 
 
 { 								
 "name": "Serie A", 								
-"image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png", 							
+"image": "https://i.postimg.cc/rwCvv2JH/IMG-20240413-004226.png", 							
 "url": "https://www.futbolenlatv.es/competicion/calcio-serie-a", 								
 "embed": "true" 						
 },
 
 { 								
 "name": "Ligue 1", 								
-"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png", 							
+"image": "https://i.postimg.cc/hjghKnW7/IMG-20240413-004240.png", 							
 "url": "https://www.futbolenlatv.es/competicion/ligue-1", 								
 "embed": "true" 							
 },
 
 { 								
 "name": "NBA", 								
-"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png", 								
+"image": "https://i.postimg.cc/pdMLBvd1/IMG-20240413-004258.png", 								
 "url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/nba", 								
 "embed": "true" 						
 }, 
 
 { 								
 "name": "Liga Endesa", 								
-"image": "https://as01.epimg.net/baloncesto/imagenes/2017/07/25/acb/1501004759_569854_1501004993_noticia_normal.jpg", 								"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa", 								
+"image": "https://i.postimg.cc/VkG3YBx9/IMG-20240413-004314.png", 								
+"url": "https://www.futbolenlatv.es/deporte/baloncesto/competicion/liga-endesa", 								
 "embed": "true" 							
 },
 
 { 								
 "name": "F1", 							
-"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png", 								
+"image": "https://i.postimg.cc/wBBRNHb8/IMG-20240413-004329.png", 								
 "url": "https://www.marca.com/motor/formula1/calendario.html", 								
 "embed": "true" 						
 }, 
 
 { 							
 "name": "MotoGP", 							
-"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png", 							
+"image": "https://i.postimg.cc/nzbZJGmR/IMG-20240413-004343.png", 							
 "url": "https://www.marca.com/motor/motogp/calendario.html", 							
 "embed": "true" 						
 },
 
 { 								
 "name": "Tenis", 							
-"image": "https://i.ibb.co/2hzzxFG/logo-Tenis.png", 								
+"image": "https://i.postimg.cc/xTYvCrYY/IMG-20240413-004400.png", 								
 "url": "https://www.futbolenlatv.es/deporte/tenis", 								
 "embed": "true" 						
 },
 
 { 								
 "name": "UFC", 							
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVqFaYDUDqXGWIgRjCm5_A3LBERIGSQ4rJAsgs0_QGPMDlQVc7P96XwdAHkf7Ggas08GoLAisVy_1iLiRWJXO4M_KVuimVvgnnK1jgSY9qKbDgT4FKcyJ88KFEIJlCZno_VvC-78yMx9wOepccMbgGjMHDL6OsDwVBnUmEmL5ywiEwfFKxPGLTRapzjmo/w664-h226/logo_ufc.png", 								
+"image": "https://i.postimg.cc/Y9n5SNLB/IMG-20240413-004415.pngV", 								
 "url": "https://www.ufcespanol.com/events", 							
 "embed": "true" 							
 },
 
 { 								
 "name": "Boxeo", 								
-"image": "https://i.postimg.cc/1zyKGqQR/diseno-grafico-logotipo-insignia-boxeo-24908-54892.jpg", 								
+"image": "https://i.postimg.cc/SsHpr7S7/IMG-20240413-004429.png", 								
 "url": "https://izquierdazo.com/seccion/agenda/", 							
 "embed": "true" 						
 },
 
 { 							
 "name": "Béisbol", 							
-"image": "https://logos-marcas.com/wp-content/uploads/2021/09/MLB-Logo.png", 							
+"image": "https://i.postimg.cc/rspt1Tpt/IMG-20240413-004535.png", 							
 "url": "https://www.futbolenlatv.es/deporte/beisbol/competicion/major-league-baseball", 							
 "embed": "true" 						
 },
 
 { 								
 "name": "Rugby", 								
-"image": "https://i.ibb.co/1Ggb57C/logo-NFL.png", 								
+"image": "https://i.postimg.cc/wvmr6KzL/IMG-20240413-004512.png", 								
 "url": "https://www.futbolenlatv.es/deporte/futbol-americano", 							
 "embed": "true" 						
 },
 
 { 							
 "name": "Hockey", 							
-"image": "https://i.ibb.co/868xpk5/logo-NHL.png", 							
+"image": "https://i.postimg.cc/CKVBvk10/IMG-20240413-004559.png", 							
 "url": "https://www.futbolenlatv.es/deporte/hockey/competicion/national-hockey-league", 								
 "embed": "true" 						
 }, 
 
 { 								
 "name": "Sport•TV", 							
-"image": "https://i.ibb.co/gTcYR5b/logo-Sport-TV.png", 							
+"image": "https://i.postimg.cc/8zLsrcb0/IMG-20240413-004618.png", 							
 "url": "https://www.sporttv.pt/guia", 							
 "embed": "true" 						
 },
 
 { 								
 "name": "ESPN Deportes", 							
-"image": "https://i.ibb.co/k0PSxsf/logo-ESPNd.png", 							
+"image": "https://i.postimg.cc/DZwzDg39/IMG-20240413-004638.png", 							
 "url": "https://www.gatotv.com/canal/espn_deportes", 								
 "embed": "true" 							
 },
 
 { 								
 "name": "Sbk - Superbike", 								
-"image": "https://i.postimg.cc/qq5dFDTh/sbk-2d-portrait-fullcol-ondark-site-full.jpg", 								
+"image": "https://i.postimg.cc/2SYLGn3D/IMG-20240413-004701.png", 								
 "url": "https://www.worldsbk.com/es/calendario", 								
 "embed": "true" 							
 }, 
 
 { 								
 "name": "Toros", 							
-"image": "https://www.mundotoro.com/wp-content/uploads/2023/12/image00023.jpeg", 								
+"image": "https://i.postimg.cc/J0cMzH8N/IMG-20240413-004717.png", 								
 "url": "https://elmuletazo.com/agenda-de-toros-en-television", 								
 "embed": "true" 								
 }
