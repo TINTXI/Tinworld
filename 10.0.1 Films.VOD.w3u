@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Life on Mars" group-title="VOD ES",Life on Mars
+#EXTINF:-1 tvg-id="ext" tvg-name="Life on Mars" tvg-logo="https://m.media-amazon.com/images/I/71YdIqJeH8L._SY445_.jpg" group-title="VOD ES",Life on Mars
 http://vod.iscaja.me:8800/cj.php?h=MTY3MjI2Mzk1MQ%3D%3D&v=spanish_Life-on-Mars_20221108063602.mp4
 #EXTINF:-1 tvg-id="ext" tvg-name="Slumber Party Massacre" group-title="VOD ES",Slumber Party Massacre
 http://vod.iscaja.me:8800/cj.php?h=MTY3MjI2Mzk1MQ%3D%3D&v=spanish_Slumber-Party-Massacre_20221108063503.mp4
