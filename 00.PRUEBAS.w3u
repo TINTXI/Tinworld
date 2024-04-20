@@ -1,0 +1,48 @@
+{
+"name": "PRUEBAS",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/00.PRUEBAS.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "",
+"info": "",
+"stations":
+    [
+        {
+        "name": "Haney 🆚 García",
+        "info":"[Español Enlace 3]",
+        "online":"true",
+        "image": "https://www.barclayscenter.com/assets/img/04_20_GARCIAvsHANEY_ArtFinal_WebThumb_656x596-3-89d2823c04.jpg",
+        "url": "https://www.youtube.com/live/An8plTyMKFU?si=4R6w0QaU9HSAfhda",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "Haney 🆚 García",
+        "info":"[ingles1-1]",
+        "online":"true",
+        "image": "https://www.barclayscenter.com/assets/img/04_20_GARCIAvsHANEY_ArtFinal_WebThumb_656x596-3-89d2823c04.jpg",
+        "url": "https://s1.sportea.link/live/embed.php?ch=es67",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Haney 🆚 García",
+        "info":"[Ingles]",
+        "online":"true",
+        "image": "https://www.barclayscenter.com/assets/img/04_20_GARCIAvsHANEY_ArtFinal_WebThumb_656x596-3-89d2823c04.jpg",
+        "url": "https://sportsurge.stream/embed/boxing.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "UFC Fight Night: Allen vs Curtis 2",
+        "info":"[Español]",
+        "online":"true",
+        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+        "url": "https://deporte.lat/194065/ufc.php",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
