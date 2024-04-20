@@ -36,16 +36,6 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
-        },
-        {
-        "name": "UFC Fight Night: Allen vs Curtis 2",
-        "info":"[Español]",
-        "online":"true",
-        "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
-        "url": "https://deporte.lat/194065/ufc.php",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-         }
+        }
 ]
 }
