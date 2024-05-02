@@ -8,7 +8,7 @@
 "stations":
     [
                 {
-                    "name": "ArenaPremium1 [Serbia]",
+                    "name": "Arena Premium 1 [Serbia]",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
                     "url": "https://redditsoccerstream.online/iframe/96.php",
                     "referer": "https://redditsoccerstream.online",
@@ -16,7 +16,7 @@
                     "isHost": true
                 },
                 {
-                    "name": "ArenaPremium2 [Serbia]",
+                    "name": "Arena Premium 2 [Serbia]",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
                     "url": "https://redditsoccerstream.online/iframe/97.php",
                     "referer": "https://redditsoccerstream.online",
@@ -24,7 +24,7 @@
                     "isHost": true
                 },
                 {
-                    "name": "ArenaPremium3 [Serbia]",
+                    "name": "Arena Premium 3 [Serbia]",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
                     "url": "https://redditsoccerstream.online/iframe/98.php",
                     "referer": "https://redditsoccerstream.online",
@@ -32,7 +32,7 @@
                     "isHost": true
                 },
                 {
-                    "name": "ArenaSport1 [Serbia]",
+                    "name": "Arena Sport 1 [Serbia]",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
                     "url": "https://redditsoccerstream.online/iframe/99.php",
                     "referer": "https://redditsoccerstream.online",
