@@ -69,6 +69,18 @@
 "import": false
 },
 {
+"name": "WORLD 2",
+"image": "https://i.postimg.cc/52J4xQxb/logo5-1-131658.png",
+"url": "https://tinworld.vercel.app/19.Menu.World.2.w3u",
+"import": false
+},
+{
+"name": "WORLD 3",
+"image": "https://i.postimg.cc/52J4xQxb/logo5-1-131658.png",
+"url": "https://tinworld.vercel.app/20.Menu.World.3.w3u",
+"import": false
+},
+{
 "name": "FILMS",
 "image": "https://i.postimg.cc/nrq8fDYQ/logo4-7-131253.png",
 "url": "https://tinworld.vercel.app/10.0.0 Menu.Films.w3u
