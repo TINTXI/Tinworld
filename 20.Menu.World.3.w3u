@@ -1,1 +1,21 @@
-
+{
+"name": "WORLD 3",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/18.Menu.World.1.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "",
+"info": "BY TINTXI",
+"stations":
+    [
+                {
+                    "name": "Arena Premium 1 [Serbia]",
+                    "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+                    "url": "https://redditsoccerstream.online/iframe/96.php",
+                    "referer": "https://redditsoccerstream.online",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+                    "isHost": true
+                }
+            ]
+        }
+    ]
+}
