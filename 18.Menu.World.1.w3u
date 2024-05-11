@@ -7,6 +7,26 @@
 "info": "BY TINTXI",
 "stations":
     [
+        {
+        "name": "",
+        "info":"",
+        "image": "https://i.postimg.cc/TPpqQyp0/Polish-20240402-211836382.jpg",
+        "url":"",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"",
+        "online":""
+        }, 
+        {
+        "name": "",
+        "info":"",
+        "image": "https://i.postimg.cc/TPpqQyp0/Polish-20240402-211836382.jpg",
+        "url":"",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"",
+        "online":""
+        },
                 {
                     "name": "Arena Premium 1 [Serbia]",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
