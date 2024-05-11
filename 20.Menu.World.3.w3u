@@ -7,6 +7,26 @@
 "info": "BY TINTXI",
 "stations":
     [
+        {
+        "name": "",
+        "info":"",
+        "image": "https://i.postimg.cc/TPpqQyp0/Polish-20240402-211836382.jpg",
+        "url":"",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"",
+        "online":""
+        }, 
+        {
+        "name": "",
+        "info":"",
+        "image": "https://i.postimg.cc/TPpqQyp0/Polish-20240402-211836382.jpg",
+        "url":"",
+		"userAgent" : "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"",
+        "online":""
+        },
                 {
                     "name": "Cosmote Sport 1",
                     "image": "https://png.pngtree.com/png-vector/20230124/ourmid/pngtree-arrow-icon-3d-play-png-image_6565151.png",
