@@ -21,8 +21,8 @@
        				"embed": "",
        				"isHost": "true",
        				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
+				"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
+"playInNatPlayer": "true"}
 				},
 				{
 				"name": "T1-PROGRAMA 2",
