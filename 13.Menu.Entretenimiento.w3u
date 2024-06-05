@@ -7,6 +7,48 @@
 "info": "",
 "groups":
     [
+                {
+		"name": "Martinez Y Hermanos",
+		"image": "https://imgs.search.brave.com/h85CQ9sCikrB22X_bT5g1Nj6V7HI3gjRvaC9HRssjJE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bW92aXN0YXJwbHVz/LmVzL3JlY29ydGUv/bi9jYXJhdHVsYTUv/RjQxMjU4MzY.jpeg",
+		"info": "2024",
+		"stations":
+			[
+				{
+				"name": "T1-PROGRAMA 1",
+				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+				"url": "https://vbd.mediaset.es/orivod/vod/bitmovin/f8/8b/f88b1ed2-383d-4b85-a10f-53e7a96fbd85/main.ism/picky.m3u8?hdnts=st=1717595169~exp=1717609568~acl=/*~hmac=5867a9abe2c63f86c28050a7779cf4d2b897a6329939cb61d812701ae14fe8be",
+       				"info": "2024",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				},
+				{
+				"name": "T1-PROGRAMA 2",
+				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+				"url": "https://vbd.mediaset.es/orivod/vod/bitmovin/47/ee/47ee4b2a-6f4d-4ca5-af56-605768264b8b/main.ism/picky.m3u8?hdnts=st=1717595214~exp=1717609613~acl=/*~hmac=250cc6577bca08f7d77bdba36d5e0d83765b0751c5b3253ccfbfb1be2764d67a",
+       				"info": "2024",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				},
+				{
+				"name": "T1-PROGRAMA 3",
+				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+				"url": "OpenDownloadAria2c 
+https://vbd.mediaset.es/orivod/vod/bitmovin/48/59/4859cb86-5f4b-4372-bd0f-0cfa21e97188/main.ism/picky.m3u8?hdnts=st=1717595250~exp=1717609649~acl=/*~hmac=49d08141257cd59a4dac8d9e64fd6b6688cc39391b334920a92f3dac3583bbd8",
+       				"info": "2024",
+       				"embed": "",
+       				"isHost": "true",
+       				"online": "true",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+       				"import": false
+				}
+			]
+		},
  
 		{
 		"name": "Ambicion desmedida, C Tangana",
