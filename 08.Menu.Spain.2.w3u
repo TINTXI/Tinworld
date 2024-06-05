@@ -45,7 +45,11 @@
 {"name":"DIVINITY",
 "image":"https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/7TVMUR.png",
 "url":"https://directos.mitele.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
-"referer":"https://dlhd.sx/24-7-channels.php", "info":"",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"referer":"https://dlhd.sx/24-7-channels.php", 
+"info":"",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
 "playInNatPlayer": "true"},
  
