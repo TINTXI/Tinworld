@@ -1,11 +1,13 @@
 {
-        "name": "PELÍCULAS TVparatodos",
-        "author": "TVparatodos",
-        "image": "https://lh3.googleusercontent.com/proxy/BamFNjC51kWWCnVWPmgHzQ_VauoF9yKtDqtOrAl0_1Fcd5wsvxpntzk-gSYFyz_glawzpMc5vyril_bLLY0lhxlJCCwMxw",
-        "info": "Películas",
-        "telegram": "https://t.me/seriesypeliculastvparatodos",
-        "url": "https://pastebin.com/raw/9rFv0c0J",
-        "groups": [{
+"name": "PRUEBAS 3",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/0000.PRUEBAS.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+                        {
                         "name": "ESTRENOS",
                         "image": "http://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif",
                         "info": "",
