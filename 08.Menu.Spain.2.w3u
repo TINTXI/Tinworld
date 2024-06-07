@@ -7,12 +7,1240 @@
 "info": "BY TINTXI",
 "stations":
     [
-{"name":"LA 1",
-"image":"https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVE.png",
-"url":"https://pastebin.com/B6YzTzXw",
-"referer":"https://dlhd.sx/24-7-channels.php", "info":"",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
-"playInNatPlayer": "true"},
- 
-]
-}
+#EXTM3U  
+#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
+http://907341120796321276.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321276.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 HD
+http://907341120796321277.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321277.ts
+#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 SD
+http://907341120796321278.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321278.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 FHD
+http://907341120796321279.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321279.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 HD
+http://907341120796321280.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321280.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 SD
+http://907341120796321281.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321281.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
+http://907341120796321105.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321105.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
+http://907341120796321106.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321106.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
+http://907341120796321107.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321107.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
+http://907341120796321429.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321429.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO HD
+http://907341120796321430.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321430.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO SD
+http://907341120796321431.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321431.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO FHD
+http://907341120796321196.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321196.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO HD
+http://907341120796321197.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321197.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO SD
+http://907341120796321198.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321198.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="ES   MOVISTAR+",ES: BABY TV SD
+http://907341120796321122.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321122.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC FHD
+http://907341120796321102.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321102.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC HD
+http://907341120796321103.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321103.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC SD
+http://907341120796321104.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321104.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 FHD
+http://907341120796321068.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321068.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 HD
+http://907341120796321069.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321069.ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 SD
+http://907341120796321070.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321070.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 101 TV MALAGA HD
+http://907341120796321075.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321075.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H SD
+http://907341120796321076.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321076.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H FHD
+http://907341120796321077.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321077.ts
+#EXTINF:0 tvg-id="Apunt.es" group-title="ES   MOVISTAR+",ES: A PUNT SD
+http://907341120796321083.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321083.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES FHD
+http://907341120796321086.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321086.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES HD
+http://907341120796321087.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321087.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALACANTI TV HD
+http://907341120796321089.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321089.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALCARRIA TV SD
+http://907341120796321090.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321090.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALTERNATIVA TV HD
+http://907341120796321099.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321099.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="ES   MOVISTAR+",ES: AMC BREAK SD
+http://907341120796321100.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321100.ts
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="ES   MOVISTAR+",ES: AMC CRIME SD
+http://907341120796321101.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321101.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE FHD
+http://907341120796321115.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321115.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE HD
+http://907341120796321116.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321116.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE SD
+http://907341120796321117.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321117.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN FHD
+http://907341120796321118.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321118.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN HD
+http://907341120796321119.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321119.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN SD
+http://907341120796321120.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321120.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="ES   MOVISTAR+",ES: BE MAD HD
+http://907341120796321126.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321126.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="ES   MOVISTAR+",ES: BE MAD SD
+http://907341120796321127.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321127.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BLAZE HD
+http://907341120796321130.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321130.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="ES   MOVISTAR+",ES: BOING SD
+http://907341120796321135.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321135.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 FHD
+http://907341120796321138.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321138.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 HD
+http://907341120796321139.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321139.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 SD
+http://907341120796321140.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321140.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
+http://907341120796321147.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321147.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA UHD 4K
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/65414.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
+http://907341120796321148.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321148.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA SD
+http://907341120796321149.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321149.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DARK SD
+http://907341120796321152.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321152.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DECASA HD
+http://907341120796321153.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321153.ts
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES   MOVISTAR+",ES: CANAL EXTREMADURA SD
+http://907341120796321155.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321155.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA FHD
+http://907341120796321156.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321156.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA HD
+http://907341120796321157.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321157.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA SD
+http://907341120796321158.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321158.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
+http://907341120796321162.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321162.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
+http://907341120796321163.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321163.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+http://907341120796321168.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321168.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
+http://907341120796321169.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321169.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
+http://907341120796321170.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321170.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/120
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://pinelodo.in:8880/MiguelSanlucar/dFM16QYzphbThkt/120
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES   MOVISTAR+",ES: CLAN HD
+http://907341120796321175.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321175.ts
+#EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA HD
+http://907341120796321181.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321181.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL FHD
+http://907341120796321183.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321183.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL HD
+http://907341120796321184.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321184.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL SD
+http://907341120796321185.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321185.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO FHD
+http://907341120796321187.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321187.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO HD
+http://907341120796321188.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321188.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO SD
+http://907341120796321189.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321189.ts
+#EXTINF:0 tvg-id="CrimenyInvestigacion.es" group-title="ES   MOVISTAR+",ES: CRIMEN & INVESTIGACION SD
+http://907341120796321194.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321194.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION SD
+http://907341120796321195.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321195.ts
+#EXTINF:0 tvg-id="DarkRed.es" group-title="ES   MOVISTAR+",ES: DARK RED SD
+http://907341120796321202.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321202.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="ES   MOVISTAR+",ES: DARK SD
+http://907341120796321203.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321203.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV FHD
+http://907341120796321204.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321204.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV HD
+http://907341120796321205.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321205.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV SD
+http://907341120796321206.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321206.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL SD
+http://907341120796321209.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321209.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS FHD
+http://907341120796321210.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321210.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS SD
+http://907341120796321212.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321212.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES   MOVISTAR+",ES: DISNEY CHANNEL FHD
+http://907341120796321214.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321214.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES   MOVISTAR+",ES: DISNEY CHANNEL HD
+http://907341120796321215.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321215.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES   MOVISTAR+",ES: DISNEY CHANNEL SD
+http://907341120796321216.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321216.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISNEY JUNIOR HD
+http://907341120796321217.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321217.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="ES   MOVISTAR+",ES: DISNEY JUNIOR SD
+http://907341120796321218.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321218.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="ES   MOVISTAR+",ES: DIVINITY SD
+http://907341120796321223.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321223.ts
+#EXTINF:0 tvg-id="DKISS.es" group-title="ES   MOVISTAR+",ES: DKISS SD
+http://907341120796321224.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321224.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DMAX FHD
+http://907341120796321225.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321225.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DMAX HD
+http://907341120796321226.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321226.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="ES   MOVISTAR+",ES: DMAX SD
+http://907341120796321227.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321227.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES   MOVISTAR+",ES: DREAMWORKS HD
+http://907341120796321229.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321229.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES   MOVISTAR+",ES: DREAMWORKS SD
+http://907341120796321230.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321230.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EL TORO TV HD
+http://907341120796321232.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321232.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ENERGY FHD
+http://907341120796321236.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321236.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="ES   MOVISTAR+",ES: ENERGY SD
+http://907341120796321238.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321238.ts
+#EXTINF:0 tvg-id="ETB1.es" group-title="ES   MOVISTAR+",ES: ETB 1 HD
+http://907341120796321242.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321242.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FACTORIA DE FICCION SD
+http://907341120796321246.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321246.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FDF SD
+http://907341120796321249.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321249.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX FHD
+http://907341120796321251.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321251.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX HD
+http://907341120796321252.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321252.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX SD
+http://907341120796321253.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321253.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES   MOVISTAR+",ES: GOL SD
+http://907341120796321261.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321261.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: HISTORIA SD
+http://907341120796321262.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321262.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD FHD
+http://907341120796321265.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321265.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD HD
+http://907341120796321266.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321266.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD SD
+http://907341120796321267.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321267.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IMAS TV FHD
+http://907341120796321273.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321273.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA HD
+http://907341120796321286.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321286.ts
+#EXTINF:0 tvg-id="M+LaResistencia.es" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA SD
+http://907341120796321287.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321287.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA FHD
+http://907341120796321288.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321288.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
+http://907341120796321289.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321289.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA SD
+http://907341120796321290.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321290.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LANCELOT TV SD
+http://907341120796321292.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321292.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LOGOS TV FHD
+http://907341120796321294.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321294.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA HD
+http://907341120796321300.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321300.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA SD
+http://907341120796321301.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321301.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/81
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
+http://907341120796321305.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321305.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
+http://907341120796321306.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321306.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/83
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
+http://907341120796321307.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321307.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/82
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="ES   MOVISTAR+",ES: M+ CINE ESPAÑOL FHD
+http://907341120796321312.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321312.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASICOS FHD
+http://907341120796321314.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321314.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASICOS HD
+http://907341120796321315.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321315.ts
+#EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES   MOVISTAR+",ES: M+ CLASICOS SD
+http://907341120796321316.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321316.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/84
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA FHD
+http://907341120796321317.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321317.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/83
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
+http://907341120796321318.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321318.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
+ttp://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/82
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
+http://907341120796321319.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321319.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES   MOVISTAR+",ES: M+ DRAMA FHD
+http://907341120796321331.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321331.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES   MOVISTAR+",ES: M+ DRAMA HD
+http://907341120796321332.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321332.ts
+#EXTINF:0 tvg-id="M.Drama.es" group-title="ES   MOVISTAR+",ES: M+ DRAMA SD
+http://907341120796321333.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321333.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 FHD
+http://907341120796321334.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321334.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 HD
+http://907341120796321335.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321335.ts
+#EXTINF:0 tvg-id="M.Estrenos2.es" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 SD
+http://907341120796321336.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321336.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS FHD
+http://907341120796321337.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321337.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS HD
+http://907341120796321338.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321338.ts
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS SD
+http://907341120796321339.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321339.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+  CINE Ñ SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/70
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+ CINE Ñ HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/71
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+ CINE Ñ FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/72
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+ CINE SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/73
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+ CINE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/74
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+  CINE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/75
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/76
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/77
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/78
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 FHD
+http://907341120796321344.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321344.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 HD
+http://907341120796321345.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321345.ts
+#EXTINF:0 tvg-id="M.Series2.es" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 SD
+http://907341120796321346.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321346.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES   MOVISTAR+",ES: M+ SERIES FHD
+http://907341120796321347.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321347.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES   MOVISTAR+",ES: M+ SERIES HD
+http://907341120796321348.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321348.ts
+#EXTINF:0 tvg-id="M.Series.es" group-title="ES   MOVISTAR+",ES: M+ SERIES SD
+http://907341120796321349.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321349.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIESMANIA FHD
+http://907341120796321350.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321350.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV BASE SD
+http://907341120796321353.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321353.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPA FHD
+http://907341120796321355.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321355.ts
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="ES   MOVISTAR+",ES: MTV ESPANA SD
+http://907341120796321356.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321356.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV EUROPE HD
+http://907341120796321358.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321358.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS EUROPE SD
+http://907341120796321359.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321359.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS SD
+http://907341120796321360.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321360.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV MUSIC 24 HD
+http://907341120796321362.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321362.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD FHD
+http://907341120796321364.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321364.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD HD
+http://907341120796321365.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321365.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NAT GEO SD
+http://907341120796321366.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321366.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://907341120796321368.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321368.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
+http://907341120796321371.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321371.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+http://907341120796321372.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321372.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
+http://907341120796321373.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321373.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX FHD
+http://907341120796321374.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321374.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX HD
+http://907341120796321375.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321375.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX SD
+http://907341120796321376.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321376.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NICK JUNIOR HD
+http://907341120796321377.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321377.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="ES   MOVISTAR+",ES: NICK JUNIOR SD
+http://907341120796321379.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321379.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON HD
+http://907341120796321381.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321381.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA HD
+http://907341120796321383.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321383.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA SD
+http://907341120796321384.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321384.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: ODISEA SD
+http://907341120796321390.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321390.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="ES   MOVISTAR+",ES: PARAMOUNT NETWORK SD
+http://907341120796321392.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOLIDARIA TV HD
+http://907341120796321410.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321410.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="ES   MOVISTAR+",ES: SOMOS FHD
+http://907341120796321412.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321412.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="ES   MOVISTAR+",ES: SOMOS HD
+http://907341120796321413.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321413.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="ES   MOVISTAR+",ES: SOMOS SD
+http://907341120796321414.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321414.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES   MOVISTAR+",ES: SUNDANCE FHD
+http://907341120796321418.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321418.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES   MOVISTAR+",ES: SUNDANCE HD
+http://907341120796321419.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321419.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="ES   MOVISTAR+",ES: SUNDANCE SD
+http://907341120796321420.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321420.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY FHD
+http://907341120796321422.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321422.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY HD
+http://907341120796321423.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321423.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY SD
+http://907341120796321424.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321424.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM FHD
+http://907341120796321425.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321425.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM HD
+http://907341120796321426.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321426.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM SD
+http://907341120796321427.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321427.ts
+#EXTINF:0 tvg-id="Ten.es" group-title="ES   MOVISTAR+",ES: TEN SD
+http://907341120796321440.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321440.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT FHD
+http://907341120796321442.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321442.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT HD
+http://907341120796321443.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321443.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS FHD
+http://907341120796321445.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321445.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS HD
+http://907341120796321446.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321446.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS SD
+http://907341120796321449.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321449.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TRECE HD
+http://907341120796321451.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321451.ts
+#EXTINF:0 tvg-id="TVGalicia.sp" group-title="ES   MOVISTAR+",ES: TV GALICIA SD
+http://907341120796321454.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321454.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG CULTURAL SD
+http://907341120796321466.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321466.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG INFANTIL HD
+http://907341120796321467.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321467.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG MUSIGAL SD
+http://907341120796321468.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321468.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="ES   MOVISTAR+",ES: XTRM FHD
+http://907341120796321476.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321476.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="ES   MOVISTAR+",ES: XTRM HD
+http://907341120796321477.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321477.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="ES   MOVISTAR+",ES: XTRM SD
+http://907341120796321478.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321478.ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="ES   MOVISTAR+",ES: DREAMWORKS FHD
+http://907341120796323210.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/323210.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MIRAME TV SD
+http://907341120796323212.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/323212.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG CULTURA HD
+http://907341120796323219.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/323219.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: U-BEAT HD
+http://907341120796323221.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/323221.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONDA CADIZ HD
+http://907341120796323428.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/323428.ts
+#EXTINF:0 tvg-id="Classica.es" group-title="ES   MOVISTAR+",ES: CLASSICA SD
+http://907341120796326814.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/326814.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY SD
+http://907341120796326817.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/326817.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PTV MALAGA SD
+http://907341120796329156.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/329156.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV GALICIA AMERICA SD
+http://907341120796329163.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/329163.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV GALICIA EUROPA HD
+http://907341120796329165.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/329165.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES SD
+http://907341120796336281.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336281.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALGECIRAS TV SD
+http://907341120796336282.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336282.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="ES   MOVISTAR+",ES: AMC BREAK FHD
+http://907341120796336283.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336283.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="ES   MOVISTAR+",ES: AMC BREAK HD
+http://907341120796336284.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336284.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: APUNT SD
+http://907341120796336285.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336285.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ARAGON HD
+http://907341120796336286.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336286.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES   MOVISTAR+",ES: BOM CINE SD
+http://907341120796336287.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336287.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BON DIA TV HD
+http://907341120796336288.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336288.ts
+#EXTINF:0 tvg-id="Decasa.es" group-title="ES   MOVISTAR+",ES: CANAL DECASA SD
+http://907341120796336289.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336289.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL ORBE 21 HD
+http://907341120796336291.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336291.ts
+#EXTINF:0 tvg-id="CanalOrbe21.es" group-title="ES   MOVISTAR+",ES: CANAL ORBE 21 SD
+http://907341120796336292.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336292.ts
+#EXTINF:0 tvg-id="CanalParlamento.es" group-title="ES   MOVISTAR+",ES: CANAL PARLAMENTO SD
+http://907341120796336293.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336293.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SUR ANDALUCIA 2 SD
+http://907341120796336294.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336294.ts
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="ES   MOVISTAR+",ES: CANAL SUR ANDALUCIA SD
+http://907341120796336295.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336295.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISNEY JR FHD
+http://907341120796336301.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336301.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISNEY JR HD
+http://907341120796336302.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336302.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAM WORKS FHD
+http://907341120796336303.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336303.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAM WORKS HD
+http://907341120796336304.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336304.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DW HD
+http://907341120796336306.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336306.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EITB 1 SD
+http://907341120796336307.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336307.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EITB 2 SD
+http://907341120796336308.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336308.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EITB BASQUE SD
+http://907341120796336309.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336309.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EL TORO HD
+http://907341120796336310.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336310.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ELCHE7 TV SD
+http://907341120796336311.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336311.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EXTREMADURA SD
+http://907341120796336314.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336314.ts
+#EXTINF:0 tvg-id="FoxLife.es" group-title="ES   MOVISTAR+",ES: FOX LIFE FHD
+http://907341120796336315.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336315.ts
+#EXTINF:0 tvg-id="HispanTV.es" group-title="ES   MOVISTAR+",ES: HISPAN TV SD
+http://907341120796336325.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336325.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: HISTORIA FHD
+http://907341120796336326.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336326.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA FHD
+http://907341120796336327.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336327.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA HD
+http://907341120796336328.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336328.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://907341120796336329.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336329.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA FHD
+http://907341120796336330.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336330.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://907341120796336331.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336331.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA SD
+http://907341120796336332.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336332.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL HD
+http://907341120796336333.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336333.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL SD
+http://907341120796336334.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336334.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA MARINA TV 8 SD
+http://907341120796336337.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336337.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LOGOS TV SD
+http://907341120796336341.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336341.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N FHD
+http://907341120796336345.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336345.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N HD
+http://907341120796336346.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336346.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N SD
+http://907341120796336347.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336347.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N FHD
+http://259165350116336345.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/336345.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N HD
+http://259165350116336346.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/336346.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE N SD
+http://259165350116336347.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/336347.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD SD
+http://907341120796336351.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336351.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO FHD
+http://907341120796336352.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336352.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NAUTICAL CHANNEL HD
+http://907341120796336353.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336353.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NEGOCIOS HD
+http://907341120796336355.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336355.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PEQUE TV HD
+http://907341120796336359.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336359.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PLANETA KIDZ HD
+http://907341120796336360.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336360.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: POPULAR MURCIA TV HD
+http://907341120796336361.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336361.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PTV CORDOBA SD
+http://907341120796336363.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336363.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PTV GRANADA SD
+http://907341120796336364.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336364.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PTV LINAREZ SD
+http://907341120796336365.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336365.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PTV SEVILLA SD
+http://907341120796336366.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336366.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: RIBERA TV SD
+http://907341120796336367.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336367.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEGILENA SD
+http://907341120796336370.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336370.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEONUBA TV SD
+http://907341120796336371.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336371.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TEVE.CAT FHD
+http://907341120796336374.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336374.ts
+#EXTINF:0 tvg-id="Trece.es" group-title="ES   MOVISTAR+",ES: TRECE SD
+http://907341120796336375.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336375.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TUYA LA JANDA SD
+http://907341120796336376.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336376.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV 3 CATALUNIA HD
+http://907341120796336377.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336377.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV GIRONA FHD
+http://907341120796336378.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336378.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG EVENTS SD
+http://907341120796336379.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336379.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG MOMENTOS HD
+http://907341120796336380.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336380.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG XABARIN HD
+http://907341120796336381.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336381.ts
+#EXTINF:0 tvg-id="TVG.es" group-title="ES   MOVISTAR+",ES: TVG SD
+http://907341120796336382.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336382.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: U-BEAT FHD
+http://907341120796336383.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336383.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: U-BEAT SD
+http://907341120796336384.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336384.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VIDA RTV FHD
+http://907341120796336385.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/336385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H HD
+http://907341120796339730.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339730.ts
+#EXTINF:0 tvg-id="Apunt.es" group-title="ES   MOVISTAR+",ES: A PUNT HD
+http://907341120796339733.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339733.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL 26 SD
+http://907341120796339738.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339738.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DECASA FHD
+http://907341120796339739.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339739.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL MALAGA HD
+http://907341120796339741.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339741.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISNEY JUNIOR FHD
+http://907341120796339752.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339752.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISNEY XD HD
+http://907341120796339753.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339753.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISTRITO TV HD
+http://907341120796339754.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339754.ts
+#EXTINF:0 tvg-id="FRANCE24.es" group-title="ES   MOVISTAR+",ES: FRANCE 24 SD
+http://907341120796339758.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339758.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: HISTORIA HD
+http://907341120796339761.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339761.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MALAGA 24 H SD
+http://907341120796339772.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339772.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MELILLA TV HD
+http://907341120796339773.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339773.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO HD
+http://907341120796339777.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339777.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NICK JUNIOR FHD
+http://907341120796339778.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339778.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON FHD
+http://907341120796339779.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339779.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES   MOVISTAR+",ES: REAL MADRID TV FHD
+http://907341120796339784.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339784.ts
+#EXTINF:0 tvg-id="tvG2.es" group-title="ES   MOVISTAR+",ES: TVG 2 HD
+http://907341120796339789.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/339789.ts
+#EXTINF:0 tvg-id="TV3.sp" group-title="ES   MOVISTAR+",ES: TV3 FHD
+http://907341120796340056.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/340056.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VH1 FHD
+http://907341120796340059.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/340059.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES   MOVISTAR+",ES: CLAN FHD
+http://907341120796341250.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/341250.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES   MOVISTAR+",ES: IBERALIA SD
+http://907341120796341252.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/341252.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ES   MOVISTAR+",ES: MEZZO LIVE SD
+http://907341120796341255.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/341255.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ARAGON TV HD
+http://907341120796342284.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/342284.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA TV FHD
+http://907341120796342287.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/342287.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CBN ESPANOL SD
+http://907341120796343865.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/343865.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CGTN ESPAÑOL FHD
+http://907341120796343866.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/343866.ts
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="ES   MOVISTAR+",ES: RT ESPAÑOL FHD
+http://907341120796343874.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/343874.ts
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="ES   MOVISTAR+",ES: RT ESPAÑOL HD
+http://907341120796343875.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/343875.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES   MOVISTAR+",ES: GOL FHD
+http://907341120796347931.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/347931.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TALKING TOM HEROES HD
+http://907341120796356749.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/356749.ts
+#EXTINF:0 tvg-id="Atreseries.es" group-title="ES   MOVISTAR+",ES: ATRESERIES HD
+http://907341120796383249.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383249.ts
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="ES   MOVISTAR+",ES: ATRESERIES SD
+http://907341120796383250.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383250.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BARCA TV FHD
+http://907341120796383251.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383251.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LN+ SD
+http://907341120796383259.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383259.ts
+#EXTINF:0 tvg-id="MTV2.sp" group-title="ES   MOVISTAR+",ES: MTV SD
+http://907341120796383262.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383262.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
+http://907341120796383263.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383263.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD SD
+http://907341120796383264.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383264.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON SD
+http://907341120796383265.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383265.ts
+#EXTINF:0 tvg-id="TV3.sp" group-title="ES   MOVISTAR+",ES: TV3 HD
+http://907341120796383269.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383269.ts
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR HD
+http://907341120796383270.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383270.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7TELEVALENCIA SD
+http://907341120796383405.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383405.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY FHD
+http://907341120796383406.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383406.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES   MOVISTAR+",ES: IBERALIA FHD
+http://907341120796383407.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383407.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MAESTRAT TV FHD
+http://907341120796383408.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383408.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV LIVE SD
+http://907341120796383410.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383410.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVE INTERNACIONAL HD
+http://907341120796383415.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/383415.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY HD
+http://907341120796384244.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/384244.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ES   MOVISTAR+",ES: MEZZO LIVE HD
+http://907341120796384247.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/384247.ts
+#EXTINF:0 tvg-id="tvG2.es" group-title="ES   MOVISTAR+",ES: TVG 2 SD
+http://907341120796384250.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/384250.ts
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="ES   MOVISTAR+",ES: AMC CRIME HD
+http://907341120796386495.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/386495.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEVIGO HD
+http://907341120796387790.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/387790.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES   MOVISTAR+",ES: CLAN SD
+http://907341120796391894.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/391894.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEONUBA SD
+http://907341120796393126.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/393126.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES   MOVISTAR+",ES: IBERALIA HD
+http://907341120796394391.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/394391.ts
+#EXTINF:0 tvg-id="Enfamilia.es" group-title="ES   MOVISTAR+",ES: ENFAMILIA FHD
+http://907341120796398226.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/398226.ts
+#EXTINF:0 tvg-id="Enfamilia.es" group-title="ES   MOVISTAR+",ES: ENFAMILIA HD
+http://907341120796399757.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/399757.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SELEKT TV HD
+http://907341120796405167.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/405167.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SELEKT TV SD
+http://907341120796405168.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/405168.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BETEVE FHD
+http://907341120796414689.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414689.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRONICA TV HD
+http://907341120796414691.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414691.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EURONEWS HD
+http://907341120796414693.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414693.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MARBELLA TV HD
+http://907341120796414694.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414694.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SX3 HD
+http://907341120796414695.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414695.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEELX FHD
+http://907341120796414696.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/414696.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALL FLAMENGO FHD
+http://907341120796424746.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424746.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALL FLAMENGO HD
+http://907341120796424747.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424747.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALL FLAMENGO SD
+http://907341120796424748.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424748.ts
+#EXTINF:0 tvg-id="SurfChannel.es" group-title="ES   MOVISTAR+",ES: SURF CHANNEL FHD
+http://907341120796424752.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424752.ts
+#EXTINF:0 tvg-id="SurfChannel.es" group-title="ES   MOVISTAR+",ES: SURF CHANNEL HD
+http://907341120796424753.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424753.ts
+#EXTINF:0 tvg-id="SurfChannel.es" group-title="ES   MOVISTAR+",ES: SURF CHANNEL SD
+http://907341120796424754.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/424754.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 324 CATALUÑA SD
+http://907341120796426674.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/426674.ts
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="ES   MOVISTAR+",ES: AMC CRIME FHD
+http://907341120796426675.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/426675.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: GLOBAL TENDENCIAS SD
+http://907341120796426676.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/426676.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ES   MOVISTAR+",ES: IBERALIA ORIGINAL FHD
+http://907341120796426677.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/426677.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV ALJARAFE FHD
+http://907341120796437994.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/437994.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV CADIZ FHD
+http://907341120796437995.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/437995.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV JAEN FHD
+http://907341120796437997.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/437997.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV JEREZ FHD
+http://907341120796437998.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/437998.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV MALAGA FHD
+http://907341120796437999.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/437999.ts
+#EXTINF:0 tvg-id="Enfamilia.es" group-title="ES   MOVISTAR+",ES: ENFAMILIA SD
+http://907341120796438004.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/438004.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ BABY TV SD
+http://907341120796438011.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/438011.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ BOING SD
+http://907341120796438012.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/438012.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DISNEY CHANNEL HD
+http://907341120796438015.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/438015.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DIVINITY SD
+http://907341120796438017.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/438017.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ REAL MADRID TV SD
+http://907341120796439045.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/439045.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ REAL MADRID SD
+http://907341120796439046.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/439046.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV SEVILLA SD
+http://907341120796440706.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/440706.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL 33 FHD
+http://907341120796446039.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/446039.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DISNEY CHANNEL FHD
+http://907341120796446043.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/446043.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DISNEY SD
+http://907341120796446045.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/446045.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DREAMWORKS FHD
+http://907341120796446046.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/446046.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DREAMWORKS HD
+http://907341120796447583.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/447583.ts
+#EXTINF:0 tvg-id="TvCanaria.es" group-title="ES   MOVISTAR+",ES: TV CANARIAS SD
+http://907341120796449590.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/449590.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 25 TV HD
+http://907341120796452038.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/452038.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LAOTRA HD
+http://907341120796453220.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/453220.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELE MADRID HD
+http://907341120796453222.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/453222.ts
+#EXTINF:0 tvg-id="ETB2.es" group-title="ES   MOVISTAR+",ES: ETB 2 SD
+http://907341120796457195.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/457195.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLATINO FHD
+http://907341120796459774.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/459774.ts
+#EXTINF:0 tvg-id="WarnerTV.es" group-title="ES   MOVISTAR+",ES: WARNER TV FHD
+http://907341120796459777.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/459777.ts
+#EXTINF:0 tvg-id="WarnerTV.es" group-title="ES   MOVISTAR+",ES: WARNER TV HD
+http://907341120796459778.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/459778.ts
+#EXTINF:0 tvg-id="WarnerTV.es" group-title="ES   MOVISTAR+",ES: WARNER TV SD
+http://907341120796459779.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/459779.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BOMCINE SD
+http://907341120796461215.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/461215.ts
+#EXTINF:0 tvg-id="BuenViaje.es" group-title="ES   MOVISTAR+",ES: BUEN VIAJE SD
+http://907341120796461216.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/461216.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLATINO HD
+http://907341120796461218.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/461218.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLATINO SD
+http://907341120796461219.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/461219.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PANDA FHD
+http://907341120796462775.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/462775.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOL HD
+http://907341120796462776.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/462776.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV 00S SD
+http://907341120796464391.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/464391.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPAÑA FHD
+http://907341120796465442.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/465442.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NEGOCIOS TV SD
+http://907341120796466564.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/466564.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ VACACIONES HD
+http://907341120796534486.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/534486.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ VACACIONES SD
+http://907341120796534487.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/534487.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV CORDOBA FHD
+http://907341120796538657.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538657.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AXN MOVIES FHD
+http://907341120796538658.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538658.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AXN MOVIES HD
+http://907341120796538659.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538659.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AXN MOVIES SD
+http://907341120796538660.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538660.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BARçA TV FHD
+http://907341120796538661.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538661.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SUR - ANDALUCíA SD
+http://907341120796538662.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538662.ts
+#EXTINF:0 tvg-id="HITTV.es" group-title="ES   MOVISTAR+",ES: HIT TV SD
+http://907341120796538663.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538663.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: INTER ALMERIA TV SD
+http://907341120796538664.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538664.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA2 FHD
+http://907341120796538665.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538665.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE Ñ FHD
+http://907341120796538666.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538666.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DISNEY JUNIOR FHD
+http://907341120796538667.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538667.ts
+#EXTINF:0 tvg-id="Mezzo.es" group-title="ES   MOVISTAR+",ES: MEZZO SD
+http://907341120796538668.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538668.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV DANCE SD
+http://907341120796538669.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538669.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NAT. GEO. FHD
+http://907341120796538670.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538670.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PLAY ANDALUCIA TV HD
+http://907341120796538671.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538671.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV GALICIA 2 HD
+http://907341120796538672.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538672.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG MOMENTOS G HD
+http://907341120796538673.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538673.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VACACIONES FHD
+http://907341120796538674.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538674.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VACACIONES HD
+http://907341120796538675.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538675.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VACACIONES SD
+http://907341120796538676.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538676.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES   MOVISTAR+",ES: BARCA TV SD
+http://907341120796538725.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538725.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BLAZE FHD
+http://907341120796538726.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538726.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL PANDA FHD
+http://907341120796538727.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538727.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SIERRA DE CADIZ FHD
+http://907341120796538728.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538728.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SUR A HD
+http://907341120796538729.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538729.ts
+#EXTINF:0 tvg-id="ETB2.es" group-title="ES   MOVISTAR+",ES: ETB 2 HD
+http://907341120796538730.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538730.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: INTER ALMERIA TV FHD
+http://907341120796538731.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538731.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ GOL FHD
+http://907341120796538732.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538732.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ VACACIONES FHD
+http://907341120796538733.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538733.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV CLASSIC SD
+http://907341120796538734.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538734.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPANA FHD
+http://907341120796538735.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538735.ts
+#EXTINF:0 tvg-id="MTVLiveHD.es" group-title="ES   MOVISTAR+",ES: MTV LIVE FHD
+http://907341120796538736.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538736.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: ODISEA FHD
+http://907341120796538737.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538737.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONDA ALGECIRAS TV SD
+http://907341120796538738.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538738.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES   MOVISTAR+",ES: REAL MADRID TV SD
+http://907341120796538739.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538739.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVE INTERNACIONAL SD
+http://907341120796538740.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538740.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG EVENTO 2 HD
+http://907341120796538741.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538741.ts
+#EXTINF:0 tvg-id="VH1.es" group-title="ES   MOVISTAR+",ES: VH1 SD
+http://907341120796538742.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538742.ts
+#EXTINF:0 tvg-id="Viajar.es" group-title="ES   MOVISTAR+",ES: VIAJAR SD
+http://907341120796538743.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/538743.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 7 TV SEVILLA FHD
+http://907341120796539866.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539866.ts
+#EXTINF:0 tvg-id="EscapaTV.es" group-title="ES   MOVISTAR+",ES: ESCAPA TV FHD
+http://907341120796539867.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539867.ts
+#EXTINF:0 tvg-id="EscapaTV.es" group-title="ES   MOVISTAR+",ES: ESCAPA TV HD
+http://907341120796539868.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539868.ts
+#EXTINF:0 tvg-id="EscapaTV.es" group-title="ES   MOVISTAR+",ES: ESCAPA TV SD
+http://907341120796539869.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539869.ts
+#EXTINF:0 tvg-id="FoxLife.es" group-title="ES   MOVISTAR+",ES: FOX LIFE HD
+http://907341120796539870.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539870.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LEVANTE TV SD
+http://907341120796539871.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539871.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ NICK JUNIOR FHD
+http://907341120796539872.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539872.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MELILLA TV SD
+http://907341120796539873.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539873.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="ES   MOVISTAR+",ES: TELE MADRID SD
+http://907341120796539874.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539874.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT SD
+http://907341120796539875.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539875.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TOROLE TV FHD
+http://907341120796539876.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539876.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TOROLE TV HD
+http://907341120796539877.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539877.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TOROLE TV SD
+http://907341120796539878.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/539878.ts
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="ES   MOVISTAR+",ES: ARAGON TV SD
+http://907341120796540937.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540937.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BARçA TV HD
+http://907341120796540938.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540938.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: CANAL ODISEA SD
+http://907341120796540939.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540939.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DARK RED HD
+http://907341120796540940.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540940.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: GIRONA TV SD
+http://907341120796540941.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540941.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES   MOVISTAR+",ES: GOL HD
+http://907341120796540942.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540942.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IBERALIA TV HD
+http://907341120796540943.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540943.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PANDA SD
+http://907341120796540944.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540944.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV BASE HD
+http://907341120796540945.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540945.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV EUROPE FHD
+http://907341120796540946.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540946.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TEN HD
+http://907341120796540947.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540947.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TRECE FHD
+http://907341120796540948.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/540948.ts
+#EXTINF:0 tvg-id="7tv.es" group-title="ES   MOVISTAR+",ES: 7RM MURCIA SD
+http://907341120796541469.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541469.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BARCA TV HD
+http://907341120796541470.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541470.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="ES   MOVISTAR+",ES: DARK FHD
+http://907341120796541471.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541471.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: GIRONA TV FHD
+http://907341120796541472.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541472.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LN+ HD
+http://907341120796541473.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541473.ts
+#EXTINF:0 tvg-id="MTVLiveHD.es" group-title="ES   MOVISTAR+",ES: MTV LIVE HD
+http://907341120796541474.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541474.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV FHD
+http://907341120796541475.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/541475.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="ES   MOVISTAR+",ES: BE MAD FHD
+http://907341120796542578.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/542578.ts
+#EXTINF:0 tvg-id="Blaze.es" group-title="ES   MOVISTAR+",ES: BLAZE SD
+http://907341120796542579.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/542579.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ REAL MADRID TV HD
+http://907341120796542580.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/542580.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: ODISEA HD
+http://907341120796542581.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/542581.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 13 TV HD
+http://907341120796543730.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543730.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ARAGU00F3N TV INT SD
+http://907341120796543731.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543731.ts
+#EXTINF:0 tvg-id="BuenViaje.es" group-title="ES   MOVISTAR+",ES: BUENVIAJE SD
+http://907341120796543732.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543732.ts
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES   MOVISTAR+",ES: CANAL EXTREMADURA SAT SD
+http://907341120796543733.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543733.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SUR ANDALUCU00EDA SD
+http://907341120796543734.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543734.ts
+#EXTINF:0 tvg-id="ETB1.es" group-title="ES   MOVISTAR+",ES: ETB 1 SD
+http://907341120796543735.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543735.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: GOL PLAY FHD
+http://907341120796543736.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543736.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: GOL PLAY HD
+http://907341120796543737.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543737.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: HAMAIKA TV SD
+http://907341120796543738.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543738.ts
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="ES   MOVISTAR+",ES: M+ CINE ESPANOL FHD
+http://907341120796543742.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543742.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASSICOS FHD
+http://907341120796543743.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543743.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ELLAS FHD
+http://907341120796543744.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543744.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SUPERAGENTES FHD
+http://907341120796543745.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543745.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MEDICOS TV HD
+http://907341120796543746.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543746.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT APUNT VALENCIA FHD
+http://907341120796543747.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543747.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT TV ARAGON FHD
+http://907341120796543748.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543748.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT TV CANARIAS FHD
+http://907341120796543749.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543749.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT3 IBIZA FHD
+http://907341120796543750.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543750.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEMADRID INT FHD
+http://907341120796543751.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543751.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TUTRES TV HD
+http://907341120796543752.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543752.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TV3 CAT FHD
+http://907341120796543753.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543753.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG EUROPA SD
+http://907341120796543754.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543754.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: UBEAT FHD
+http://907341120796543755.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/543755.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LIFE STYLE HD
+http://907341120796544111.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/544111.ts
+#EXTINF:0 tvg-id="TV3.es" group-title="ES   MOVISTAR+",ES: TV3 SD
+http://907341120796544112.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/544112.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 101 TV MALAGA FHD
+http://907341120796550854.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550854.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AXARTEL SD
+http://907341120796550855.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550855.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL COSTA FHD
+http://907341120796550856.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550856.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA2 SD
+http://907341120796550857.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550857.ts
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="ES   MOVISTAR+",ES: M+ CINE ESPANOL HD
+http://907341120796550858.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550858.ts
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="ES   MOVISTAR+",ES: M+ CINE ESPANOL SD
+http://907341120796550859.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550859.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ES   MOVISTAR+",ES: MEZZO LIVE FHD
+http://907341120796550860.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550860.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="ES   MOVISTAR+",ES: TELEMADRID FHD
+http://907341120796550861.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550861.ts
+#EXTINF:0 tvg-id="TVE.sp" group-title="ES   MOVISTAR+",ES: TVE SD
+http://907341120796550862.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/550862.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE Ñ HD
+http://907341120796552676.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552676.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES   MOVISTAR+",ES: REAL MADRID TV HD
+http://907341120796552677.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552677.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA2 HD
+http://907341120796552953.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552953.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES FHD
+http://907341120796552954.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552954.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES FHD
+http://638563156749552954.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552954.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES HD
+http://907341120796552955.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552955.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES HD
+http://638563156749552955.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552955.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES SD
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES SD
+http://638563156749552956.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552956.ts
+http://907341120796552956.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552956.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE FHD
+http://907341120796552957.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552957.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE FHD
+http://638563156749552957.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552957.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE HD
+http://907341120796552958.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552958.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE HD
+http://638563156749552958.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552958.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE SD
+http://907341120796552959.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552959.ts
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",ES: M+ INDIE SD
+http://638563156749552959.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552959.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES HD
+http://907341120796552960.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552960.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES HD
+http://638563156749552960.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552960.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES SD
+http://907341120796552961.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552961.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES SD
+http://638563156749552961.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552961.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS HD
+http://907341120796552962.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552962.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS HD
+http://638563156749552962.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552962.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS SD
+http://907341120796552963.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552963.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS SD
+http://638563156749552963.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552963.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE FHD
+http://907341120796552964.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552964.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE FHD
+http://638563156749552964.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552964.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE HD
+http://907341120796552965.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552965.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE HD
+http://638563156749552965.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552965.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE SD
+http://907341120796552966.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/552966.ts
+#EXTINF:0 tvg-id="13tv.es" group-title="ES   MOVISTAR+",ES: 13 TV SD
+http://907341120796554773.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/554773.ts
+#EXTINF:0 tvg-id="M+Suspense.es" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE SD
+http://638563156749552966.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/552966.ts
+#EXTINF:0 tvg-id="13tv.es" group-title="ES   MOVISTAR+",ES: 13 TV SD
+http://638563156749554773.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/554773.ts
+#EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA FHD
+http://907341120796554774.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/554774.ts
+#EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA FHD
+http://638563156749554774.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/554774.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA FHD
+http://907341120796554775.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/554775.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA FHD
+http://638563156749554775.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/554775.ts
+#EXTINF:0 tvg-id="Apunt.es" group-title="ES   MOVISTAR+",ES: A PUNT FHD
+http://907341120796556712.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/556712.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ELLAS SD
+http://907341120796556713.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/556713.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES FHD
+http://907341120796558668.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558668.ts
+#EXTINF:0 tvg-id="M+Originales.es" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES FHD
+http://638563156749558668.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558668.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS FHD
+http://907341120796558669.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558669.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS FHD
+http://638563156749558669.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558669.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MIRAME TV HD
+http://907341120796558670.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558670.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MIRAME TV HD
+http://638563156749558670.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558670.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONETORO TV FHD
+http://907341120796558671.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558671.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONETORO TV HD
+http://907341120796558672.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558672.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONETORO TV SD
+http://907341120796558673.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558673.ts
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR FHD
+http://907341120796558674.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/558674.ts
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR FHD
+http://638563156749558674.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558674.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE FHD
+http://907341120796559513.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/559513.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE FHD
+http://638563156749559513.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/559513.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + FHD
+http://907341120796559514.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/559514.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE HD
+http://907341120796561133.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561133.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE HD
+http://638563156749561133.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/561133.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE SD
+http://907341120796561134.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561134.ts
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",ES: M+ CINE SD
+http://638563156749561134.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/561134.ts
+#EXTINF:0 tvg-id="M+Musica.es" group-title="ES   MOVISTAR+",ES: M+ MUSICA FHD
+http://907341120796561135.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561135.ts
+#EXTINF:0 tvg-id="M+Musica.es" group-title="ES   MOVISTAR+",ES: M+ MUSICA HD
+http://907341120796561136.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561136.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ MUSICA SD
+http://907341120796561137.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561137.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT TV CANARIAS SD
+http://907341120796561138.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/561138.ts
+#EXTINF:0 tvg-id="tvG2.es" group-title="ES   MOVISTAR+",ES: TV GALICIA 2 SD
+http://907341120796563161.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/563161.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG EVENTO 2 SD
+http://907341120796563162.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/563162.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + FHD
+http://638563156749559514.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/559514.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + HD
+http://907341120796563577.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/563577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + HD
+http://638563156749563577.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/563577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + SD
+http://907341120796563578.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/563578.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + SD
+http://638563156749563578.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/563578.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SIERRA DE CADIZ HD
+http://907341120796565526.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/565526.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPA SD
+http://907341120796567736.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/567736.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 12 TV HD
+http://907341120796568191.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568191.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CMM CASTILLA LA MANCHA SD
+http://907341120796568192.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568192.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: HELLIN TV HD
+http://907341120796568193.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568193.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA TEF SD
+http://907341120796568194.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568194.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT3 IBIZA SD
+http://907341120796568195.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568195.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVE INTERNACIONAL FHD
+http://907341120796568196.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568196.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ZAFRA TV FHD
+http://907341120796568197.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/568197.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL FHD
+http://907341120796571900.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/571900.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ELCHE7 TV FHD
+http://907341120796571901.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/571901.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ONDA MADRID HD
+http://907341120796571902.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/571902.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BABY TV HD
+http://907341120796573238.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/573238.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BUENVIAJE HD
+http://907341120796573239.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/573239.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NAUTICA HD
+http://907341120796573240.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/573240.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NAUTICA SD
+http://907341120796573241.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/573241.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: FRANCE 24 HD
+http://907341120796573735.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/573735.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TUYA LA JANDA FHD
+http://907341120796577446.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/577446.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV MUSIC 24 SD
+http://907341120796584451.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/584451.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NAUTICAL CHANNEL SD
+http://907341120796584452.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/584452.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ACONTRA+ CINE SD
+http://907341120796586221.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/586221.ts
+#EXTINF:0 tvg-id="ElToro.es" group-title="ES   MOVISTAR+",ES: EL TORO TV SD
+http://907341120796586222.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/586222.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEMADRID INT HD
+http://907341120796588761.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/588761.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BOING HD
+http://907341120796594642.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/594642.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN & INVESTIGACION FHD
+http://907341120796594643.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/594643.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VIVE KANAL DRAMA FHD
+http://907341120796597512.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/597512.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/120
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://638563156749598197.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/598197.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION HD
+http://259165350116598197.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/598197.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: VIVE KANAL DRAMA HD
+http://907341120796598198.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/598198.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BOING FHD
+http://907341120796600409.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/600409.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION FHD
+http://907341120796600410.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/600410.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ACONTRA+ CINE HD
+http://907341120796602142.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/602142.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ACONTRA+ CINE HD
+http://638563156749602142.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/602142.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPA HD
+http://907341120796603056.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/603056.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TELEMADRID INT SD
+http://907341120796603057.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/603057.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TDT TV ARAGON SD
+http://907341120796605354.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/605354.ts
+#EXTINF:0 tvg-id="BuenViaje.es" group-title="ES   MOVISTAR+",ES:DVIAJE FHD
+http://259165350116605695.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/605695.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: UBEAT SD
+http://259165350116609873.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/609873.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASSICOS SD
+http://259165350116610970.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/610970.ts
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="ES   MOVISTAR+",ES: MTV ESPAÑA SD
+http://259165350116610971.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/610971.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOL SD
+http://259165350116610972.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/610972.ts
