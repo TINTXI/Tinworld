@@ -7,6 +7,14 @@
 "info": "BY TINTXI",
 "stations":
     [
+#EXTM3U url-tvg="https://pastebin.com/5UPzyRyQ"
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/08.Menu.Spain.2.w3u",
+"image": "https://i.postimg.cc/g281Yj4h/coollogo-com-10838101.gif",
+"telegram": "TINWORLD_3_0",
+"info": "BY TINTXI",
+#EXTM3U url="https://pastebin.com/raw/jD0Uv6ce"
+TV Mîx de Pepe
 #EXTM3U  
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://907341120796321276.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321276.ts
