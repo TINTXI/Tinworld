@@ -97,18 +97,21 @@
                                         "image": "https://decine21.com/img/upload/obras/alguien-esta-mintiendo-45133/src/alguien-esta-mintiendo-45133-c.jpg", 
                                         "url": "https://uqload.com/3fs9hdynxm47.html", 
                                         "isHost":"true"
-                                    }]
-									}, {
+                                    }
+                                  ]
+			        }, 
+                                        {
                                         "name": "ANTIDISTURBIOS",
                                         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
                                         "info": "",
-                                        "stations": [{
-	"name": "ANTIDISTURBIOS T1X01",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/7rmjv89mqq35",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	},
+                                        "stations": [
+                                        {
+	                                "name": "ANTIDISTURBIOS T1X01",
+                                        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
+                                        "url": "https://filemoon.sx/d/7rmjv89mqq35",
+          	                        "info": "[Español 2020]",
+          	                        "isHost": "true",
+          	                        },
 	{
 	"name": "ANTIDISTURBIOS T1X02",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
