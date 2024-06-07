@@ -6,14 +6,7 @@
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
-[
-"SERIES TVparatodos", 
-        "author": "TVparatodos", 
-        "image": "https://i.picasion.com/pic91/80ddc225e08ba12b4048117736c6f8cd.gif", 
-        "info": "Series", 
-        "telegram": "https://t.me/seriesypeliculastvparatodos", 
-        "url": "https://paste-bin.xyz/raw/74348", 
-        "groups": [{ 
+[{ 
                         "name": "ESTRENOS", 
                         "image": "http://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif", 
                         "info": "", 
