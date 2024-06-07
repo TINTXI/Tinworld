@@ -6,7 +6,97 @@
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
-[{ 
+[                       { 
+                        "name": "30 Monedas", 
+                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                        "info": "", 
+                        "stations": [
+
+                                        { 
+					"name": "30 Monedas T1X01", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/xsw07s0u21b1.html", 
+                                        "isHost":"true"
+ 
+									},{ 
+                                        "name": "30 Monedas T1X02", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/nvp8n8hozufa.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X03", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/djecsfrgq7hc.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X04", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/m22v2js57jhl.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X05", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/ge6l3oa6x30s.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X06", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/qsyhsgrh45qr.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X07", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/h02sxcojs083.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T1X08", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/tdv8pxczdx2k.html", 
+                                        "isHost":"true"
+                                                                        },{ 
+					"name": "30 Monedas T2X01", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/xsw07s0u21b1.html", 
+                                        "isHost":"true"
+ 
+									},{ 
+                                        "name": "30 Monedas T2X02", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/nvp8n8hozufa.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X03", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/djecsfrgq7hc.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X04", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/m22v2js57jhl.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X05", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/ge6l3oa6x30s.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X06", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/qsyhsgrh45qr.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X07", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/h02sxcojs083.html", 
+                                        "isHost":"true"
+									},{ 
+                                        "name": "30 Monedas T2X08", 
+                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                        "url": "https://uqload.com/tdv8pxczdx2k.html", 
+                                        "isHost":"true"
+                                    }]
+					             },
+{ 
                         "name": "4400", 
                         "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
                         "info": "", 
