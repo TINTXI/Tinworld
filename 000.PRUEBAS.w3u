@@ -6,7 +6,8 @@
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
-[{ 
+[
+                        { 
                         "name": "ESTRENOS", 
                         "image": "http://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif", 
                         "info": "", 
