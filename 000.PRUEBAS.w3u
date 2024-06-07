@@ -132,77 +132,50 @@
                                         "isHost":"true"
                                     }]
 									}, {
-"name": "ANTIDISTURBIOS",
-"image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-"info": "",
-"stations":
-	[
-
-	{
+                                        "name": "ANTIDISTURBIOS",
+                                        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
+                                        "info": "",
+                                        "stations": [{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/7rmjv89mqq35",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	},
 	{
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/4njcnld4ehk7",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	},
 	{
 	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/4wttrreiqx5s",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	},
 	{
 	"name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/mhexclrhcngf",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	},
 	{
 	"name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/5gvwmku4lck8",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	},
 	{
 	"name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
         "url": "https://filemoon.sx/d/idzkovisz7yk",
        	"info": "[Español 2020]",
-       	"embed": "",
        	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	}
 
 ]
