@@ -6,7 +6,46 @@
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
-[ { 
+[
+"SERIES TVparatodos", 
+        "author": "TVparatodos", 
+        "image": "https://i.picasion.com/pic91/80ddc225e08ba12b4048117736c6f8cd.gif", 
+        "info": "Series", 
+        "telegram": "https://t.me/seriesypeliculastvparatodos", 
+        "url": "https://paste-bin.xyz/raw/74348", 
+        "groups": [{ 
+                        "name": "ESTRENOS", 
+                        "image": "http://pa1.narvii.com/6629/b03befba2cfa5dfb0bb681b70fd6b0cab088a389_00.gif", 
+                        "info": "", 
+                        "stations": [{
+					"name": "SANDMAN T1X01", 
+                                        "image": "https://www.cinemascomics.com/wp-content/uploads/2022/06/the-sandman-trailer-960x720.jpg?mrf-size=m", 
+                                        "url": "https://uqload.com/lw1lrt7d2qx7.html", 
+                                        "isHost":"true"
+				}, {
+                                        "name": "FANTASY ISLAND T1X01", 
+                                        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRsfFQLFrUw9d3pwsdoU5MubIU1ACouorq-YTfo8QfLiQN0zGpTezNTjJbdWLGP61eDEnCVLlqdYl5qexHne1tH8rwUuheCvCtkgfhZ_ohkL5KbWy1kAfDwoIXrt_WHSdAfMnPjsTtIxD0QwaZFQyKndi9l5hoTzencddz2e0VdnJ92qAg_k5vWc1vlg/s3840/fantasy%20island%20segunda%20temporada.jpg", 
+                                        "url": "https://uqload.com/f3w9tiphal2i.html", 
+                                        "isHost":"true"
+									}, {
+                                        "name": "APARIENCIAS T1X01", 
+                                        "image": "https://www.apple.com/es/tv-pr/shows-and-films/s/surface/images/season-01/show-home-graphic-header/key-art-01/4x1/Apple_TV_Surface_key_art_graphic_header_4_1_show_home.jpg.large_2x.jpg", 
+                                        "url": "https://uqload.com/f3w9tiphal2i.html", 
+                                        "isHost":"true" 
+									},{
+                                        "name": "DOS AÑOS Y UN DÍA T1X01", 
+                                        "image": "https://imagenes.diariodenavarra.es/files/image_477_265/uploads/2022/07/04/62c31ad70a401.jpeg", 
+                                        "url": "https://uqload.com/btj4733wf15a.html", 
+                                        "isHost":"true" 
+                                    }, {
+                                                                                "name": "SIGUE RESPIRANDO T1X01", 
+                                        "image": "https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2022/07/AAAABVgbwcLjIcnh5IelRm3grZdCBYhDESJ5Tm4nj-6dTYVqcTIq_JpAn4b-jaxbLGbqv7HtjGXakpzYD3QL7utVAG3N-3fwY8Q7-NbZI2tKagRhcnQ5k-ShbxrwfwqJ2uYXX7Lnbw.jpg", 
+                                        "url": "https://uqload.com/yxcek4stn3p1.html", 
+                                        "isHost":"true"  
+
+
+                                    }]
+					             }, { 
                         "name": "4400", 
                         "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
                         "info": "", 
@@ -97,62 +136,8 @@
                                         "image": "https://decine21.com/img/upload/obras/alguien-esta-mintiendo-45133/src/alguien-esta-mintiendo-45133-c.jpg", 
                                         "url": "https://uqload.com/3fs9hdynxm47.html", 
                                         "isHost":"true"
-                                    }
-                                  ]
-			        }, 
-                                        {
-                                        "name": "ANTIDISTURBIOS",
-                                        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-                                        "info": "",
-                                        "stations": [
-                                        {
-	                                "name": "ANTIDISTURBIOS T1X01",
-                                        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-                                        "url": "https://filemoon.sx/d/7rmjv89mqq35",
-          	                        "info": "[Español 2020]",
-          	                        "isHost": "true",
-          	                        },
-	{
-	"name": "ANTIDISTURBIOS T1X02",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/4njcnld4ehk7",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	},
-	{
-	"name": "ANTIDISTURBIOS T1X03",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/4wttrreiqx5s",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	},
-	{
-	"name": "ANTIDISTURBIOS T1X04",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/mhexclrhcngf",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	},
-	{
-	"name": "ANTIDISTURBIOS T1X05",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/5gvwmku4lck8",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	},
-	{
-	"name": "ANTIDISTURBIOS T1X06",
-        "image": "https://pics.filmaffinity.com/antidisturbios-946128670-large.jpg",
-        "url": "https://filemoon.sx/d/idzkovisz7yk",
-       	"info": "[Español 2020]",
-       	"isHost": "true",
-       	}
-
-]
-},
-
-
-{ 
+                                    }]
+									}, { 
                         "name": "APAGÓN", 
                         "image": "https://image.tmdb.org/t/p/w185/lUAyh9AjQ5zth0cUYRgREnRdeL1.jpg",
                         "info": "", 
@@ -3137,6 +3122,3 @@
                                         "isHost":"true"
 										}] 
 								}
-
-]
-}
