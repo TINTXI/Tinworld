@@ -359,7 +359,42 @@
                 }
             ]
         },
-
+        {
+        "name": "PeliS MmA",
+        "image": "https://i.postimg.cc/rFGFtHT3/Pe-Li-S-Mm-A.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                {
+                "name": "Herida (Pelicula)",
+                "info":"2020",
+                "image": "https://i.postimg.cc/6pmbY2Ts/03-Herida-Pelicula.jpg",
+                "url": "https://upstream.to/mmyzlt2sapa3",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Maravilloso desastre (Pelicula)",
+                "info":"2023",
+                "image": "https://i.postimg.cc/63Ng9T0D/Maravilloso-desastre.jpg",
+                "url": "https://vk.com/video791649042_456239276",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Adicción perfecta",
+                "info": "2023",
+                "image": "https://i.postimg.cc/8cwMB9hw/ADICCION-PERFECTA-2023-Pelicula.jpg",
+                "url": "http://vidmoly.me/w/6xxvx5ls8wrz",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
 
         {
         "name": "PeliS BoXing",
