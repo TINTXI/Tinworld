@@ -1069,13 +1069,6 @@
                       ]
                   },
         {
-        "name": "DoCu SeRieS MmA",
-        "image": "https://i.postimg.cc/wByCDtJM/Do-Cu-Se-Rie-S-Mm-A.jpg",
-        "imageScale": "",
-        "info":"",
-        "groups":
-            [
-        {
         "name": "MmA mIx",
         "image": "https://i.postimg.cc/0QvVrr0L/DoCu-MmA.jpg",
         "imageScale": "",
@@ -1315,6 +1308,8 @@
         }
 
     ]
+}
+]
 }
                    
  
