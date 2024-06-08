@@ -1,1 +1,25 @@
-
+{
+"name": "CinE LaTinO",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://giffiles.alphacoders.com/211/211426.gif",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/06.1.0.CinE.LaTinO.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info":"",
+"groups":
+    [
+        {
+         "name": "MovIeS 2024",
+         "image": "https://i.postimg.cc/zXK8g92r/2024-new.png",
+         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Movies.Latino.24.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "MovIeS 2023",
+         "image": "https://i.postimg.cc/L6wz3vQP/2023-new.png",
+         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/06.1.1.Movies.Latino.23.w3u",
+         "info":"",
+         "import": false
+        }
+    ]
+}
