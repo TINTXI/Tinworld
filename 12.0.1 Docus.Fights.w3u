@@ -366,7 +366,104 @@
             ]
         },
 
+        {
+        "name": "DoCu SeRieS MmA",
+        "image": "https://i.postimg.cc/wByCDtJM/Do-Cu-Se-Rie-S-Mm-A.jpg",
+        "imageScale": "",
+        "info":"",
+        "groups":
+            [
+                {
+                "name": "Hurts Like Hell",
+                "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
+                "imageScale": "",
+                "info": "2022",
+                "stations":
+                    [
+                        {
+                        "name": "1 Hurts Like Hell",
+                        "info": "2022",
+                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
+                        "url": "https://upstream.to/alef99ko0s97",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "2 Hurts Like Hell",
+                        "info": "2022",
+                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
+                        "url": "https://upstream.to/8olia9drb8oa",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "3 Hurts Like Hell",
+                        "info": "2022",
+                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
+                        "url": "https://upstream.to/jrn2ofdpze6s",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "4 Hurts Like Hell",
+                        "info": "2022",
+                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
+                        "url": "https://upstream.to/l0w4zrf45bvz",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+		},
 
+                {
+                "name": "McGregor Forever",
+                "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
+                "imageScale": "",
+                "info": "2023",
+                "stations":
+                    [
+                        {
+                        "name": "1 McGregor Forever",
+                        "info": "2023",
+                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
+                        "url": "https://upstream.to/vrl8x1uvvo4f",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "2 McGregor Forever",
+                        "info": "2023",
+                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
+                        "url": "https://upstream.to/emar6nnw7uib",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "3 McGregor Forever",
+                        "info": "2023",
+                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
+                        "url": "https://upstream.to/1cu4c7nuo1um",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "4 McGregor Forever",
+                        "info": "2023",
+                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
+                        "url": "https://upstream.to/ohzqqgvenh2g",
+                        "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+                },
 
 
         {
@@ -592,112 +689,6 @@
                 }
             ]
         },
-
-
-
-
-
-
-
-
-        {
-        "name": "DoCu SeRieS MmA",
-        "image": "https://i.postimg.cc/wByCDtJM/Do-Cu-Se-Rie-S-Mm-A.jpg",
-        "imageScale": "",
-        "info":"",
-        "groups":
-            [
-                {
-                "name": "Hurts Like Hell",
-                "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
-                "imageScale": "",
-                "info": "2022",
-                "stations":
-                    [
-                        {
-                        "name": "1 Hurts Like Hell",
-                        "info": "2022",
-                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
-                        "url": "https://upstream.to/alef99ko0s97",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "2 Hurts Like Hell",
-                        "info": "2022",
-                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
-                        "url": "https://upstream.to/8olia9drb8oa",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "3 Hurts Like Hell",
-                        "info": "2022",
-                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
-                        "url": "https://upstream.to/jrn2ofdpze6s",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "4 Hurts Like Hell",
-                        "info": "2022",
-                        "image": "https://i.postimg.cc/x87GHMMV/Hurts-like-hells-Do-Cu-Se-Rie-S.jpg",
-                        "url": "https://upstream.to/l0w4zrf45bvz",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-                    ]
-		},
-
-                {
-                "name": "McGregor Forever",
-                "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
-                "imageScale": "",
-                "info": "2023",
-                "stations":
-                    [
-                        {
-                        "name": "1 McGregor Forever",
-                        "info": "2023",
-                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
-                        "url": "https://upstream.to/vrl8x1uvvo4f",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "2 McGregor Forever",
-                        "info": "2023",
-                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
-                        "url": "https://upstream.to/emar6nnw7uib",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "3 McGregor Forever",
-                        "info": "2023",
-                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
-                        "url": "https://upstream.to/1cu4c7nuo1um",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        },
-                        {
-                        "name": "4 McGregor Forever",
-                        "info": "2023",
-                        "image": "https://i.postimg.cc/0NBHRP36/07-Mc-Gregor-Forever.jpg",
-                        "url": "https://upstream.to/ohzqqgvenh2g",
-                        "embed":"",
-                        "isHost":"true",
-                        "online":"true"
-                        }
-                    ]
-                },
 
         {
         "name": "DoCU SeriES BoXing",
