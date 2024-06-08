@@ -17,7 +17,7 @@
         {
          "name": "Films En Latino",
          "image": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Cine_Latino_1999.png/revision/latest?cb=20191223212041&path-prefix=es",
-         "url": "https://tinworld.vercel.app/10.0.1 Films.VOD.w3u",
+         "url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
          "info":"",
          "import": false
         },
