@@ -1,1 +1,68 @@
-
+{
+"name": "FoRmuLa 1",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/04.2.1.Menu.Documentales.Formula.1.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+        "name": "FoRmuLa 1 mIx",
+        "image": "https://i.postimg.cc/mZVj6X6d/f1mix.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.FoRmuLa.1.w3u",
+        "info":"bY. yIsus",
+        "import": false
+        },
+        {
+        "name": "Lucky! Bernie Ecclestone",
+        "image": "https://i.postimg.cc/T1QtVQB4/lucky.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Lucky!.w3u",
+        "info":"bY. yIsus",
+        "import": false
+        },
+        {
+        "name": "Brawn GP una escuderia imposible",
+        "image": "https://i.postimg.cc/Y9D4QWbx/brawn.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Brawn.Una.Escuderia.Imposible.w3u",
+        "info":"bY. Paco_iphone",
+        "import": false
+        },
+        {
+        "name": "Fernando",
+        "info":"bY. yIsus",
+        "image": "https://i.postimg.cc/dtr2c5WP/fernando.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Alonso.w3u",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "Drive To Survive",
+        "info":"bY. yIsus",
+        "image": "https://i.postimg.cc/k42S1sVH/drive.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Drive.to.Survive.w3u",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "70 Años de Formula 1",
+        "info":"bY. yIsus",
+        "image": "https://i.postimg.cc/tgY7pTXZ/70-a-os.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.70.Años.de.Formula.1.w3u",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "Grand Prix Driver",
+        "info":"bY. yIsus",
+        "image": "https://i.postimg.cc/Xq0vfk9d/granprix.png",
+        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Grand.Prix.Drive.w3u",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}
