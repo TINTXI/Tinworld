@@ -14,6 +14,12 @@
 "import": false
 },
 {
+"name": "𝔼𝕍𝔼ℕ𝕋𝕆𝕊 𝕋𝕆ℙ",
+"image": "https://i.postimg.cc/pLD4sVhT/logo4-7-124654.png",
+"url": "https://tinworld.vercel.app/06.Menu.Eventos.Top.w3u",
+"import": false
+},
+{
 "name": "𝔸𝔾𝔼ℕ𝔻𝔸 𝕋𝕍",
 "image": "https://i.postimg.cc/QN1r4K4Q/logo4-7-114753.png",
 "url": "https://tinworld.vercel.app/02.Menu.Agenda.Tv.w3u",
@@ -42,12 +48,6 @@
 "name": "𝕀ℙ𝕋𝕍+𝕍ℙℕ",
 "image": "https://i.postimg.cc/cH0CgzQk/logo4-7-123251.png",
 "url": "https://tinworld.vercel.app/05.Menu.Iptv.+.Vpn.w3u",
-"import": false
-},
-{
-"name": "𝔼𝕍𝔼ℕ𝕋𝕆𝕊 𝕋𝕆ℙ",
-"image": "https://i.postimg.cc/pLD4sVhT/logo4-7-124654.png",
-"url": "https://tinworld.vercel.app/06.Menu.Eventos.Top.w3u",
 "import": false
 },
 {
