@@ -31,21 +31,7 @@
 	{
          "name": "films Infantil",
          "image": "https://caribbeancinemas.com/RD/cinekids/img/logo.png",
-         "url": "https://af1c1onados.vercel.app/Menu.Kids.Zone.w3u",
-         "info":"",
-         "import": false
-        },
-	{
-         "name": "Films V.O.S.E",
-         "image": "https://cinedeantes2.weebly.com/uploads/1/1/9/5/119594350/editor/poster-vose-1-1.png?1657994369",
-         "url": "https://af1cionados.vercel.app/CinE%20SuBTituLaDO.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Films A Pedir",
-         "image": "https://scontent.fvit1-1.fna.fbcdn.net/v/t39.30808-1/324591565_3047543702216604_6315690888635160355_n.jpg?stp=c25.0.200.200a_dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JHNoyMVfONgAb7x1zV9&_nc_ht=scontent.fvit1-1.fna&oh=00_AfDtmYg666epAz3eHX31PyW5NpYN20Kmp-yamrva7Orrxw&oe=66274208",
-         "url": "https://af1c1onados.vercel.app/Movies.Peticiones.w3u",
+         "url": "https://tinworld.vercel.app/10.0.4 Films.Infantil.Español.w3u",
          "info":"",
          "import": false
         },
