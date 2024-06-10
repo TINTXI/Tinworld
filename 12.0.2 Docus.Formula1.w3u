@@ -15,20 +15,6 @@
         "import": false
         },
         {
-        "name": "Lucky! Bernie Ecclestone",
-        "image": "https://i.postimg.cc/T1QtVQB4/lucky.png",
-        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Lucky!.w3u",
-        "info":"bY. yIsus",
-        "import": false
-        },
-        {
-        "name": "Brawn GP una escuderia imposible",
-        "image": "https://i.postimg.cc/Y9D4QWbx/brawn.png",
-        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Brawn.Una.Escuderia.Imposible.w3u",
-        "info":"bY. Paco_iphone",
-        "import": false
-        },
-        {
         "name": "Fernando",
         "info":"bY. yIsus",
         "image": "https://i.postimg.cc/dtr2c5WP/fernando.png",
@@ -50,16 +36,7 @@
         "name": "70 Años de Formula 1",
         "info":"bY. yIsus",
         "image": "https://i.postimg.cc/tgY7pTXZ/70-a-os.png",
-        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.70.Años.de.Formula.1.w3u",
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
-        },
-        {
-        "name": "Grand Prix Driver",
-        "info":"bY. yIsus",
-        "image": "https://i.postimg.cc/Xq0vfk9d/granprix.png",
-        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS2/main/Documentales.Grand.Prix.Drive.w3u",
+        "url": "https://tinworld.vercel.app/12.0.2.3 Docus.Formula1.70.Años.De.Formula.w3u",
         "embed":"",
         "isHost":"true",
         "online":"true"
