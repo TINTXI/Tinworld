@@ -14,15 +14,13 @@
          "info":"",
          "import": false
         },
-
-	    {
+	{
         "name": "Motor GP",
         "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
 	    "url": "https://tinworld.vercel.app/21.0.2 Deportes.Diferidos.Motogp.w3u",
         "info": "Adri",
         "import": false
-	    },
-
+	},
         {
          "name": "Ufc",
          "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
@@ -30,21 +28,14 @@
          "info":"",
          "import": false
         },
-		{
-         "name": "Basket Europeo",
-         "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
-         "url": "https://af1c1onados.vercel.app/03.5.1.Diferidos.Menu.Basket.Europeo.w3u",
-         "info":"",
-         "import": false
-        },
-		{
+	{
          "name": "MmA Sport",
          "image": "https://i.postimg.cc/X7wtYcgm/mma-new.png",
          "url": "https://pastebin.com/DgFKKtV3",
          "info":"",
          "import": false
         },
-		{
+	{
          "name": "Boxing Sport",
          "image": "https://i.postimg.cc/8Cwg2xmb/Boxing2-new.png",
          "url": "https://af1cionados.vercel.app/DiFeriDos%20BoXing.w3u",
@@ -59,18 +50,26 @@
          "import": false
         },
         {
-         "name": "Football Mix",
-         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
-         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
-         "info":"",
-         "import": false
-        },
-        {
          "name": "Tennis Mix",
          "image": "https://i.postimg.cc/90TXwjVP/tennis-new.png",
          "url": "https://af1c1onados.vercel.app/Diferidos.Tennis.2024.w3u",
          "info":"",
          "import": false
         }
+        {
+         "name": "Football Mix",
+         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+         "url": "https://af1c1onados.vercel.app/03.10.1.Dideridos.Futbol.w3u",
+         "info":"",
+         "import": false
+        },
+	{
+         "name": "Basket Europeo",
+         "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
+         "url": "https://af1c1onados.vercel.app/03.5.1.Diferidos.Menu.Basket.Europeo.w3u",
+         "info":"",
+         "import": false
+        },
+        
     ]
 }
