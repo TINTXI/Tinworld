@@ -1,0 +1,32 @@
+{
+"name": "Deferred Sports BASKET 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/21.0.9 Deportes.Diferidos.BASKET.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+ {
+          "name": "Copa del Rey ACB         bY Ronki",
+          "image": "https://i.postimg.cc/Dy1w9CKS/copa-espa-a-new.png",
+          "url": "https://af1cionados.vercel.app/Diferidos Copa del Rey ACB.w3u",
+          "info":"",
+          "import": false
+          },
+        {
+          "name": "Liga Endesa               bY Ronki",
+          "image": "https://i.postimg.cc/TPj86gWK/liga-endesa-new.png",
+          "url": "https://af1c1onados.vercel.app/03.5.2.Diferidos.Liga.Endesa.2023.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "EuroLiga                 bY Ronki",
+          "image": "https://i.postimg.cc/7hYX2yR1/Euro-Liga-new.png",
+          "url": "https://af1c1onados.vercel.app/03.5.3.Diferidos.Euroliga.2023.w3u",
+          "info":"",
+          "import": false
+          }
+     ]
+}
