@@ -1,1 +1,647 @@
-
+{
+"name": "Deferred Sports MMA & MAS 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "21.0.4.1 Deportes.Diferidos.MMA.2024.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"stations":
+    [
+		{
+      "name": "💥-Lights Out 13 
+      Montes 🆚 Cataline",
+      "image": "https://i.postimg.cc/y6vjTFfn/Lights-Out-Xtreme-Fighting-13.jpg",
+      "url": "https://filemoon.in/d/r24v0amvlwvp",
+      "info": "06-01-2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+        "name": "💥-One Friday Fight 47
+     Suakin 🆚 BalYko",
+        "image": "https://i.postimg.cc/wxFfgRy2/One-Friday-FIGHTS-49-Suakin-Baliko.jpg",
+        "url": "https://filemoon.sx/d/4uk7cpiaeww1",
+        "info": "12-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "💥-Lfa 174 
+     Jones 🆚 Gennrich ",
+        "image": "https://i.postimg.cc/nzxYMv8B/LFA-174.jpg",
+        "url": "https://filemoon.in/d/mun1glpisl0j",
+        "info": "12-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "💥-One Fight Night 18
+     Gasanov 🆚 Oh",
+        "image": "https://i.postimg.cc/vB2VSyTr/One-Fight-Night-Gasanov-Oh.jpg",
+        "url": "https://filemoon.sx/d/os1hvr61952w",
+        "info": "13-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 48 
+Kongthoranee 🆚 Mazoriev",
+        "image": "https://i.postimg.cc/gjYg38jM/One-Friday-Fight-48-Kongthoranee-Mazoriev-1.jpg",
+        "url": "https://filemoon.sx/d/3esodd0zxbxb",
+        "info": "19-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 49
+     Nakrob 🆚 Pettenglor",
+        "image": "https://i.postimg.cc/Pq4s5vhM/live-in-hd-one-friday-fights-49-nakrob-vs-pettonglor-1.jpg",
+        "url": "https://filemoon.sx/d/q5nxvxt6nt81",
+        "info": "26-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Lfa 175
+     Lopes 🆚 Brigagão",
+        "image": "https://i.postimg.cc/qM1W14BN/LFA-175.jpg",
+        "url": "https://filemoon.in/d/bjnssbebl5c0",
+        "info": "27-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Championship 165 
+     Superlek 🆚 Takeru",
+        "image": "https://i.postimg.cc/fbBHtxPB/ONE165-Poster-1.jpg",
+        "url": "https://filemoon.sx/d/xbxoh84quse7",
+        "info": "28-01-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 50
+     Yodphupa 🆚 Komawut",
+        "image": "https://i.postimg.cc/mZPnZT2P/ONE-Friday-Fights-50-Yodphupa-Komawut.jpg",
+        "url": "https://filemoon.sx/d/ybjhimdz8njf",
+        "info": "02-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Lux Fight League 039
+     Delgado 🆚 Patrón",
+        "image": "https://i.postimg.cc/XJXzcQ9S/Polish-20240205-215635047.jpg",
+        "url": "https://filemoon.sx/d/lfk7ydtsk7xe",
+        "info": "02-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 51
+     Rambolek 🆚 Sen",
+        "image": "https://i.postimg.cc/yd9Bj60z/ONE-Friday-Fights-51-Rambolek-Sen.jpg",
+        "url": "https://filemoon.sx/d/28qfm84h4rob",
+        "info": "09-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Lfa 176
+     Johns 🆚 Walker",
+        "image": "https://i.postimg.cc/pTzVnsZj/LFA-176-Poster-1.jpg",
+        "url": "https://filemoon.sx/d/phdeftoqgvld",
+        "info": "09-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 52
+     Kulabdam 🆚 Lobo",
+        "image": "https://i.postimg.cc/1X9NQd4R/maxresdefault-1.jpg",
+        "url": "https://filemoon.sx/d/zg25k1r6o2a5",
+        "info": "16-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Fight Night 19
+     Haggerty 🆚 Lobo",
+        "image": "https://i.postimg.cc/HkdPpyZB/0eb2e4-5c21dd75af9741c4b7b17b2f65e13df2-mv2-1.jpg",
+        "url": "https://embedv.net/v/NMRLEprzNM45XaG",
+        "info": "17-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	    { 
+        "name": "💥-One Fight Night 19
+     Haggerty 🆚 Lobo *LATINO*",
+        "image": "https://i.postimg.cc/HkdPpyZB/0eb2e4-5c21dd75af9741c4b7b17b2f65e13df2-mv2-1.jpg",
+        "url": "https://filemoon.sx/d/3jfol8mx3wzj",
+        "info": "17-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	    {
+        "name": "💥-Pfl Champions 🆚 Bellator Champions", 
+	"image": "https://i.postimg.cc/HLpSKRQS/Watch-PFL-Champions-vs-Bellator-Champions-February-24th-2024-22424-Online-Full-Show-Free.jpg", 
+	"url": "https://embedv.net/v/Ro7kOVVDk9wOZWB", 
+	"info": " PRELIMINARES 24-02-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	},
+	{ 
+	"name": "💥-Pfl Champions 🆚 Bellator Champions", 
+	"image": "https://i.postimg.cc/HLpSKRQS/Watch-PFL-Champions-vs-Bellator-Champions-February-24th-2024-22424-Online-Full-Show-Free.jpg", 
+	"url": "https://embedv.net/v/YWA8E9wMKPQ5GmM", 
+	"info": "MAINCARD 24-02-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	},
+    {
+        "name": "💥-One Friday Fight 53
+     Petsukumvit 🆚 Kongsuk",
+        "image": "https://i.postimg.cc/XNBwWz44/images-1.jpg",
+        "url": "https://embedv.net/v/PlBVEZ0mWRw5Dv9",
+        "info": "23-02-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One 166 Qatar
+     De Ridder 🆚 Malykhin II",
+        "image": "https://i.postimg.cc/25sQgnJz/maxresdefault-1.jpg",
+        "url": "https://embedv.net/v/MAlwEMYDGzkEJ39",
+        "info": "01-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Extreme Fighters 
+     Orden 🆚 Nicolás",
+        "image":"https://i.postimg.cc/wjzWTTnr/IMG-20240304-213256-001.jpg",
+        "url": "https://embedv.net/v/P0poO10GGdLEz17",
+        "info": "02-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Gamebred Bareknuckle Mma 7 
+     Dos Santos 🆚 Belcher",
+ "image":"https://i.postimg.cc/4nkbGNjf/maxresdefault-1.jpg",
+"url": "https://embedv.net/v/rabVOQQ11qmOKdW",
+        "info": "02-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 54
+     Ortikov 🆚 Watcharaphon",
+        "image": "https://i.postimg.cc/GmjdRP4t/one-friday-fights-54-live-streaming-featured-1709715282-1.jpg",
+        "url": "https://embedv.net/v/PKN4Ownez6QEDLj",
+        "info": "08-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Fight Night 20
+     Todd 🆚 Phetjeeja",
+        "image": "https://i.postimg.cc/kMR2BV8n/IMG-20240310-101855-1.jpg",
+        "url": "https://embedv.net/v/YWA8E9w9MA35GmM",
+        "info": "09-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Fight Night 20
+     Todd 🆚 Phetjeeja *LATINO*",
+        "image": "https://i.postimg.cc/kMR2BV8n/IMG-20240310-101855-1.jpg",
+        "url": "https://filemoon.sx/d/vfdyljpg71yy",
+        "info": "09-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Glory-
+Heavyweight Grand Prix",
+        "image": "https://i.postimg.cc/Hn6cBgy9/glory-heavyweight-grand-prix-quick-picks-v0-JFlmu-W-h-OAT2yn-RJs-WN1-Chfl-YTXn-L2e-Nd1p-Y8-Cmi-Pf-E-1.jpg",
+        "url": "https://bembed.net/v/vQBYEbNq1bNEn1m",
+        "info": "09-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 55
+     Avatar 🆚 Nabati",
+        "image": "https://i.postimg.cc/YSt1BppH/hq720-live-1.jpg",
+        "url": "https://bembed.net/v/l4vexvDrKPAO8B9",
+        "info": "15-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Cage Warriors 167
+     Paterno 🆚 Storman",
+        "image": "https://i.postimg.cc/t4BBdRWT/IMG-20240317-145030-1.jpg",
+        "url": "https://bembed.net/v/l4vexvDrj0yO8B9",
+        "info": "15-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Cage Warriors 168
+     Clamp 🆚 Byfield",
+        "image": "https://i.postimg.cc/YCvmbb0Q/168-16x9-Fighters-op3-1080x675-1.jpg",
+        "url": "https://listeamed.net/v/27BaOn1lAYBEMDX",
+        "info": "16-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bellator Champions Series
+     Anderson 🆚 Moore",
+        "image": "https://i.postimg.cc/nLJwDxLj/0-bel-revised-1.jpg",
+        "url": "https://bembed.net/v/m7WJxgJbbZM5Bze",
+        "info": "22-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 56 
+     Ferrari 🆚 Tupiev",
+        "image": "https://i.postimg.cc/kGYSGC7g/one-friday-56-live-streaming-ft-1710914601-1.jpg",
+        "url": "https://bembed.net/v/edVqE4r1W845YWm",
+        "info": "22-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc 58 
+     Markulev 🆚 Kolev",
+        "image": "https://i.postimg.cc/TPfG16D6/1920x1080-1.jpg",
+        "url": "https://bembed.net/v/PKN4OwnR1PNEDLj",
+        "info": "22-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc 59 
+     Dodson 🆚 Aguero",
+        "image": "https://i.postimg.cc/9XLb4B1s/images-1.jpg",
+        "url": "https://bembed.net/v/rabVOQQZVKJOKdW",
+        "info": "29-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 57 
+     Panrit 🆚 Balyko",
+        "image": "https://i.postimg.cc/xCMK6vSy/live-in-hd-one-friday-fights-57-panrit-vs-balyko-1.jpg",
+        "url": "https://bembed.net/v/mMq75L8pem95XPB",
+        "info": "29-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Cage Warriors 169
+     Vucenic 🆚 D'Anna",
+        "image": "https://i.postimg.cc/br0mMjGG/IMG-20240405-093640-1.jpg",
+        "url": "https:///bembed.net/v/wP2050eQ942xdmy",
+        "info": "30-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        { 
+	"name": "💥-Pfl 1 Regular Season Delija 🆚 Moldavsky", 
+	"image": "https://i.postimg.cc/Rh07NFx7/pfl-1.jpg", 
+	"url": "https://bembed.net/v/Ro7kOVV7LKWOZWB", 
+	"info": "04-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    }, 
+        {
+        "name": "💥-One Friday Fight 58 
+     Superbon 🆚 Grigorian 2",
+        "image": "https://i.postimg.cc/R08dwXzS/IMG-20240413-102010-1.jpg",
+        "url": "https://embedme.xyz/d/8e4mtlub7hfk",
+        "info": "05-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Fight Night 21
+     Eersel 🆚 Nicolas",
+        "image": "https://i.postimg.cc/zDKdD3PW/image-20240401132141-1-1.jpg",
+        "url": "https://listeamed.net/v/KrdZ5kdqBbZxmX4",
+        "info": "05-03-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },        
+        { 
+	"name": "💥-Bkfc 60 Lilley 🆚 Tenaglia", 
+	"image": "https://i.postimg.cc/kGxKjBGx/bkfc-60-1.jpg", 
+	"url": "https://embedme.xyz/d/k4tadrdaxzkh", 
+	"info": "06-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	},
+    { 
+	"name": "💥-Cage Warriors  170 Sheehan 🆚 Konrad", 
+	"image": "https://i.postimg.cc/PJvGtn43/sddefault-1.jpg", 
+	"url": "https://filemoon.sx/d/gerlrlty1l9q", 
+	"info": "06-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	},
+    {
+        "name": "💥-Bkfc fight night 
+     Richman 🆚 Lozano",
+        "image": "https://i.postimg.cc/7L0gFD2z/images-1.jpg",
+        "url": "https://embedme.xyz/d/s8nf8gcsc162",
+        "info": "12-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        { 
+	"name": "💥-Pfl 2 Regular Season Kasanganay 🆚 Polizzi", 
+	"image": "https://i.postimg.cc/43Nh6dyd/IMG-20240414-213920-1.jpg", 
+	"url": "https://filemoon.sx/d/94xwefg7wfb4", 
+	"info": "12-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
+        { 
+	"name": "💥-Pfl 3 Regular Season Koreshkov 🆚 Umalatov", 
+	"image": "https://i.postimg.cc/t4bY6Q1m/VAv0e-XHt-1.png", 
+	"url": "https://listeamed.net/v/k3gG5q3yq2yE1N2", 
+	"info": "19-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
+        {
+        "name": "💥-One Friday Fight 59 
+     Yamin 🆚 Ouraghi",
+        "image": "https://i.postimg.cc/bYCJWswx/one-friday-fights-59-results-ft-1713590980-1.jpg",
+        "url": "https://listeamed.net/v/YWA8E9wNY7G5GmM",
+        "info": "19-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        { 
+	"name": "💥-Cage Warriors  171 Bungard 🆚 Girlean", 
+	"image": "https://i.postimg.cc/tC2rWPJJ/IMG-20240430-200726-1.jpg", 
+	"url": "https://filemoon.sx/d/moesto1tnpru", 
+	"info": "20-04-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
+        {
+        "name": "💥-One Friday Fight 60 
+     Suriyanlek 🆚 Rittidet",
+        "image": "https://i.postimg.cc/XJsrY2Hn/one-friday-fights-60-live-streaming-ft-1713929236-1.jpg",
+        "url": "https://filemoon.sx/d/hdisue2j1pk4",
+        "info": "26-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Glory 91 Perry 🆚 Alves",
+        "image": "https://i.postimg.cc/SQzyP8jv/IMG-20240430-230742-359.jpg",
+        "url": "https://filemoon.sx/d/eyjcnhlj56f0",
+        "info": "27-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc Knuckle Manía 4
+     Perry 🆚 Alves",
+        "image": "https://i.postimg.cc/D0VkdJcJ/images-1.jpg",
+        "url": "https://filemoon.sx/d/jkrx3eozzns2",
+        "info": "27-04-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        }, 
+        {
+        "name": "💥-One Friday Fight 61 
+     Petsukumvit 🆚 Duangsomgpong",
+        "image": "https://i.postimg.cc/MTL7dCMR/IMG-20240512-121823-1.jpg",
+        "url": "https://listeamed.net/v/27BaOn1RnmREMDX",
+        "info": "03-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Fight Night 22
+     Sundell 🆚 Diachkova",
+        "image": "https://i.postimg.cc/KcftgdWD/hq720-1.jpg",
+        "url": "https://listeamed.net/v/KNWlEDN2k2K5kbp",
+        "info": "03-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 62
+ Mongkolkaew 🆚 Et 2",
+        "image": "https://i.postimg.cc/HLZMk7Rs/one-friday-fights-62-results-1715394503-1.jpg",
+        "url": "https://listeamed.net/v/nyg9EKDdbQaObk4",
+        "info": "10-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc fight night 
+     Rivera 🆚 Straus",
+        "image": "https://i.postimg.cc/qqf8WJFy/en-US-UR1920-1080-1.jpg",
+        "url": "https://filemoon.sx/d/1ibt53310oz1",
+        "info": "11-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 63
+ Yodphupa 🆚 Sen",
+        "image": "https://i.postimg.cc/GpBpQqWC/maxresdefault-1.jpg",
+        "url": "https://listeamed.net/v/VqbX53gQYn95Qzp",
+        "info": "17-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bellator Champions Series
+     Mix 🆚 Magomedov",
+        "image": "https://i.postimg.cc/CM30bwNm/bellator-paris-may-17-2024-1.jpg",
+        "url": "https://listeamed.net/v/qM1VOPN71KMxo4k",
+        "info": "17-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc fight night 
+     Snake 🆚 Pague",
+        "image": "https://i.postimg.cc/KYqvKN2d/IMG-20240529-220820.jpg",
+        "url": "https://listeamed.net/v/0DogOGM7Yn0xKjM",
+        "info": "17-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 64
+ Gheirati 🆚 Godtfredsen",
+        "image": "https://i.postimg.cc/fLD8s8JQ/live-in-hd-one-friday-fights-64-gheirati-vs-godtfredsen-1.jpg",
+        "url": "https://filemoon.sx/d/pknh2y0z6vdf",
+        "info": "24-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc fight night 
+     Rubio 🆚 Gallegos",
+        "image": "https://i.postimg.cc/50L832Fm/bkfc-fight-night-puebla-mexico-480x272top-1.jpg",
+        "url": "https://filemoon.sx/d/k1a1fplmvpgq",
+        "info": "25-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 65
+ Jaosuayai 🆚 Puenglang",
+        "image": "https://i.postimg.cc/Nj29jCV5/IMG-20240603-212732-1.jpg",
+        "url": "https://listeamed.net/v/PKN4Own4yjnEDLj",
+        "info": "31-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc fight night 
+     Vandermeer 🆚 Depee",
+        "image": "https://i.postimg.cc/WbBpXNW1/BKFC-Prospect-Denver-App-Slate-Watch-Replay-1920x1080-1.jpg",
+        "url": "https://listeamed.net/v/pVa4E8MANyBOkzM",
+        "info": "31-05-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        }
+ 
+]
+}
