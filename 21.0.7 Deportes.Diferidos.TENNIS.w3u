@@ -1,1 +1,25 @@
-21.0.1 Deportes.Diferidos.Formula1.w3u
+{
+"name": "Deferred Sports TENNIS",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/21.0.7 Deportes.Diferidos.TENNIS.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+{
+          "name": "TENNIS 2024",
+          "image": "https://i.postimg.cc/k5WStwQ7/box-2024-new.png",
+          "url": "https://tinworld.vercel.app/21.0.3.1 Deportes.Diferidos.UFC.2024.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "TENNIS Remenber",
+          "image": "https://i.postimg.cc/7LkGZF86/boxing-new.png",
+          "url": "https://tinworld.vercel.app/21.0.3.2 Deportes.Diferidos.UFC.Remenber.w3u",
+          "info":"",
+          "import": false
+          }
+     ]
+}
