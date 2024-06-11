@@ -1,1 +1,689 @@
+{
+"name": "Deferred Sports BOXING 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/21.0.5.1 Deportes.Diferidos.BOXING.2024w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"stations":
+    [
 
+	{
+	"name": "Ortiz 🆚 Lawson",
+	"image": "https://i.postimg.cc/5NMFtyZf/Vergil-Ortiz-vs-Fredrick-Lawson.jpg",
+	"url": "https://filemoon.sx/d/kshrgngnwl93",
+	"info": "06-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
+	},
+	{ 
+	"name": "Gholam 🆚 Sitemela", 
+	"image": "https://i.postimg.cc/NfNDqbQJ/image.jpg", 
+	"url": "https://filemoon.sx/d/qclrxozmwcxx", 
+	"info": "13-01-2024", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"isHost": "true", 
+	"online": "true" 
+	},
+	{ 
+	"name": "Beterviev 🆚 Smith",
+	"image": "https://i.postimg.cc/sg8T2bb1/artur-beterbiev-callum-smith-1.jpg",
+	"url": "https://filemoon.sx/d/4rh7ity37eof",
+	"info": "13-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "General 🆚 Huracán",
+	"image": "https://i.postimg.cc/8CyKp3R0/cancun-boxing-1705036352515-1.jpg",
+	"url": "https://filemoon.in/d/ejthblc3im2g",
+	"info": "19-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "true",
+	"online": "true"
+	},
+	{ 
+	"name": "Matthews 🆚 Mystery Opponent",
+	"image": "https://i.postimg.cc/wjK4jjfd/matthews-vs-mystery-oppnent.jpg",
+	"url": "https://filemoon.sx/d/zjda93ctjity",
+	"info": "20-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "true",
+	"online": "true"
+	},
+	{
+	"name": "Jonás 🆚 Mayer",
+	"image": "https://i.postimg.cc/8k0jqbMX/jonas-vs-mayer.jpg",
+	"url": "https://filemoon.sx/d/yikxcy1trl7v",
+	"info": "20-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "true",
+	"online": "true"
+	},
+	{
+	"name": "Esparza 🆚 Garcia",
+	"image": "https://i.postimg.cc/Yqyz9LyM/garcia-vs-esparza.jpg",
+	"url": "https://filemoon.in/d/rimrxgaj8skp",
+	"info": "20-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "true",
+	"online": "true"
+	},
+    {
+	"name": "Daneff 🆚 Rocha",
+	"image": "https://i.postimg.cc/mkPhVtnF/IMG-20240124-115227.jpg",
+    "url": "https://filemoon.sx/d/n9iyxmr2qok4",
+	"info": "20-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    {
+	"name": "Murphy 🆚 McDonald",
+	"image": "https://i.postimg.cc/bJnwYgQM/image-1.jpg",
+    "url": "https://filemoon.sx/d/6idrvbqwobxz",
+	"info": "26-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Crocker 🆚 Felix",
+	"image": "https://i.postimg.cc/KvDhkRm7/87-Hxn-DV-2.jpg",
+	"url": "https://filemoon.sx/d/y3cks7ljkdle",
+	"info": "27-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Munguia 🆚 Ryder",
+	"image": "https://i.postimg.cc/bJpH0bhy/munguia-ryder.jpg",
+	"url": "https://filemoon.sx/d/dpiot2v8o84z",
+	"info": "27-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Cruz 🆚 Casero",
+	"image": "https://i.postimg.cc/yYw79nwb/GEi-Ig4-Aa-MAAaz-Rb-1.jpg",
+	"url": "https://filemoon.sx/d/hclzgz921j9d",
+	"info": "27-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Martinez 🆚 Angerville",
+	"image": "https://i.postimg.cc/63KWTNH0/Sheila-Martinez-vs-Anaelle-Angerville-e1705267151750-1.jpg",
+	"url": "https://filemoon.sx/d/hi89da2flzzu",
+	"info": "27-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Bauer 🆚 Rost",
+	"image": "https://i.postimg.cc/GmGDcSDx/IMG-20240206-195055-1.jpg",
+	"url": "https://filemoon.in/d/1cy9cy0zaey1",
+	"info": "27-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Sylve 🆚 Falcao",
+	"image": "https://i.postimg.cc/G2h2yFL4/img-1-1703744047965-1.jpg",
+	"url": "https://filemoon.sx/d/p92jfl0h9s80",
+	"info": "02-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Benn 🆚 Dobson",
+	"image": "https://i.postimg.cc/2yh8Ngqs/conor-benn-vs-peter-dobson-february-3-2024-8e180046e0-1.jpg",
+	"url": "https://filemoon.sx/d/g3cgwj9uwuey",
+	"info": "03-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Buatsi 🆚 Azeez",
+	"image": "https://i.postimg.cc/qRZkyGBw/joshua-buatsi-vs-dan-azeez-february-3-2024-27cc22450e-1.jpg",
+	"url": "https://filemoon.sx/d/geajtnblz5wq",
+	"info": "03-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Lopez 🆚 Ortiz",
+	"image": "https://i.postimg.cc/1zVmvNS5/17071601559924-1.jpg",
+	"url": "https://filemoon.sx/d/wjcj0w2ma6l0",
+	"info": "08-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Sheeraz 🆚 Williams",
+	"image": "https://i.postimg.cc/8PCjhc7s/The-first-fight-night-of-the-year-and-it-s-a-cracker-hamzahsheeraz-faces-the-toughest-f-his-car.jpg",
+	"url": "https://filemoon.sx/d/knquxqyphl59",
+	"info": "10-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Dillon 🆚 Bellotti",
+	"image": "https://i.postimg.cc/mr1dhTY5/DB2-24-ea07028ed9-1.jpg",
+	"url": "https://filemoon.in/d/tbammkjsb79r",
+	"info": "10-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Diaz Jr 🆚 Perez",
+	"image": "https://i.postimg.cc/rwJGkJZm/jojo-diaz-vs-jesus-perez-1l97lndoctuna1s76ylubtaouf-1.jpg",
+	"url": "https://filemoon.sx/d/mrrpir3vuzp6",
+	"info": "15-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Curiel 🆚 Nontshinga II",
+	"image": "https://i.postimg.cc/BZXmngTx/GFw-LSm-XW0-AAS-vo-1.jpg",
+	"url": "https://filemoon.sx/d/edfj8btboxrv",
+	"info": "16-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Holmes Jr 🆚 Harrington",
+	"image": "https://i.postimg.cc/26XZrF60/ardreal-holmes-jr-vs-marlon-harrington-1jmc2mrl8jpc017eh8coql2s92-1.jpg",
+	"url": "https://embedv.net/v/qL0YEyPwNbvxDRX",
+	"info": "20-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Berlanga 🆚 Mc Crory",
+	"image": "https://i.postimg.cc/RFxnX1LL/6-CA5-AB2-B-5-EBC-4-DBB-87-BF-3-EE880-C926-FC-1.jpg",
+	"url": "https://filemoon.sx/d/uid3vwrxdxq0",
+	"info": "24-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Pauldo 🆚 Madueño",
+	"image": "https://i.postimg.cc/kXZmRsHJ/image-195-1.png",
+	"url": "https://embedv.net/v/MAlwEMYD62bEJ39",
+	"info": "28-02-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Kholmatov 🆚 Ford",
+	"image": "https://i.postimg.cc/WbKxBvxt/Otabek-Kholmatov-vs-Raymond-Ford-1.jpg",
+	"url": "https://embedv.net/v/8lKQxYV4dgeEDGY",
+	"info": "02-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Paul 🆚 Bourland",
+	"image": "https://i.postimg.cc/kXnyFRWf/f3501f103c4ce402495e07459e2d834d-1.jpg",
+	"url": "https://embedv.net/v/kKJVORWQXN153XD",
+	"info": "02-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Francesca 🆚 Pérez",
+	"image": "https://i.postimg.cc/SxW5bMQ0/IMG-20240303-220438.jpg",
+	"url": "https://embedv.net/v/7QWN5eyJzrK59oR",
+	"info": "02-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "El Fahmi 🆚 Hachimi",
+	"image": "https://i.postimg.cc/mkpRGzdJ/IMG-20240311-192646.jpg",
+	"url": "https://bembed.net/v/edVqE4rzWGD5YWm",
+	"info": "02-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Butler 🆚 Rolls",
+	"image": "https://i.postimg.cc/V6X74bCz/images-1-1.jpg",
+	"url": "https://embedv.net/v/b4ZJx21MVgQ52P3",
+	"info": "07-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Joshua 🆚 Ngannou",
+	"image": "https://i.postimg.cc/pdH7MMFJ/Joshua-ngannou-1.jpg",
+	"url": "https://embedv.net/v/mMq75L8jLgw5XPB",
+	"info": "08-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Villar 🆚 Noriega",
+	"image": "https://i.postimg.cc/PrRgRxJR/images-1.jpg",
+	"url": "https://embedv.net/v/m7WJxgJGg2M5Bze",
+	"info": "08-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Quartermaine 🆚 Rat",
+	"image": "https://i.postimg.cc/T1F3Vj0v/81423121-0-image-m-66-1708296594286-1.jpg",
+	"url": "https://embedv.net/v/JzkPxznWKGkxbyd",
+	"info": "09-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Jonfer 🆚 Corrales",
+	"image": "https://i.postimg.cc/HnfzjMtF/Velada-Bilbao0324-2-1.jpg",
+	"url": "https://bembed.net/v/VqbX53g4WWG5Qzp",
+	"info": "09-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Álvarez 🆚 Sánchez",
+	"image": "https://i.postimg.cc/XJhfss8G/GFps5ck-Xg-AAUZG4-jpg-large-1-1.jpg",
+	"url": "https://bembed.net/v/27BaOn1bKYjEMDX",
+	"info": "16-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Zepeda 🆚 Hughes",
+	"image": "https://i.postimg.cc/Qdnt60K3/GEx8w-Ey-WEAAt-UBf-0-1.jpg",
+	"url": "https://bembed.net/v/04rQxWWNZVexb2N",
+	"info": "16-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Smith 🆚 Zepeda",
+	"image": "https://i.postimg.cc/hj4N4fvg/ff0d98f8bef494a87e097c8b12dbacff-1.jpg",
+	"url": "https://bembed.net/v/l4vexvDbJq3O8B9",
+	"info": "23-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Vitaly 🆚 Modeen",
+	"image": "https://i.postimg.cc/NMd0j49p/Untitled-design-3-2-1024x563-1.jpg",
+	"url": "https://bembed.net/v/KrdZ5kd994pxmX4",
+	"info": "23-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Valdez 🆚 Wilson",
+	"image": "https://i.postimg.cc/CL3wFrY9/17114655151359-1.jpg",
+	"url": "https://embedme.xyz/d/4oqn2rlgjah1",
+	"info": "29-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Goulamirian 🆚 Zurdo",
+	"image": "https://i.postimg.cc/0QZ3X4B3/image-2-1.jpg",
+	"url": "https://bembed.net/v/edVqE4r1ApQ5YWm",
+	"info": "30-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Walker 🆚 Beech Jr",
+	"image": "https://i.postimg.cc/9fd2Zr5d/3003-Boxe-2-1.png",
+	"url": "https://bembed.net/v/3Q0lxBWvLN8Ej1J",
+	"info": "30-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Wardley 🆚 Clarke",
+	"image": "https://i.postimg.cc/fLCn8xSf/wardley-vs-clarke-1.jpg",
+	"url": "https://bembed.net/v/8lKQxYVynBgEDGY",
+	"info": "31-03-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Sánchez 🆚 Ruiz",
+	"image": "https://i.postimg.cc/8cpskDCQ/H2-Gd-Gtito-sanchez-vs-erik-ruiz-1-slug-1.jpg",
+	"url": "https://bembed.net/v/Ro7kOVV7rjJOZWB",
+	"info": "04-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Anderson 🆚 Merhy",
+	"image": "https://i.postimg.cc/FHs1MSRn/anderson-merhy-400x240-1.jpg",
+	"url": "https://filemoon.sx/d/topvvfekcsy0",
+	"info": "13-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Gill 🆚 Barrett",
+	"image": "https://i.postimg.cc/kgnmgwVx/Jordan-Gill-vs-Zelfa-Barrett-1.jpg",
+	"url": "https://filemoon.sx/d/q4ngz0rwvit3",
+	"info": "13-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Álvarez 🆚 Cecchi",
+	"image": "https://i.postimg.cc/13HXN55z/IMG-20240413-235117-641.jpg",
+	"url": "https://filemoon.sx/d/wrjk9lhy9mnw",
+	"info": "13-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "IBA Champions Night- Tashken 2024",
+	"image": "https://i.postimg.cc/VL7dLT23/Tashkent-2024-main-card-for-site-1.jpg",
+	"url": "https://filemoon.sx/d/7p6sf3sh2u6b",
+	"info": "14-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Haney 🆚 Garcia- PRELIMINARES",
+	"image": "https://i.postimg.cc/MGVj2x4z/haney-garcia-barclays-1.jpg",
+	"url": "https://filemoon.sx/d/qye48op94dc4",
+	"info": "20-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Haney 🆚 Garcia- MAINCARD",
+	"image": "https://i.postimg.cc/MGVj2x4z/haney-garcia-barclays-1.jpg",
+	"url": "https://filemoon.sx/d/zbt3vcvvod03",
+	"info": "20-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Rankin 🆚 Mannes",
+	"image": "https://i.postimg.cc/nLV3HF4c/IMG-20240427-124129-1.jpg",
+	"url": "https://listeamed.net/v/LQm9OXNdQ1Px1lg",
+	"info": "26-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "McGrail 🆚 Leach",
+	"image": "https://i.postimg.cc/zBgNrjzS/peter-mcgrail-vs-marc-leach-sm9tqf7d29q91fhivf4db8w1g-1.jpg",
+	"url": "https://filemoon.sx/d/7k030ngm54gn",
+	"info": "27-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Ramírez 🆚 Barthélemy",
+	"image": "https://i.postimg.cc/J0fkkDnX/IMG-20240428-122355-1.jpg",
+	"url": "https://filemoon.sx/d/n7ylve2z84ul",
+	"info": "27-04-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Canelo 🆚 Munguía",
+	"image": "https://i.postimg.cc/h4XwvWTn/maxresdefault-1.jpg",
+	"url": "https://filemoon.sx/d/ar5pt8cq18rj",
+	"info": "04-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Canelo 🆚 Munguía SOLO COMBATE-*LATINO*",
+	"image": "https://i.postimg.cc/h4XwvWTn/maxresdefault-1.jpg",
+	"url": "https://filemoon.sx/d/oyqxgyha2b7x",
+	"info": "04-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Quiles 🆚 Ibáñez",
+	"image": "https://i.postimg.cc/GhjyvjPh/main-card-site-size-new-1.jpg",
+	"url": "https://listeamed.net/v/qA3WOmGba9exKkz",
+	"info": "04-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Bohrmann 🆚 Demarco",
+	"image": "https://i.postimg.cc/jqMbQBYM/GMQ-Uum-XQAAQk-D-1.jpg",
+	"url": "https://listeamed.net/v/l4vexvDB8zAO8B9",
+	"info": "04-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Davies Jr 🆚 Lipinets",
+	"image": "https://i.postimg.cc/MHCZJKJb/IMG-20240509-231313-1.jpg",
+	"url": "https://listeamed.net/v/rabVOQQqoqJOKdW",
+	"info": "08-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Papi 🆚 Ferrari",
+	"image": "https://i.postimg.cc/hvZP78sj/IMG-20240510-154609-1.jpg",
+	"url": "https://listeamed.net/v/QNB7xA2LmPYE0WG",
+	"info": "11-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Lomachenko 🆚 Kambosos",
+	"image": "https://i.postimg.cc/c49Vx7ZY/dc9d61ac1afb89629f419f07f480dc0dcf18adc3571ce60ed539135d02fe8f19-rimg-w1200-h675-dc080506-gmir-1.jpg",
+	"url": "https://listeamed.net/v/7QWN5eyWWY659oR",
+	"info": "11-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Bentley 🆚 Dignum",
+	"image": "https://i.postimg.cc/ZqhVPjh1/GKUXloc-XIAAGs-N9-1.jpg",
+	"url": "https://listeamed.net/v/edVqE4r6brR5YWm",
+	"info": "11-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Fury 🆚 Usyk",
+	"image": "https://i.postimg.cc/N054RCp3/IMG-20240518-115347-1.jpg",
+	"url": "https://listeamed.net/v/l4vexvDkzVVO8B9",
+	"info": "18-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Navarrete 🆚 Berinchyk",
+	"image": "https://i.postimg.cc/G2yNQ6DJ/1280x720-20240501154126-1.jpg",
+	"url": "https://listeamed.net/v/g9Vd5JWNnrjxqQj",
+	"info": "18-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Rozanski 🆚 Okolie",
+	"image": "https://i.postimg.cc/CKzKYrhB/IMG-20240530-205312-1.jpg",
+	"url": "https://filemoon.sx/d/fq8eamps0o7x",
+	"info": "24-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Taylor 🆚 Catterall 2",
+	"image": "https://i.postimg.cc/tgZkFW0L/taylor-vs-catterall-2-1.jpg",
+	"url": "https://listeamed.net/v/qA3WOmG8gA9xKkz",
+	"info": "25-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Brooke 🆚 Vanzant",
+	"image": "https://i.postimg.cc/jjpvsXgM/brooke-vs-vanzant-full-fight-video-poster-2024-05-25-1.jpg",
+	"url": "https://listeamed.net/v/PlBVEZ08RK05Dv9",
+	"info": "25-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": " Mbilli 🆚 Heffron",
+	"image": "https://i.postimg.cc/sXQtfJpx/IMG-20240527-210818-1.jpg",
+	"url": "https://listeamed.net/v/6zeREaDqq07xZPa",
+	"info": "25-05-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": " Queensberry 🆚 Matchroom - 5🆚5",
+	"image": "https://i.postimg.cc/bwwvnmmH/IMG-20240603-194650-716.jpg",
+	"url": "https://listeamed.net/v/VqbX53gzMzq5Qzp",
+	"info": "01-06-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+    { 
+	"name": "Collazo 🆚 Zapata",
+	"image": "https://i.postimg.cc/JhC8S9qH/maxresdefault.jpg",
+	"url": "https://listeamed.net/v/ZMVoEr8lZkB59Pa",
+	"info": "07-06-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	}
+ 
+]
+}
+ 
+]
+}
