@@ -5,32 +5,8 @@
     "info": "",
     "telegram": "+GLnUVPEyXiU5Y2U0",
     "url": "https://tinworld.vercel.app/16.Menu.Testing.w3u",
-    "groups": [{
-             "name": "FUTBOL",
-            "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-            "info": "",
-	    "stations": [{
-			"name": "@Futbol",
-		   "image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
-		  "url" : "https://twitter.com/futboladictoshd",
-		  "embed": "true"},
-		  {
-			"name": "Grupo Soporte",
-		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  "url" : "https://discord.gg/phVVJFSR4t",
-		  "embed": "true"}, 
-		  {
-			"name": "@futboladictohd",
-		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
-		  "url" : "https://instagram.com/futboladictohd",
-		  "embed": "true"}]
-	}, 
- 
-	{
-             "name": "Ultm. versión 12/--/2024",
-            "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-            "info": "última versión actualizada el 12/--/2024"
-	}, {
+    "groups": [ 
+                        {
 			"name": "TESTING 27/02",
 		   "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
 		   "info": "",
@@ -1029,23 +1005,8 @@
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [{}]
-	}, {
-             "name": "TIENDA - ADICTA",
-            "image": "https://i.ibb.co/nDZdjVS/Logo-Oficial-Shop-Finish.png",
-            "info": "",
-	    "stations": [
-		{
-			"name": "Web",
-			"info": "",
-		   	"image": "https://img.freepik.com/free-icon/internet_318-875883.jpg",    
-		  	"url" : "https://linktr.ee/tiendadictahd",
-		  	"embed": "true"
-		}, {
-			"name": "              By MoDz",
-		   	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
-		  	"url" : ""
-		}]
-	}, {
+	}, 
+        {
 	"name": "Zona Ace",
 	"image": "https://i.ibb.co/jZTqDYK/AceLogo.png",
 	"groups":
