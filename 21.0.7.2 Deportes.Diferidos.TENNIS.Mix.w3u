@@ -1,0 +1,59 @@
+{
+"name": "Deferred Sports TENNIS Mix",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/21.0.7.2 Deportes.Diferidos.TENNIS.Mix.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"stations":
+[
+        {
+        "name": "Rafa Nadal VS Alex de Minaur",
+        "info": "Torneo Conde Godó 2024",
+        "image": "https://i.postimg.cc/gjgpBj9d/2024-04-17-Alex-de-Minaur-vs-Nadal.jpg",
+        "url": "https://filemoon.sx/d/nmqknrcau6k7/Open_Barcelona_Alex_de_Minaur_VS_Rafa_Nadal_170424.mkv",
+        "online": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Rafa Nadal VS Flavio Cobolli",
+        "info": "Torneo Conde Godó 2024",
+        "image": "https://i.postimg.cc/nc4mwPKd/2024-04-16-Nadal-VS-Cobolli.jpg",
+        "url": "https://filemoon.sx/d/laty0odbiybr/Cobolli_VS_Nadal_160424.mkv",
+        "online": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Jason Kubler VS Rafa Nadal",
+        "info": "Torneo Brisbane Cup 2024",
+        "image": "https://i.ytimg.com/vi/eeDnQXejcwA/maxresdefault.jpg",
+        "url": "https://filemoon.sx/d/b37nsv2yz65j/Jason_Kubler_VS_Rafa_Nadal_Torneo_Brisbane_040124.mp4",
+        "online": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Dominic Thiem VS Rafa Nadal",
+        "info": "Torneo Brisbane Cup 2024",
+        "image": "https://i.ytimg.com/vi/rdZ2P1bXwgQ/maxresdefault.jpg",
+        "url": "https://filemoon.sx/d/d0tk273l1ylg/Dominic_Thiem_VS_Rafa_Nadal_Torneo_Brisbane_020124.mp4",
+        "online": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "Djokovic VS Alcaraz",
+        "info": "Riyadh Tennis Cup 2023",
+        "image": "https://i.postimg.cc/pTtBYVmb/alcarazvsdjokovic.jpg",
+        "url": "https://filemoon.sx/d/9jq02s1pmnhw",
+        "online": "true",
+        "isHost": "true"
+        },
+	{
+        "name": "Alcaraz vs Djokovic",
+        "info":"Ingles",
+        "image": "https://www.atptour.com/-/media/images/news/2023/08/20/03/13/alcaraz-djokovic-cincinnati-2023-graphic.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0MWJnMDB5a3F20",
+        "online":"true",
+        "isHost": "true"
+        }
+    ]
+}
