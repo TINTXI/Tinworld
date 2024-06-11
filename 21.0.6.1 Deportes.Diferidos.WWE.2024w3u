@@ -1,1 +1,45 @@
-
+{
+"name": "Deferred Sports WWE 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/21.0.6.1 Deportes.Diferidos.WWE.2024w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"stations":
+    [
+ {
+        "name": "WrestleMania 40",
+        "info":"[Dia 1]",
+        "image": "https://i.postimg.cc/VNgDNFxB/wrestle.png",
+        "url": "https://bembed.net/v/edVqE4rvk2D5YWm",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+		{
+        "name": "WrestleMania 40",
+        "info":"[Dia 2]",
+        "image": "https://i.postimg.cc/VNgDNFxB/wrestle.png",
+        "url": "https://bembed.net/v/k3gG5q3Dg1jE1N2",
+        "online":"true",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "WWE Elimination Chamber 2024",
+        "info":"Latino",
+        "image": "https://i.postimg.cc/vZw2G00x/elimination.png",
+        "url": "https://filemoon.sx/d/n1o0ordg4utz",
+        "online":"true",
+        "isHost": "true"
+        },
+        {
+        "name": "WWE Royal Rumble 2024",
+        "info":"Latino",
+        "image": "https://i.postimg.cc/3rCRphvQ/wwe.webp",
+        "url": "https://filemoon.sx/d/n5b5fsi8hnwj",
+        "online":"true",
+        "isHost": "true"
+        }
+    ]
+}
