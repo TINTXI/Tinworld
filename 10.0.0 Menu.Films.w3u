@@ -9,35 +9,35 @@
     [
         {
          "name": "Films VOD",
-         "image": "https://i.postimg.cc/SxdsBstp/logo6_11_201833.png",
+         "image": "https://i.postimg.cc/SsvYwsRK/logo6_11_201833_(1).png",
          "url": "https://tinworld.vercel.app/10.0.1 Films.VOD.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Films En Latino",
-         "image": "https://i.postimg.cc/BZmKKmC0/logo6_11_202043.png",
+         "image": "https://i.postimg.cc/hGMd1MqT/logo6_11_202043.png",
          "url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "Films En Español",
-         "image": "https://i.postimg.cc/vTZxKnbk/logo6-11-201932.png",
+         "image": "https://i.postimg.cc/Sj02xvWF/logo6_11_201932.png",
          "url": "https://tinworld.vercel.app/10.0.2 Films.En.Español.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "films Infantil",
-         "image": "https://i.postimg.cc/yxp3CNNd/logo6_11_20217.png",
+         "image": "https://i.postimg.cc/Y99mngpV/logo6_11_20217.png",
          "url": "https://tinworld.vercel.app/10.0.4 Films.Infantil.Español.w3u",
          "info":"",
          "import": false
         },
         {
         "name": "Films Sagas",
-        "image": "https://i.postimg.cc/hPh7bVC7/logo6_11_202543.png",
+        "image": "https://i.postimg.cc/C5nnYgns/logo6_11_202543.png",
         "url": "https://tinworld.vercel.app/10.0.5 Films.Sagas.Español.w3u",
         "import": false
         }
