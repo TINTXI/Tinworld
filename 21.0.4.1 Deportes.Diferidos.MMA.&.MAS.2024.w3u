@@ -7,7 +7,7 @@
 "info": "",
 "stations":
     [
-		{
+	{
       "name": "💥-Lights Out 13 
       Montes 🆚 Cataline",
       "image": "https://i.postimg.cc/y6vjTFfn/Lights-Out-Xtreme-Fighting-13.jpg",
@@ -609,6 +609,17 @@ Heavyweight Grand Prix",
         "isHost":"true",
         "online":"true"
         },
+    { 
+	"name": "💥-Cage Warriors  172 Hardwick 🆚 Prins", 
+	"image": "https://i.postimg.cc/t4yC1F1P/Hardwick-vs-Prins-16x9-1-1-1080x675-1.jpg", 
+	"url": "https://filemoon.sx/d/e84j6q9akcr2", 
+	"info": "25-05-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
         {
         "name": "💥-Bkfc fight night 
      Rubio 🆚 Gallegos",
@@ -641,7 +652,40 @@ Heavyweight Grand Prix",
         "embed":"",
         "isHost":"true",
         "online":"true"
+        },
+        {
+        "name": "💥-One Friday Fight 66
+ Kongchai 🆚 Hamidi",
+        "image": "https://i.postimg.cc/Xv31FY3p/hqdefault-1.jpg",
+        "url": "https://filemoon.sx/d/62q76zxtwans",
+        "info": "07-06-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-One Championship 167 
+     Tawanchai 🆚 Nattawut II",
+        "image": "https://i.postimg.cc/Hsv7XZg5/hq720-1.jpg",
+        "url": "https://filemoon.sx/d/hq1gtm9nid5o",
+        "info": "07-06-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "💥-Bkfc fight night 
+     Venís 🆚 Tabakov",
+        "image": "https://i.postimg.cc/X7qkRyNf/images-1.jpg",
+        "url": "https://filemoon.sx/d/keftvcsjbd49",
+        "info": "08-06-2024",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
         }
- 
+      
 ]
 }
