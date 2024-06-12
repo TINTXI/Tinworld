@@ -9,63 +9,63 @@
 [
         {
          "name": "FORMULA 1",
-         "image": "https://i.postimg.cc/02TY0f4r/logo-F1.png",
+         "image": "https://i.postimg.cc/x8QZpmdL/52d5598a7c1b5ee04954924c6be828b2.png",
          "url": "https://tinworld.vercel.app/21.0.1 Deportes.Diferidos.Formula1.w3u",
          "info":"",
          "import": false
         },
 	{
         "name": "MOTO GP",
-        "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
+        "image": "https://i.postimg.cc/JhcZcHSf/png-transparent-moto-gp-hd-logo-thumbnail.png",
 	    "url": "https://tinworld.vercel.app/21.0.2 Deportes.Diferidos.Motogp.w3u",
         "info": "Adri",
         "import": false
 	},
         {
          "name": "UFC",
-         "image": "https://i.postimg.cc/7LXFHQGd/Fight-Sports-new.png",
+         "image": "https://i.postimg.cc/PrjLK5Qh/st-small-507x507-pad-600x600-f8f8f8.png",
          "url": "https://tinworld.vercel.app/21.0.3 Deportes.Diferidos.UFC.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "MMA & MAS",
-         "image": "https://i.postimg.cc/X7wtYcgm/mma-new.png",
+         "image": "https://i.postimg.cc/3rCr8C25/mma.png",
          "url": "https://tinworld.vercel.app/21.0.4 Deportes.Diferidos.MMA.&.MAS.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "BOXING",
-         "image": "https://i.postimg.cc/8Cwg2xmb/Boxing2-new.png",
+         "image": "https://i.postimg.cc/kXgCnrnK/dbedf42b4d53c2c804f8ed2717fdf311.png",
          "url": "https://tinworld.vercel.app/21.0.5 Deportes.Diferidos.BOXING.w3u",
          "info":"Adri",
          "import": false
         },
         {
          "name": "WWE & MAS",
-         "image": "https://i.postimg.cc/RVjHcn1r/wwe-new.png",
+         "image": "https://i.postimg.cc/wxh59PWq/WWE-Logo.png",
          "url": "https://tinworld.vercel.app/21.0.6 Deportes.Diferidos.WWE.&.MAS.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "TENNIS",
-         "image": "https://i.postimg.cc/90TXwjVP/tennis-new.png",
+         "image": "https://i.postimg.cc/Zq2gzgwP/abstract-smash-shoot-ball-player-tennis-logo-template-illustration-304830-485.png",
          "url": "https://tinworld.vercel.app/21.0.7 Deportes.Diferidos.TENNIS.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "FOOTBALL",
-         "image": "https://i.postimg.cc/rp4tdqXx/Futbol-new.png",
+         "image": "https://i.postimg.cc/mkBWKJrX/istockphoto-1398961707-612x612.png",
          "url": "https://tinworld.vercel.app/21.0.8 Deportes.Diferidos.FOOTBALL.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "BASKET",
-         "image": "https://i.postimg.cc/SKsjPSPY/fiba-europe-new.png",
+         "image": "https://i.postimg.cc/R0thcWbc/plantilla-logotipo-baloncesto-dibujado-mano-23-2149366334.png",
          "url": "https://tinworld.vercel.app/21.0.9 Deportes.Diferidos.BASKET.w3u",
          "info":"",
          "import": false
