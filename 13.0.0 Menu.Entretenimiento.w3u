@@ -1,1 +1,26 @@
+{
+"name": "ENTRETENIMIENTO",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/13.0.0 Menu.Entretenimiento.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+    [
 
+        {
+        "name": "Programas Tv",
+        "image": "https://i.postimg.cc/05mPzVdW/creative-football-2018-world-championship-background-soccer-vector-illustration-53927-13-1.jpg",
+        "url": "https://tinworld.vercel.app/12.0.4 Docus.Futbol.w3u",
+        "info":"",
+        "import": false
+        },
+	      {
+        "name": "Documentales Tv",
+        "image": "https://i.postimg.cc/pV85PY9x/52d5598a7c1b5ee04954924c6be828b2-1-1.jpg",
+        "url": "https://tinworld.vercel.app/12.0.2 Docus.Formula1.w3u",
+        "info":"",
+        "import": false
+        }
+	   ]
+  }  
