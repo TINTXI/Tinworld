@@ -1,1 +1,150 @@
-
+{
+"name": "CoNCiertOS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/edit/mFp6uuP2",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+        "name": "Por Siempre RBD 2023",
+        "info":"",
+        "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Por Siempre RBD",
+                "info":"2023",
+                "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
+                "url":"https://www.linkbox.to/f-detail/ZnA0YXdnMDAwdjIy0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "Taylor Swift",
+        "info":"",
+        "image": "https://static.printler.com/cache/1/f/3/1/5/b/1f315bf893682921a8843ba3a05faa6351beee50.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Taylor Swift Fearless Tour 2010",
+                "info":"",
+                "image": "https://i.postimg.cc/Mp6bmr6Y/fearless-tour-2010.jpg",
+                "url":"https://embedv.net/v/g9Vd5JWy1VvxqQj",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Taylor Swift The Eras Tour 2023",
+                "info":"",
+                "image": "https://i.postimg.cc/Jntq4VX1/taylor.jpg",
+                "url":"https://filemoon.sx/d/mi46gatmctox",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "john Lennon",
+        "info":"",
+        "image": "https://i.postimg.cc/tR6NDb9y/lennon-poster.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "John Lennon Live in New York City 1972",
+                "info":"",
+                "image": "https://i.postimg.cc/VNTXBGTd/lennon-1972.png",
+                "url":"https://embedv.net/v/m7WJxgJ16Gd5Bze",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+		
+        {
+        "name": "Adele",
+        "info":"",
+        "image": "https://i.postimg.cc/ZKGCxwrM/adeleposter.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Adele Concierto Londres 2011",
+                "info":"",
+                "image": "https://i.postimg.cc/qBY8WXs8/D-NQ-NP-698403-MLM25595104540-052017-O.png",
+                "url":"https://embedv.net/v/MAlwEMYW3PVEJ39",
+                "isHost":"true",
+                "online":"true"
+                },
+         	   ]
+		     },
+             {
+        "name": "Iron Maiden",
+        "info":"",
+        "image": "https://i.postimg.cc/zBTm3M4b/iron-maiden-band-2012.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Iron Maiden Vuelo 666",
+                "info":"",
+                "image": "https://i.postimg.cc/43RckHv6/iron-maiden-vuelo-666.jpg",
+                "url":"https://embedv.net/v/04rQxWWGYyAxb2N",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Iron Maiden rock Am Ring",
+                "info":"",
+                "image": "https://i.postimg.cc/yN812Vg1/iron-maiden-rock-am-ring-2014.jpg",
+                "url":"https://embedv.net/v/VqbX53gG6jB5Qzp",
+                "isHost":"true",
+                "online":"true"
+                }, 
+               ]
+		     },
+                {
+        "name": "Metallica",
+        "info":"",
+        "image": "https://i.postimg.cc/Y2zFWxcT/metallica-portada.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Metallica Manchester 2019",
+                "info":"",
+                "image": "https://i.postimg.cc/fTXRdz0y/metallica-manchester-2019.jpg",
+                "url":"https://embedv.net/v/3Q0lxBWX7WmEj1J",
+                "isHost":"true",
+                "online":"true"
+                },
+               ]
+		     },
+                {
+        "name": "Camila Cabello",
+        "info":"",
+        "image": "https://i.postimg.cc/FRt3Q98L/camila-cabello-portada.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Camila Cabello Rock In Rio 2022",
+                "info":"",
+                "image": "https://i.postimg.cc/ZR3gT5Rt/cabello-rock-in-rio-2022.jpg",
+                "url":"https://embedv.net/v/edVqE4rG6y85YWm",
+                "isHost":"true",
+                "online":"true"
+                }
+ 
+         	   ]
+		     }
+	       ]
+         }
+       ]
+     }
