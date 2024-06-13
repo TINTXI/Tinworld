@@ -8,15 +8,15 @@
 "groups":
     [
         {
-         "name": "Todo Mma",
-         "image": "https://i.postimg.cc/tgptymrN/logo6-10-132723.png",
+         "name": "Todo Ufc / Mma & Mas",
+         "image": "https://i.postimg.cc/qRcpDdX5/IMG-20240613-093104-1.jpg",
          "url": "https://tinworld.vercel.app/12.0.1.1 Docus.Todo.Mma.Fights.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Todo Boxeo",
-         "image": "https://i.postimg.cc/25Qc7Zt2/logo6-10-132643.png",
+         "image": "https://i.postimg.cc/2yPT1ggC/boxing-is-life-2-tee-titan-1.jpg",
          "url": "https://tinworld.vercel.app/12.0.1.2 Docus.Todo.Boxeo.Fights.w3u",
          "info":"",
          "import": false
