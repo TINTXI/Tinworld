@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0 group-title="Radios-Lima",-Radios Lima-
+http://127.0.0.1
+#EXTINF:0,RPP 
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP_SC
+ 
+#EXTINF:0,Radio Exitosa
+rtmp://167.114.116.212:1935/radioexitosa2016/radioexitosa.stream
+ 
+#EXTINF:0,Radio Capital
+http://17833.live.streamtheworld.com/RADIO_CAPITAL.mp3
+ 
+#EXTINF:0,VOA-Voz de América ok
+https://voa18.akacast.akamaistream.net/7/690/437800/v1/ibb.akacast.akamaistream.net/voa18
+ 
+#EXTINF:0,Radio La Inolvidable
+http://18723.live.streamtheworld.com/CRP_LI_SC
+ 
+#EXTINF:0,Radio Magica
+http://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC_SC
+ 
+#EXTINF:0,Radio Romantica
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
+ 
+#EXTINF:0,Radio Moda
+http://19263.live.streamtheworld.com/CRP_MOD_SC
+ 
+#EXTINF:0,Radio Doble Nueve I
+#EXTGRP:unsorted
+http://198.100.158.66:9028
+ 
+#EXTINF:0,Radio Doble Nueve II
+http://198.100.158.66:7032
+ 
+#EXTINF:0,RADIOM7 (x)
+http://eu6.fastcast4u.com:5004/live
+ 
+#EXTINF:0,Radio Retro Rock & Pop
+http://ample-zeno-01.radiojar.com/a8g40s66s44tv
+ 
+#EXTINF:0,Radio Studio-92
+http://14523.live.streamtheworld.com/RADIO_STUDIO92_SC
+#EXTINF:0,Z-Rock-y-Pop-96-1-fm-lima
+http://167.114.118.120:7440/;
+#EXTINF:0,Radio La Zona-90.5-fm (Opc. 1)
+http://17833.live.streamtheworld.com/RADIO_LAZONA_SC
+#EXTINF:0,Radio La Zona-90.5-fm (Opc. 2)
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONA_SC
+#EXTINF:0,Radio Oasis (Opc.1)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:0,Radio Oasis (Opc.2)
+http://18723.live.streamtheworld.com/CRP_OAS_SC
+#EXTINF:0,Radio Onda Cero
+http://192.99.148.184:6720/stream/1/
+#EXTINF:0,Radio Oxigeno -2
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO_SC
+#EXTINF:0,Telestereo 88.3 Fm
+http://67.212.179.138:8300/;
+#EXTINF:0,Bossa Nova Radio Club 
+http://195.154.56.114:9056
+#EXTINF:0,Radio Planeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?dist=20001
+#EXTINF:0,Hot Mix Radio 
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:0,Top Latino-Peru 
+http://online.radiodifusion.net:1935/latino/latino.stream/manifest_w1389967755.mpd
+#EXTINF:-1,Radio Disney - Mex
+http://173.192.105.252:8000/stream/1/
+#EXTINF:-1,Radio Disney - Peru
+https://5949aa132c8fb.streamlock.net:554/ipradiodigital/livedigitalradio/playlist.m3u8
+#EXTINF:0,Frecuencia Primera
+http://67.212.179.138:8084/;
+ 
+#EXTINF:0,Radio Bahia (Zona Sur)
+http://167.114.118.119:7494/;
+#EXTINF:0,Radio Señal Pirata
+http://198.100.158.66:7068/;
+#EXTINF:0,Radio Dance
+http://streaming.radionomy.com/Dance90Music?lang=es-ES,es;q=0.9,en;q=0.8
+#EXTINF:0,Top Latino 
+http://online.radiodifusion.net:8020/
+#EXTINF:0,Zona Free
+http://199.15.251.230:8007/stream
+#EXTINF:-1,Radio Retro Rock & Pop
+http://ample-zeno-01.radiojar.com/a8g40s66s44tv
+#EXTINF:-1,Radio Uno-93-7-fm
+http://173.244.209.219:6012/;
+ 
+#EXTINF:0 group-title="Romanticas",Romanticas
+http://??
+#EXTINF:0,Radio Corazon
+http://18623.live.streamtheworld.com/RADIO_CORAZON.mp3
+#EXTINF:0,Radio Felicidad 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDAD_SC
+#EXTINF:0,Radio Radio-Inolvidable (Opc.1)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC
+#EXTINF:0,Radio Radio-Inolvidable (Opc.2)
+http://18723.live.streamtheworld.com/CRP_LI_SC
+#EXTINF:0,Radio Amor
+http://167.114.118.120:7450/;
+#EXTINF:0,Radio Corazon 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZON_SC
+#EXTINF:0,Radio Bulevar 
+http://198.100.158.66:7022/;
+#EXTINF:0,Radio Imagina (Chile)
+http://14003.live.streamtheworld.com/IMAGINA_SC
+ 
+#EXTINF:0 group-title="Radios-Salsa", Radios Salsa
+http://??
+#EXTINF:0,Radio Panamericana
+http://192.99.148.184:6710/stream/1/
+#EXTINF:0,Radio Mar-106.3-fm (Opc.1)
+http://14613.live.streamtheworld.com/CRP_MAR_SC
+#EXTINF:0,Radio Mar-106.3-fm  (Opc. 2)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
+#EXTINF:0,Radio Mar-106.3-fm  (Opc. 3)
+http://16643.live.streamtheworld.com/CRP_MARAAC_SC
+#EXTINF:0,Radio Fama
+http://195.154.56.114:9190/;stream.mp3
+#EXTINF:0,Radio La Kalle 
+http://167.114.118.120:7448/;
+#EXTINF:0,Radio Inca-540-Lima (Opc. 2)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_INC_SC
+#EXTINF:0,Radio Nueva Q
+http://19253.live.streamtheworld.com/CRP_NQ_SC
+#EXTINF:0,Radio Turbo-Mix
+http://167.114.118.120:7624/;
+#EXTINF:0,Radio Folk-Radio
+http://gnstreammedia.net:8020/;
+#EXTINF:0,Radio La-Karibena
+rtmp://167.114.116.212:1935/corporacionz/radiokaribena.stream
+#EXTINF:0,Radio Comas
+http://65.60.2.26:8044/;
+#EXTINF:0,Radio Cumbia Mix-91.9-fm
+http://perseo.sistemas4g.com:6730/stream/1/
+#EXTINF:0,Radio Union
+http://67.212.179.138:7218/;
+#EXTINF:0,Radio Maria-Peru
+http://dreamsiteradiocp4.com:8020/stream/1/
+#EXTINF:0,Radio Filarmonia 1
+rtmp://fms003.mediastream.com.pe/av_filarmonia/audio01
+ 
+#EXTINF:0 group-title="Provincias", PROVINCIAS - PERU
+http://??
+#EXTINF:0,Radio Callao
+http://stream.infomagia.com:8000/stream/1/
+#EXTINF:0,Radio Satelite Callao 
+http://195.154.56.114:7044/stream/1/
+#EXTINF:0,Radio Matucana
+http://radio.transmite.pe:9316/stream/1/
+#EXTINF:0,Radio Jr. Arequipa 
+http://99.198.110.162:8038/;
+#EXTINF:0,Radio Sonica
+http://51.255.123.116:6017/stream
+#EXTINF:0,Radio 88
+http://65.60.45.74:8058/;
+#EXTINF:0,Radio San Martin
+http://67.212.179.138:8054/;
+#EXTINF:0,Radio Tropical-Tarapoto 
+http://radio.tmcreativos.com:7730/stream/1/
+#EXTINF:0,Radio Laser-Tarapoto
+http://198.100.158.66:9308/;
+#EXTINF:-1,Radio Laser-Tarapoto
+http://195.154.56.114:9326/;
+#EXTINF:0,San Juanera 
+http://65.60.2.26:8178
+#EXTINF:0,El Refugio del Puma 
+http://oyotunstream.com:7212
+#EXTINF:0,Radio Uno-93-7-fm Tacna
+https://streamingv2.shoutcast.com/radiounotacna
+#EXTINF:-1,Radio Antena Sur
+http://108.178.57.196:8047/;
+#EXTINF:-1,Radio Jr. Arequipa
+http://99.198.110.162:8038/;
+#EXTINF:-1,Radio Litoral
+http://playservistream.net:7050/;
+#EXTINF:-1,Radio Sonica
+http://51.255.123.116:6017/stream
+#EXTINF:-1,Radio 88
+http://65.60.45.74:8058/;
+#EXTINF:-1,Radio San Martin
+http://67.212.179.138:8054/;
+ 
+#EXTINF:0 group-title="Instrumental",RADIOS INSTRUMENTAL
+http://?
+ 
+#EXTINF:0,Radio Filarmonia 1 
+rtmp://fms003.mediastream.com.pe/av_filarmonia/audio01
+#EXTINF:0,Radio NRJ Energy
+http://broadcast.infomaniak.net:80/energysoundtrack-high.mp3
+#EXTINF:0,Radiocinema-ch
+http://hosting-serv.com:9070/listen.pls
+#EXTINF:0,Radio Classique
+http://broadcast.infomaniak.net:80/radioclassique-high.mp3
+ 
+#EXTINF:0,Radio Riders
+http://streaming.radionomy.com/Riders-Space?lang=es-ES%2ces%3bq%3d0.8
+#EXTINF:0,Radio INSIDE
+http://hosting-serv.com:9070/; Title1=RADIO INSIDE Length1=-1 Version=2
+#EXTINF:0,Radio Country
+http://178.33.232.106:8008/stream
+#EXTINF:0,ACCENT
+http://str0.creacast.com/accent4
+#EXTINF:0,ADCFM
+http://playerservices.streamtheworld.com/api/livestream-redirect/ADCFM.mp3
+#EXTINF:0,1000 Oldies
+http://listen.radionomy.com/1000oldies.m3u
+#EXTINF:0,Movie Soundtrack Hits
+http://sc3c-sjc.1.fm:10108/;
+#EXTINF:0,Jazz Ever
+http://sc-Sax4Ever.1.fm:10148/
+#EXTINF:0,Christmas Soundtracks
+http://relay.181.fm:8114/
+#EXTINF:0,Anime Fandom Radio
+http://listen.radionomy.com/animefandomradio.m3u
+#EXTINF:0,Antenne Vorarlberg
+http://webradio.antennevorarlberg.at/90er.m3u
+#EXTINF:0,CFR - Classic Fashion Instrumental
+http://streaming.radionomy.com/ClassicFashionRadio
+#EXTINF:0,Blue Zone Bolz
+http://listen.radionomy.com/blue-zone-bolz.m3u
+#EXTINF:0,Radio Lounge
+http://listen.radionomy.com/1radiolounge
+#EXTINF:0,Radio 101.ru - Soulful House
+http://ic7.101.ru:8000/c13_29?
+#EXTINF:0,A Lounge Dream
+http://listen.radionomy.com/aloungedream-relax24h.m3u
+#EXTINF:0,ABONNI Café - Soulside Radio Paris
+http://37.187.59.149:2199/tunein/abonnicafe.pls
+#EXTINF:0,Absolute Chillout Radio
+http://listen.radionomy.com/absolutechillout
+#EXTINF:0,Air Lounge
+http://listen.radionomy.com/air-lounge.m3u
+#EXTINF:0,Crystal Radio-Canada
+http://206.72.196.133:8000/stream
+#EXTINF:0,Klassik Radio - Friends Home
+http://stream.klassikradio.de/friendshome/mp3-192/radiosure/
+#EXTINF:0,Alternative Rock Hit
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=13972
+#EXTINF:0,077 Radio
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=80849
+#EXTINF:0,100FM
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=84879
+#EXTINF:0,100FM Movies
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=84882
+#EXTINF:0,101 ru Cinema
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=25053
+#EXTINF:0,91.8 The Fan
+http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=47689
+#EXTINF:0,Christmas Soundtracks
+http://relay.181.fm:8114/
+#EXTINF:0,Dance 90 Music
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:0,Radio Dance
+http://streaming.radionomy.com/Dance90Music?lang=es-ES,es;q=0.9,en;q=0.8
+#EXTINF:-1,ABC Jazz -Radio
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1,Megaton Cafe Radio
+http://us2.internet-radio.com:8443/
+#EXTINF:-1,Majestic Radio
+http://uk3.internet-radio.com:8405/live
+#EXTINF:-1,Underground Fm 
+http://uk3.internet-radio.com:8405/live
+#EXTINF:0,Radiocinema-ch
+http://hosting-serv.com:9070/listen.pls
