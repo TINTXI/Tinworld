@@ -1,0 +1,204 @@
+{
+"name": "List Streaming",
+"author": "MARCO: Actualizada 17/03/2024 04:30",
+"epg": "",
+"image": "",
+"url": "https://pastebin.com/M94mXjsz",
+"groups": [
+ {
+ "name": "PAGE CHROME",
+ "image": "",
+ "stations": [
+{"name": "DISTRO TV",
+"image":"",
+"url": "https://distro.tv/",
+"embed": true
+},
+{"name": "Playmax Tv",
+"image":"",
+"url": "https://playmax.tv/",
+"embed": true
+},
+{"name": "EMISORAS GUATEMALA",
+"image": "",
+"url": "https://emisorasgt.com/",
+"desktop": true,
+"embed": true
+},
+{"name": "CANALES IPTV - PAISES",
+"image": "",
+"url": "https://dev-iptv.web.app/",
+"desktop": true,
+"embed": true
+},
+{"name": "VAUGHNSOFT LIVE",
+"image": "",
+"url": "https://vaughn.live/",
+"desktop": true,
+"embed": true
+},
+{
+"name": "Twitch-Cine",
+"image": "",
+"url": "https://www.twitch.tv/directory/all/tags/Cine?lang=es",
+"desktop": true,
+"embed": true
+},
+{
+"name": "PELICULAS - Twitch",
+"image":"",
+"url": "https://www.google.com/search?q=Mejores+canales+de+cine+en+Twitch&client=ms-android-motorola-rvo3&sca_esv=601534305&biw=432&bih=814&sxsrf=ACQVn0_qb5ZylwEf2cTqQGek7iUuHDgUjg%3A1706225518104&ei=bu-yZZ7WBYqH5OUPgIGymA8&oq=Mejores+canales+de+cine+en+Twitch&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIiFNZWpvcmVzIGNhbmFsZXMgZGUgY2luZSBlbiBUd2l0Y2gyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRIzrQBUN1KWPiFAXABeAGQAQCYAcYBoAHaDqoBBDAuMTG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBhAAGAcYHsICBRAAGIAEwgIEEAAYHsICChAhGAoYoAEYwwTCAgwQIRgKGKABGMMEGAriAwQYACBBiAYBkAYI&sclient=mobile-gws-wiz-serp",
+"embed": true
+}
+]
+},
+{
+"name": "Canales Peru-Varios",
+"image": "",
+"stations": [
+{"name": "|Pe| ATV",
+"image": "",
+"url": "https://www.atv.pe/envivo-atv",
+"embed": "true"
+},
+{"name": "|Pe|ATV MAS",
+"image": "",
+"url": "https://www.atv.pe/envivo-atvmas",
+"embed": "true"
+},
+{"name": "|Pe|ATV SUR",
+"image": "",
+"url": "https://www.atv.pe/envivo-atvsur",
+"embed": "true"
+},
+{"name": "|Pe|Peru-Latina Tv ",
+"image": "",
+"url": "https://www.latina.pe/tvenvivo",
+"embed": "true"
+},
+{"name": "|Pe|Panamericana Television - Chrome",
+"image": "",
+"url": "https://panamericana.pe/tvenvivo",
+"embed": "true"
+},
+{"name": "|Pe|Exitosa",
+"image": "",
+"url": "https://www.exitosanoticias.pe/tv/envivo",
+"embed": "true"
+},
+{"name": "|Pe|La Tele-Chrome",
+"image": "",
+"url": "https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvTEFURUxFL2Rhc2hfZmsvaW5kZXgubXBk&k1=NTBhNzExMjBhNGUwNDRkYjBiZGUzMDA3ZGFiYWM3MjE=&k2=YmNiYTkzOGQ2MDRjMGFmMTM2YTIyOTgzYTA3ODAwN2E=&aut=true&lang=0",
+"embed": "true"
+},
+{"name": "|Pe|Global - Chrome",
+"image": "",
+"url": "https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvR0xPQkFMSEQvZGFzaF9may9pbmRleC5tcGQ=&k1=NGE3ZTdlMGZmM2IyNDIxZWRhZTc0MzIxODJmZTIwN2I=&k2=OTA3NzZlOWY0MDhlYjUxMzRhYjQzZjEwNjE2ODFiMDc=&aut=true&lang=0",
+"embed": "true"
+},
+{"name": "|Pe|America - Chrome",
+"image": "",
+"url": "https://tucanaldeportivo.com/america.php",
+"embed": "true"
+},
+{"name": "|Pe|Panamericana Tv - Dailymotion ",
+"image": "",
+"url": "https://www.dailymotion.com/video/x774s7s",
+"embed": "true"
+},
+{"name": "|Pe|Congreso Tv Peru - Directo",
+"image": "",
+"url": "https://comunicaciones.congreso.gob.pe/tv-congreso/",
+"embed": "true"
+},
+{"name": "|Pe|Willax - Dailymotion",
+"image": "",
+"url": "https://www.dailymotion.com/video/x7x4dgx",
+"embed": "true"
+},
+{"name": "|Pe|PBO",
+"image": "",
+"url": "https://pbo.pe/#video-go",
+"desktop": true,
+"embed": true
+},
+{"name": "|Pe|PBO - Twitch",
+"image": "",
+"url": "https://m.twitch.tv/pboperu",
+"desktop": true,
+"embed": true
+},
+{"name": "|Pe|Canal B del Bicentenario",
+"image": "",
+"url": "https://canalb.pe/live/",
+"embed": "true"
+},
+{"name": "|Pe|TVL Libertad",
+"image": "",
+"url": "https://m.twitch.tv/tvlesp",
+"embed": "true"
+},
+{"name": "|Pe| Estelar Tv - Tpto_Chrome",
+"image": "",
+"url": "https://estelartvtarapoto.com/",
+"embed": "true"
+},
+{"name": "|Pe| Estelar Tv - Tarapoto",
+"image": "",
+"url": "https://tv.perustreaming.net:3817/live/estelartvlive.m3u8",
+"embed": "true"
+},
+{"name": "|Pe| CTV PERU",
+"image": "",
+"url": "https://ctv.pe/en-vivo",
+"embed": "true"
+},
+{"name": "|Pe| LIKE TV",
+"image": "",
+"url": "https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8",
+"embed": "true"
+},
+{"name": "TELEMUNDO",
+"image": "",
+"url": "https://www.twitch.tv/telefe",
+"embed": "true"
+},
+{"name": "Amazon Music",
+"image": "",
+"url": "https://m.twitch.tv/amazonmusic",
+"embed": "true"
+},
+{"name": "Relax Beats",
+"image": "",
+"url": "https://m.twitch.tv/relaxbeats",
+"embed": "true"
+},
+{"name": "Melito Tv",
+"image": "",
+"url": "https://m.twitch.tv/studio95melitotv",
+"embed": "true"
+},
+{"name": "STAR CHANNEL - TwitcH",
+"image": "",
+"url": "https://www.twitch.tv/vkkurt29x",
+"embed": "true"
+},
+{"name": "Clasius-Twitch",
+"image": "",
+"url": "https://m.twitch.tv/cl4sius",
+"embed": "true"
+},
+{"name": "Películas 52 - Twitch",
+"image": "",
+"url": "https://m.twitch.tv/peliculas52",
+"embed": "true"
+},
+{"name": "Beto Tv- Vaughnsoft",
+"image": "",
+"url": "https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv?android_vs.ts.m3u8",
+"embed": "true"
+}
+]
+}
+]
+}
