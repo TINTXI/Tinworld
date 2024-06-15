@@ -8,23 +8,6 @@
 "groups":
     [
         {
-        "name": "Por Siempre RBD 2023",
-        "info":"",
-        "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Por Siempre RBD",
-                "info":"2023",
-                "image": "https://i.postimg.cc/9Qc2hbVN/Microsoft-Teams-image-18-2.jpg",
-                "url":"https://www.linkbox.to/f-detail/ZnA0YXdnMDAwdjIy0",
-                "isHost":"true",
-                "online":"true"
-                }
-            ]
-        },
-        {
         "name": "Taylor Swift",
         "info":"",
         "image": "https://static.printler.com/cache/1/f/3/1/5/b/1f315bf893682921a8843ba3a05faa6351beee50.jpg",
