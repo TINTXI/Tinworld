@@ -737,8 +737,15 @@
         "isHost":"true",
         "online":"true"
 	},
-
-
+        {
+        "name": "KUNFU PANDA 4",
+        "info":"2024",
+        "image": "https://i.postimg.cc/N0RLLcJc/KUNG-FU-PANDA-4.jpg",
+        "url":"https://filemoon.sx/d/f1763hiwi9nt",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
 	{
         "name": "LEGO, LA PELICULA",
         "info":"2014",
