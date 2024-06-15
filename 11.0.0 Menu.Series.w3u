@@ -1932,9 +1932,9 @@
                                     }] 
 						}, 
 {
-"name": "MERLI-TEMPORADA 1",
+"name": "MERLI",
 "image": "https://i.postimg.cc/6qtsM4sj/merli-1.jpg",
-"info": "2015-2016",
+"info": "2015-2018",
 "stations":
 [
  
@@ -2067,17 +2067,7 @@
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9"
-} 
-]
-},
-
-{
-"name": "MERLI-TEMPORADA 2",
-"image": "https://i.postimg.cc/9X6mw2mz/merli-2.jpg",
-"info": "2016-2017",
-"stations":
-[
- 
+},  
 {
 "name": "Merlí 2x01",
 "image": "https://i.postimg.cc/9X6mw2mz/merli-2.jpg",
@@ -2207,17 +2197,7 @@
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9"
-} 
-]
-},
-
-{
-"name": "MERLI-TEMPORADA 3",
-"image": "https://i.postimg.cc/xjyxMyYH/merli-3.jpg",
-"info": "2017-2018",
-"stations":
-[
- 
+},  
 {
 "name": "Merlí 3x01",
 "image": "https://i.postimg.cc/xjyxMyYH/merli-3.jpg",
