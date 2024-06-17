@@ -14,7 +14,7 @@
 		"stations":
 			[
 				{
-				"name": "T1-PROGRAMA 1",
+				"name": "T1-Programa 1",
 				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
 				"url": "https://vbd.mediaset.es/orivod/vod/bitmovin/f8/8b/f88b1ed2-383d-4b85-a10f-53e7a96fbd85/main.ism/picky.m3u8?hdnts=st=1717595169~exp=1717609568~acl=/*~hmac=5867a9abe2c63f86c28050a7779cf4d2b897a6329939cb61d812701ae14fe8be",
        				"info": "2024",
@@ -22,7 +22,7 @@
                                 "online":"true"
                                 },
 				{
-				"name": "T1-PROGRAMA 2",
+				"name": "T1-Programa 2",
 				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
 				"url": "https://vbd.mediaset.es/orivod/vod/bitmovin/f8/8b/f88b1ed2-383d-4b85-a10f-53e7a96fbd85/main.ism/picky.m3u8?hdnts=st=1717595169~exp=1717609568~acl=/*~hmac=5867a9abe2c63f86c28050a7779cf4d2b897a6329939cb61d812701ae14fe8be",
        				"info": "2024",
@@ -30,7 +30,7 @@
                                 "online":"true"
                                 },
 				{
-				"name": "T1-PROGRAMA 1",
+				"name": "T1-Programa 3",
 				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
 				"url": "https://vbd.mediaset.es/orivod/vod/bitmovin/f8/8b/f88b1ed2-383d-4b85-a10f-53e7a96fbd85/main.ism/picky.m3u8?hdnts=st=1717595169~exp=1717609568~acl=/*~hmac=5867a9abe2c63f86c28050a7779cf4d2b897a6329939cb61d812701ae14fe8be",
        				"info": "2024",
@@ -40,13 +40,13 @@
                             ]
 		         },
                 {
-		"name": "APATRULLANDO",
+		"name": "Apatrullando",
 		"image": "https://i.postimg.cc/rFXhH0xS/images.jpg",
 		"info": "2024",
 		"stations":
 			[
                                 {
-				"name": "PROGRAMA 1 (El Centro)",
+				"name": "Programa 1 (El Centro)",
 				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
 				"url": "https://filemoon.sx/d/ve2j1ssz486b",
        				"info": "2024",
@@ -54,7 +54,7 @@
                                 "online":"true"
                                 },
                                 {
-				"name": "PROGRAMA 2 (Ibiza)",
+				"name": "Programa 2 (Ibiza)",
 				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
 				"url": "https://filemoon.sx/d/l3xx95dvgmly",
        				"info": "2024",
