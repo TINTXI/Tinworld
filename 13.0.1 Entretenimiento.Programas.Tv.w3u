@@ -42,7 +42,37 @@
                                 "info":"",
                                 "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
                                 "playInNatPlayer": "true"
-                               }
+                               },
+
+
+                {
+		"name": "APATRULLANDO",
+		"image": "https://i.postimg.cc/rFXhH0xS/images.jpg",
+		"info": "2024",
+		"stations":
+			[
+				{
+				"name": "PROGRAMA 1 (El Centro)",
+				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
+				"url": "https://filemoon.sx/d/ve2j1ssz486b",
+       				"info": "2024",
+       				"referer":"https://dlhd.sx/24-7-channels.php",
+                                "info":"",
+                                "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
+                                "playInNatPlayer": "true"
+                                },
+				{
+				"name": "PROGRAMA 2 (Ibiza)",
+				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg,
+				"url": "https://filemoon.sx/d/l3xx95dvgmly",
+       				"info": "2024",
+       				"referer":"https://dlhd.sx/24-7-channels.php", 
+                                "info":"",
+                                "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/105.0.0.0 Safari/537.36", 
+                                "playInNatPlayer": "true"
+                                }
+			    ]
+		         }
 			    ]
 		         }
 	              ]
