@@ -1,16 +1,12 @@
 {
-  "name": "ZONE ACES",
-  "author": "(08/03/2024)",
-  "url": "https://tinworld.vercel.app/15.Menu.Variada.w3u",
-  "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-  "contact": "",
-  "imageScale": "fitCenter",
-  "groups": [
-{
-      "name": "AceStream",
-      "image": "https://iili.io/JVzQWcQ.png",
-      "groups": [
-        {
+"name": "ZONE ACES",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/15.0.1 Zone.Aces.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"groups":
+    [
           "name": "LaLiga por M+",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/320px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
           "stations": [
