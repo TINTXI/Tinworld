@@ -1,1 +1,42 @@
+{
+"name": "ZONE",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/14.0.0 Menu.Mix.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+    [
 
+        {
+        "name": "ZONE ACES",
+        "image": "https://i.postimg.cc/d0vCzBs6/descarga-1.jpg",
+        "url": "https://tinworld.vercel.app/14.0.1 Mix.Conciertos.w3u",
+        "info":"",
+        "import": false
+        },
+	      {
+        "name": "ZONE LA LIGA",
+        "image": "https://i.postimg.cc/j2d09BmT/images-1.png",
+        "url": "https://tinworld.vercel.app/14.0.2 Mix.Musica.TV.w3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "ZONE MOVISTAR",
+        "image": "https://i.postimg.cc/d0vCzBs6/descarga-1.jpg",
+        "url": "https://tinworld.vercel.app/14.0.1 Mix.Conciertos.w3u",
+        "info":"",
+        "import": false
+        },
+	      {
+        "name": "ZONE DAZN",
+        "image": "https://i.postimg.cc/j2d09BmT/images-1.png",
+        "url": "https://tinworld.vercel.app/14.0.2 Mix.Musica.TV.w3u",
+        "info":"",
+        "import": false
+        }
+	   ]
+  } 
+]
+} 
