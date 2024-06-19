@@ -1,13 +1,4 @@
-{
-"name": "Mix Musica TV",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"url": "https://tinworld.vercel.app/14.0.2 Mix.Musica.TV.w3u",
-"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"telegram": "TINWORLD_3_0",
-"info": "",
-"groups":
-    [
-       #EXTM3U 
+#EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio ✪ | CL
