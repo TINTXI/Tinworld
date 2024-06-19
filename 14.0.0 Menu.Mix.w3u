@@ -10,14 +10,14 @@
 
         {
         "name": "Mix Conciertos",
-        "image": "https://i.postimg.cc/d0vCzBs6/descarga-1.jpg",
+        "image": "https://i.postimg.cc/wjMhGvHY/images-1.jpg",
         "url": "https://tinworld.vercel.app/14.0.1 Mix.Conciertos.w3u",
         "info":"",
         "import": false
         },
 	      {
         "name": "Mix Musica Tv-Proximamente",
-        "image": "https://i.postimg.cc/j2d09BmT/images-1.png",
+        "image": "",
         "url": "https://tinworld.vercel.app/14.0.2 Mix.Musica.TV.w3u",
         "info":"",
         "import": false
