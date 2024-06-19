@@ -10,28 +10,28 @@
 
         {
         "name": "ZONE ACES",
-        "image": "https://i.postimg.cc/d0vCzBs6/descarga-1.jpg",
+        "image": "https://i.postimg.cc/FswFJym6/logo6-19-11523.png",
         "url": "https://tinworld.vercel.app/15.0.1 Zone.Aces.w3u",
         "info":"",
         "import": false
         },
 	      {
         "name": "ZONE LA LIGA",
-        "image": "https://i.postimg.cc/j2d09BmT/images-1.png",
+        "image": "https://i.postimg.cc/XvbVsnrc/logo6-19-103825.png",
         "url": "https://tinworld.vercel.app/15.0.1 Zone.La.Liga.w3u",
         "info":"",
         "import": false
         },
         {
         "name": "ZONE MOVISTAR",
-        "image": "https://i.postimg.cc/d0vCzBs6/descarga-1.jpg",
+        "image": "https://i.postimg.cc/R0Mk3h38/logo6-19-105823.png",
         "url": "https://tinworld.vercel.app/15.0.1 Zone.Movistar.w3u",
         "info":"",
         "import": false
         },
 	      {
         "name": "ZONE DAZN",
-        "image": "https://i.postimg.cc/j2d09BmT/images-1.png",
+        "image": "https://i.postimg.cc/3wx3snZd/logo6-19-10323.png",
         "url": "https://tinworld.vercel.app/15.0.4 Zone.Dazn.w3u",
         "info":"",
         "import": false
