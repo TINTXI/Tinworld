@@ -8,10 +8,28 @@
 "stations":
 	[
 		{ 
-		"name": " Únete Al Grupo",
+		"name": "Entra Aqui Y Únete Al Grupo",
 		"image": "https://i.postimg.cc/d1N8KdMz/Telegram.png",
 		"url": "https://t.me/TINWORLD_3_0",
 		"embed": "true"
-		}
+		},
+                {
+                "name": "El Contenido Es Libre y Recopilado De Internet",
+                "image":"https://s3.ppllstatics.com/rc/www/multimedia/2023/04/11/cuantas-horas-pasamos-internet-kfDH-U20039963275RQB-1200x840@RC.jpg",
+                "url": "https://m.youtube.com/watch?v=KjDbmjROHHA",
+                "embed": "true"
+                },
+                {
+                "name": "Super Agradecido A @yIsus_mEx Por Su Gran Ayuda",
+                "image":"https://i.postimg.cc/Vv6TmDKN/mil-gracias-postales-de-animo-contra-coronavirus-enviar-online-33535-63.jpg",
+                "url": "https://www.dailymotion.com/embed/video/x8cxj80",
+                "embed": "true"
+                },
+                {
+                "name": "Super Agradecido A @AdriDeCai Por Su Gran Ayuda",
+                "image":"https://i.postimg.cc/Vv6TmDKN/mil-gracias-postales-de-animo-contra-coronavirus-enviar-online-33535-63.jpg",
+                "url": "https://www.dailymotion.com/embed/video/x8cxj80",
+                "embed": "true"
+                }
 	]
 }
