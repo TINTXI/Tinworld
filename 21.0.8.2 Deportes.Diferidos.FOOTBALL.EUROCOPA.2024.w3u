@@ -1,1 +1,353 @@
-
+{
+"name": "Deferred Sports FOOTBALL EUROCOPA 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/21.0.8.2 Deportes.Diferidos.FOOTBALL.EUROCOPA.2024.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+    {
+		"name": "Grupo A",
+ 		"image": "https://i.postimg.cc/fRDZMFvr/Grupo-A-de-la-Eurocopa.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Alemania Vs Escocia",
+ 				"info":"[14-Junio-24]",
+ 				"image":"https://i.postimg.cc/pL6cXcbH/1.png",
+ 				"url":"https://filemoon.sx/d/bzlpy4bgjrkl",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Hungría Vs Suiza",
+				"info":"[15-Junio-24]",
+				"image":"https://i.postimg.cc/ZKyxxbX1/2.png",
+				"url":"https://filemoon.sx/d/tylf1yt6hfv7",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Alemania Vs Hungría",
+				"info":"[19-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/3QFSTE4ENKLZBCJA5V77EDSZ7M.jpg?auth=6494d3912431458afb5ff3b78cf2c6a94b3d6dde1da2595bbd513f54c874ddfa&width=644&height=362&focal=1278%2C788",
+				"url":"https://filemoon.sx/d/dgh78pkb0gq8/Eurocopa_2024_Alemania_VS_Hungria_190624_1080.mkv",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Escocia Vs Suiza",
+				"info":"[19-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/452CCANHJE45NNK5JG5A44PK2M.jpg?auth=79618f3a6350ac22b391ded8b8917a824df994ada6163faad61710f6d97df153&width=644&height=362&focal=1518%2C1141",
+				"url":"https://filemoon.sx/d/ltx71xdebt7h/Eurocopa_2024_Escocia_VS_Suiza_190624_1080_50FPS.mkv",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Suiza Vs Alemania",
+				"info":"[23-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Escocia Vs Hungría",
+				"info":"[23-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		},
+		{
+		"name": "Grupo B",
+ 		"image": "https://i.postimg.cc/Kj4gW5cv/Grupo-B-de-la-Eurocopa.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "España Vs Croacia",
+ 				"info":"[15-Junio-24]",
+ 				"image":"https://i.postimg.cc/8zrSB6bL/3.png",
+ 				"url":"https://filemoon.sx/d/rwwcjdoiiang",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Italia Vs Albania",
+				"info":"[15-Junio-24]",
+				"image":"https://i.postimg.cc/CL3t06jf/4.png",
+				"url":"https://filemoon.sx/d/0wb8etuf4uml",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Croacia Vs Albania",
+				"info":"[19-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/TN3VX3WXOCN3H5ICTYT65KS3O4.jpg?auth=722d7b88d8ea0576668ca58dacb5c5c88edaf1a841fb61bdd21e0a443f49dd3f&width=644&height=362&focal=1638%2C361",
+				"url":"https://filemoon.sx/d/fiz67nem76nw/Eurocopa_2024_Croacia_VS_Albania_190624_1080.mkv",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "España Vs Italia",
+				"info":"[20-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/2GVU47HPCEVMKYTKLXNTQK7V7E.jpg?auth=ebb5f6a8d933975d2d21dcc3daa5403823f938418d68fc6d7831862026e0270b&width=644&height=362&focal=1669%2C245",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Albania Vs España",
+				"info":"[24-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Croacia Vs Italia",
+				"info":"[24-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		},
+		{
+		"name": "Grupo C",
+ 		"image": "https://i.postimg.cc/mgHRwpM2/Grupo-C-de-la-Eurocopa-2024.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Eslovenia Vs Dinamarca",
+ 				"info":"[16-Junio-24]",
+ 				"image":"https://i.postimg.cc/MTz0m11T/5.png",
+ 				"url":"https://filemoon.sx/d/k6vt4posq1zy",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Serbia Vs Inglaterra",
+				"info":"[16-Junio-24]",
+				"image":"https://i.postimg.cc/HLz8HR7Y/6.png",
+				"url":"https://filemoon.sx/d/jmckir454o8q",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Eslovenia Vs Serbia",
+				"info":"[20-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/34ZO3XQQPJCNBHOO6544R5H36Q.jpg?auth=901fe13ab7e138165977a52bd83def8ff4a8ba1aa2076a7a3b9fe7bfae1887c0&width=644&height=362&focal=2384%2C1751",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Dinamarca Vs Inglaterra",
+				"info":"[20-Junio-24]",
+				"image":"https://img.asmedia.epimg.net/resizer/v2/DUKCIMPSEDHXXIN5N7LFBYAMKM.jpg?auth=848bbf0fefa68e61f408e04c0be1dd8a6478e2983adf497c3f2129c1db0d3997&width=644&height=362&focal=985%2C425",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Inglaterra Vs Eslovenia",
+				"info":"[25-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Dinamarca Vs Serbia",
+				"info":"[25-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		},
+		{
+		"name": "Grupo D",
+ 		"image": "https://i.postimg.cc/wjDwqDLj/Grupo-D-Eurocopa-2024.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Polonia Vs Países Bajos",
+ 				"info":"[16-Junio-24]",
+ 				"image":"https://i.postimg.cc/MKFp0BhY/7.png",
+ 				"url":"https://filemoon.sx/d/km3fjv2ypxp4",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Austria Vs Francia",
+				"info":"[17-Junio-24]",
+				"image":"https://i.postimg.cc/nh3g9KgH/8.png",
+				"url":"https://filemoon.sx/d/qjff0p2xq0hj",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Polonia Vs Austria",
+				"info":"[21-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Países Bajos Vs Francia",
+				"info":"[21-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Países Bajos Vs Austria",
+				"info":"[25-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Francia Vs Polonia",
+				"info":"[25-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		},
+		{
+		"name": "Grupo E",
+ 		"image": "https://i.postimg.cc/tRSrgXc8/Grupo-E-Eurocopa-2024.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Rumanía Vs Ucrania",
+ 				"info":"[17-Junio-24]",
+ 				"image":"https://i.postimg.cc/J7J21CQc/9.png",
+ 				"url":"https://filemoon.sx/d/2iqyrxrl45xe",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Bélgica Vs Eslovaquia",
+				"info":"[17-Junio-24]",
+				"image":"https://i.postimg.cc/W1DrvTGs/10.png",
+				"url":"https://filemoon.sx/d/f54iaauqez6v",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Eslovaquia Vs Ucrania",
+				"info":"[21-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Bélgica Vs Rumanía",
+				"info":"[22-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Eslovaquia Vs Rumanía",
+				"info":"[26-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Ucrania Vs Bélgica",
+				"info":"[26-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		},
+		{
+		"name": "Grupo F",
+ 		"image": "https://i.postimg.cc/BZDJ2nWP/Grupo-F-Eurocopa-2024.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Turquía Vs Georgia",
+ 				"info":"[18-Junio-24]",
+ 				"image":"https://i.postimg.cc/SxWTcBs7/11.png",
+ 				"url":"https://filemoon.sx/d/evsefyuezbgm/Eurocopa_2024_Turquia_VS_Georgia_180624_1080.mkv",
+ 				"isHost":"true",
+ 				"online":""
+				},
+				{
+				"name": "Portugal Vs República Checa",
+				"info":"[18-Junio-24]",
+				"image":"https://i.postimg.cc/GhnS933h/12.png",
+				"url":"https://filemoon.sx/d/jblordt9vowk/Eurocopa_2024_Portugal_VS_Republica_Checa_180624.mkv",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Georgia Vs República Checa",
+				"info":"[22-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Turquía Vs Portugal",
+				"info":"[22-Junio-24]",
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "Georgia Vs Portugal",
+				"info":"[26-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				},
+				{
+				"name": "República Checa Vs Turquía",
+				"info":"[26-Junio-2024]",  
+				"image":"",
+				"url":"",
+				"isHost":"true",
+				"online":""
+				}
+			]
+		}
+	]
+}
