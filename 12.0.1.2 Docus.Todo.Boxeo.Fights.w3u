@@ -149,7 +149,16 @@
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
-                },           
+                }, 
+                {
+                "name": "Yo Soy Duran (Documental)",
+                "info":"2019",
+                "image": "https://i.postimg.cc/JnBDCNxS/images-1.jpg",
+                "url": "https://filemoon.sx/d/uuw0r5jipvhb",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },          
 		{
                 "name": "Javier El Lince Castillejo (Documental)",
                 "info":"",
@@ -254,6 +263,25 @@
                 "info":"2023",
                 "image": "https://i.postimg.cc/rsw453F9/maxresdefault-1.jpg",
                 "url": "https://filemoon.sx/d/xd5kjrqc3dav",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Kiko Martínez, O lo haces de verdad o ni lo intentes (Video Podcast)",
+                "info":"2024",
+                "image": "https://i.postimg.cc/T1nC4B6F/maxresdefault-1.jpg",
+                "url": "https://embedme.xyz/d/tjhq8qw2ny6u",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Dentro Del Ring-Kiko Martínez-
+Quiero ver a mí sobrino en lo más alto(Video Podcast)",
+                "info":"2024",
+                "image": "https://i.postimg.cc/wMCvzVCp/IMG-20240530-220856.jpg",
+                "url": "https://filemoon.sx/d/bi3agc41j6p7",
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
