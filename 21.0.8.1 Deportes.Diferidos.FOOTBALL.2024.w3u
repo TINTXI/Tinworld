@@ -7,6 +7,13 @@
 "info":"",
 "groups":
 [
+                {
+		"name": "Eurocopa Alemania 2024",
+		"image": "https://i.postimg.cc/SNMRfhMP/Euro2024-new.png",
+		"url": "",
+		"info": "",
+		"import": false
+		},
 {
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
