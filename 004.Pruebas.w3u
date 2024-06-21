@@ -8,3 +8,6 @@ https://atres-live.europafm.com/live/europafm/bitrate_1.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 https://download.3mp3.buzz/s/Ricardo-Arjona-Vuelo.mp3
+
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://soundcloud.com/davilesdenovelda/daviles-de-novelda-mil?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
