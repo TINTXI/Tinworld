@@ -28,6 +28,16 @@
         "isHost": "true"
         },  
         {
+        "name": "pruebas-SPOTY-2",
+        "info":"",
+        "online":"true",
+        "image": "https://www.barclayscenter.com/assets/img/04_20_GARCIAvsHANEY_ArtFinal_WebThumb_656x596-3-89d2823c04.jpg",
+        "url": "https://open.spotify.com/intl-es/track/6ynErSDSlxqsxg0D3LJ8sK?si=6d383479722f4afe&nd=1&dlsi=309b18f6dcbe4eff",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"
+        },  
+        {
         "name": "Haney 🆚 García",
         "info":"",
         "online":"true",
