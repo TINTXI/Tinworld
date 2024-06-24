@@ -7,6 +7,25 @@
 "info": "",
 "groups":
     [
+
+        {
+        "name": "Joaquín Sabina",
+        "info":"",
+        "image": "https://i.postimg.cc/qMRhM4BS/IMG-20240624-155451.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Joaquín Sabina- Contra Todo Pronóstico  2024",
+                "info":"",
+                "image": "https://i.postimg.cc/7LyZ7kDx/IMG-20240624-154546.jpg",
+                "url":"https://embedv.net/v/g9Vd5JWy1VvxqQj",
+                "isHost":"true",
+                "online":"true"
+                }  
+            ]
+        },
+
         {
         "name": "Taylor Swift",
         "info":"",
