@@ -7,6 +7,61 @@
 "info": "",
 "stations":
     [
+{
+"name": "us-espn1",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
+"imageScale": "fitStart",
+"url": "https://livesod365.com/live/us-espn1",
+"isHost": "true",
+"referer": "https://livesod365.com/",
+"embed": "",
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "us-espn2",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn2.png",
+"imageScale": "fitStart",
+"url": "https://livesod365.com/live/us-espn2",
+"isHost": "true",
+"referer": "https://livesod365.com/",
+"embed": "",
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "us-espn3",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn3.png",
+"imageScale": "fitStart",
+"url": "https://livesod365.com/live/us-espn3",
+"isHost": "true",
+"referer": "https://livesod365.com/",
+"embed": "",
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "us-fox-deportes",
+"image": "https://rentapi.blackboxsys.net/images/png/us-fox-deportes.png",
+"imageScale": "fitStart",
+"url": "https://livesod365.com/live/us-fox-deportes",
+"isHost": "true",
+"referer": "https://livesod365.com/",
+"embed": "",
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "us-foxsports1",
+"image": "https://rentapi.blackboxsys.net/images/png/us-foxsports1.png",
+"imageScale": "fitStart",
+"url": "https://livesod365.com/live/us-foxsports1",
+"isHost": "true",
+"referer": "https://livesod365.com/",
+"embed": "",
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
         {
         "name": "Haney 🆚 García",
         "info":"",
