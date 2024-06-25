@@ -8,6 +8,15 @@
 "stations":
     [
 {
+"name": "💬CHAT 🧑‍💻",
+"image": "https://www.dropbox.com/scl/fi/yd6vsibioqa97g93kgwlr/playidtvboxchat.png?rlkey=f8gkrf1pk2hxyl5ggfr6o3ke4&dl=1",
+"url": "https://my.cbox.ws/Playidtv",
+"embed": "true",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"  }
+]
+},
+{
 "name": "us-espn1",
 "image": "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
 "imageScale": "fitStart",
