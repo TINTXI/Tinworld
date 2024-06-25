@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reproductor de canciones</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Reproductor de canciones</h1>
+  <audio id="player" controls>
+    <source src="" type="audio/mpeg">
+    Tu navegador no admite audio.
+  </audio>
+  <script>
+    var player = document.getElementById('player');
+    var playlist = [];
+    var currentSong = 0;
+
+    // Carga la lista de canciones del archivo M3U
+    var m3uFile = 'ruta/al/archivo.m3u';
+    fetch(m3uFile)
+      .then(response => response.text())
+      .then(text => {
+        playlist = text.split('\n');
+        playlist.shift(); // Elimina la primera línea que es el título del archivo
+        playlist.forEach((song, index) => {
+          if (song.startsWith('#EXTINF')) {
+            song = song.replace('#EXTINF:', '');
+            song = song.trim();
+            playlist[index] = song;
+          }
+        });
+      });
+
+    // Función para reproducir la canción actual
+    function playSong() {
+      player.src = playlist[currentSong];
+      player.play();
+    }
+
+    // Función para avanzar a la siguiente canción
+    function nextSong() {
+      currentSong++;
+      if (currentSong >= playlist.length) {
+        currentSong = 0;
+      }
+      playSong();
+    }
+
+    // Función para retroceder a la canción anterior
+    function prevSong() {
+      currentSong--;
+      if (currentSong < 0) {
+        currentSong = playlist.length - 1;
+      }
+      playSong();
+    }
+
+    // Agrega eventos para los botones de play, pause y next
+    document.getElementById('play-button').addEventListener('click', playSong);
+    document.getElementById('pause-button').addEventListener('click', () => {
+      player.pause();
+    });
+    document.getElementById('next-button').addEventListener('click', nextSong);
+    document.getElementById('prev-button').addEventListener('click', prevSong);
+  </script>
+  <button id="play-button">Play</button>
+  <button id="pause-button">Pause</button>
+  <button id="next-button">Next</button>
+  <button id="prev-button">Prev</button>
+</body>
+</html>
+
+
+#EXTM3U
+#EXTINF:0,Title of the song
+file:///ruta/al/archivo.mp3
+#EXTINF:0,Title of the song
+file:///ruta/al/archivo2.mp3
