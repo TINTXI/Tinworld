@@ -27,8 +27,8 @@ https://cf-hls-media.sndcdn.com/playlist/C4k3MN8hsf3u.128.mp3/playlist.m3u8?Poli
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i1.sndcdn.com/artworks-CSdmOTsuYF1LEEro-k2UJfw-t500x500.jpg?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 https://files.realrocks.ru/lofi/1978030/1978030.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Flamenco Y Bachata",Cadena SER
+https://files.realrocks.ru/lofi/1997284/1997284.mp3
 
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
 
