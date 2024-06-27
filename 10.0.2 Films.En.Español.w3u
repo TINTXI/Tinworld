@@ -367,6 +367,15 @@
       "embed": "",
       "isHost": "true",
       "online": "true"
+    },   
+    {
+      "name": "ATRAPADOS EN EL ABISMO",
+      "info": "2024",
+      "image": "https://www.elseptimoarte.net/carteles/341/no_way_up_100433.jpg",
+      "url": "https://filemoon.sx/d/7dltlet81fq0",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "AWARENESS",
@@ -1113,6 +1122,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },    
+    {
+      "name": "EN LAS PROFUNDIDADES DEL SENA",
+      "info": "2024",
+      "image": "https://www.elseptimoarte.net/carteles/341/en_las_profundidades_del_sena_101054.jpg",
+      "url": "https://filemoon.sx/d/jnzua2jzk122",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "ENCIERRO",
@@ -1762,6 +1782,17 @@
       "image": "https://pics.filmaffinity.com/o_lado_bom_de_ser_traida-659640956-large.jpg",
       "url": "https://upstream.to/1tn39ppxg822",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },    
+    {
+      "name": "LA PRIMERA PROFECIA",
+      "image": "https://pics.filmaffinity.com/the_first_omen-372679118-mmed.jpg",
+      "url": "https://filemoon.sx/d/t1d0b2cnhyyf",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3015,6 +3046,17 @@
       "image": "https://i.postimg.cc/2yq3KqX6/Tácticas_en_el_Amor_2_(2022)(Pelicula).jpg",
       "url": "https://upstream.to/4v6jnw5mknjn",
       "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },   
+    {
+      "name": "TAROT",
+      "image": "https://pics.filmaffinity.com/tarot-256287294-mmed.jpg",
+      "url": "https://filemoon.sx/d/d3wkx8r1m9ps",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
