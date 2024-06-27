@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1,########## Spain ##########
+#EXTM3U ########## Spain ##########
+
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",1-LA FAMA-(ROSALIA)
 https://traffic.megaphone.fm/TWIP1926559913.mp3?updated=1718832557
 
