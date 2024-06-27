@@ -28,6 +28,28 @@
         "url": "https://tinworld.vercel.app/14.0.3 Mix.Radios.w3u",
         "info":"",
         "import": false
-        }
+        },  
+        {
+        "name": "Mix Podcast",
+        "image": "https://i.postimg.cc/TwJm1hMh/unnamed-1.png",
+        "url": "",
+        "info":"",
+        "import": false
+        },  
+        {
+        "name": "Mix AudioLibros",
+        "image": "https://i.postimg.cc/TwJm1hMh/unnamed-1.png",
+        "url": "",
+        "info":"",
+        "import": false
+        },  
+        {
+        "name": "Mix Tinworldfy",
+        "image": "https://i.postimg.cc/TwJm1hMh/unnamed-1.png",
+        "url": "",
+        "info":"",
+        "import": false
+        },
+
 	   ]
   }  
