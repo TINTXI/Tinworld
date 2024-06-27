@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",1*LA FAMA-(ROSALIA)
 https://traffic.megaphone.fm/TWIP1926559913.mp3?updated=1718832557
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",2*LA FAMA-(ROSALIA)
 https://atres-live.europafm.com/live/europafm/bitrate_1.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",3*LA FAMA-(ROSALIA)
 https://download.3mp3.buzz/s/Ricardo-Arjona-Vuelo.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",4*LA FAMA-(ROSALIA)
 https://soundcloud.com/davilesdenovelda/daviles-de-novelda-mil?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",5*LA FAMA-(ROSALIA)
 https://m4a-64.jango.com/38/73/96/3873968713886892129.m4a
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",6*LA FAMA-(ROSALIA)
 https://cf-hls-media.sndcdn.com/playlist/iV1MqGg2KY5X.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L2lWMU1xR2cyS1k1WC4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5MzI2NDA0fX19XX0_&Signature=X1jl3CcwS0oJb96X~giU~aAjm6Sa7PLZ4m7q~oIpZpxwbas5fPf2hcqoA8pwapFZiWZbQr3sUeVmDZg6JgcKgG99hQTTsKvNFPtTEU9EtP4wFocaW8BOlKWwuXZIbVCfhNnzhfSzUPJhqTE3aFZ6pW5~SaVt5IpS2gud3H~~D0hYfrxdBPH8SWoY2hC9e2G~BN0GF4SvoOoSZSUr~PJ3jC0CbF2OQUDtoNotL9B0SDeEOCVQAUPHRI3hZyl7uqNGoGcoXL5p4ua~wEwN2NJNcQmLjKDVH7TWEszTSSIRsbm~1MfiJvstNG9haOVJIqopj9BdaJY-8osAofrMQJZgaA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://cf-hls-media.sndcdn.com/playlist/iSzW3nKuNy4V.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L2lTelczbkt1Tnk0Vi4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5MzM5NDg3fX19XX0_&Signature=BbILsTJshIRhQak6IiLLJmKhHwfy0knRDl23hIaHZ~HLrxX1nUZr4oQG~i0ZB-mh1Mil0K17dz8nwSanYWhXs-HDNvIrRw7QcJXjZ5XoiDWD1eYw~DcCz1mPsq8Ap5Cb4CQ3d9qT3DgoqzVjaRtFXhRKyr9cmnINem6FbcTdOGnWoufLHpgjfYvYyadc2I~tuxYo6LwARpIKdn5Zj1U-hD~0znJPtCUIj-d3IsAaOnN0VHC2HflztTkwYQY91K4t1oR9uAlog0C-RY-Yj5-i~7i0LZ7CcO3oQfmyDpIjN8sGPPsgkeZMKNeBakaPCt7QJicWTdnJm04lOIkTzFWPlw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",7*LA FAMA-(ROSALIA)
+https://cf-hls-media.sndcdn.com/playlist/iSzW3nKuNy4V.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L2lTelczbkt1T1k0Vi4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5MzM5NDg3fX19XX0_&Signature=BbILsTJshIRhQak6IiLLJmKhHwfy0knRDl23hIaHZ~HLrxX1nUZr4oQG~i0ZB-mh1Mil0K17dz8nwSanYWhXs-HDNvIrRw7QcJXjZ5XoiDWD1eYw~DcCz1mPsq8Ap5Cb4CQ3d9qT3DgoqzVjaRtFXhRKyr9cmnINem6FbcTdOGnWoufLHpgjfYvYyadc2I~tuxYo6LwARpIKdn5Zj1U-hD~0znJPtCUIj-d3IsAaOnN0VHC2HflztTkwYQY91K4t1oR9uAlog0C-RY-Yj5-i~7i0LZ7CcO3oQfmyDpIjN8sGPPsgkeZMKNeBakaPCt7QJicWTdnJm04lOIkTzFWPlw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i1.sndcdn.com/artworks-WlEvx0n3SCZziZJr-zB1wmg-t500x500.jpg?width=400&height=400" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i1.sndcdn.com/artworks-WlEvx0n3SCZziZJr-zB1wmg-t500x500.jpg?width=400&height=400" group-title="Radio_Populares" tvg-name="Cadena SER",8*LA FAMA-(ROSALIA)
 https://cf-hls-media.sndcdn.com/playlist/C4k3MN8hsf3u.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L0M0azNNTjhoc2YzdS4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE5MzI2ODE2fX19XX0_&Signature=LNv03fbLYYiiJwvQPH5FuAmpuk~7zYGxnRSC8ixflLlW9ec2K9I7i7HUjCVSPbevgLucFFGFtODv~Zj-mEJKfH7J0gZuTU42f-~XCjqCBAiHTkRBpIog~aL7sgoRejmyd53qUZNZDthdxn9wdnE5ClvwoEY~9eajty3CxEPM1Bz0fg-IsNqVXL~k9f4rR7VlalBpTwmLOzSPY6EK8ffJoCL~WQb~t4qQinqi~LX8IoQw5Ezt4-mQV022EuqsjTVai3ocCqqixQ148D2KYQhrVwkmFWKsKEZ7vPS4ntQ05jJVHpR3L3Nr4X71PSINGOuSaDIBxYmPC4QUJfLty~hFoA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i1.sndcdn.com/artworks-CSdmOTsuYF1LEEro-k2UJfw-t500x500.jpg?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://i1.sndcdn.com/artworks-CSdmOTsuYF1LEEro-k2UJfw-t500x500.jpg?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",9*LA FAMA-(ROSALIA)
 https://files.realrocks.ru/lofi/1978030/1978030.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Flamenco Y Bachata",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Flamenco Y Bachata",10*LA FAMA-(ROSALIA)
 https://files.realrocks.ru/lofi/1997284/1997284.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Lerica",Flamenkito
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Lerica",11*LA FAMA-(ROSALIA)
 https://files.realrocks.ru/lofi/1997283/1997283.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://imgs.search.brave.com/-_IlBnAj_WkpJtCBNvL5RdqUaVvmeIkF4TDVuYoPXts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTNBRUlk/bjJWdDVvZkY1WWst/ekhqSmd3LXQ1MDB4/NTAwLmpwZw?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",lerica -Lambo
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://imgs.search.brave.com/-_IlBnAj_WkpJtCBNvL5RdqUaVvmeIkF4TDVuYoPXts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTNBRUlk/bjJWdDVvZkY1WWst/ekhqSmd3LXQ1MDB4/NTAwLmpwZw?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",12*LA FAMA-(ROSALIA)
 https://spotifymate.com/dl?url=aHR0cHM6Ly9tYWxwaGEuMTIzdG9reW8ueHl6L2dldC5waHAvZi8zZi9JSnJzdlBDTF9TTS5tcDM_Y2lkPU1tRXdNVG8wWmpnNll6QXhNRG81Wm1FMk9qb3hmRTVCZkVSRiZoPVowVENZMi1URjExRDFESHd2aXVYOEEmcz0xNzE5NDE0NjczJm49TCVDMyVBOXJpY2ElMkMlMjBNYXIlMjBMdWNhcyUyQyUyMERhdmlsZXMlMjBkZSUyME5vdmVsZGElMjAtJTIwTGxvcmFuZG8lMjBlbiUyMGVsJTIwTGFtYm8lMjAlMjhMZXRyYV9MeXJpY3MlMjk&title=TGxvcmFuZG8gZW4gZWwgTGFtYm8gLSBMw6lyaWNh&type=mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",LERICA-LAMBO-DE REALMUSIC
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",13*LA FAMA-(ROSALIA)
 https://files.realrocks.ru/lofi/1997309/1997309.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",14*LA FAMA-(ROSALIA)
 
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",15*LA FAMA-(ROSALIA)
 
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",16*LA FAMA-(ROSALIA)
 
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",17*LA FAMA-(ROSALIA)
 
 
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",18*LA FAMA-(ROSALIA)
