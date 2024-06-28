@@ -730,6 +730,28 @@ Heavyweight Grand Prix",
         "isHost":"true",
         "online":"true"
         },
+        { 
+	"name": "💥-Pfl 5 Regular Season Preliminares Collard 🆚 Burnell", 
+	"image": "https://i.postimg.cc/PrCwPXHK/242bd3c1295f5cf6e8eeb3d11b792992-original-1.jpg", 
+	"url":"https://filemoon.sx/d/0px1y2h0c0jt", 
+	"info": "21-06-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+        { 
+	"name": "💥-Pfl 5 Regular Season Maincard Collard 🆚 Burnell", 
+	"image": "https://i.postimg.cc/PrCwPXHK/242bd3c1295f5cf6e8eeb3d11b792992-original-1.jpg", 
+	"url": "https://filemoon.sx/d/ddrc1w4o516v", 
+	"info": "21-06-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+	}, 
         {
         "name": "💥-Bellator Champions Series
      Jackson 🆚 Kuramagomedov",
