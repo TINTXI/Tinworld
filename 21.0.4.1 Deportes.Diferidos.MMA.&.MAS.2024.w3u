@@ -686,6 +686,28 @@ Heavyweight Grand Prix",
         "isHost":"true",
         "online":"true"
         },
+        { 
+	"name": "💥-Pfl 4 Regular Season Preliminares Moldavsky 🆚 Vassell", 
+	"image": "https://i.postimg.cc/YSZ0WgxS/image-1.jpg", 
+	"url":"https://filemoon.sx/d/f1sfdb2xjn96", 
+	"info": "13-06-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+        { 
+	"name": "💥-Pfl 4 Regular Season Maincard Moldavsky 🆚 Vassell", 
+	"image": "https://i.postimg.cc/YSZ0WgxS/image-1.jpg", 
+	"url": "https://filemoon.sx/d/j0rxn2sodkq2", 
+	"info": "13-06-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        }, 
         {
         "name": "💥-One Friday Fight 67
  Nakrob 🆚 Khalilov",
