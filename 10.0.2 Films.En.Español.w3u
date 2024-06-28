@@ -2546,6 +2546,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    }, 
+    {
+      "name": "PAJAROS",
+      "image": "https://www.elseptimoarte.net/carteles/341/pajaros_100425.jpg",
+      "url": "https://filemoon.sx/d/1li2egtdbbe3",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "PARTIDO DEL SIGLO, EL",
