@@ -790,6 +790,26 @@
     "embed": "",
 	"isHost": "true",
 	"online": "true"
+	},
+        { 
+	"name": "Teofimo 🆚 Claggett",
+	"image": "https://i.postimg.cc/y6mSfhMf/maxresdefault-2.jpg",
+	"url": "https://filemoon.sx/d/3hwr86tjm6yv",
+	"info": "29-06-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+        { 
+	"name": "Estrada 🆚 Rodríguez",
+	"image": "https://i.postimg.cc/zvzD2hhM/juan-francisco-estrada-vs-jesse-rodriguez-1i7zz5zkjs6v717uj0to7r8ijy-2.jpg",
+	"url": "https://filemoon.sx/d/07zq72eigvh6",
+	"info": "29-06-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
 	}  
  
 ]
