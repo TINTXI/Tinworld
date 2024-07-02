@@ -208,6 +208,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },    
+    {
+      "name": "AMIGOS IMAGINARIOS",
+      "image": "https://www.elseptimoarte.net/carteles/341/amigos_imaginarios_100960.jpg",
+      "url": "https://filemoon.sx/d/ikklrc8a0slc",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
    {
       "name": "ANATOMIA DE UNA CAIDA",
@@ -786,6 +797,17 @@
       "image": "https://pics.filmaffinity.com/como_dios_manda-689886286-large.jpg",
       "url": "https://upstream.to/y2hpgbuk5r78",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },   
+    {
+      "name": "COMO ROBAR UN BANCO",
+      "image": "https://pics.filmaffinity.com/how_to_rob_a_bank-420466220-mmed.jpg",
+      "url": "https://filemoon.sx/d/595qw64n3lvm",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
