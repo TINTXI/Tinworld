@@ -928,6 +928,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },  
+    {
+      "name": "DAMSEL",
+      "image": "https://www.elseptimoarte.net/carteles/341/damisela_99713.jpg",
+      "url": "https://upstream.to/wkcgiqqkwslj",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "DE NOCHE LOS GATOS SON PARDOS",
@@ -1119,6 +1130,17 @@
       "image": "https://i.postimg.cc/DyZGZJNp/Ella-vino-del-bosque-2023-Pelicula.jpg",
       "url": "https://upstream.to/29g206rfxd2o",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },   
+    {
+      "name": "EL ASTRONAUTA",
+      "image": "https://www.elseptimoarte.net/carteles/341/kung_fu_panda_4_100413.jpg",
+      "url": "https://filemoon.sx/d/sa4spi81x1a4",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3294,6 +3316,17 @@
       "image": "https://pics.filmaffinity.com/almodovar_l_insolent_de_la_mancha-624507133-large.jpg",
       "url": "https://upstream.to/3y8qurunpkl6",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }, 
+    {
+      "name": "¿ TODO BIEN ?",
+      "image": "https://www.elseptimoarte.net/carteles/341/am_i_ok_101451.jpg",
+      "url": "https://upstream.to/c7yzhpk7dz6j",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
