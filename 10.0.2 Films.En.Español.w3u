@@ -3107,6 +3107,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+    {       
+      "name" : "SUPER DETECTIVE EN HOLLYWOOD : AXEL F",
+      "image" : "https://www.elseptimoarte.net/carteles/341/beverly_hills_cop_axel_foley_101512.jpg",
+      "url" : "https://filemoon.sx/d/iehpfv47r0kl",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "SURROUNDED",
       "image": "https://pics.filmaffinity.com/surrounded-922611095-large.jpg",
