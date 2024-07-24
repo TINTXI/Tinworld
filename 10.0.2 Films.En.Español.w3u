@@ -1147,6 +1147,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+    {  
+       "name" : "EL CAMPEÓN",
+       "image" : "https://pics.filmaffinity.com/el_campeon-537352221-mmed.jpg",
+       "url" : "https://filemoon.sx/d/3qyk2wmvmeox",
+       "info": "2024",
+       "embed": "",
+       "isHost": "true",
+       "online": "true",
+       "userAgent": "PlusMediaPlayer/0.0.9",
+       "import": false 
+                            },
     {
       "name": "EMBOSCADA, LA",
       "info": "2023",
