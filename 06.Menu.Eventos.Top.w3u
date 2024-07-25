@@ -36,6 +36,16 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
+        } ,
+        {
+        "name": "PARIS 2024",
+        "info":"[Español Enlace 3] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
         }          
     ]
 }
