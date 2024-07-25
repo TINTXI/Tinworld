@@ -360,6 +360,17 @@
     "embed": "",
 	"isHost": "true",
 	"online": "true"
+	},
+        { 
+	"name": "Leonard 🆚 Mayweather Sr",
+	"image": "https://i.postimg.cc/DZ95Cwnw/IMG-20240725-200333-1.jpg",
+	"url": "https://filemoon.sx/d/7rx5eohor9ue",
+"referer":"https://embedme.xyz",
+	"info": "09-09-1978",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
 	}
  
  
