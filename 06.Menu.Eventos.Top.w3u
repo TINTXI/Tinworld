@@ -74,7 +74,7 @@
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
         "url": "https://fullchannels.online/canales/toros/", 
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "embed": "true",
         "isHost": "true"    
         }           
     ]
