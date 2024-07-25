@@ -1157,7 +1157,18 @@
        "online": "true",
        "userAgent": "PlusMediaPlayer/0.0.9",
        "import": false 
-                            },
+    },
+    {     
+       "name" : "EL REINO DEL PLANETA DE LOS SIMIOS ",
+       "image" : "https://www.elseptimoarte.net/carteles/341/el_reino_del_planeta_de_los_simios_101218.jpg",
+       "url" : "https://filemoon.sx/d/ylqiygzok07t",
+       "info": "2024",
+       "embed": "",
+       "isHost": "true",
+       "online": "true",
+       "userAgent": "PlusMediaPlayer/0.0.9",
+       "import": false 
+                   },
     {
       "name": "EMBOSCADA, LA",
       "info": "2023",
