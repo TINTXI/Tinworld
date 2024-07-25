@@ -69,10 +69,10 @@
         }, 
         { 
         "name": "ONETORO",
-        "info":"[Español Enlace 2]",
+        "info":"[Español Enlace 2] + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
-        "url": "https://fullchannels.online/canales.php?id=toros", 
+        "url": "https://miztv.shop/tele/stream-749.php", 
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
