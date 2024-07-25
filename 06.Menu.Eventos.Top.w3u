@@ -32,9 +32,9 @@
         "info":"[Español Enlace 3] ACESTREAM",
         "online":"true",
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "http://127.0.0.1:6878/ace/m/aa3f7e4947ec827ddb00ec76ede4f009aa29d08d/6842d766d103fa58ef092cf970cfbb7a.m3u8", 
+        "url": "", 
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "true",
+        "embed": "",
         "isHost": "true"    
         }          
     ]
