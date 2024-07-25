@@ -34,7 +34,7 @@
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
         "url": "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40", 
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "embed": "true",
         "isHost": "true"    
         }          
     ]
