@@ -227,7 +227,7 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
-        },
+        }
                    
     ]
 }
