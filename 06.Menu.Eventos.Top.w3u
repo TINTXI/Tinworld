@@ -8,78 +8,8 @@
 "stations":
     [
         {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 1]",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://barbis@rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_720.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 2]",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://narbis@jepsikuydo5.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "true",
-        "isHost": "true"
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 3] + VPN",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://dlhd.so/embed/stream-524.php",
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 4] + VPN",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://dlhd.so/embed/stream-525.php",
-        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
-        "embed": "",
-        "isHost": "true"
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 5] ACESTREAM + VPN",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40", 
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "true",
-        "isHost": "true"    
-        } ,
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 6] ACESTREAM + VPN",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "true",
-        "isHost": "true"    
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[Español Enlace 7] ACESTREAM + VPN",
-        "online":"true",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "true",
-        "isHost": "true"    
-        },
-        {
         "name": "ONETORO",
-        "info":"[Español Enlace 1]",
+        "info":"[Enlace 1]",
         "online":"true",
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
         "url": "https://webhdrus.onlinehdhls.ru/lb/premium749/index.m3u8", 
@@ -90,7 +20,7 @@
         }, 
         {
         "name": "ONETORO",
-        "info":"[Español Enlace 2] ACESTREAM + VPN",
+        "info":"[Enlace 2] ACESTREAM + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
         "url": "acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef", 
@@ -100,13 +30,204 @@
         }, 
         { 
         "name": "ONETORO",
-        "info":"[Español Enlace 3] + VPN",
+        "info":"[Enlace 3] + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
         "url": "https://miztv.shop/tele/stream-749.php", 
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
-        }           
+        }
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://barbis@rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_720.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 2]",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://narbis@jepsikuydo5.foroactivo.com/h2-canales?id=EUROSPORT_1_ES",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 3] + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://dlhd.so/embed/stream-524.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 4] + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://dlhd.so/embed/stream-525.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+        "embed": "",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 5] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        } ,
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 6] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 7] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 8] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://63135c171f056d1d6028f9ffb1637ed704b88a20", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 9] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 10] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 11] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 12] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://76a482a4cb53fc28518187c6b814f136b3db3c95", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 13] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 14] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 15] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 16] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 17] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 18] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Enlace 19] ACESTREAM + VPN",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666", 
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost": "true"    
+        },
+                   
     ]
 }
