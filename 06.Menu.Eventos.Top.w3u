@@ -29,7 +29,27 @@
         },
         {
         "name": "PARIS 2024",
-        "info":"[Español Enlace 3] ACESTREAM + VPN",
+        "info":"[Español Enlace 3]",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://dlhd.so/embed/stream-524.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+        "embed": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Español Enlace 4]",
+        "online":"true",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://dlhd.so/embed/stream-525.php",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+        "embed": "true",
+        "isHost": "true"
+        },
+        {
+        "name": "PARIS 2024",
+        "info":"[Español Enlace 5] ACESTREAM + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
         "url": "acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40", 
@@ -39,7 +59,7 @@
         } ,
         {
         "name": "PARIS 2024",
-        "info":"[Español Enlace 4] ACESTREAM + VPN",
+        "info":"[Español Enlace 6] ACESTREAM + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
         "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
@@ -49,7 +69,7 @@
         },
         {
         "name": "PARIS 2024",
-        "info":"[Español Enlace 5] ACESTREAM + VPN",
+        "info":"[Español Enlace 7] ACESTREAM + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
         "url": "acestream://721a78f2076faa584c9c09059ffb4e10159f4665", 
