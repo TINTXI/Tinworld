@@ -6,7 +6,13 @@
 "telegram": "TINWORLD_3_0",
 "info": "",
 "stations":
-[ 							
+[ 		
+{ 								
+"name": "Olimpiadas Paris 2024", 								
+"image": "https://i.postimg.cc/htmkBxd1/logo7-26-175559.png", 								
+"url": "https://olympics.com/es/paris-2024/calendario/", 								
+"embed": "true" 							
+}, 
 { 								
 "name": "Movistar", 								
 "image": "https://i.postimg.cc/B6tvzkZD/IMG-20240413-001954.png", 								
