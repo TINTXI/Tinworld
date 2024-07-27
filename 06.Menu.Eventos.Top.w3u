@@ -303,9 +303,9 @@
         "info":"[LA 1 UHD] ACESTREAM + VPN",
         "online":"true",
         "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2", 
+        "url": "acestream://b7422cf1e66031042c514980d082546a59161844", 
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "embed": "true",
         "isHost": "true"    
         }
                    
