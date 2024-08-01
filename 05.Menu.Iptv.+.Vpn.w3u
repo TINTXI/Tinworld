@@ -27,53 +27,81 @@
         "isHost":"",
         "online":""
         },
-{
-"name": "IPTV 1 + VPN",
-"image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-"url": "http://live.lordstreams.co:8080/get.php?username=allsettv&password=TvFOj4Wb55&type=m3u_plus",
-"info":"200 conex",
-"import": false
-},
+        {
+        "name": "IPTV 1 + VPN",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://live.lordstreams.co:8080/get.php?username=allsettv&password=TvFOj4Wb55&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
         {
         "name": "IPTV 2 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://eligestvone.info:2086/get.php?username=7dZB2KPPEddT&password=uJEVntufws8A&type=m3u_plus",
-        "info":"200 conex",
+        "url": "http://atwmd.nictovip.xyz:80/get.php?username=vi98653&password=kQ4CvSKnFr&type=m3u_plus",
+        "info":"",
         "import": false
         },
 		{
         "name": "IPTV 3 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://fastream.xyz:8080/get.php?username=PLAYLIFE485166&password=gHAqfHJG52yu&type=m3u_plus",
-        "info":"300 conex",
+        "url": "http://app.nicmoo.xyz:80/get.php?username=N319242&password=N319242y7&type=m3u_plus",
+        "info":"",
         "import": false
         },
 		{
         "name": "IPTV 4 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://tv.proyectox.vip:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
-        "info":"500 conex",
+        "url": "http://cod.ma:31000/get.php?username=Manolo1234&password=12345&type=m3u_plus",
+        "info":"",
         "import": false
         },
 		{
         "name": "IPTV 5 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://tv.proyectox.vip:8080/get.php?username=jay27492749&password=83749jfiwbqldufz499&type=m3u_plus",
-        "info":"100 conex",
+        "url": "http://ad.v166.xyz:80/get.php?username=castrovalenza2&password=castrovalenza2@&type=m3u_plus",
+        "info":"",
         "import": false
         },
 		{
         "name": "IPTV 6 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://lobo-tv.live:8080/get.php?username=fenixplay&password=pZFHj9uMLQXz2S&type=m3u_plus",
-        "info":"400 conex",
+        "url": "http://501203701704419801.ofx508.xyz:80/get.php?username=XFG288096&password=MD25486899&type=m3u_plus",
+        "info":"",
         "import": false
         },
 		{
         "name": "IPTV 7 + VPN",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://eligestvone.info:2086/get.php?username=UAz9aEhcLvF5&password=h6AzCZ79XJyE&type=m3u_plus",
-        "info":"150 conex",
+        "url": "http://32qsaf.ngone.xyz:80/get.php?username=ja810357&password=dRCfh8wkEMb&type=m3u_plus",
+        "info":"",
+        "import": false
+},		
+                {
+        "name": "IPTV 8 + VPN",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://atwmd.nictovip.xyz:80/get.php?username=fe1111351&password=GtPmAsxSuBF8&type=m3u_plus",
+        "info":"",
+        "import": false
+},    
+                {
+        "name": "IPTV 9 + VPN",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://ad.v166.xyz:80/get.php?username=vi1129662&password=9qWxxWxtTy&type=m3u_plus",
+        "info":"",
+        "import": false
+}, 
+                {
+        "name": "IPTV 10 + VPN",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://aftqc.zzyy66bet.xyz:80/get.php?username=Rubensierra191123&password=a@3JmkNXc88&type=m3u_plus",
+        "info":"",
+        "import": false
+}, 
+                {
+        "name": "IPTV 11 + VPN",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "http://178.162.225.116:2082/get.php?username=Xplus-V3-nHLTsYYzvs&password=cO8sdJBSgM&type=m3u_plus",
+        "info":"",
         "import": false
 }
 ]
