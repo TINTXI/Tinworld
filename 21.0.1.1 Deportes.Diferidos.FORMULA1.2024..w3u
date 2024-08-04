@@ -8,6 +8,510 @@
 "groups":
     [
         {
+        "name": "F1 2024 Belgica [26-28.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/ck3w9bjcaf3b",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kgwr5emaklv7",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/v58rk2olipe8",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/uluivkxbtuwj",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/xj57luxqfvok",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kajcmsthun8n",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/0pds4k7whrxk",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/bnpgm2db62fe",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/kwr8j91cxxp6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/coduzc85odnq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Post Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/6p3QN1Xq/spa-2024.png",
+                "url":"https://filemoon.sx/d/f9j49h6qyoud",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "F1 2024 Hungria [19-21.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/bet1lbq3uclf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/oqqmifo33kr2",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/vh3h0ibfrglx",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ym8pj62jj5c6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ogj8c852882j",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/pnrndie92aux",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/gy6dmm70iqnw",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[ESPNF1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/ffxxlahnfcjl",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/c0l4z1hhz1g8",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/yddwHHsc/hungria-f1.png",
+                "url":"https://filemoon.sx/d/pyoql0enraaf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "F1 2024 Silverstone [05-07.Jul24]",
+        "info":"",
+        "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/bvs7e3b9lyqt",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/6e114ildfkzs",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 2",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Libres 3",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/fkwx21bhaq4s",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 3",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/gsev46yc14t4",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":""
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/l01qq2a4mhuf",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/qq8qWS4j/silversote.png",
+                "url":"https://filemoon.sx/d/kbt1wrz9hf0t",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "F1 2024 Austria [28-30.Jun24]",
+        "info":"",
+        "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/spb798irnh2p",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/65kkilmw6hbm",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion Sprint",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/8lgadkyj8n5t",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion Sprint",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/hc3flr10rws5",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera Sprint",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/fn1o4av7nze6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera Sprint",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/7qgshs5g23qb",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/15wp60zuxg24",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/1csmysgdwv36",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/2tcjxengsxg9",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv]",
+                "image": "https://i.postimg.cc/fRz7ntWt/austria.png",
+                "url":"https://filemoon.sx/d/b7x2o513zkmz",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
+        "name": "F1 2024 España [21-23.Jun24]",
+        "info":"",
+        "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Libres 01",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/t8043i6odqhc",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 01",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/chya706q566r",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/cxzgwpxsbdjw",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 02",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/qe7xmlaq8r7b",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Libres 03",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/1hfdn9l8gcit",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Libres 03",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/84mzltk3ukox",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Clasificacion",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/4qig8msx279q",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Clasificacion",
+                "info":"[F1Tv][MultiAudio]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/5bk5xtssvrfr",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[DAZN F1]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/9k26tf3jjj6x",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"[F1Tv][MultiAudi]",
+                "image": "https://i.postimg.cc/5yBQbwR4/espa-a.png",
+                "url":"https://filemoon.sx/d/lu8ayjco12ma",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+        {
         "name": "F1 2024 Canada [07-09.Jun24]",
         "info":"",
         "image": "https://i.postimg.cc/CK23pNph/canada2024.png",
