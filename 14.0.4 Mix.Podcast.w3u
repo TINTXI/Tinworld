@@ -29,12 +29,5 @@
         "info":"",
         "import": false
         },
-        {
-        "name": "EVENTOS CANALES",
-        "info":"[CANALES EUROSPORT]",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://tinworld.vercel.app/Eventos.Canales.html",
-        "embed": "true"
-        },
 	   ]
   }  
