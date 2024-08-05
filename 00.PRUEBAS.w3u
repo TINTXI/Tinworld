@@ -7,6 +7,14 @@
 "info": "",
 "stations":
     [
+
+        {
+        "name": "EVENTOS CANALES",
+        "info":"[]",
+        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
+        "url": "https://tinworld.vercel.app/Olimpi.html",
+        "embed": "true"
+        },
 {
 "name": "us-espn1",
 "image": "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
