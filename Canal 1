@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<!-- Responsive viewport -->
+<meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' name='viewport'/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>tv tiquisia</title>
+</head>
+<style>
+body {
+  background-color: #000;}
+  
+</style>
+
+<div class="video-responsive">
+
+<iframe sandbox="allow-scripts allow-same-origin" class="" frameborder="0"allow=" encrypted-media" allowfullscreen=""src="https://pepperlive.info/sportp.php?id=68" ></iframe>
+
+</body>
+
+<style>
+    
+    .video-responsive {
+position:none;
+padding-bottom:50.25%; /* 16/9 ratio */
+padding-top: 40px; /* IE6 workaround*/
+height: 0;
+overflow:hidden;
+}
+
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+    
+</style>
+</div>
+</html>
