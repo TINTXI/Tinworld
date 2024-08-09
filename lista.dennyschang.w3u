@@ -1,0 +1,290 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://images2.imgbox.com/01/67/kxKSBpdr_o.png" group-title="CANALES PERU",LATINA
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
+https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
+https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nativa" tvg-logo="https://images2.imgbox.com/14/cb/mawqdp0Y_o.jpg" group-title="CANALES PERU",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
+
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://images2.imgbox.com/23/f9/KJrkiXnU_o.png" group-title="CANALES PERU",DMJ Cuzco 
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w554966584.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://images2.imgbox.com/a0/7c/Z2tluI33_o.png" group-title="CANALES PERU",Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1555494838.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://images2.imgbox.com/bd/cf/P8TwAMCS_o.jpg" group-title="CANALES PERU",Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="CANALES PERU",RADIO ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2e/af/nga16OOa_o.jpg" group-title="CANALES PERU",TV COSMOS
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1935695604.m3u8
+#EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://images2.imgbox.com/0c/c7/HjbllIWS_o.jpg" group-title="CANALES PERU",Ribereña
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://images2.imgbox.com/4d/0c/zeW48PBP_o.jpg" group-title="CANALES PERU",MaticesTV 
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://images2.imgbox.com/8b/80/Wzq9okf0_o.png" group-title="CANALES PERU",Nazarenas TV 
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VZTV" tvg-name="VZTV" tvg-logo="https://images2.imgbox.com/4e/d9/ntX67ZZN_o.png" group-title="CANALES PERU",VZTV
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://images2.imgbox.com/7c/b6/2Q5lFyz2_o.png" group-title="CANALES PERU",Perú Channel 
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-logo="https://images2.imgbox.com/5c/ec/G3Th1Oy8_o.jpg" group-title="CANALES PERU",TV Palmeras
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 2 HD
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1058306129.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 3 HD
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1807746754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
+https://www.youtube.com/watch?v=6oTllXbgRc4
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-name="Vinilos TV" tvg-logo="https://images2.imgbox.com/4c/61/642iVsSQ_o.png" group-title="⚡MUSICA⚡",VINILOS TV
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="⚡MUSICA⚡",RADIO SAN BORJA
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="⚡MUSICA⚡",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://images2.imgbox.com/2d/32/1y4oDQUY_o.png" group-title="⚡MUSICA⚡",Qello Concerts by Stingray 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1 tvg-id="OndaRadio.cl" tvg-logo="https://images2.imgbox.com/74/bd/5k2zRd0R_o.png" group-title="⚡MUSICA⚡",Onda Radio TV 
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://images2.imgbox.com/75/69/RCbbOFKK_o.jpg" group-title="⚡MUSICA⚡",RadioInka 
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://images2.imgbox.com/55/6d/laPvSlFI_o.png" group-title="PELICULAS",Retro Plus 3 
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://images2.imgbox.com/06/39/PEe5OgAn_o.jpg" group-title="PELICULAS",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="PELICULAS",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="PELICULAS",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="PELICULAS",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="PELICULAS",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 1
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 2
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="PELICULAS",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://images2.imgbox.com/07/3b/gpiNuLZo_o.jpg" group-title="PELICULAS",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://images2.imgbox.com/6a/bd/oTo9Wpyo_o.png" group-title="PELICULAS",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+
+
+
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://images2.imgbox.com/0a/eb/YHnI5Y3S_o.png" group-title="MODA",Fashion TV 
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://images2.imgbox.com/cd/d7/8ESbSU5I_o.jpg" group-title="MODA" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel International 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://images2.imgbox.com/5a/43/H8UlX8nb_o.png" group-title="ANIMACION",Cartoon Network 2 
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/9a/2d/B387VSqA_o.jpg" group-title="ANIMACION",Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/e9/eb/fDYPKKho_o.jpg" group-title="ANIMACION",Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/c1/fc/5avQ58BR_o.jpg" group-title="ANIMACION",Discovery Kids FreeLive Latam
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://images2.imgbox.com/9d/67/GJdyCjz5_o.jpg" group-title="ANIMACION",EnerGeek 
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://images2.imgbox.com/de/cc/QXg8r5Aq_o.jpg" group-title="ANIMACION",eSports Max 
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://images2.imgbox.com/cd/5b/vgAf0xJA_o.jpg" group-title="ANIMACION",Pandamax Channel 
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://images2.imgbox.com/98/65/u8GcQwwG_o.png" group-title="ANIMACION",Fanpop TV 
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://images2.imgbox.com/21/19/YAYZ1qOS_o.jpg" group-title="ANIMACION",LatinoKids 
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://images2.imgbox.com/44/ac/q6M8wDSc_o.png" group-title="NOTICIAS" user-agent="iPhone",A24 
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Asi en la tierra como en el infierno" tvg-logo="https://images2.imgbox.com/98/6d/ECRvWsus_o.jpg" group-title="CAMARA EN MANO",Asi en la Tierra como en el Infierno
+https://hotplayer.bryanchang14038136.workers.dev/0:/As%C3%AD%20en%20la%20Tierra%20como%20en%20el%20Infierno%20(2014).mp4
+#EXTINF:-1 tvg-id="ALIEN ABDUCTION" tvg-logo="https://images2.imgbox.com/6a/79/HOB7jsvP_o.jpg" group-title="CAMARA EN MANO",Alien Abduction
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Alien%20Abduction%20(2014).mp4
+#EXTINF:-1 tvg-id="Area 51" tvg-logo="https://images2.imgbox.com/02/59/YHqObYOQ_o.jpg" group-title="CAMARA EN MANO",Area 51
+https://hotplayer.bryanchang14038136.workers.dev/0:/Area%2051.mp4
+#EXTINF:-1 tvg-id="El Paso del Diablo" tvg-logo="https://images2.imgbox.com/84/bc/XgHvlSb0_o.jpg" group-title="CAMARA EN MANO",El Paso del Diablo
+https://hotplayer.bryanchang14038136.workers.dev/0:/Devil's%20Pass%20(2013).mp4
+#EXTINF:-1 tvg-id="Troll Hunter" tvg-logo="https://images2.imgbox.com/9e/1f/vcxv14hW_o.jpg" group-title="CAMARA EN MANO",Troll Hunter
+https://hotplayer.bryanchang14038136.workers.dev/0:/Troll%20Hunter%20(2010).mp4
+#EXTINF:-1 tvg-id="Terror en el bosque" tvg-logo="https://images2.imgbox.com/0b/0b/0i0EnQnQ_o.jpg" group-title="CAMARA EN MANO",Terror en el bosque
+https://hotplayer.bryanchang14038136.workers.dev/0:/Terror%20en%20el%20bosque%202014.mkv
+#EXTINF:-1 tvg-id="La Piramide" tvg-logo="https://images2.imgbox.com/1e/18/JteQfqEQ_o.jpg" group-title="CAMARA EN MANO",La Piramide
+https://hotplayer.bryanchang14038136.workers.dev/0:/The%20Pyramid%20(2014).mp4
+#EXTINF:-1 tvg-id="Without Warning" tvg-logo="https://images2.imgbox.com/fe/da/p1bve7yb_o.jpg" group-title="CAMARA EN MANO",Without Warning
+https://hotplayer.bryanchang14038136.workers.dev/0:/Without%20Warning%201994.mp4
+#EXTINF:-1 tvg-id="Project Alamanac" tvg-logo="https://images2.imgbox.com/c8/19/pmgakXYD_o.jpg" group-title="CAMARA EN MANO",Project Almanac
+https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20Almanac%20(2015).mp4
+#EXTINF:-1 tvg-id="Project X" tvg-logo="https://images2.imgbox.com/b7/64/lpbVrZmP_o.jpg" group-title="CAMARA EN MANO",Project X
+https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20X%20(2012).mp4
+#EXTINF:-1 tvg-id="Cementerio General" tvg-logo="https://images2.imgbox.com/f2/5a/sZVOPjFH_o.jpg" group-title="CAMARA EN MANO",Cementerio General
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Cementerio%20General%20(2013).mkv
+#EXTINF:-1 tvg-id="Cloverfield" tvg-logo="https://images2.imgbox.com/0b/7f/X8tmBSVE_o.jpg" group-title="CAMARA EN MANO",Monstruoso
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Cloverfield%20(2008).mp4
+#EXTINF:-1 tvg-id="Found Footage" tvg-logo="https://images2.imgbox.com/4c/86/30fXopbO_o.jpg" group-title="CAMARA EN MANO",Found Footage 
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Found%20Footage%203D%20(2016).mp4
+#EXTINF:-1 tvg-id="Gonjiam Haunted Asylum" tvg-logo="https://images2.imgbox.com/0d/f7/cAKq7OeW_o.jpg" group-title="CAMARA EN MANO",Hospital Maldito
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Gonjiam%20Haunted%20Asylum%20(2018)-002.mkv
+#EXTINF:-1 tvg-id="Secreto Matusita " tvg-logo="https://images2.imgbox.com/8d/9f/iWz77mTf_o.jpg" group-title="CAMARA EN MANO",Secreto Matusita 
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Secreto%20Matusita%20(2014)-003.mp4
+#EXTINF:-1 tvg-id="The Dinosaur Project" tvg-logo="https://images2.imgbox.com/4b/a6/sWuc111v_o.jpg" group-title="CAMARA EN MANO",Projecto Dinosaurio
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/The%20Dinosaur%20Project%20(2012).mp4
+#EXTINF:-1 tvg-id="The Poughkeepsie Tapes" tvg-logo="https://images2.imgbox.com/46/9f/yAUrr6id_o.jpg" group-title="CAMARA EN MANO",The Poughkeepsie Tapes
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/The%20Poughkeepsie%20Tapes%20(2007).mp4
+#EXTINF:-1 tvg-id="La Visita" tvg-logo="https://images2.imgbox.com/e0/d3/EBEfu8yl_o.jpg" group-title="CAMARA EN MANO",La Visita
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/The%20Visit%20(2015)-004.mkv
+#EXTINF:-1 tvg-id="Incident in Lake County" tvg-logo="https://images2.imgbox.com/12/02/vm7f3SSB_o.jpg" group-title="CAMARA EN MANO",Incident in Lake County
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/512047683_mp4_h264_aac_fhd.mp4
+#EXTINF:-1 tvg-id="El Proyecto Bruja Blair" tvg-logo="https://images2.imgbox.com/d8/35/299TEoEj_o.jpg" group-title="CAMARA EN MANO",El Proyecto Bruja Blair
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/The%20Blair%20Witch%20Project%20(1999).mkv
+#EXTINF:-1 tvg-id="Chronicle" tvg-logo="https://images2.imgbox.com/50/dc/d5cmQF3k_o.jpg" group-title="CAMARA EN MANO",Chronicle
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/Chronicle%20(2012).MP4
+#EXTINF:-1 tvg-id="Afflicted" tvg-logo="https://images2.imgbox.com/7e/3c/x6kPcIFH_o.jpg" group-title="CAMARA EN MANO",Afflicted
+https://dennys45.bryanchang14038136.workers.dev/0:/Afflicted%20(2013).mkv
+#EXTINF:-1 tvg-id="Chernobyl Diaries" tvg-logo="https://images2.imgbox.com/88/b2/i59XdHOu_o.jpg" group-title="CAMARA EN MANO",Chernobyl Diaries
+https://dennys45.bryanchang14038136.workers.dev/0:/Chernobyl%20Diaries%20(2012).mkv
+#EXTINF:-1 tvg-id="Jeruzalem" tvg-logo="https://images2.imgbox.com/b7/e2/Vdis7B9L_o.jpg" group-title="CAMARA EN MANO",Jeruzalem
+https://dennys45.bryanchang14038136.workers.dev/0:/Jeruzalem%20(2015).mkv
+#EXTINF:-1 tvg-id="Siren" tvg-logo="https://images2.imgbox.com/16/4d/nqLROfjx_o.jpg" group-title="CAMARA EN MANO",Siren
+https://dennys45.bryanchang14038136.workers.dev/0:/Siren%20(2016).mkv
+#EXTINF:-1 tvg-id="Spree" tvg-logo="https://images2.imgbox.com/79/cd/JBYjRpLa_o.jpg" group-title="CAMARA EN MANO",Spree
+https://dennys45.bryanchang14038136.workers.dev/0:/Spree%20(2020).mkv
+#EXTINF:-1 tvg-id="The Beyond" tvg-logo="https://images2.imgbox.com/5e/4a/3SM8eBfA_o.jpg" group-title="CAMARA EN MANO",The Beyond 
+https://dennys45.bryanchang14038136.workers.dev/0:/The%20Beyond%20(2017).mp4
+#EXTINF:-1 tvg-id="REC" tvg-logo="https://images2.imgbox.com/74/79/Ni9magn8_o.jpg" group-title="CAMARA EN MANO",REC 
+https://dennys47.bryanchang14038136.workers.dev/0:/g4t0nr3c.mkv
+#EXTINF:-1 tvg-id="Los Olvidados de Phoenix" tvg-logo="https://images2.imgbox.com/e5/d0/THeLy4cj_o.jpg" group-title="CAMARA EN MANO",Los Olvidados de Phoenix
+https://dennys47.bryanchang14038136.workers.dev/0:/[www.mega1080.com]PH0ENIXFORGOTEENHD1080P%20(1).mkv
+#EXTINF:-1 tvg-id="Alien Outpost" tvg-logo="https://images2.imgbox.com/2b/ee/90R5OJwF_o.jpg" group-title="CAMARA EN MANO",Alien Outpost 
+https://dennys47.bryanchang14038136.workers.dev/0:/Alien%20Outpost%20(2014).mp4
+#EXTINF:-1 tvg-id="Llamando a Eco" tvg-logo="https://images2.imgbox.com/70/0d/MBKcB3LI_o.jpg" group-title="CAMARA EN MANO",Llamando a Eco
+https://dennys47.bryanchang14038136.workers.dev/0:/Earth%20to%20Echo%20(2014).mp4
+#EXTINF:-1 tvg-id="The Bay" tvg-logo="https://images2.imgbox.com/e1/d8/5iSfLUur_o.jpg" group-title="CAMARA EN MANO",The Bay 
+https://dennys47.bryanchang14038136.workers.dev/0:/The%20Bay%20(2012).avi
+#EXTINF:-1 tvg-id="El Ultimo Sacramento" tvg-logo="https://images2.imgbox.com/d4/7c/UZikUdAL_o.jpg" group-title="CAMARA EN MANO",El Ultimo Sacramento
+https://dennys48.bryanchang14038136.workers.dev/0:/8274-The%20Sacrament%20(2013)%20720p%20D%20S%20spa%20eng%20v.mkv
+
+
+#EXTINF:-1 tvg-id="Deep House" tvg-logo="https://images2.imgbox.com/70/4b/72pyC7eZ_o.jpg" group-title="CAMARA EN MANO",Deep House 
+
+
+
+#EXTINF:-1 tvg-id="Vivarium" tvg-logo="https://images2.imgbox.com/69/1d/jHOC5mli_o.jpg" group-title="CIENCIA FICCION",Vivarium
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/Vivarium%20(2019).mp4
+#EXTINF:-1 tvg-id="Moon" tvg-logo="https://images2.imgbox.com/51/10/KeEMQ7ug_o.jpg" group-title="CIENCIA FICCION",Moon
+https://cienciaficcion.bryanchang14038136.workers.dev/0:/Moon%20(2009).mp4
+
+
+
+
+#EXTINF:-1 tvg-id="Espinazo del Diablo" tvg-logo="https://images2.imgbox.com/5e/76/o6IrOL63_o.jpg" group-title="TERROR - SUSPENSO",Espinazo del Diablo
+https://terror.bryanchang14038136.workers.dev/0:/El%20espinazo%20del%20diablo%20(2001)%20(1).mkv
+#EXTINF:-1 tvg-id="Hereditary" tvg-logo="https://images2.imgbox.com/9f/84/LxywqGrC_o.jpg" group-title="TERROR - SUSPENSO",Hereditary
+https://terror.bryanchang14038136.workers.dev/0:/Hereditary%20(2018).mp4
+#EXTINF:-1 tvg-id="The Loved Ones" tvg-logo="https://images2.imgbox.com/de/1e/uaUUpiIu_o.jpg" group-title="TERROR - SUSPENSO",The Loved Ones
+https://terror.bryanchang14038136.workers.dev/0:/The.Loved.Ones.2009.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="Evil Dead 3" tvg-logo="https://images2.imgbox.com/93/8a/ykWWnRp6_o.jpg" group-title="TERROR - SUSPENSO",Evil Dead 3
+https://terror.bryanchang14038136.workers.dev/0:/EVIL%20DEAD%203.mkv
+#EXTINF:-1 tvg-id="Evil Dead 2" tvg-logo="https://images2.imgbox.com/0a/44/iXjz2N5D_o.jpg" group-title="TERROR - SUSPENSO",Evil Dead 2
+https://terror.bryanchang14038136.workers.dev/0:/Evil%20Dead%20II%20(1987).mkv
+#EXTINF:-1 tvg-id="Grans" tvg-logo="https://images2.imgbox.com/e0/f1/NYgZClQK_o.jpg" group-title="TERROR - SUSPENSO",Grans
+https://terror.bryanchang14038136.workers.dev/0:/Gr%C3%A4ns%20(Border).mp4
+
+
+
+
+#EXTINF:-1 tvg-id="Justice League War" tvg-logo="https://images2.imgbox.com/58/01/p0ePzafc_o.jpg" group-title="ANIMADOS",Justice League War
+https://animacion.bryanchang14038136.workers.dev/0:/Justice%20League%20War%20(Video%202014).mp4
+#EXTINF:-1 tvg-id="La Liga de la Justicia contra los Jóvenes Titanes" tvg-logo="https://images2.imgbox.com/34/28/5eesfJoy_o.jpg" group-title="ANIMADOS",La Liga Vs los Jóvenes Titanes
+https://animacion.bryanchang14038136.workers.dev/0:/La%20Liga%20de%20la%20Justicia%20contra%20los%20J%C3%B3venes%20Titanes%20(2016).mp4
+#EXTINF:-1 tvg-id="Minuscule 2" tvg-logo="https://images2.imgbox.com/e5/bd/fMONGpPv_o.jpg" group-title="ANIMADOS",Minuscule 2
+https://animacion.bryanchang14038136.workers.dev/0:/Minuscule%202.mp4
+#EXTINF:-1 tvg-id="Minuscule 1" tvg-logo="https://images2.imgbox.com/31/36/MWbgBP2W_o.jpg" group-title="ANIMADOS",Minuscule 1
+https://animacion.bryanchang14038136.workers.dev/0:/MINUSCULE%201.mp4
+#EXTINF:-1 tvg-id="MUTAFUKAZ" tvg-logo="https://images2.imgbox.com/0c/7e/FtD7FX9G_o.jpg" group-title="ANIMADOS",MUTAFUKAZ
+https://animacion.bryanchang14038136.workers.dev/0:/MUTAFUKAZ.mp4
+#EXTINF:-1 tvg-id="Birdboy" tvg-logo="https://images2.imgbox.com/71/56/a9V3d4VY_o.jpg" group-title="ANIMADOS",Birdboy
+https://animacion.bryanchang14038136.workers.dev/0:/Birdboy%20The%20Forgotten%20Children%20(2015).mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="Paid In Full" tvg-logo="https://images2.imgbox.com/7e/97/QqR8pXe9_o.jpg" group-title="ACCION - AVENTURAS",Paid In Full
+https://dennys46.bryanchang14038136.workers.dev/0:/Paid%20in%20Full%20(2002).mp4
+#EXTINF:-1 tvg-id="Over The Top" tvg-logo="https://images2.imgbox.com/9e/09/iOQy81AZ_o.jpg" group-title="ACCION - AVENTURAS",Over The Top
+https://dennys46.bryanchang14038136.workers.dev/0:/Over%20the%20Top%20(1987).mp4
+#EXTINF:-1 tvg-id="La Roca" tvg-logo="https://images2.imgbox.com/37/81/ZgAqgeGj_o.jpg" group-title="ACCION - AVENTURAS",La Roca
+https://dennys46.bryanchang14038136.workers.dev/0:/The%20Rock%20(1996).MP4
