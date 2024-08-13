@@ -8,6 +8,17 @@
 "stations":
     [
      {
+      "name": "MONKEY MAN",
+      "image": "https://i.postimg.cc/BQSFtj5Z/monkey-man-172706747-mmed.jpg",
+      "url": "https://filemoon.sx/d/v4ay31d6bo9l",
+      "info": "2024-[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+     {
       "name": "MY SPY",
       "image": "https://i.postimg.cc/NMBVZ8Tv/Juego-de-espaias-La-ciudad-eterna-387057198-large.jpg",
       "url": "https://filemoon.sx/d/p7inf3b40dk1",
