@@ -8,6 +8,20 @@
 "stations":
     [
         {
+        "name": "LISTA DEPORTES",
+        "info":"[CANALES MIX]",
+        "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
+        "url": "https://tinworld.vercel.app/Olimpi 2.html",
+        "embed": "true"
+        }, 
+        {
+        "name": "LISTA EUROSPORT",
+        "info":"[CANALES EUROSPORT]",
+        "image": "https://i.postimg.cc/wB6jGw8z/EUROSPORT-11zon-1.png",
+        "url": "https://tinworld.vercel.app/Olimpi.html",
+        "embed": "true"
+        },
+        {
         "name": "ONETORO",
         "info":"[Enlace 1]",
         "online":"true",
@@ -47,21 +61,7 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true"
-        },
-        {
-        "name": "PARIS 2024",
-        "info":"[CANALES EUROSPORT]",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://tinworld.vercel.app/Olimpi.html",
-        "embed": "true"
         },    
-        {
-        "name": "lISTA DEPORTES",
-        "info":"[CANALES EUROSPORT]",
-        "image": "https://i.postimg.cc/ZnGbmWhv/images-1.jpg",
-        "url": "https://tinworld.vercel.app/Olimpi 2.html",
-        "embed": "true"
-        },
         {
         "name": "PARIS 2024",
         "info":"[EUROSPORT 1] + VPN",
