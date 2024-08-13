@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+     {
+      "name": "MY SPY",
+      "image": "https://i.postimg.cc/NMBVZ8Tv/Juego-de-espaias-La-ciudad-eterna-387057198-large.jpg",
+      "url": "https://filemoon.sx/d/p7inf3b40dk1",
+      "info": "2024-[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "8 APELLIDOS MARROQUÍS",
       "image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-large.jpg",
