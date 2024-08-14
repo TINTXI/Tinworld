@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eventos Canales</title>
+<style>
+body{
+  font-size:20px;
+  background-color:#000000;
+}
+ul, #myUL {
+  list-style-type: none;
+}
+
+#myUL {
+  margin: 0;
+  padding: 0;
+}
+
+.caret {
+  cursor: pointer;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none;
+}
+
+.nested {
+  display: none;
+}
+
+.active {
+  display: block;
+}
+
+a{
+	display:inline-block;
+	padding:0.8em 1.2em;
+	margin:0 0.3em 0.3em 0;
+	border-radius:2em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:#FFFFFF;
+	text-align:center;
+	transition: all 0.2s;
+}
+a.button1{
+	background-color:#4eb5f1;
+}
+a.button2{
+	background-color:#4ef18f;
+}
+a.button3{
+	background-color:#f1bb4e;
+}
+a.button4{
+	background-color:#f14e4e;
+}
+a:hover{
+	border:0.25em solid rgba(255,255,255,1);
+}
+@media all and (max-width:50em){
+	a.button1{
+		display:block;
+		margin:0.5em auto;
+	}
+	
+}
+</style>
+</head>
+<body onscroll="myFunction()">
+<center>
+<h2 style="color:#FFFFFF;">LISTA TINWORLD EVENTOS 1</h2>
+</center>
+<div>
+<ul id="myUL">
+	<li><span class='caret'><a class='button1' href='#'>FOTTBALL</a></span>
+		<ul class='nested'>
+			<li><span class='caret'><a class='button2' href='#'>SUPERCOPA DE EUROPA</a></span>
+				<ul class='nested'>
+					<li><span class='caret'><a class='button3' href='#'>21:00 REAL MADRID VS ATALANTA&amp;M</a></span>
+						<ul class='nested'>
+							<li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 1</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 2</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 3</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 4</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 5</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 6</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 7</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 8</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 9</a></li>
+              <li><a class='button4' href='https://s1.sportea.link/live/embed.php?ch=es20'>ENLACE 10</a></li>
+						</ul>
+					</li>				
+</div>
+<script>
+var toggler = document.getElementsByClassName("caret");
+var i;
+var pos;
+var cliccato=0;
+for (i = 0; i < toggler.length; i++) {
+  toggler[i].addEventListener("click", function() {
+    pos=window.scrollY;
+	//alert ("POS: "+pos);
+	this.parentElement.querySelector(".nested").classList.toggle("active");
+    this.classList.toggle("caret-down");
+	cliccato=1;
+  });
+}
+
+function myFunction(){
+	if (cliccato==1){
+		cliccato=0;
+		//alert ("POS: "+pos);
+		window.scrollBy(0, pos+30);
+	}
+}
+</script>
+
+</body>
+</html>
