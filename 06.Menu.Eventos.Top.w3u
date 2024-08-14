@@ -8,6 +8,13 @@
 "stations":
     [
         {
+        "name": "LISTA EVENTOS 1",
+        "info":"[SOLO EVENTOS]",
+        "image": "https://i.postimg.cc/j5RPZR7T/descarga-11zon-1.png",
+        "url": "https://tinworld.vercel.app/EVENTOS 1.html",
+        "embed": "true"
+        }, 
+        {
         "name": "LISTA DEPORTES",
         "info":"[CANALES MIX]",
         "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
