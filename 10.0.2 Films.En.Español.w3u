@@ -8,6 +8,17 @@
 "stations":
     [
      {
+      "name": "3 DIAS MAXIMO",
+      "image": "https://www.ecartelera.com/carteles/18400/18486/001.webp",
+      "url": "https://filemoon.sx/d/o95nwadb84hd",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+     {
       "name": "MONKEY MAN",
       "image": "https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/monkey-man-2024/large_monkey_man.jpg",
       "url": "https://filemoon.sx/d/v4ay31d6bo9l",
