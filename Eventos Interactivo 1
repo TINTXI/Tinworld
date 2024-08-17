@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 "Tinworld" Interactiva</title>
+    <style>
+        body {
+            background-image: url('https://img.freepik.com/foto-gratis/herramientas-deportivas_53876-138077.jpg?t=st=1723912438~exp=1723916038~hmac=5d07ebe59ffa9cdf926d00e3db655e05d9d3377d633c61ce184ad0a646a754d8&w=900');
+            background-size: cover; /* Adapta la imagen para cubrir toda la pantalla */
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        iframe {
+            width: 40%;
+            height: 200px;
+            margin: 10px; /* Aumentar la distancia entre iframes */
+            border: 3px solid #FFDEAD; /* Color del borde */
+            border-radius: 30px; /* Bordes redondeados */
+padding: 5px; /* Espacio interior del borde */
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+<body>
+</div>
+<hr size="3" color="#FFDEAD">
+<h2 style="background-color: #FFDEAD;text-align:center;"><font color="black "><strong>🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø</strong></font></h2>
+<hr size="3" color="#FFDEAD">
+<center>
+    <img src="https://i.postimg.cc/hjMhGSpY/Polish-20240724-143030070.png" width="200px" width="200px" alt="">
+    </center>
+
+    <hr size="3" color="#FFDEAD">
+    <h2 style="background-color: #FFDEAD;text-align:center;"><font color="black "><strong>CANALES DE EVENTOS INTERACTIVOS</strong></font></h2>
+    <hr size="3" color="#FFDEAD">
+
+     <div style="display: flex;">
+<br>
+<h1></h1><br>
+
+<iframe src="https://www.oha.to/play/2941093452/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+
+<iframe src="https://www.oha.to/play/3907910812/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+</div>
+<h2 style="background-color: #FFDEAD;text-align:center;"><font color="red "><strong>DAZN 1 --------------------- DAZN 2</strong></font></h2>
+</div>
+<div style="display: flex;">
+<iframe src="https://www.oha.to/play/147003814/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+
+<iframe src="https://www.oha.to/play/3461295847/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+</div>
+     <div style="display: flex;"> 
+  
+<iframe src="https://www.oha.to/play/1442267705/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+
+<iframe src="https://www.oha.to/play/2881668464/index.m3u8" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" msExitFullscreen="true" allowfullscreen="true" allow="encrypted-media" scrolling="yes"></iframe>
+    </div>
+<hr size="6" color="#FFDEAD">
+</body>
+</html>
