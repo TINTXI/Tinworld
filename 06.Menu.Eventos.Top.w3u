@@ -13,28 +13,28 @@
         "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
         "url": "https://tinworld.vercel.app/Olimpi.html",
         "embed": "true"
-        },
-        {
-        "name": "EVENTOS INTERACTIVO 1",
-        "info":"[SOLO EVENTOS]",
-        "image": "https://i.postimg.cc/q74Sc6S4/interactivo1.jpg",
-        "url": "https://tinworld.vercel.app/Eventos Interactivo 1.html",
-        "embed": "true"
         }, 
         {
-        "name": "LISTA EVENTOS 1",
-        "info":"[SOLO EVENTOS]",
-        "image": "https://i.postimg.cc/j5RPZR7T/descarga-11zon-1.png",
-        "url": "https://tinworld.vercel.app/EVENTOS 1.html",
-        "embed": "true"
-        }, 
-        {
-        "name": "LISTA DEPORTES",
+        "name": "DEPORTES MIX",
         "info":"[CANALES MIX]",
         "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
         "url": "https://tinworld.vercel.app/Olimpi 2.html",
         "embed": "true"
-        }, 
+        },
+        {
+        "name": "EVENTOS INTERACTIVO (EN PRUEBAS)",
+        "info":"[SOLO EVENTOS]",
+        "image": "https://i.postimg.cc/q74Sc6S4/interactivo1.jpg",
+        "url": "https://tinworld.vercel.app/Eventos Interactivo 1.html",
+        "embed": "true"
+        },
+        {
+        "name": "EVENTOS 1 (EN PRUEBAS)",
+        "info":"[SOLO EVENTOS]",
+        "image": "https://i.postimg.cc/j5RPZR7T/descarga-11zon-1.png",
+        "url": "https://tinworld.vercel.app/EVENTOS 1.html",
+        "embed": "true"
+        },
         {
         "name": "ONETORO",
         "info":"[Enlace 1]",
@@ -62,6 +62,7 @@
         "online":"true",
         "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
         "url": "https://miztv.shop/tele/stream-749.php", 
+        "referer": "https://weblivehdplay.ru/",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
