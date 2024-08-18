@@ -17,8 +17,8 @@ https://www.huhu.to/play/788518500/index.m3u8
 
 #EXTINF:-1, group-title="Spain",FOX HD |D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=http://huhu.to/
-http://huhu.to/play/3193362953/index.m3u8
+#EXTVLCOPT:http-referrer=http://www.oha.to/
+https://www.oha.to/play/3193362953/index.m3u8
 
 #EXTINF:-1, group-title="Spain",M.ESTRENOS HD |D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
