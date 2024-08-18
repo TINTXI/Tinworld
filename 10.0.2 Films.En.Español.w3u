@@ -8,6 +8,17 @@
 "stations":
     [
      {
+      "name": "LA FAMILIA BENETON",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDVhNGY0MzMtZTgxYy00ZWM1LWFjZDMtNmFhYzg4YTlmODM4XkEyXkFqcGdeQXVyMTkyOTE2Mjk@.jpg",
+      "url": "https://filemoon.sx/d/sh1selbx8mif",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+     {
       "name": "3 DIAS MAXIMO",
       "image": "https://www.ecartelera.com/carteles/18400/18486/001.webp",
       "url": "https://filemoon.sx/d/o95nwadb84hd",
