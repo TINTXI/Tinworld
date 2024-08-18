@@ -7,6 +7,13 @@
 "info": "",
 "stations":
     [
+       {
+        "name": "CANALES DEPORTIVOS",
+        "info":"[CANALES EN ESPAÑOL]",
+        "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
+        "url": "https://tinworld.vercel.app/Olimpi.html",
+        "embed": "true"
+        },
         {
         "name": "EVENTOS INTERACTIVO 1",
         "info":"[SOLO EVENTOS]",
@@ -28,13 +35,6 @@
         "url": "https://tinworld.vercel.app/Olimpi 2.html",
         "embed": "true"
         }, 
-        {
-        "name": "CANALES DEPORTIVOS",
-        "info":"[CANALES EN ESPAÑOL]",
-        "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
-        "url": "https://tinworld.vercel.app/Olimpi.html",
-        "embed": "true"
-        },
         {
         "name": "ONETORO",
         "info":"[Enlace 1]",
