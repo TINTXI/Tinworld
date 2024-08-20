@@ -6,7 +6,9 @@
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
-[                       { 
+[                     
+
+                        { 
                         "name": "PERIODICOS", 
                         "image": "https://img.freepik.com/fotos-premium/discutir-papel-plataformas-medios-digitales-ai-pro-generativa_1198283-111408.jpg?w=900", 
                         "info": "", 
@@ -288,3 +290,5 @@
 
                    ]
                 }
+            ]
+         }
