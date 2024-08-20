@@ -159,6 +159,14 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"
-        }             
+        }, 
+        {
+       "name": "Under Paris",
+       "info":"[PRUEBA][MULTIAUDIO]",
+       "online":"true",
+       "image": "https://mexico.quadratin.com.mx/www/wp-content/uploads/2024/06/unnamed-19.jpg",
+       "url" : "https://iosmirror.cc/hls/81210788.m3u8",
+       "referer" : "referer=https://iosmirror.cc/"
+       }             
     ]
 }
