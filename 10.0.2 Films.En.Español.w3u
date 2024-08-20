@@ -8,6 +8,16 @@
 "stations":
     [
      {
+      "name": "TWISTER",
+      "image": "https://www.elseptimoarte.net/carteles/341/twisters_101997.jpg",
+      "url": "https://filemoon.sx/d/bmuiltxf2nws",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     {
       "name": "LA FAMILIA BENETON",
       "image": "https://m.media-amazon.com/images/M/MV5BNDVhNGY0MzMtZTgxYy00ZWM1LWFjZDMtNmFhYzg4YTlmODM4XkEyXkFqcGdeQXVyMTkyOTE2Mjk@.jpg",
       "url": "https://filemoon.sx/d/sh1selbx8mif",
