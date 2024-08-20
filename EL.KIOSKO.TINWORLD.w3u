@@ -1,5 +1,5 @@
 {
-"name": "PRUEBAS 2"
+"name": "EL KIOSKO TINWORLD"
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "url": "https://tinworld.vercel.app/001.PRUEBAS.w3u",
@@ -7,138 +7,284 @@
 "info":"",
 "groups":
 [                       { 
-                        "name": "30 Monedas", 
-                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
+                        "name": "PERIODICOS", 
+                        "image": "https://img.freepik.com/fotos-premium/discutir-papel-plataformas-medios-digitales-ai-pro-generativa_1198283-111408.jpg?w=900", 
                         "info": "", 
                         "stations": [
 
-                                        { 
-					"name": "30 Monedas T1X01", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/tzzmsyd1q3q4", 
-                                        "isHost":"true"
- 
-									},{ 
-                                        "name": "30 Monedas T1X02", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/12z1zoearpyq", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X03", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/9qwalr7e5oz8", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X04", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://streamwish.to/e/d90kd4v86f9w", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X05", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/6jij71860c34", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X06", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/f6xe383931c0", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X07", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://upstream.to/75l9g7uia7of", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T1X08", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-                                        "url": "https://filemoon.sx/d/htlouv4hviku", 
-                                        "isHost":"true"
-                                                                        },{ 
-					"name": "30 Monedas T2X01", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://filemoon.sx/d/gpv8wipn1cq5", 
-                                        "isHost":"true"
- 
-									},{ 
-                                        "name": "30 Monedas T2X02", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/ag1szxr2f7zj", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X03", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/gvq3mr46l78c", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X04", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://streamwish.to/e/mhcuqlg6d771", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X05", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/pyt1xjp2vmbq", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X06", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/8wzt8bvv98aw", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X07", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/6w81ub7sgsy7", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "30 Monedas T2X08", 
-                                        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg", 
-                                        "url": "https://upstream.to/s1pmqwlpjx23", 
-                                        "isHost":"true"
-                                    }]
-					             },
-{ 
-                        "name": "4400", 
-                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
+                                       {
+                        "name": " AS  - Deportes ",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_diario_AS.svg/245px-Logo_diario_AS.svg.png",
+                        "url": "http://as.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Diario Gol -Deportes",
+                        "image": "https://ravelodeporte.es/wp-content/uploads/2020/04/Portada-3.jpg",
+                        "url": "http://www.diariogol.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Estadio deportivo - Deportes",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ESTADIO_Deportivo.jpg/797px-ESTADIO_Deportivo.jpg",
+                        "url": "https://www.estadiodeportivo.com",
+                        "embed": true 
+                      },                   
+                      {
+                        "name": " L麓equipe  - Deportes",
+                        "image": "https://logowik.com/content/uploads/images/lequipe9468.logowik.com.webp",
+                        "url": "http://www.lequipe.fr/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Marca  - Deportes",
+                        "image": "https://logowik.com/content/uploads/images/marca3608.logowik.com.webp",
+                        "url": "http://www.marca.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Mundo Deportivo - deportes ",
+                        "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102013/mundo_deportivo.png?itok=X-l33TSl",
+                        "url": "http://www.mundodeportivo.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": "Sport - DEPORTES",
+                        "image": "https://play-lh.googleusercontent.com/IOv18_vqmMbEhETpb4wFIrskC2VyTEqeL8fi51BqYXLy9y4zm-2MjcuYveq4ob9GoV9p=w240-h480",
+                        "url": "http://www.sport.es/es/",
+                        "embed": true 
+                      }
+
+
+                   ]
+                },
+
+                     { 
+                        "name": "REVISTAS", 
+                        "image": "https://definicion.de/wp-content/uploads/2009/03/revista-1.jpg", 
                         "info": "", 
-                        "stations": [{ 
-									    "name": "4400 T1X01", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/xsw07s0u21b1.html", 
-                                        "isHost":"true"
- 
-									},{ 
-                                        "name": "4400 T1X02", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/nvp8n8hozufa.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X03", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/djecsfrgq7hc.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X04", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/m22v2js57jhl.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X05", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/ge6l3oa6x30s.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X06", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/qsyhsgrh45qr.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X07", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/h02sxcojs083.html", 
-                                        "isHost":"true"
-									},{ 
-                                        "name": "4400 T1X08", 
-                                        "image": "https://pics.filmaffinity.com/4400-727889378-large.jpg", 
-                                        "url": "https://uqload.com/tdv8pxczdx2k.html", 
-                                        "isHost":"true"
-                                    }]
+                        "stations": [
+
+                      {
+                        "name": " Arquitectura y Dise帽o - Revista ",
+                        "image": "https://www.arquitecturaydiseno.es/content/skins/ayd2019/img/logo-ayd-negro-blanco.svg",
+                        "url": "http://www.arquitecturaydiseno.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Autofacil 鈥揜evista Motor ",
+                        "image": "https://www.autofacil.es/wp-content/uploads/2024/04/AF-Logo_Header.png",
+                        "url": "http://www.autofacil.es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Nuevo Estilo -Revista ",
+                        "image": "https://www.nuevoestilo.es/_assets/design-tokens/nuevoestilo/static/images/logos/logo.2738690.svg?primary=%2523000000",
+                        "url": "https://www.nuevoestilo.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Ciencia y tecnolog铆a  -Revista",
+                        "image": "https://noticiasdelaciencia.com/upload/images/08_2018/2533_img_1.png",
+                        "url": "http://noticiasdelaciencia.com ",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Cinemania -Revista ",
+                        "image": "https://tienda.heraldo.es//media/hiberuslogo/feature/cinemania-logo.svg",
+                        "url": "https://www.20minutos.es/cinemania/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Computer   ",
+                        "image": "https://blog.hostalia.com/wp-content/themes/hostalia/images/computerhoy-blog-de-hostalia-hosting.jpg",
+                        "url": "http://computerhoy.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Cosmopolitan   ",
+                        "image": "https://d3oj2y7irryo5z.cloudfront.net/wp-content/uploads/2016/11/cosmo-logo-small.png",
+                        "url": "https://www.cosmopolitan.com/es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Cuore  -Revista",
+                        "image": "https://www.elperiodico.com/cuore/CUO/images/logotipo.svg",
+                        "url": "https://www.elperiodico.com/cuore/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Diez Minutos   ",
+                        "image": "https://pressroom.gleeden.com/es/wp-content/uploads/2022/12/diez_minutos_logo.jpg",
+                        "url": "http://www.diezminutos.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Divinity  ",
+                        "image": "https://pbs.twimg.com/profile_images/486063666626691072/mjdnk1aV_400x400.jpeg",
+                        "url": "http://www.divinity.es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " El Mueble  -Revista",
+                        "image": "https://libiabarcenas.com/wp-content/uploads/2016/05/EL-MUEBLE-LOGO.jpg",
+                        "url": "http://www.elmueble.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " ELLE  -Revista",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ELLE_Magazine_Logo.svg/2560px-ELLE_Magazine_Logo.svg.png",
+                        "url": "https://www.elle.com/es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Fotogramas -Revista  ",
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/13/a5/e4/13a5e4e5-8180-6bed-b2ef-5ae4cce8924d/source/512x512bb.jpg",
+                        "url": "http://www.fotogramas.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Glamour -Revista ",
+                        "image": "https://cdn.worldvectorlogo.com/logos/glamour-2.svg",
+                        "url": "http://www.glamour.es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Hogarmania",
+                        "image": "",
+                        "url": "https://www.hogarmania.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Hola -Revista  ",
+                        "image": "https://www.hola.com/horizon/original/b6350419d597-holacom-logo.png",
+                        "url": "http://www.hola.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Lecturas -Revista  ",
+                        "image": "",
+                        "url": "http://www.lecturas.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Leer  ",
+                        "image": "",
+                        "url": "http://revistaleer.com/",
+                        "embed": true 
+                      },
+
+                      {
+                        "name": " Love - Revista",
+                        "image": "",
+                        "url": "http://www.revistalove.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Marcamotor  ",
+                        "image": "",
+                        "url": "http://www.marcamotor.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Marie Claire  - revista",
+                        "image": "",
+                        "url": "http://www.marie-claire.es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Mia -Revista  ",
+                        "image": "",
+                        "url": "http://www.miarevista.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Motociclismo  ",
+                        "image": "",
+                        "url": "http://www.motociclismo.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Motor 16  ",
+                        "image": "",
+                        "url": "http://www.motor16.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Mujer hoy  - Revista",
+                        "image": "",
+                        "url": "http://www.mujerhoy.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Muy Interesante  -Revista ",
+                        "image": "https://pbs.twimg.com/profile_images/469400872925937664/lOUWQ5lJ_400x400.png",
+                        "url": "http://www.muyinteresante.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " National Geographic - Revista",
+                        "image": "",
+                        "url": "http://www.nationalgeographic.com.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Qu茅 Leer  ",
+                        "image": "",
+                        "url": "http://que-leer.com",
+                        "embed": true 
+                      },
+                      {
+                        "name": " QUO  -Revista",
+                        "image": "",
+                        "url": "http://www.quo.es/",
+                        "embed": true 
+                      },
+
+                      {
+                        "name": " Saber vivir  -Revista",
+                        "image": "",
+                        "url": "http://www.sabervivir.es/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " SEMANA -Revista  ",
+                        "image": "",
+                        "url": "http://www.semana.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Solo Moto  ",
+                        "image": "",
+                        "url": "http://solomoto.es",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Supermotor  ",
+                        "image": "",
+                        "url": "http://www.supermotor.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " TELVA  -Revista",
+                        "image": "",
+                        "url": "http://www.telva.com/",
+                        "embed": true 
+                      },
+                      {
+                        "name": " Traveler 鈥揜evista de viajes",
+                        "image": "",
+                        "url": "http://www.traveler.es/",
+                        "embed": true 
+                      },
+
+                      {
+                        "name": " Vogue  -Revista",
+                        "image": "",
+                        "url": "http://www.vogue.es/",
+                        "embed": true 
+                      }
+
+
+                   ]
+                }
