@@ -337,7 +337,19 @@
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "true",
         "isHost": "true"    
-        }
+        }, 
+        {
+        "name": "A SPORT",
+        "info":"[Enlace 1]",
+        "online":"true",
+        "image": "https://i.postimg.cc/mrmhkyYM/Mundotoro-TV-One-Toro-TV-1024x586-1.jpg",
+        "url": "https://www.elixx.xyz/aw/adortmund.php", 
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer": "https://www.elixx.xyz/",
+        "embed": "true",
+        "isHost": "true"    
+        }, 
+     
                    
     ]
 }
