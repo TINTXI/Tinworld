@@ -349,6 +349,13 @@
         "embed": "true",
         "isHost": "true"    
         }, 
+        {
+        "name": "LISTA TV",
+        "info":"[CANALES MIX]",
+        "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
+        "url": "https://tinworld.vercel.app/LISTA TV.html",
+        "embed": "true"
+        },
      
                    
     ]
