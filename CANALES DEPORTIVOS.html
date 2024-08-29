@@ -1,100 +1,72 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1\.0">
-    <title>Mi Página Web</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        p {
-            color: #666;
-            font-size: 18px;
-            text-align: center;
-        }
-        \.container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0\.1);
-        }
-        \.video-row {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 40px; /* Más espacio entre filas */
-        }
-        \.video-container {
-            width: 32%;
-            text-align: center;
-        }
-        video {
-            width: 100%;
-        }
-        \.video-title {
-            margin-top: 10px;
-            font-size: 25px;
-            color: #333;
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1\.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
             text-align: center;
-        }
-    </style>
+        }
+        p {
+            color: #666;
+            font-size: 18px;
+            text-align: center;
+        }
+        \.container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0\.1);
+        }
+        \.video-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        video {
+            width: 32%;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1>STREAM EN DIRECTO\!</h1>
-        <p>CANALES DEPORTIVOS</p>
-        <div class="video-row">
-            <div class="video-container">
-                <video controls>
-                    <source src="https://www.oha.to/play/2941093452/index.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">DAZN 1</div>
-            </div>
-            <div class="video-container">
-                <video controls>
-                    <source src="https://example\.com/stream2\.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">DAZN 2 2</div>
-            </div>
-            <div class="video-container">
-                <video controls>
-                    <source src="https://www.oha.to/play/1980907224/index.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">LA LIGA TV BAR</div>
-            </div>
-        </div>
-        <div class="video-row">
-            <div class="video-container">
-                <video controls>
-                    <source src="https://www.oha.to/play/3958277473/index.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">LA LIGA TV HYPERMOTION</div>
-            </div>
-            <div class="video-container">
-                <video controls>
-                    <source src="https://www.oha.to/play/3996529465/index.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">M + LA LIGA</div>
-            </div>
-            <div class="video-container">
-                <video controls>
-                    <source src="https://www.oha.to/play/3461295847/index.m3u8" type="application/x-mpegURL">
-                    Tu navegador no soporta la reproducción de este video\.
-                </video>
-                <div class="video-title">Título del Video 6</div>
-            </div>
-        </div>
-    </div>
+    <div class="container">
+        <h1>CANALES DEPORTIVOS TINWORLD</h1>
+        <p>CANALES STREAM</p>
+        <div class="video-row">
+            <video controls>
+                <source src="https://www.oha.to/play/2941093452/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+            <video controls>
+                <source src="https://www.oha.to/play/3907910812/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+            <video controls>
+                <source src="https://www.oha.to/play/3461295847/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+        </div>
+        <div class="video-row">
+            <video controls>
+                <source src="https://www.oha.to/play/3129220252/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+            <video controls>
+                <source src="https://www.oha.to/play/3958277473/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+            <video controls>
+                <source src="https://www.oha.to/play/1442267705/index.m3u8" type="application/x-mpegURL">
+                Tu navegador no soporta la reproducción de este video\.
+            </video>
+        </div>
+    </div>
 </body>
 </html>
