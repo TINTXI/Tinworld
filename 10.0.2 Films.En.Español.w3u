@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "RED DE TRAICION",
+      "image": "https://i.postimg.cc/ydYVP4qz/IMG-20240830-215234-663.jpg",
+      "url": "https://filemoon.sx/d/tyreajw17oc5",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
      {
       "name": "EL SINDICATO",
       "image": "https://i.postimg.cc/nLn1LCJG/1-UHp2-QEBPn-Trcx0i6a-Yw6j-Wt-Db-I.jpg",
