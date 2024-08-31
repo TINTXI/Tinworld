@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+     {
+      "name": "LA MALDICIÓN DE LA CENICIENTA",
+      "image": "https://i.postimg.cc/VN9VLqqN/IMG-20240831-152506-660.jpg",
+      "url": "https://filemoon.sx/d/56szyg63p7ev",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
       {
       "name": "RED DE TRAICION",
       "image": "https://i.postimg.cc/ydYVP4qz/IMG-20240830-215234-663.jpg",
