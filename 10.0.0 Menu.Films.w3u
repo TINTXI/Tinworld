@@ -15,13 +15,6 @@
          "embed": "true"
         },
         {
-	"name": "E-Cartelera",
-	"image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
-        {
          "name": "Films VOD",
          "image": "https://i.postimg.cc/L4T0Rqqy/logo6-11-201833.png",
          "url": "https://tinworld.vercel.app/10.0.1 Films.VOD.w3u",
