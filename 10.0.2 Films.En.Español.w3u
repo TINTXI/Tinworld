@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "LA TRAMPA",
+      "image": "https://i.postimg.cc/CMGrFJYv/fotoefectos-com-1.png",
+      "url": "https://filemoon.sx/d/cxffwxa0qi75",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
      {
       "name": "LA MALDICIÓN DE LA CENICIENTA",
       "image": "https://i.postimg.cc/VN9VLqqN/IMG-20240831-152506-660.jpg",
