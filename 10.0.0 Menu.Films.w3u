@@ -43,11 +43,13 @@
         }
     ]
 },
-
-
         {
-         "stations":
-                    [ 	
+	"name": "E-Cartelera",
+	"image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[	
          { 								
          "name": "E-CARTELERA", 								
          "image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png", 								
