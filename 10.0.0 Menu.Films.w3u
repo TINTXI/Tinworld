@@ -10,7 +10,7 @@
          { 								
          "name": "E-CARTELERA", 								
          "image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png", 								
-         "url": "https://www.ecartelera.com",
+         "url": "https://tinworld.vercel.app/10.0.6 Films.E-cartelera.w3u",
          "info":"MIRA LA CARTELERA",
          "embed": "true"
         },
@@ -49,7 +49,7 @@
         "import": false
         }
     ]
-},
+}
       	 
      ]
   }
