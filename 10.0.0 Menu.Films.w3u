@@ -7,13 +7,6 @@
 "info":"",
 "groups":
     [
-        { 								
-         "name": "E-CARTELERA", 								
-         "image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png", 								
-         "url": "https://www.ecartelera.com",
-         "info":"MIRA LA CARTELERA",
-         "embed": "true"
-        },
         {
          "name": "Films VOD",
          "image": "https://i.postimg.cc/L4T0Rqqy/logo6-11-201833.png",
@@ -49,4 +42,13 @@
         "import": false
         }
     ]
-}
+},
+        { 								
+         "name": "E-CARTELERA", 								
+         "image": "https://i.postimg.cc/ry5ZzN6P/fotoefectos-com.png", 								
+         "url": "https://www.ecartelera.com",
+         "info":"MIRA LA CARTELERA",
+         "embed": "true"
+        }
+     ]
+  }
