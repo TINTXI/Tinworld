@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LOCO IBIZA LOCOMIA",
+      "image": "https://i.postimg.cc/26qYKWP3/Loco.png",
+      "url": "https://filemoon.sx/d/85q3f01ejz96",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "LA TRAMPA",
       "image": "https://i.postimg.cc/CMGrFJYv/fotoefectos-com-1.png",
       "url": "https://filemoon.sx/d/ftqq63gbiglp",
