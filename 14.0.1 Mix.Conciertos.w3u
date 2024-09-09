@@ -83,7 +83,7 @@
                 "url":"https://embedv.net/v/MAlwEMYW3PVEJ39",
                 "isHost":"true",
                 "online":"true"
-                },
+                }
          	   ]
 		     },
              {
@@ -108,7 +108,7 @@
                 "url":"https://embedv.net/v/VqbX53gG6jB5Qzp",
                 "isHost":"true",
                 "online":"true"
-                }, 
+                } 
                ]
 		     },
                 {
@@ -125,7 +125,7 @@
                 "url":"https://embedv.net/v/3Q0lxBWX7WmEj1J",
                 "isHost":"true",
                 "online":"true"
-                },
+                }
                ]
 		     },
                 {
@@ -148,5 +148,3 @@
 		     }
 	       ]
          }
-       ]
-     }
