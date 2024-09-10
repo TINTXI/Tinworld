@@ -8,6 +8,13 @@
 "groups":
       [
                 {
+         "name": "UFC Fight Night: Burns vs Brady",
+         "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
                 "name": "UFC Fight Night: Burns vs Brady",
                 "info":"[Latino]",
                 "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
