@@ -366,19 +366,9 @@
         "isHost":""
         },
         {
-        "name": "R.MADRID TV",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.postimg.cc/J0wxbc0b/real.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium523/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
         "name": "GOL PLAY TV",
         "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.postimg.cc/RCHt5NQy/GolPlay.png",
+        "image": "https://i.ibb.co/64tj2Wp/fotoefectos-com-20.png",
         "url": "https://ddy1.mizhls.ru/ddy1/premium530/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
@@ -388,7 +378,7 @@
         {
         "name": "SKY SPORTS LA LIGA",
         "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
+        "image": "https://i.ibb.co/5sjDycT/fotoefectos-com-21.png",
         "url": "https://8.tutl24.xyz/live/STf1f42e775154f51.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
@@ -397,7 +387,7 @@
         {
         "name": "TUDN",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/QtMLX404/TUDN-Logo.png",
+        "image": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
         "url": "https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
@@ -406,7 +396,7 @@
         {
         "name": "FOX DEPORTES",
         "info":"[ OPC-1 🇺🇸  ]",
-        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "image": "https://i.ibb.co/98YgLqF/8213163610977376399.jpg",
         "url": "https://7.tutl24.xyz/live/STc46599ac943bda4.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
@@ -415,7 +405,7 @@
         {
         "name": "FOX DEPORTES",
         "info":"[ OPC-2 🇺🇸  ]",
-        "image": "https://i.postimg.cc/FRgjZvcz/FOX-Deportes-Logo.png",
+        "image": "https://i.ibb.co/98YgLqF/8213163610977376399.jpg",
         "url": "https://webufffit.mizhls.ru/lb/primafoxdeportes/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
@@ -425,7 +415,7 @@
         {
         "name": "FOX SPORT 1",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/vZR7jbsb/foxsport-Mex.png",
+        "image": "https://i.ibb.co/YXTH1CR/fotoefectos-com-24.png",
         "url": "https://7.tutl24.xyz/live/ST0187475b27ccd9e.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -435,7 +425,7 @@
         {
         "name": "FOX SPORT 1",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+        "image": "https://i.ibb.co/YXTH1CR/fotoefectos-com-24.png",
         "url": "https://8.tutl24.xyz/live/ST1d09a313fa8ad88.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -445,7 +435,7 @@
         {
         "name": "FOX SPORT 2",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/FHcv1TMh/foxsport2mex.png",
+        "image": "https://i.ibb.co/vB7KQMK/8213168654309609550.jpg",
         "url": "https://7.tutl24.xyz/live/ST3c7d45c4b19ec99.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -455,7 +445,7 @@
         {
         "name": "FOX SPORT 2",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/Y0mwMQtm/foxsport2-AR.png",
+        "image": "https://i.ibb.co/vB7KQMK/8213168654309609550.jpg",
         "url": "https://8.tutl24.xyz/live/STa413a92a1e3892d.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -465,7 +455,7 @@
         {
         "name": "FOX SPORT 3",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/RVdz9CBd/foxsport3-AR.png",
+        "image": "https://i.ibb.co/BcDnXdt/fotoefectos-com-26.png",
         "url": "https://7.tutl24.xyz/live/STf66c01258b2c798.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -475,7 +465,7 @@
         {
         "name": "FOX SPORT PREMIUM",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/9Mzq0nhL/Fox-Premium.png",
+        "image": "https://i.ibb.co/dPzjpJh/fotoefectos-com-27.png",
         "url": "https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -485,7 +475,7 @@
         {
         "name": "ESPN DEPORTES",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
+        "image": "https://i.ibb.co/n1KNQT8/fotoefectos-com-28.png",
         "url": "https://webufffit.mizhls.ru/lb/primaespndeportes/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
@@ -495,7 +485,7 @@
         {
         "name": "ESPN",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
         "url": "https://8.tutl24.xyz/live/STddd524582bb817c.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -505,7 +495,7 @@
         {
         "name": "ESPN",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/pXY3gZTy/ESPN1.png",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
         "url": "https://7.tutl24.xyz/live/STb88a289438c3944.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -515,7 +505,7 @@
         {
         "name": "ESPN 2",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
         "url": "https://7.tutl24.xyz/live/STa8dba6e27609e2c.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -525,7 +515,7 @@
         {
         "name": "ESPN 2",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
         "url": "https://8.tutl24.xyz/live/ST297b3367c5db205.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -535,7 +525,7 @@
         {
         "name": "ESPN 3",
         "info":"[ OPC-1 🇲🇽  ]",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://i.ibb.co/w63NZCg/fotoefectos-com-31.png",
         "url": "https://7.tutl24.xyz/live/ST10036602b786fa9.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -545,7 +535,7 @@
         {
         "name": "ESPN 3",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/fyf4Mjwz/ESPN3.png",
+        "image": "https://i.ibb.co/w63NZCg/fotoefectos-com-31.png",
         "url": "https://7.tutl24.xyz/live/ST1dfc1e3f4206a2e.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -555,7 +545,7 @@
         {
         "name": "ESPN 4",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/DzkccVrN/ESPN4.png",
+        "image": "https://i.ibb.co/TMQXRZ7/fotoefectos-com-32.png",
         "url": "https://7.tutl24.xyz/live/ST18727094d3eb934.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -565,7 +555,7 @@
         {
         "name": "ESPN PREMIUM",
         "info":"[ OPC-1 🇦🇷  ]",
-        "image": "https://i.postimg.cc/T2gCNJ2S/ESPNPRE.png",
+        "image": "https://i.ibb.co/JH8zcfX/fotoefectos-com-33.png",
         "url": "https://7.tutl24.xyz/live/STbca216071d5456e.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -575,7 +565,7 @@
         {
         "name": "TNT SPORTS PREMIUM",
         "info":"[ OPC-1 🇨🇱  ]",
-        "image": "",
+        "image": "https://i.ibb.co/8xzGTNr/8213186619485153519.jpg",
         "url": "https://7.tutl24.xyz/live/STbbdf99a5d92e5f1.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
@@ -585,7 +575,7 @@
         {
         "name": "TNT SPORTS",
         "info":"[ OPC-1 🇨🇱  ]",
-        "image": "",
+        "image": "https://i.ibb.co/rmDFDJv/fotoefectos-com-34.png",
         "url": "https://8.tutl24.xyz/live/STc4be0d81f63d907.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
