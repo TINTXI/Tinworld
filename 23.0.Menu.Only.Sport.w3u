@@ -7,7 +7,133 @@
 "info": "",
 "stations":
     [
-		{
+        {
+        "name": "DAZN - LA LIGA",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
+        "url": "https://7.tutl24.xyz/live/STf22e13dc983ea18.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN - LA LIGA",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium538/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 1",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
+        "url": "https://8.tutl24.xyz/live/STd10ea52bb3fc3b4.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 1",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
+        "url": "https://ddy5.mizhls.ru/ddy5/premium445/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 1",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
+        "url": "https://esx1.mizhls.ru/esx1/primadazn1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 2",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
+        "url": "https://7.tutl24.xyz/live/STc12b089cce82377.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 2",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium446/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN 2",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
+        "url": "https://esx1.mizhls.ru/esx1/primadazn2es/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN F1 🏎",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
+        "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN F1 🏎",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium537/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EUROSPORT 1",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/LYNFRh1/fotoefectos-com-17.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium524/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EUROSPORT 2",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/G08F3mr/fotoefectos-com-18.png",
+        "url": "https://ddy6.mizhls.ru/ddy6/premium525/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "DAZN F1 🏎",
+        "info":"[ OPC-3 🇪🇸  ]",
+        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
+        "url": "https://webufffit.mizhls.ru/lb/primadaznf1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+	{
         "name": "LA LIGA TV",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/p4gPwvn/fotoefectos-com-1-1.png",
@@ -60,25 +186,6 @@
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/tH7D6xk/fotoefectos-com-2.png",
         "url": "https://webufffit.mizhls.ru/lb/primaliga2/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN - LA LIGA",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
-        "url": "https://7.tutl24.xyz/live/STf22e13dc983ea18.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN - LA LIGA",
-        "info":"[ OPC-2 🇪🇸  ]",
-        "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium538/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
@@ -238,114 +345,7 @@
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
-        },
-        {
-        "name": "DAZN 1",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
-        "url": "https://8.tutl24.xyz/live/STd10ea52bb3fc3b4.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN 1",
-        "info":"[ OPC-2 🇪🇸  ]",
-        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
-        "url": "https://ddy5.mizhls.ru/ddy5/premium445/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN 1",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
-        "url": "https://esx1.mizhls.ru/esx1/primadazn1/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN 2",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
-        "url": "https://7.tutl24.xyz/live/STc12b089cce82377.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN 2",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium446/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN 2",
-        "info":"[ OPC-2 🇪🇸  ]",
-        "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
-        "url": "https://esx1.mizhls.ru/esx1/primadazn2es/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN F1 🏎",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
-        "url": "https://8.tutl24.xyz/live/ST24cc9c8371d095a.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN F1 🏎",
-        "info":"[ OPC-2 🇪🇸  ]",
-        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium537/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "DAZN F1 🏎",
-        "info":"[ OPC-3 🇪🇸  ]",
-        "image": "https://i.ibb.co/XCsYp2N/fotoefectos-com-16.png",
-        "url": "https://webufffit.mizhls.ru/lb/primadaznf1/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "EUROSPORT 1",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/LYNFRh1/fotoefectos-com-17.png",
-        "url": "https://ddy1.mizhls.ru/ddy1/premium524/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-        {
-        "name": "EUROSPORT 2",
-        "info":"[ OPC-1 🇪🇸  ]",
-        "image": "https://i.ibb.co/G08F3mr/fotoefectos-com-18.png",
-        "url": "https://ddy6.mizhls.ru/ddy6/premium525/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://qqwebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
+        }, 
         {
         "name": "ONE TORO",
         "info":"[ OPC-1 🇪🇸  ]",
