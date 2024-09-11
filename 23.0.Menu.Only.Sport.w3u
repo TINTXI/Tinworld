@@ -8,6 +8,24 @@
 "stations":
     [
         {
+        "name": "BEIN SPORTS Ñ",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/vJXB43C/8213784177177825194.jpg",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium372/index.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "BEIN SPORTS Ñ",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/vJXB43C/8213784177177825194.jpg",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium372/tracks-v1a1/mono.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "DAZN - LA LIGA",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
@@ -596,6 +614,46 @@
         "isHost":""
         },
         {
+        "name": "RMC SPORT 1",
+        "info":"[ OPC-1 🇫🇷  ]",
+        "image": "https://i.ibb.co/ZcG0Dy6/fotoefectos-com-38.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium119/playlist.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "RMC SPORT 1",
+        "info":"[ OPC-2 🇫🇷  ]",
+        "image": "https://i.ibb.co/ZcG0Dy6/fotoefectos-com-38.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium119/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "RMC SPORT 2",
+        "info":"[ OPC-1 🇫🇷  ]",
+        "image": "https://i.ibb.co/r33DC3R/fotoefectos-com-39.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium120/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "RMC SPORT 2",
+        "info":"[ OPC-2 🇫🇷  ]",
+        "image": "https://i.ibb.co/r33DC3R/fotoefectos-com-39.png",
+        "url": "https://ddy6.mizhls.ru/ddy6/premium120/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "SKY SPORTS LA LIGA",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/5sjDycT/fotoefectos-com-21.png",
@@ -688,6 +746,86 @@
         "info":"[ OPC-1 🇨🇱  ]",
         "image": "https://i.ibb.co/rmDFDJv/fotoefectos-com-34.png",
         "url": "https://8.tutl24.xyz/live/STc4be0d81f63d907.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 1",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/CbTCDrn/fotoefectos-com-40.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },  
+        {
+        "name": "TNT SPORTS 1",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/CbTCDrn/fotoefectos-com-40.png",
+        "url": "https://ddh1.mizhls.ru/ddh1/premium31/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 2",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/4Ydg2Lm/fotoefectos-com-41.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 2",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/4Ydg2Lm/fotoefectos-com-41.png",
+        "url": "https://ddh1.mizhls.ru/ddh1/premium32/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 3",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/HxCF6Kd/fotoefectos-com-42.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 3",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/HxCF6Kd/fotoefectos-com-42.png",
+        "url": "https://ddh1.mizhls.ru/ddh1/premium33/tracks-v1a1/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 4",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/HG20q9Q/fotoefectos-com-43.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium34/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "TNT SPORTS 4",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/HG20q9Q/fotoefectos-com-43.png",
+        "url": "https://ddh1.mizhls.ru/ddh1/premium34/tracks-v1a1/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
