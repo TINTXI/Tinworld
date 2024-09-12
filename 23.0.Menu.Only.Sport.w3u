@@ -393,7 +393,27 @@
         "isHost":""
         },
         {
+        "name": "FU TV",
+        "info":"[ OPC-1 🇲🇽  ]",
+        "image": "https://i.ibb.co/dPzjpJh/fotoefectos-com-27.png",
+        "url": "https://8.tutl24.xyz/live/ST589f8d07edb69df.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "GOL PLAY TV",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/64tj2Wp/fotoefectos-com-20.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium530/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "GOL PERU",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/64tj2Wp/fotoefectos-com-20.png",
         "url": "https://ddy1.mizhls.ru/ddy1/premium530/index.m3u8",
@@ -485,6 +505,16 @@
         "image": "https://i.ibb.co/VWxtCwy/fotoefectos-com-6.png",
         "url": "https://8.tutl24.xyz/live/ST9a28422f70a5ac3.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "LIGA 1 MAX",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.ibb.co/JnvRRZ1/fotoefectos-com-5.png",
+        "url": "https://ddy1.mizhls.ru/ddy1/premium435/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
         },
@@ -725,6 +755,16 @@
         "isHost":""
         },
         {
+        "name": "TIGO SPORT",
+        "info":"[ OPC-1 🇵🇹  ]",
+        "image": "https://i.ibb.co/JzfpMDd/fotoefectos-com-8.png",
+        "url": "https://webufffit.mizhls.ru/lb/eplayerSPORTTV6/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "TUDN",
         "info":"[ OPC-1 🇲🇽  ]",
         "image": "https://i.ibb.co/VCs0zWV/fotoefectos-com-22.png",
@@ -855,6 +895,16 @@
         {
         "name": "# VAMOS",
         "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.ibb.co/Fzv2ryW/fotoefectos-com-7.png",
+        "url": "https://ddy5.mizhls.ru/ddy5/premium521/index.m3u8 ",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "WIN SPORTS +",
+        "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/Fzv2ryW/fotoefectos-com-7.png",
         "url": "https://ddy5.mizhls.ru/ddy5/premium521/index.m3u8 ",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
