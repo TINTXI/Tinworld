@@ -14,6 +14,14 @@
 		"info": "",
 		"import": false
 		},
+                {
+		"name": "Liga EA SPORT 24/25",
+		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+		"url": "https://tinworld.vercel.app/21.0.8.3 Deportes.Diferidos.FOOTBALL.LA.LIGA.24-25.w3u",
+		"info": "",
+		"import": false
+		},  
+
         {
         "name": "Futbol mIx",
         "image": "https://i.postimg.cc/8Cr4Vr8c/soccer-new.png",
@@ -166,68 +174,6 @@
                 }
             	]
 	},
-
-	{
-        "name": "Liga EA SPORT 2023/24",
-        "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-        "imageScale": "",
-        "info":"",
-        "stations":
-            	[
-			{
-        		"name": "FC Barcelona VS Valencia CF",
-        		"info":"[26-04-2024]",
-        		"image": "https://i.postimg.cc/HLf3G2yn/2024-04-29-FC-Barcelona-vs-Valencia-CF.jpg",
-        		"url": "https://filemoon.sx/d/h4eqwh8gp7nx/Liga_EA_Sport_FC_Barcelona_VS_Valencia_290424.mkv",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-        		"name": "Atco Madrid vs FC Barcelona",
-        		"info":"[17-03-2024]",
-        		"image": "https://i.postimg.cc/vHVLLjZT/2024-03-17-Atletico-Madrid-VS-Barcelona.png",
-        		"url": "https://filemoon.sx/d/vwsfovzwtkb6",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-        		"name": "Valencia vs Real Madrid",
-        		"info":"[]",
-        		"image": "https://i.postimg.cc/0Q5gxs1Z/2024-03-24-Valencia-vs-Real-Madrid.webp",
-        		"url": "https://filemoon.sx/d/c8no6hevcuqb/Liga_EA_Sport_Valencia_VS_Real_Madrid_020324.mp4",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-        		"name": "Real Madrid vs Sevilla",
-        		"info":"[25-02-2024]",
-        		"image": "https://i.postimg.cc/t42zd8H8/mavsse.jpg",
-        		"url": "https://embedv.net/v/PlBVEZ0eZ365Dv9",
-			"isHost":"true",
-			"userAgent": "",
-        		"online":"true"
-        		},
-			{
-        		"name": "FC Barcelona Vs Real Madrid [Clasico]",
-        		"info": "[28-10-2023]",
-        		"image": "https://i.postimg.cc/zDpwX0xM/16980416846675.webp",
-        		"url": "https://www.linkbox.to/f-detail/ZnA0NmU0MDA0bjJr0",
-			"isHot": "true",
-        		"online":"true"
-			},
-			{
-        		"name": "Getafe vs Valencia",
-        		"info": "[08-12-2023]",
-        		"image": "https://i.postimg.cc/fyVsSRdL/17018637251160.webp",
-        		"url": "https://filemoon.sx/d/rdtgf3invur4",
-			"isHot": "true",
-        		"online": "true"
-        		}
-			]
-		},
 
 	{
        	"name": "Copa del Rey 2023/24",
