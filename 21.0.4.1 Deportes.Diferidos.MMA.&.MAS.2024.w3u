@@ -872,7 +872,18 @@ Heavyweight Grand Prix",
         "embed":"",
         "isHost":"true",
         "online":"true"
-        }
+        },
+        { 
+	"name": "💥-Pfl 7 Regular Season Maincard Goltsov 🆚 Johnson", 
+	"image": "https://i.postimg.cc/bJdF0R9f/denis-goltsov-vs-tim-johnson-1-slug.jpg", 
+	"url":"https://filemoon.sx/d/w9o70g2006my", 
+	"info": "02-08-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
       
 ]
 }
