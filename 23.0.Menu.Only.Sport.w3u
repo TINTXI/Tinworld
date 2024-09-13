@@ -214,6 +214,26 @@
         "isHost":""
         },
         {
+        "name": "EUROSPORT 1",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/LYNFRh1/fotoefectos-com-17.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EUROSPORT 1",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/LYNFRh1/fotoefectos-com-17.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eurosport-1-139&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "EUROSPORT 2",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/G08F3mr/fotoefectos-com-18.png",
@@ -222,12 +242,62 @@
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
         "isHost":""
+        }, 
+        {
+        "name": "EUROSPORT 2",
+        "info":"[ OPC-1 🇬🇧  ]",
+        "image": "https://i.ibb.co/G08F3mr/fotoefectos-com-18.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "EUROSPORT 2",
+        "info":"[ OPC-2 🇬🇧  ]",
+        "image": "https://i.ibb.co/G08F3mr/fotoefectos-com-18.png",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=eurosport-2-140&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
         },
         {
         "name": "ESPN DEPORTES",
         "info":"[ OPC-1 🇲🇽  ]",
         "image": "https://i.ibb.co/n1KNQT8/fotoefectos-com-28.png",
         "url": "https://webufffit.mizhls.ru/lb/primaespndeportes/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN DEPORTES",
+        "info":"[ OPC-2 🇲🇽  ]",
+        "image": "https://i.ibb.co/n1KNQT8/fotoefectos-com-28.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium375/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN",
+        "info":"[ OPC-1 🇺🇸  ]",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
+        "url": "https://7.tutl24.xyz/live/STe218872b5359d35.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN",
+        "info":"[ OPC-2 🇺🇸  ]",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
+        "url": "https://webufffit.mizhls.ru/lb/primaespnusa/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
         "online":"true",
@@ -254,6 +324,56 @@
         "isHost":""
         },
         {
+        "name": "ESPN",
+        "info":"[ OPC-2 🇦🇷  ]",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium149/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN",
+        "info":"[ OPC-1 🇨🇱  ]",
+        "image": "https://i.ibb.co/DznhVf1/fotoefectos-com-29.png",
+        "url": "http://38.43.151.206:8000/play/a00y/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2",
+        "info":"[ OPC-1 🇺🇸  ]",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
+        "url": "https://8.tutl24.xyz/live/ST1313adfffefadb4.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2",
+        "info":"[ OPC-2 🇺🇸  ]",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
+        "url": "http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000146&type=stream.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2",
+        "info":"[ OPC-3 🇺🇸  ]",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
+        "url": "https://webufffit.mizhls.ru/lb/eplayerespn2_usa/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "ESPN 2",
         "info":"[ OPC-1 🇲🇽  ]",
         "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
@@ -268,6 +388,26 @@
         "info":"[ OPC-1 🇦🇷  ]",
         "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
         "url": "https://8.tutl24.xyz/live/ST297b3367c5db205.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN 2",
+        "info":"[ OPC-2 🇦🇷  ]",
+        "image": "https://i.ibb.co/R21F5F1/fotoefectos-com-30.png",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium150/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "ESPN 2",
+        "info":"[ OPC-1 🇨🇱  ]",
+        "image": "https://i.postimg.cc/43kY0sFz/ESPN2.png",
+        "url": "http://38.43.151.206:8000/play/a01v/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -292,6 +432,16 @@
         "referer" : "",
         "online":"true",
         "isHost":""
+        }, 
+        {
+        "name": "ESPN 3",
+        "info":"[ OPC-1 🇨🇱  ]",
+        "image": "https://i.ibb.co/w63NZCg/fotoefectos-com-31.png",
+        "url": "http://38.43.151.206:8000/play/a01p/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
         },
         {
         "name": "ESPN 4",
@@ -304,10 +454,60 @@
         "isHost":""
         },
         {
+        "name": "ESPN 4",
+        "info":"[ OPC-2 🇦🇷  ]",
+        "image": "https://i.ibb.co/TMQXRZ7/fotoefectos-com-32.png",
+        "url": "http://45.5.151.151:8000/play/a0ix/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },  
+        {
+        "name": "ESPN 5",
+        "info":"[ OPC-1 🇦🇷  ]",
+        "image": "",
+        "url": "http://190.0.241.181:8000/play/a033/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN 6",
+        "info":"[ OPC-1 🇦🇷  ]",
+        "image": "",
+        "url": "http://190.0.241.181:8000/play/a02f/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN 7",
+        "info":"[ OPC-1 🇦🇷  ]",
+        "image": "",
+        "url": "http://190.0.241.181:8000/play/a02j/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        },
+        {
         "name": "ESPN PREMIUM",
         "info":"[ OPC-1 🇦🇷  ]",
         "image": "https://i.ibb.co/JH8zcfX/fotoefectos-com-33.png",
         "url": "https://7.tutl24.xyz/live/STbca216071d5456e.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
+        "online":"true",
+        "isHost":""
+        }, 
+        {
+        "name": "ESPN Premium",
+        "info":"[ OPC-2 🇦🇷  ]",
+        "image": "https://i.postimg.cc/T2gCNJ2S/ESPNPRE.png",
+        "url": "http://45.5.151.151:8000/play/a0fe/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
@@ -623,6 +823,26 @@
         "url": "https://ddy1.mizhls.ru/ddy1/premium528/index.m3u8 ",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://qqwebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },  
+        {
+        "name": "NBA TV",
+        "info":"[ OPC-1 🇺🇸  ]",
+        "image": "",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=nba-tv-43&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "NFL NETWORK",
+        "info":"[ OPC-1 🇺🇸  ]",
+        "image": "",
+        "url": "https://nayeemparvez.tech/sports24/live.m3u8?id=nfl-network-91&e=.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://aesport.tv/",
         "online":"true",
         "isHost":""
         }, 
