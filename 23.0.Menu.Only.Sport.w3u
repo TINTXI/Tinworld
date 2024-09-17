@@ -713,7 +713,7 @@
         "name": "LIGA D CAMPEONES-2",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/VWxtCwy/fotoefectos-com-6.png",
-        "url": "https://8.tutl24.xyz/live/ST9a28422f70a5ac3.m3u8",
+        "url": "http://281476728131165365.ofkp911.xyz:80/live/N319242/N319242y7/165365.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
@@ -723,6 +723,24 @@
         "info":"[ OPC-2 🇪🇸  ]",
         "image": "https://i.ibb.co/VWxtCwy/fotoefectos-com-6.png",
         "url": "http://281476728131282469.ofkp911.xyz:80/live/N319242/N319242y7/282469.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "LIGA D CAMPEONES-3",
+        "info":"[ OPC-1 🇪🇸  ]",
+        "image": "https://i.postimg.cc/cHJsBZmL/fotoefectos-com.png",
+        "url": "http://281476728131282470.ofkp911.xyz:80/live/N319242/N319242y7/282470.m3u8",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true",
+        "isHost":""
+        },
+        {
+        "name": "LIGA D CAMPEONES-3",
+        "info":"[ OPC-2 🇪🇸  ]",
+        "image": "https://i.postimg.cc/cHJsBZmL/fotoefectos-com.png",
+        "url": "http://281476728131282471.ofkp911.xyz:80/live/N319242/N319242y7/282471.m3u8",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "online":"true",
         "isHost":""
