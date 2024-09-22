@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "CAIDA LIBRE",
+      "image": "https://i.postimg.cc/LXHcnfc2/fotoefectos-com-1.png",
+      "url": "https://filemoon.sx/d/gmnf62p367iy",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
       {
       "name": "HEROES AL AMANECER",
       "image": "https://i.postimg.cc/ry7dNXTM/fotoefectos-com.png",
