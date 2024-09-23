@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "MADAME WEB",
+      "image": "https://i.postimg.cc/9MB9fJQb/fotoefectos-com-1.png",
+      "url": "https://listeamed.net/v/KNWlEDNglZW5kbp",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
 
       {
       "name": "CAIDA LIBRE",
