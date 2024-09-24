@@ -11,7 +11,14 @@
 		"name": "RESPIRA",
 		"image": "https://i.postimg.cc/TYwjNBFV/Respira.png",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie%20RESPIRA.w3u",
-		"info": "",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
+                {
+		"name": "MONSTRUOS: LA HISTORIA DE LYLE Y ERIK MENDEZ",
+		"image": "https://i.postimg.cc/Vs44jQ81/fotoefectos-com.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Monstruos: La historia de Lyle y Erik Menendez.w3u",
+		"info": "2024[TINWORLD]",
 		"import": false
 		}
 
