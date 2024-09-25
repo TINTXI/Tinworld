@@ -1,26 +1,434 @@
 #EXTM3U url=""
 
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 1-SPAIN
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 1 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 2 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 3 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 1 SERBIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 2 SERBIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium430/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 3 SERBIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium431/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 4 SERBIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium581/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 1 CROACIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 2 CROACIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium433/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 3 CROACIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium434/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ARENA SPORT 4 CROACIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium580/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO SUPER SPORT 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO SUPER SPORT 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO SUPER SPORT 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO SUPER SPORT 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO SUPER SPORT 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ASTRO CRICKET
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BT SPORT 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BARCA TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium522/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BT SPORT 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BT SPORT 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BT SPORT ESPN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BENFICA TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium380/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 1 ENGLISH
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 2 ENGLISH
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 3 ENGLISH
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 1 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 2 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 3 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 4 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 5 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 6 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 7 ARABIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 1 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 2 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 3 PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium100/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 1 TURKEY
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium62/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 2 TURKEY
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium63/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 3 TURKEY
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 4 TURKEY
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium67/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 1 FRANCE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 2 FRANCE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT 3 FRANCE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT SPAIN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium372/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BEIN SPORT USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium425/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",BIG TEN NETWORK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium397/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",CANAL + SPORT POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",CANAL + SPORT 2 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",CANAL + SPORT 5 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium75/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",CANAL + SPORT FRANCE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",CBS SPORT NETWORK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium308/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 1-SPAIN
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 2-SPAIN
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 2-SPAIN
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 3-SPAIN
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 3-SPAIN
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 4-SPAIN
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 4-SPAIN
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ABC USA
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 1 BAR GERMAY
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium51/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN 2 BAR GERMANY
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DAZN F1-SPAIN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DIGI SPORT 1 ROMANIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DIGI SPORT 2 ROMANIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DIGI SPORT 3 ROMANIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",DIGI SPORT 4 ROMANIA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium149/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 2 SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium150/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN U USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium316/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN PREMIUM ARGENTINA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN BRASIL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium81/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 2 BRASIL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium82/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 3 BRASIL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium83/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 4 BRASIL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 1 NETHERLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium379/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN 2 NETHERLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ESPN DEPORTES
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 1 SPAIN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium524/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 2 SPAIN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium525/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 1 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",EUROSPORT 2 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ELEVEN SPORT 1 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ELEVEN SPORT 2 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ELEVEN SPORT 3 POLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ZIGGO SPORT SELECT
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8
+
+#EXTINF:-1 tvg-name="ONLY SPORTS 2" tvg-logo="https://i.postimg.cc/Xqv560JM/logo9-24-23755.png" group-title="TINWORLD SPORT",ZIGGO SPORT RACING
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
