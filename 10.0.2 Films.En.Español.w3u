@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "PARPADEA DOS VECES",
+      "image": "https://i.postimg.cc/Y9Yc2Kfd/20f53337231bfbc130d2dcc89b42d5af.jpg",
+      "url": "https://filemoon.sx/d/ne6k8ae726rl",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "MADAME WEB",
       "image": "https://i.postimg.cc/9MB9fJQb/fotoefectos-com-1.png",
       "url": "https://listeamed.net/v/njJYOd3wR7YEe9o",
