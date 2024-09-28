@@ -16,35 +16,35 @@
         },
         {
          "name": "Films VOD",
-         "image": "https://i.postimg.cc/L4T0Rqqy/logo6-11-201833.png",
+         "image": "https://i.postimg.cc/MGsB9Lhp/fotoefectos-com-1.png",
          "url": "https://tinworld.vercel.app/10.0.1 Films.VOD.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Films En Latino",
-         "image": "https://i.postimg.cc/fWrmxZ1z/logo6-11-202043.png",
+         "image": "https://i.postimg.cc/Cxq6TGF0/fotoefectos-com-5.png",
          "url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "Films En Español",
-         "image": "https://i.postimg.cc/rpkSKJ35/logo6-11-201932.png",
+         "image": "https://i.postimg.cc/SRbxd7NK/fotoefectos-com-2.png",
          "url": "https://tinworld.vercel.app/10.0.2 Films.En.Español.w3u",
          "info":"",
          "import": false
         },
 	{
          "name": "films Infantil",
-         "image": "https://i.postimg.cc/Kz44z3Gn/logo6-11-20217.png",
+         "image": "https://i.postimg.cc/cLL4FJZf/fotoefectos-com-3.png",
          "url": "https://tinworld.vercel.app/10.0.4 Films.Infantil.Español.w3u",
          "info":"",
          "import": false
         },
         {
         "name": "Films Sagas - Proximamente",
-        "image": "https://i.postimg.cc/9M4yDQCq/logo6-11-202543.png",
+        "image": "https://i.postimg.cc/NMmgK97v/fotoefectos-com-4.png",
         "url": "https://tinworld.vercel.app/10.0.5 Films.Sagas.Español.w3u",
         "import": false
         }
