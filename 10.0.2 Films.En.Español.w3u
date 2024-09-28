@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LA SUSTANCIA",
+      "image": "https://i.postimg.cc/kMjpYDfv/descarga-1.jpg",
+      "url": "https://filemoon.sx/d/wzq3l9vz2g3z",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "LOBOS",
       "image": "https://i.postimg.cc/zvXsSyZQ/MV5-BYj-Zk-MGFm-OTAt-ZTM5-My00-ZDk1-LWE5-Yj-Et-MDRk-Y2-Fi-MTQ1-ZDE2-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
       "url": "https://filemoon.sx/d/8d537fd13wek",
