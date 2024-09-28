@@ -7,6 +7,14 @@
 "info":"",
 "groups":
     [
+
+                {
+		"name": "CICATRIZ-2024",
+		"image": "https://i.postimg.cc/x1N4Hc16/images.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Cicatriz.w3u",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
                 {
 		"name": "MONSTRUOS: LA HISTORIA DE LYLE Y ERIK MENDEZ-2024",
 		"image": "https://i.postimg.cc/zGH54YSY/fotoefectos-com-removebg-preview.png",
