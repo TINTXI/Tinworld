@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "PADRE NO HAY MAS QUE UNO 4",
+      "image": "",
+      "url": "https://filemoon.sx/d/o3rcrf1ddddt",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "PARPADEA DOS VECES",
       "image": "https://i.postimg.cc/Y9Yc2Kfd/20f53337231bfbc130d2dcc89b42d5af.jpg",
       "url": "https://filemoon.sx/d/ne6k8ae726rl",
