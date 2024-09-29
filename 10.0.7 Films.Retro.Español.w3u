@@ -8,12 +8,14 @@
 "stations":
     [
 	{
-        "name": "AAA, Sin limite en el tiempo",
-        "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
-        "url": "https://upstream.to/r61vjpoykxcz",
-        "info": "2010",
+        "name": "UN RAYO DE LUZ",
+        "image": "https://i.postimg.cc/mkx2w2P3/IMG-20240929-144731-316.jpg",
+        "url": "https://filemoon.sx/d/3sw8x4as1s50",
+        "info": "1960[TINWORLD]",
         "embed":"",
         "isHost":"true",
         "online":"true",
         "import": false
         },
+      ]
+    }
