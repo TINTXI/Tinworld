@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "SOL DE JUSTICIA",
+      "image": "https://i.postimg.cc/P5K3kH7b/IMG-20240929-122249-314.jpg",
+      "url": "https://filemoon.sx/d/nq5zsnun61fx",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "LA SUSTANCIA",
       "image": "https://i.postimg.cc/kMjpYDfv/descarga-1.jpg",
       "url": "https://filemoon.sx/d/wzq3l9vz2g3z",
