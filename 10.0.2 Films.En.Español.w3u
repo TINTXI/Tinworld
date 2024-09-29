@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "DIVORCIADOS",
+      "image": "https://i.postimg.cc/CxT2csQ3/r0-Zdp-HIvojr6k9-KMiz-U2e47bx-DM.jpg",
+      "url": "https://filemoon.sx/d/8ldqqklo8bm1",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "SOL DE JUSTICIA",
       "image": "https://i.postimg.cc/P5K3kH7b/IMG-20240929-122249-314.jpg",
       "url": "https://filemoon.sx/d/nq5zsnun61fx",
