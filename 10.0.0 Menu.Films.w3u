@@ -38,14 +38,14 @@
 	{
          "name": "Films Infantil",
          "image": "https://i.postimg.cc/cLL4FJZf/fotoefectos-com-3.png",
-         "url": "",
+         "url": "https://tinworld.vercel.app/10.0.4 Films.Infantil.Español.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Films Retro - Próximamente",
          "image": "https://i.postimg.cc/QNb6srVd/fotoefectos-com-1-removebg-preview-1.png",
-         "url": "https://tinworld.vercel.app/10.0.4 Films.Infantil.Español.w3u",
+         "url": "",
          "info":"",
          "import": false
         },
