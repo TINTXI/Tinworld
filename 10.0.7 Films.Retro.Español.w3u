@@ -1,5 +1,5 @@
 {
-"name": "Films Retro Español"
+"name": "Films Retro Español",
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "url": "https://tinworld.vercel.app/10.0.7 Films.Retro.Español.w3u",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
@@ -7,6 +7,16 @@
 "info": "",
 "stations":
     [
+        {
+        "name": "LOLA LA PICONERA",
+        "image": "",
+        "url": "https://filemoon.sx/d/gsekla8wrryr",
+        "info": "1969[TINWORLD]",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{
         "name": "UN RAYO DE LUZ",
         "image": "https://i.postimg.cc/mkx2w2P3/IMG-20240929-144731-316.jpg",
