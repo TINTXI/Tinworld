@@ -8,6 +8,16 @@
 "stations":
     [
         {
+        "name": "EL PEQUEÑO RUISEÑOR",
+        "image": "https://i.postimg.cc/wTQd2WpZ/IMG-20240929-174454-522.jpg",
+        "url": "https://filemoon.sx/d/6zgki0x5dcf9",
+        "info": "1956[TINWORLD]",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
         "name": "LA CIUDAD  NO ES PARA MI",
         "image": "https://i.postimg.cc/V6T1P2hk/IMG-20240929-172709-347.jpg",
         "url": "https://filemoon.sx/d/vwa1dlhocjs9",
