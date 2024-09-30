@@ -1,5 +1,5 @@
 {
-"name": "Films Retro Español"
+"name": "Films Retro Español",
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "url": "https://tinworld.vercel.app/10.0.7 Films.Retro.Español.w3u",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
@@ -7,6 +7,36 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "PERROS CALLEJEROS 1",
+      "image": "https://pics.filmaffinity.com/perros_callejeros-905880297-large.jpg",
+      "url": "https://filemoon.sx/d/y98yl6sfx6u6/Perros_Callejeros_1_1977_Pelicula.mp4",
+      "info": "1977",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "PERROS CALLEJEROS 2",
+      "image": "https://pics.filmaffinity.com/perros_callejeros_ii-446251839-large.jpg",
+      "url": "https://filemoon.sx/d/qaf79ie4vb7v/Perros_Callejeros_2_1979.mp4",
+      "info": "1979",
+      "embed": "",
+      "isHost": "true", 
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "PERROS CALLEJEROS 3",
+      "image": "https://pics.filmaffinity.com/los_ultimos_golpes_del_torete_perros_callejeros_iii-841462028-large.jpg",
+      "url": "https://filemoon.sx/d/ppfojh6vs0yw",
+      "info": "1980",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
         {
         "name": "EL PEQUEÑO RUISEÑOR",
         "image": "https://i.postimg.cc/wTQd2WpZ/IMG-20240929-174454-522.jpg",
