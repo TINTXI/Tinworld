@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LOS INSTIGADORES",
+      "image": "https://i.postimg.cc/tRK90jkJ/los-instigadores-48741-c.jpg",
+      "url": "https://filemoon.sx/d/fdd81q73oogm",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "REZ BALL",
       "image": "https://i.postimg.cc/RZPrbx7y/IMG-20240929-231318-703.jpg",
       "url": "https://filemoon.sx/d/68nteu9cj8j2",
