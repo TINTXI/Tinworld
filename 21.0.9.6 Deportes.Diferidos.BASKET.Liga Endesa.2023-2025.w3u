@@ -1,0 +1,99 @@
+{
+"name": "Deferred Sports BASKET Liga Endesa 2024",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/21.0.9.6 Deportes.Diferidos.BASKET.Liga Endesa.2023-2025.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[{
+        "name": "JORNADA 01",
+        "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
+        "info": "",
+        "stations":
+            [
+				{
+       			"name": "Leyma Coruña vs Real Madrid",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Coruna-vs-Real-Madrid.jpg",
+	        	"url": "https://filemoon.sx/d/cwyalo8ufsfr",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Bilbao Basket vs Breogan",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Bilbao-vs-Breogan.jpg",
+	        	"url": "https://filemoon.sx/d/ld738jwxlk3w",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "CB Canarias vs Baskonia",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Tenerife-vs-Baskonia.jpg",
+	        	"url": "https://filemoon.sx/d/63oxd4gof53j",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "FC Barcelona vs Granada",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/xdkFkh8B/Barcelona-vs-Granada.jpg",
+	        	"url": "https://filemoon.sx/d/l2atnpb3g088",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Zaragoza VS LLeida",
+	        	"info": "29/09/24",
+				"online": "true",
+	        	"image": "https://basketballsphere.com/en/wp-content/uploads/2024/09/Zaragoza-vs-Lleida.jpg",
+	        	"url": "https://filemoon.sx/d/efbln6s9t8zx",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Andorra vs Gran Canaria",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/Y0SrYtFt/Andorra-vs-Gran-Canaria.jpg",
+	        	"url": "https://filemoon.sx/d/uvp78rs6b6nm",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+       			"name": "Baxi Manresa vs Valencia Basket",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/RF79jN7S/Manresa-vs-Valencia.jpg",
+	        	"url": "https://filemoon.sx/d/evppriy3jvzr",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+	       		{
+ 	       		"name": "Joventut vs Murcia",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/8PFPtP7Y/Joventut-vs-Murcia.jpg",
+	        	"url": "https://filemoon.sx/d/9bycw96apc70",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		},
+				{
+ 	       		"name": "Unicaja vs Basquet Girona",
+	        	"info": "28/09/24",
+				"online": "true",
+	        	"image": "https://i.postimg.cc/L5D4wntd/Unicaja-vs-Girona.jpg",
+	        	"url": "https://filemoon.sx/d/yeyik0u06tkg",
+				"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost": "true"
+        		}
+            ]
+		}
+	]
+}
