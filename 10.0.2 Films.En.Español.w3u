@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "ATLAS",
+      "image": "https://i.postimg.cc/c1pGwdgZ/IMG-20241001-185220-563.jpg",
+      "url": "https://filemoon.sx/d/nuahw4hqrl1y",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+     },
+      {
       "name": "LOS INSTIGADORES",
       "image": "https://i.postimg.cc/tRK90jkJ/los-instigadores-48741-c.jpg",
       "url": "https://filemoon.sx/d/fdd81q73oogm",
