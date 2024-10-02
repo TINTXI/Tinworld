@@ -58,5 +58,11 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/414",
 	  "import":true
           },
+           {
+          "name": "Fluxus TV Eng",
+          "image": "https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg",
+          "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
+	  "import":true
+          }
         ]
 }
