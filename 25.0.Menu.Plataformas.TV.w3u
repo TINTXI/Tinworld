@@ -40,8 +40,8 @@
         },
         {
          "name": "Rad TV",
-         "image": "https://github.com/HelmerLuzo/RadTV_HL/rad.png",
-         "url": "https://github.com/HelmerLuzo/RadTV_HL/tv/w3u/RadTV_tv.w3u",
+         "image": "https://github.com/HelmerLuzo/RadTV_HL/blob/main/rad.png",
+         "url": "https://github.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
          "info":"",
          "import": false
         }, 
