@@ -5,52 +5,58 @@
 "url": "https://tinworld.vercel.app/25.0.Menu.Plataformas.TV.w3u",
 "telegram": "TINWORLD_3_0",
 "info":"",
-"stations":
+"groups":
 [   
          {
          "name": "Rakuten TV",
-         "image": "https://github.com/HelmerLuzo/RakutenTV_HL/blob/main/rakuten.png",
-         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/blob/main/rakuten.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/tree/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Canela TV",
-         "image": "https://github.com/HelmerLuzo/CanelaTV_HL/blob/main/canela.png",
-         "url": "https://github.com/HelmerLuzo/CanelaTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/blob/main/canela.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/tree/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Runtime TV",
-         "image": "https://github.com/HelmerLuzo/RuntimeTV_HL/blob/main/runtime.png",
-         "url": "https://github.com/HelmerLuzo/RuntimeTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/blob/main/runtime.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/tree/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Pluto TV",
-         "image": "https://github.com/HelmerLuzo/PlutoTV_HL/blob/main/icons/pluto.png",
-         "url": "https://github.com/HelmerLuzo/PlutoTV_HL/blob/main/AIO.w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/blob/main/icons/pluto.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/blob/main/AIO.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Rad TV",
-         "image": "https://github.com/HelmerLuzo/RadTV_HL/blob/main/rad.png",
-         "url": "https://github.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/blob/main/rad.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
          "info":"",
          "import": false
         }, 
         {
          "name": "Samsung TV",
-         "image": "https://github.com/HelmerLuzo/SamsungTVPlus_HL/blob/main/samsung.png",
-         "url": "https://github.com/HelmerLuzo/SamsungTVPlus_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/SamsungTVPlus_HL/blob/main/samsung.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/tree/main/tv/w3u",
          "info":"",
          "import": false
-        }
+        },
+        {
+          "name": "Xiaomi TV",
+          "image": "https://play-lh.googleusercontent.com/hvst7u9O7kMhVrol2M81WM0n5_iP5ox2e6GlTLjviT-_i8JnNLrqDZEieqiZDpag1mkQ",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/414",
+	  "import":true
+          },
         ]
 }
