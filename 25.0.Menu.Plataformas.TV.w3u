@@ -47,7 +47,7 @@
         }, 
         {
          "name": "Samsung TV",
-         "image": "https://raw.githubusercontent.com/SamsungTVPlus_HL/main/samsung.png",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/samsung.png",
          "url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/tv/w3u/SamsungTVPlus_tv_ES.w3u",
          "info":"",
          "import": false
