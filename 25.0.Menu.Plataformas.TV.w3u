@@ -9,38 +9,38 @@
 [   
          {
          "name": "Rakuten TV",
-         "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/blob/main/rakuten.png",
-         "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/rakuten.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Canela TV",
-         "image": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/blob/main/canela.png",
-         "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/canela.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Runtime TV",
-         "image": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/blob/main/runtime.png",
-         "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/tree/main/tv/w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/runtime.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u",
          "epg": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
          "info":"",
          "import": false
         },
         {
          "name": "Pluto TV",
-         "image": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/blob/main/icons/pluto.png",
-         "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/blob/main/AIO.w3u",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/icons/pluto.png",
+         "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
          "info":"",
          "import": false
         },
         {
          "name": "Rad TV",
-         "image": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/blob/main/rad.png",
+         "image": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/rad.png",
          "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
          "info":"",
          "import": false
