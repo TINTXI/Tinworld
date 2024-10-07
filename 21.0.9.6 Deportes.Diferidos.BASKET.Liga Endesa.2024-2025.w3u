@@ -92,10 +92,9 @@
 	        	"url": "https://filemoon.sx/d/yeyik0u06tkg",
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-		}
-	]
-}
+        		}
+	             ]
+                  },
        {
         "name": "JORNADA 02",
         "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
@@ -129,6 +128,5 @@
 				"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
-            ]
+                     ]
 		}
-            ]
