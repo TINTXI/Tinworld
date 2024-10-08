@@ -589,7 +589,9 @@
         		"online":"true",
         		"embed": "",
         		"isHost": "true"
-        		},    
+        		}
+                      ]
+                   },
       {
       "name": "Luis Enrique, No teneis ni .... idea",
       "image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
@@ -620,9 +622,7 @@
           "import": false
           }
 
-        ]
-}
-			]
-		}
+	]
+       }
     ]
 }
