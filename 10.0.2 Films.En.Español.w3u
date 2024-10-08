@@ -7,6 +7,16 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "BANDIDA: LA NÚMERO UNO",
+      "image": "https://pics.filmaffinity.com/bandida_a_numero_um-317863483-mmed.jpg",
+      "url": "https://listeamed.net/v/dNjgOlPQemqO9Wn",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
 
       {
       "name": "BITELCHUS.. BITELCHUS",
