@@ -589,7 +589,39 @@
         		"online":"true",
         		"embed": "",
         		"isHost": "true"
-        		}
+        		},    
+      {
+      "name": "Luis Enrique, No teneis ni .... idea",
+      "image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
+      "url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/DoCuSerie%20LUIS%20ENRIQUE.w3u",
+      "info": "2024",
+      "stations": 
+        [
+          {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
+          "url": "https://listeamed.net/v/qA3WOmG1rL2xKkz",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+          },
+          {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBb8llLxj1J",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+          }
+
+        ]
+}
 			]
 		}
     ]
