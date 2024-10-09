@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LA CASA DE LOS SUSURROS",
+      "image": "https://i.postimg.cc/2SsVpFhw/IMG-20241009-114452-961.jpg",
+      "url": "https://filemoon.sx/d/h10mk5ng0x5t",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "EL MISTERIO DE SALEMS LOT",
       "image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
       "url": "https://filemoon.sx/d/bykwu8fvys6f",
