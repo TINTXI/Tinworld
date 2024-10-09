@@ -8,6 +8,16 @@
 "stations":
     [
       {
+      "name": "AGUANTA LA RESPIRACIÓN",
+      "image": "https://i.postimg.cc/wBXyRQfB/IMG-20241009-114501-593.jpg",
+      "url": "https://filemoon.sx/d/j5lk0qlsphxn",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+      {
       "name": "PROBLEMAS...",
       "image": "https://i.postimg.cc/k5rw1NbW/IMG-20241009-114234-055.jpg",
       "url": "https://filemoon.sx/d/ruroekcbzpgu",
