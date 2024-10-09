@@ -8,6 +8,37 @@
 "stations":
     [
       {
+      "name": "LA HIERBA DEL DIABLO",
+      "image": "https://pics.filmaffinity.com/la_hierba_del_diablo-632169254-large.jpg",
+      "url": "https://filemoon.sx/d/6xyktdsgruq5/Hierba_del_diabloLa2024__Pelicula.mp4",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
+      "name": "LA FRAGUA",
+      "image": "https://pics.filmaffinity.com/the_forge-998430397-large.jpg",
+      "url": "https://filemoon.sx/d/oh2911eq926j/FraguaLa2024__Pelicula.mp4",
+      "info": "2024[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": ""
+    },
+      {
+      "name": "LA BANDERA",
+      "image": "https://pics.filmaffinity.com/la_bandera-137924178-large.jpg",
+      "url": "https://filemoon.sx/d/hy6q75cxw7ln/BanderaLa2024_Pelicula.mp4",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+      {
       "name": "AGUANTA LA RESPIRACIÓN",
       "image": "https://i.postimg.cc/wBXyRQfB/IMG-20241009-114501-593.jpg",
       "url": "https://filemoon.sx/d/j5lk0qlsphxn",
