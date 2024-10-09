@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "EL MISTERIO DE SALEMS LOT",
+      "image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
+      "url": "https://filemoon.sx/d/bykwu8fvys6f",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LA HIERBA DEL DIABLO",
       "image": "https://pics.filmaffinity.com/la_hierba_del_diablo-632169254-large.jpg",
       "url": "https://filemoon.sx/d/6xyktdsgruq5/Hierba_del_diabloLa2024__Pelicula.mp4",
