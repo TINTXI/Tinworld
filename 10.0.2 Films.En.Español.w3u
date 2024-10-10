@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "SOMBRAS DEL PASADO",
+      "image": "https://i.postimg.cc/fbn14cn7/IMG-20241010-105454-760.jpg",
+      "url": "https://filemoon.sx/d/wp8ydzzh7vs2",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LA CASA DE LOS SUSURROS",
       "image": "https://i.postimg.cc/2SsVpFhw/IMG-20241009-114452-961.jpg",
       "url": "https://filemoon.sx/d/h10mk5ng0x5t",
