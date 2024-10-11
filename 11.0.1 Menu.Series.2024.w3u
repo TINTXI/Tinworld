@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+                {
+		"name": "TEHERAN",
+		"image": "https://i.postimg.cc/134ZfZy3/temporada-1.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Teherán.w3u",
+		"info": "2020/24[TINWORLD]",
+		"import": false
+		},
 
                 {
 		"name": "CICATRIZ",
