@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "EL BUS DE LA VIDA",
+      "image": "https://i.postimg.cc/k5D6Fybv/IMG-20241011-141351-762.jpg",
+      "url": "https://filemoon.sx/d/6dahlakpkma0",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LOS HORRORES DE CADDO LAKE",
       "image": "https://i.postimg.cc/vZFTWwyQ/IMG-20241011-000157-996.jpg",
       "url": "https://filemoon.sx/d/9pcu8ukqpvqd",
