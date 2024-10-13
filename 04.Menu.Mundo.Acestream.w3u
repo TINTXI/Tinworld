@@ -23,9 +23,9 @@
 	"stations":
 		[
 			{
-			"name": "ACESTREAM DIARIOS",
+			"name": "EVENTOS DIARIOS",
 			"info":"",
-			"image": "https://i.ibb.co/swhGnw4/La1.jpg",
+			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
 			"url": "https://eventos-diarios.vercel.app/",
                         "online":"true",
                         "embed": "true"
