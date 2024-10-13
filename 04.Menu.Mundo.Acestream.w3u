@@ -11,6 +11,7 @@
 	"name": "ACESTREAM DIARIOS",
 	"image": "https://i.postimg.cc/dt9D9bGb/logo10-13-122021.png",
 	"url": "https://eventos-diarios.vercel.app/",
+        "embed": "true"
     	"info": "",
     	"import": false
     	},
