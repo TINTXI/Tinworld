@@ -7,14 +7,7 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": 
 	[
-        {
-	"name": "ACESTREAM DIARIOS",
-	"image": "https://i.postimg.cc/dt9D9bGb/logo10-13-122021.png",
-	"url": "https://eventos-diarios.vercel.app/",
-        "online":"true",
-        "embed": "true"
-    	},
- 
+        
 	{
 	"name": "TDT CHANNELS",
 	"image": "https://i.postimg.cc/g2bdpTm1/logo4-17-203257.png",
@@ -22,6 +15,23 @@
     	"info": "",
     	"import": false
     	},
+        {
+        "name": "ACESTREAM DIARIOS",
+	"image": "https://i.postimg.cc/dt9D9bGb/logo10-13-122021.png",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "ACESTREAM DIARIOS",
+			"info":"",
+			"image": "https://i.ibb.co/swhGnw4/La1.jpg",
+			"url": "https://eventos-diarios.vercel.app/",
+                        "online":"true",
+                        "embed": "true"
+			}
+                     ]
+	         },
  
 	{
 	"name": "CANALES ESPAÑA",
