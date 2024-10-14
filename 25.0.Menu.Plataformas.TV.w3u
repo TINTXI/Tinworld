@@ -69,6 +69,12 @@
           "image": "https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg",
           "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
 	  "import":true
+          },    
+          {
+          "name": "plex",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://tinyurl.com/multiservice21?region=all&service=Plex",
+	  "import":true
           }
    
         ]
