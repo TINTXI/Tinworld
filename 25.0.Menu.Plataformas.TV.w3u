@@ -51,6 +51,13 @@
          "url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/tv/w3u/SamsungTVPlus_tv_ES.w3u",
          "info":"",
          "import": false
+        },  
+        {
+         "name": "Samsung TV Plus",
+         "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/09/Samsung-TV-Plus-new-logo-on-black-background.jpg",
+         "url": "https://tinyurl.com/multiservice21?region=all&service=SamsungTVPlus",
+         "info":"",
+         "import": false
         },
         {
           "name": "Xiaomi TV",
