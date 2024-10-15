@@ -82,6 +82,12 @@
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://tinyurl.com/multiservice21?region=all&service=Plex",
 	  "import":true
+          }, 
+          {
+          "name": "plex-2",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://bit.ly/tta-m3u",
+	  "import":true
           }
    
         ]
