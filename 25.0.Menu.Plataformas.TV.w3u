@@ -104,7 +104,7 @@
           {
           "name": "plex-5",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url": "https://raw.githubusercontent.com/Love4vn/test/main/ensport.m3u",
+          "url": "https://raw.githubusercontent.com//Love4vn/love4vn/main/IPTVSport.m3u",
 	  "import":true
           }
    
