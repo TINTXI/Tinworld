@@ -88,6 +88,12 @@
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://bit.ly/tta-m3u",
 	  "import":true
+          }, 
+          {
+          "name": "plex-3",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/vlc_playlist.m3u8",
+	  "import":true
           }
    
         ]
