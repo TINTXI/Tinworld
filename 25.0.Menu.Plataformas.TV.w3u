@@ -98,7 +98,7 @@
           {
           "name": "plex-4",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url": "https://raw.githubusercontent.com/Love4vn/test/main/Live_check.m3u",
+          "url": "https://raw.githubusercontent.com/Love4vn/test/main/IPTV.m3u",
 	  "import":true
           }
    
