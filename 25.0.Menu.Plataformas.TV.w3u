@@ -98,7 +98,7 @@
           {
           "name": "plex-4",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url": "https://raw.githubusercontent.com/Love4vn/Test/main/hubsport.m3u",
+          "url": "https://raw.githubusercontent.com/Love4vn/love4vn/main/S_check.m3u",
 	  "import":true
           }
    
