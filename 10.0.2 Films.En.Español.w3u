@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LO QUE HAY DENTRO",
+      "image": "https://i.postimg.cc/Ssv6B2J3/IMG-20241015-220113-583.jpg",
+      "url": "https://filemoon.sx/d/4kct2uwug8me",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+      {
       "name": "DINERO SUCIO",
       "image": "https://i.postimg.cc/nzNVWMgS/IMG-20241013-192815-227.jpg",
       "url": "https://filemoon.sx/d/wieftcvolmyg",
