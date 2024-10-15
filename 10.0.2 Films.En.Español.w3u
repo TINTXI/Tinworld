@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "DESCANSA EN PAZ",
+      "image": "https://i.postimg.cc/gJ21p2W8/IMG-20241015-220340-712.jpg",
+      "url": "https://moon-fm43w1qv.com/d/je1ttjt6wkc7",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "BLACKBERRY EL INICIO DE LA HISTORIA",
       "image": "https://i.postimg.cc/vTTZjyTZ/IMG-20241015-220125-065.jpg",
       "url": "https://moon-fm43w1qv.com/bdd/x9py9u85p3ax",
