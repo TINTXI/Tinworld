@@ -8,6 +8,28 @@
 "stations":
     [
       {
+      "name": "INVASIÓN-INSURRECCION",
+      "image": "https://i.postimg.cc/mZFQq2N1/invasion-insurreccion.jpg",
+      "url": "https://moon-fm43w1qv.com/bdd/zwpm2c53zocg",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
+      "name": "LOS EXTRAÑOS-CAPITULO 1",
+      "image": "https://i.postimg.cc/VNFpQWqv/IMG-20241016-194602-935.jpg",
+      "url": "https://moon-fm43w1qv.com/bdd/pzavbubin2eq",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "DESCANSA EN PAZ",
       "image": "https://i.postimg.cc/gJ21p2W8/IMG-20241015-220340-712.jpg",
       "url": "https://moon-fm43w1qv.com/bdd/je1ttjt6wkc7",
