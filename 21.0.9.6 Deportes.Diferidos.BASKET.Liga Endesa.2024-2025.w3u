@@ -172,7 +172,9 @@
 	        	"url": "https://filemoon.sx/d/q1f6274n98as/Liga_Endesa_Coviran_Granada_VS_Unicaja_061024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
+        		}
+                       ]
+	             },
         {
         "name": "JORNADA 03",
         "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
@@ -260,8 +262,6 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
-            	      ]
-	             }
                    ]
 		}
            ]
