@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "ALIEN ROMULUS",
+      "image": "https://i.postimg.cc/qv5T329v/IMG-20241018-144644-544.jpg",
+      "url": "https://moon-fm43w1qv.com/bdd/a2xouilc6mnj",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "DEADPOOL Y LOBEZNO",
       "image": "https://i.postimg.cc/xdMPmfxz/deadpool-wolverine-121584322-large.jpg",
       "url": "https://moon-fm43w1qv.com/bdd/qovo428op46a",
