@@ -894,7 +894,18 @@ Heavyweight Grand Prix",
         "embed":"",
         "isHost":"true",
         "online":"true"
-        },
+        }, 
+        {
+	"name": "💥-Pfl Battle Of The Giants  Ngannou 🆚 Ferreira", 
+	"image": "https://i.postimg.cc/QNBJwDYV/ferreira-vs-ngannou-1.jpg", 
+	"url":"https://filemoon.sx/brr/8zl6btanoecl", 
+	"info": "19-10-24", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "import": false
+	    },
       
 ]
 }
