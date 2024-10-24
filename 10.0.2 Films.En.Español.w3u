@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "SALVAJES",
+      "image": "https://i.postimg.cc/7Zb3hdh9/IMG-20241022-132847-310.jpg",
+      "url": "https://moon-fm43w1qv.com/d/a2y76epr3jvc",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "EL ATRACO",
       "image": "https://i.ibb.co/0rnx80T/gu-XYr-VOdy-TCm-Bt-H8vo-VPmero-W6-S.jpg",
       "url": "https://moon-fm43w1qv.com/d/cmahslgt0xv3",
