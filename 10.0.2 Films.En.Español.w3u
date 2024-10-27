@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "FUERA DE LAS SOMBRAS",
+      "image": "https://i.postimg.cc/k5HN1D0K/r-KTRk-Fyh-Rtd9-Nm25-GBly-EJzt9-TZ.jpg",
+      "url": "https://moon-fm43w1qv.com/d/k83a9wo51qa2",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "SALVAJES",
       "image": "https://i.postimg.cc/7Zb3hdh9/IMG-20241022-132847-310.jpg",
