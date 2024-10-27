@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "ABRACADAVER",
+      "image": "https://i.postimg.cc/WpH9pQ4j/IMG-20241027-225925-200.jpg",
+      "url": "https://Filemoon.sx/d/0m18bm54smzl",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "EL DIARIO",
       "image": "https://i.postimg.cc/wx0c2ck4/IMG-20241027-182046-713.jpg",
       "url": "https://Filemoon.sx/d/axxz9au0v51i",
