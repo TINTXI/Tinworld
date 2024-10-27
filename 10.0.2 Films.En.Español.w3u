@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "OUTSIDE",
+      "image": "https://i.postimg.cc/fLJtmVwy/IMG-20241027-110811-343.jpg",
+      "url": "https://moon-fm43w1qv.com/d/isyn437pxlvu",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 
       {
       "name": "FUERA DE LAS SOMBRAS",
