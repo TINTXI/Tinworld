@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "CALLADITA",
+      "image": "https://i.postimg.cc/4ys4q3qQ/IMG-20241028-190159-348.jpg",
+      "url": "https://Filemoon.sx/d/8ads1kj981fr",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "UNA HISTORIA NEGRA",
       "image": "https://i.postimg.cc/xTM51mVf/IMG-20241028-182206-793.jpg",
