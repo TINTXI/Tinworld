@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "UNA HISTORIA NEGRA",
+      "image": "https://i.postimg.cc/xTM51mVf/IMG-20241028-182206-793.jpg",
+      "url": "https://Filemoon.sx/d/6crfrj62syeh",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "ABRACADAVER",
       "image": "https://i.postimg.cc/WpH9pQ4j/IMG-20241027-225925-200.jpg",
       "url": "https://listeamed.net/v/MAlwEMWRPmy5J39",
