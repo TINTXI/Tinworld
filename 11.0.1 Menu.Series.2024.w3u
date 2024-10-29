@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+               {
+		"name": "LA ÚLTIMA NOCHE EN TREMOR",
+		"image": "https://i.postimg.cc/15mtW0wW/IMG-20241029-233401-482.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie la última noche en tremor.w3u",
+		"info": "2020/24[TINWORLD]",
+		"import": false
+		},
                 {
 		"name": "HOTEL COCAINE",
 		"image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
