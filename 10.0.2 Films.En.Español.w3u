@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "PREY",
+      "image": "https://i.postimg.cc/ryGjmNm9/IMG-20241029-124113-359.jpg",
+      "url": "https://file-mi11ljwj-embed.com/cwns/yv5qj0av5ew7",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "EL HOYO 2",
       "image": "https://i.postimg.cc/fb94ZLHX/IMG-20241029-110419-741.jpg",
       "url": "https://file-mi11ljwj-embed.com/cwns/bywjntqic4o9",
