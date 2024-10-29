@@ -8,6 +8,13 @@
 "groups":
     [
                 {
+		"name": "HOTEL COCAINE",
+		"image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Hotel Cocaine.w3u",
+		"info": "2020/24[TINWORLD]",
+		"import": false
+		},
+                {
 		"name": "LAS AZULES",
 		"image": "https://pics.filmaffinity.com/las_azules-635617266-large.jpg",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Las Azules.w3u",
