@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "JOKER : FOLIE À DEUX",
+      "image": "https://i.postimg.cc/TwsnYt80/m-joker-2019-warner-dc-bron-clon-3954vj.jpg",
+      "url": "https://file-mi11ljwj-embed.com/cwns/hk8cshmewi7m",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "PREY",
       "image": "https://i.postimg.cc/ryGjmNm9/IMG-20241029-124113-359.jpg",
