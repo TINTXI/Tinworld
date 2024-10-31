@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "DADDIO",
+      "image": "https://pics.filmaffinity.com/daddio-948002843-large.jpg",
+      "url": "https://listeamed.net/v/pVa4E8vLnlz5kzM",
+      "info": "2024[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
       "name": "UNA PELICULA BARATA",
       "image": "https://pics.filmaffinity.com/una_pelicula_barata-687115231-large.jpg",
       "url": "https://listeamed.net/v/ZMVoErbz1BBE9Pa",
