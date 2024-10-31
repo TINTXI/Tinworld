@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "UNA PELICULA BARATA",
+      "image": "https://pics.filmaffinity.com/una_pelicula_barata-687115231-large.jpg",
+      "url": "https://listeamed.net/v/ZMVoErbz1BBE9Pa",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
       "name": "ARCADIAN",
       "image": "https://i.postimg.cc/fWGJhmHX/IMG-20241030-202250-604.jpg",
       "url": "https://file-mi11ljwj-embed.com/cwns/sbgt9ivsb3f7",
