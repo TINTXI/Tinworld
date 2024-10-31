@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "ARCADIAN",
+      "image": "https://i.postimg.cc/fWGJhmHX/IMG-20241030-202250-604.jpg",
+      "url": "https://file-mi11ljwj-embed.com/cwns/sbgt9ivsb3f7",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 
       {
       "name": "JOKER : FOLIE À DEUX",
