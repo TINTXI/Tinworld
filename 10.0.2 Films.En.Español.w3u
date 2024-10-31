@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LAST STRAW",
+      "image": "https://i.postimg.cc/yxB8nSsS/IMG-20241031-223611-024.jpg",
+      "url": "https://file-mi11ljwj-embed.com/cwns/z4ib0xnkr9td",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "DOGMAN",
       "image": "https://i.postimg.cc/G2myCWv7/IMG-20241030-202749-090.jpg",
       "url": "https://file-mi11ljwj-embed.com/cwns/bjh96lgbkz7n",
