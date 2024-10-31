@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "DOGMAN",
+      "image": "https://i.postimg.cc/G2myCWv7/IMG-20241030-202749-090.jpg",
+      "url": "https://file-mi11ljwj-embed.com/cwns/bjh96lgbkz7n",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "DADDIO",
       "image": "https://pics.filmaffinity.com/daddio-948002843-large.jpg",
       "url": "https://listeamed.net/v/pVa4E8vLnlz5kzM",
