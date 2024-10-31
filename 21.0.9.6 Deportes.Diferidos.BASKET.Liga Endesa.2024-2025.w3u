@@ -261,7 +261,9 @@
 	        	"url": "https://filemoon.sx/d/kmrcyd3138ji/Liga_Endesa_Baxi_Manresa_VS_Gran_Canaria_131024.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
+        		}
+                       ]
+	             },
 {
         "name": "JORNADA 04",
         "image": "https://i.postimg.cc/jd4yq2S1/66f55cde47003.jpg",
