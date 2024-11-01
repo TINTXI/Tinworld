@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LOS HOMBRES LOBO",
+      "image": "https://i.postimg.cc/Wzx7FDzD/IMG-20241101-100044-972.jpg",
+      "url": "https://file-mi11ljwj-embed.com/d/3jr76x8m7ics",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LAST STRAW",
       "image": "https://i.postimg.cc/yxB8nSsS/IMG-20241031-223611-024.jpg",
       "url": "https://lulu.st/d/240af0p8ceqn",
