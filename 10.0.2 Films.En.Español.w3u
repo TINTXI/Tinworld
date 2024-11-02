@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "LONGLES",
+      "image": "https://i.postimg.cc/kGgjNHsp/IMG-20241102-142838-314.jpg",
+      "url": "https://file-mi11ljwj-embed.com/d/7463cl5c0sb8",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 
       {
       "name": "LIBRE",
