@@ -8,6 +8,18 @@
 "stations":
     [
       {
+      "name": "LADRONES CON CLASE",
+      "image": "https://i.postimg.cc/DzRjQmGt/IMG-20241102-224319-615.jpg",
+      "url": "https://file-mi11ljwj-embed.com/d/5ntagnvxa142",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      
+      {
       "name": "NO ENTRES",
       "image": "https://i.postimg.cc/90WDsQ2M/IMG-20241102-220227-010.jpg",
       "url": "https://file-mi11ljwj-embed.com/d/02jumtikvzt3",
