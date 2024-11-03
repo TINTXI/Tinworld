@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "IMAGINARIO",
+      "image": "https://i.postimg.cc/528zfhZW/IMG-20241103-204015-352.jpg",
+      "url": "https://filemoon.sx/d/6twb5h0evrur",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LADRONES CON CLASE",
       "image": "https://i.postimg.cc/DzRjQmGt/IMG-20241102-224319-615.jpg",
       "url": "https://file-mi11ljwj-embed.com/d/5ntagnvxa142",
