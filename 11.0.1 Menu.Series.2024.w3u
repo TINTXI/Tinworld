@@ -8,6 +8,14 @@
 "groups":
     [
                 {
+		"name": "BUSCANDO A WANDA",
+		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Buscando A Wanda.w3u",
+		"info": "2020/24[TINWORLD]",
+		"import": false
+		},
+
+                {
 		"name": "AGATHA QUIEN SI NO",
 		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Agatha quien si no.w3u",
