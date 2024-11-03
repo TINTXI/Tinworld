@@ -7,6 +7,14 @@
 "info":"",
 "groups":
     [
+                {
+		"name": "AGATHA QUIEN SI NO",
+		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Agatha quien si no.w3u",
+		"info": "2020/24[TINWORLD]",
+		"import": false
+		},
+
                {
 		"name": "LA ÚLTIMA NOCHE EN TREMOR",
 		"image": "https://i.postimg.cc/15mtW0wW/IMG-20241029-233401-482.jpg",
