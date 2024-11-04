@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LA PROMESA DE IRENE",
+      "image": "https://i.postimg.cc/3r6JtZJ4/IMG-20241104-213304-619.jpg",
+      "url": "https://filemoon.sx/d/mtl2ukmr0k7i",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "NO TE MUEVAS",
       "image": "https://i.postimg.cc/BbXMr9fW/f768x1-740014-740141-5050.jpg",
       "url": "https://filemoon.sx/d/q0d3s1g4xk8a",
