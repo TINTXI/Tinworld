@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "APRENDER A SOLTAR",
+      "image": "https://i.postimg.cc/tJRqBx5r/IMG-20241105-123346-524.jpg",
+      "url": "https://filemoon.sx/d/8kzwxepj3vjw",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LA PROMESA DE IRENE",
       "image": "https://i.postimg.cc/3r6JtZJ4/IMG-20241104-213304-619.jpg",
       "url": "https://filemoon.sx/d/mtl2ukmr0k7i",
