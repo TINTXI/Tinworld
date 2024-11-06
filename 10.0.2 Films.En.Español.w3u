@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "ALUMBRAMIENTO",
+      "image": "https://i.postimg.cc/c4tTVvYx/IMG-20241106-190637-534.jpg",
+      "url": "https://filemoon.sx/d/8ocpanc94x6c",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "UNA MUJER ITALIANA",
       "image": "https://i.postimg.cc/1zz9ZW3c/IMG-20241105-134621-897.jpg",
       "url": "https://filemoon.sx/d/prfto1z0ak75",
