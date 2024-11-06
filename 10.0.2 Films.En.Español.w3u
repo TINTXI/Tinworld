@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "VAMPIRAS",
+      "image": "https://i.postimg.cc/d066cXBv/IMG-20241106-190755-067.jpg",
+      "url": "https://filemoon.sx/d/xtaru384hghs",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "ALUMBRAMIENTO",
       "image": "https://i.postimg.cc/c4tTVvYx/IMG-20241106-190637-534.jpg",
       "url": "https://filemoon.sx/d/8ocpanc94x6c",
