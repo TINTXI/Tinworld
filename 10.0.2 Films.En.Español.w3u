@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "BORDERLANDS",
+      "image": "https://i.postimg.cc/VLZRsVpF/IMG-20241107-225224-620.jpg",
+      "url": "https://filemoon.sx/d/v7rh13cdb2t4",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "VAMPIRAS",
       "image": "https://i.postimg.cc/d066cXBv/IMG-20241106-190755-067.jpg",
       "url": "https://filemoon.sx/d/xtaru384hghs",
