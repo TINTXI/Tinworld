@@ -7,19 +7,8 @@
 "info": "",
 "stations":
 [ 		
-{ 								
-"name": "Olimpiadas Paris 2024", 								
-"image": "https://i.postimg.cc/W45hPtCS/Polish-20240726-184130607.png", 								
-"url": "https://olympics.com/es/paris-2024/calendario", 								
-"embed": "true" 							
-}, 
-{ 								
-"name": "Movistar", 								
-"image": "https://i.postimg.cc/B6tvzkZD/IMG-20240413-001954.png", 								
-"url": "https://www.movistarplus.es/guiamovil", 								
-"embed": "true" 							
-}, 
-
+ 
+ 
 { 								
 "name": "Dazn", 								
 "image": "https://i.postimg.cc/T1D3dbD3/IMG-20240413-001932.png", 								
@@ -77,7 +66,8 @@
 
 { 								
 "name": "Copa de la reina", 								
-"image": "https://i.postimg.cc/5tf5XBby/IMG-20240413-003328.png", 								"url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina", 								
+"image": "https://i.postimg.cc/5tf5XBby/IMG-20240413-003328.png",
+"url": "https://www.futbolenlatv.es/competicion/copa-de-la-reina", 								
 "embed": "true" 							
 },
 
@@ -100,7 +90,13 @@
 "image": "https://i.postimg.cc/jdrhV0my/IMG-20240413-003421.png", 								
 "url": "https://www.futboltv.info/competicion/laliga2", 								
 "embed": "true" 						
-}, 
+},
+{ 								
+"name": "Movistar", 								
+"image": "https://i.postimg.cc/B6tvzkZD/IMG-20240413-001954.png", 								
+"url": "https://www.movistarplus.es/guiamovil", 								
+"embed": "true" 							
+},
 { 								
 "name": "EFL Cup", 							
 "image": "https://i.postimg.cc/ZqgrV16B/IMG-20240413-003437.png", 								
