@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "10 DIAS DE UN HOMBRE CURIOSO",
+      "image": "https://i.postimg.cc/SKyqkd5k/IMG-20241107-231253-079.jpg",
+      "url": "https://filemoon.sx/d/o74agvehc0f5",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "BORDERLANDS",
       "image": "https://i.postimg.cc/VLZRsVpF/IMG-20241107-225224-620.jpg",
       "url": "https://filemoon.sx/d/v7rh13cdb2t4",
