@@ -5,7 +5,7 @@
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "telegram": "TINWORLD_3_0",
 "info": "",
-"stations":
+"groups":
     [
                      {
                      "name": "ABECEDARIO",
@@ -29,32 +29,16 @@
                           "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
                           "url": "https://tinworld.vercel.app/LISTA-TV.html",
                           "embed": "true"
-                          }
-                        ]
-                     }, 
-{
-        "name": "CANALES DEPORTIVOS",
-        "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
-        "imageScale": "",
-        "info":"",
-		"stations":
-    		[
+                          }, 
+
                           {
                            "name": "CANALES DEPORTIVOS",
                            "info":"[CANALES EN ESPAÑOL]",
                            "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
                            "url": "https://tinworld.vercel.app/Olimpi.html",
                            "embed": "true"
-                          }
-                        ]
-                    },
-{
-        "name": "DEPORTES MIX",
-        "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
-        "imageScale": "",
-        "info":"",
-		"stations":
-    		[
+                          },
+          
                          {
                          "name": "DEPORTES MIX",
                          "info":"[CANALES MIX]",
@@ -66,6 +50,4 @@
                     }
                   ]
                }
-            ]
-         }
 
