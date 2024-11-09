@@ -12,7 +12,16 @@
                     "image": "https://i.postimg.cc/qRVLzfTH/Polish-20240624-230916578.png",
                     "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
                    "isHost":"true"
-                    },
+                    }
+                 ]
+             },
+{
+        "name": "Capitanes Del Mundo",
+        "image": "https://pics.filmaffinity.com/captains_of_the_world-329091694-mmed.jpg",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
     
                           {
                           "name": "LISTA TV",
