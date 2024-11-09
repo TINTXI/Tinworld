@@ -12,7 +12,16 @@
                     "image": "https://i.postimg.cc/qRVLzfTH/Polish-20240624-230916578.png",
                     "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
                     "import": false
+                    }
+                   ]
                     },
+{
+	"name": "CARLOS CHECA, DESTINO DAKAR",
+	"image": "https://i.postimg.cc/jd45rgjt/Carlos-Checa-destino-Dakar-2024-Documental.png",
+	"imageScale": "",
+	"info":"2022",
+	"stations":
+		[
     
                           {
                           "name": "LISTA TV",
@@ -22,7 +31,9 @@
                           "embed": "true",
                           "isHost":"true"
                          
-                          }, 
+                          }
+                      ]
+                    },
 
                           {
                            "name": "CANALES DEPORTIVOS",
@@ -40,6 +51,8 @@
                          "embed": "true"
                         }            
                       ]
+                    }
+]
                     }
                   
 
