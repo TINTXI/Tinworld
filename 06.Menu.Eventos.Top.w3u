@@ -12,16 +12,7 @@
                     "image": "https://i.postimg.cc/qRVLzfTH/Polish-20240624-230916578.png",
                     "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
                     "import": false
-                    }
-                 ]
-             },
-{
-        "name": "LISTA TV",
-        "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
-        "imageScale": "",
-        "info":"",
-		"stations":
-    		[
+                    },
     
                           {
                           "name": "LISTA TV",
@@ -48,6 +39,5 @@
                         }            
                       ]
                     }
-                  ]
-               }
+                  
 
