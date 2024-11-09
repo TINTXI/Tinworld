@@ -16,8 +16,8 @@
                  ]
              },
 {
-        "name": "Capitanes Del Mundo",
-        "image": "https://pics.filmaffinity.com/captains_of_the_world-329091694-mmed.jpg",
+        "name": "LISTA TV",
+        "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
         "imageScale": "",
         "info":"",
 		"stations":
@@ -29,14 +29,32 @@
                           "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
                           "url": "https://tinworld.vercel.app/LISTA-TV.html",
                           "embed": "true"
-                          },    
+                          }
+                        ]
+                     }, 
+{
+        "name": "CANALES DEPORTIVOS",
+        "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
                           {
                            "name": "CANALES DEPORTIVOS",
                            "info":"[CANALES EN ESPAÑOL]",
                            "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
                            "url": "https://tinworld.vercel.app/Olimpi.html",
                            "embed": "true"
-                          },
+                          }
+                        ]
+                    },
+{
+        "name": "DEPORTES MIX",
+        "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
+        "imageScale": "",
+        "info":"",
+		"stations":
+    		[
                          {
                          "name": "DEPORTES MIX",
                          "info":"[CANALES MIX]",
@@ -46,4 +64,8 @@
                         }            
                       ]
                     }
+                  ]
+               }
+            ]
+         }
 
