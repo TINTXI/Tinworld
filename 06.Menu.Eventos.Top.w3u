@@ -10,11 +10,9 @@
                        {
                        "name": "ABECEDARIO",
                       "image": "https://i.postimg.cc/qRVLzfTH/Polish-20240624-230916578.png",
-                      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
-                      "import": false
-                      }
-                     ]
-                      },
+                      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u"
+},
+                   
   {
     "name": "CARLOS CHECA, DESTINO DAKAR",
     "image": "https://i.postimg.cc/jd45rgjt/Carlos-Checa-destino-Dakar-2024-Documental.png",
@@ -28,12 +26,18 @@
                             "info":"[CANALES DEPOR]",
                             "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
                             "url": "https://tinworld.vercel.app/LISTA-TV.html",
-                            "embed": "true",
-                            "isHost":"true"
+                            "embed": "true"
                            
                             }
                         ]
                       },
+{
+    "name": "CARLOS CHECA, DESTINO DAKAR",
+    "image": "https://i.postimg.cc/jd45rgjt/Carlos-Checa-destino-Dakar-2024-Documental.png",
+    "imageScale": "",
+    "info":"2022",
+    "stations":
+      [
   
                             {
                              "name": "CANALES DEPORTIVOS",
@@ -41,7 +45,16 @@
                              "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
                              "url": "https://tinworld.vercel.app/Olimpi.html",
                              "embed": "true"
-                            },
+                            }
+]
+                      },
+{
+    "name": "CARLOS CHECA, DESTINO DAKAR",
+    "image": "https://i.postimg.cc/jd45rgjt/Carlos-Checa-destino-Dakar-2024-Documental.png",
+    "imageScale": "",
+    "info":"2022",
+    "stations":
+      [
             
                            {
                            "name": "DEPORTES MIX",
@@ -49,8 +62,10 @@
                            "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
                            "url": "https://tinworld.vercel.app/Olimpi 2.html",
                            "embed": "true"
-                          }            
+                          },            
                         
+]
+}
 ]
 }
                       
