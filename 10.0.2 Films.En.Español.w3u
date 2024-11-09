@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "DE NATURALEZA VIOLENTA",
+      "image": "https://i.postimg.cc/Y9vshMCp/IMG-20241108-161115-042.jpg",
+      "url": "https://filemoon.sx/d/ee69mi7gbzje",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "10 DIAS DE UN HOMBRE CURIOSO",
       "image": "https://i.postimg.cc/SKyqkd5k/IMG-20241107-231253-079.jpg",
       "url": "https://filemoon.sx/d/o74agvehc0f5",
