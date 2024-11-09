@@ -12,45 +12,22 @@
                     "image": "https://i.postimg.cc/qRVLzfTH/Polish-20240624-230916578.png",
                     "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
                    "isHost":"true"
-                    }
-                 ]
-              },
-             {
-             "name": "LISTA TV",
-             "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
-             "info": "",
-             "stations": 
-                        [
+                    },
+    
                           {
                           "name": "LISTA TV",
                           "info":"[CANALES DEPOR]",
                           "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
                           "url": "https://tinworld.vercel.app/LISTA-TV.html",
                           "embed": "true"
-                                         }
-                                       ]
-                                    },
-             {
-             "name": "CANALES DEPORTIVOS",
-             "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
-             "info": "",
-             "stations": 
-                        [
+                          },    
                           {
                            "name": "CANALES DEPORTIVOS",
                            "info":"[CANALES EN ESPAÑOL]",
                            "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
                            "url": "https://tinworld.vercel.app/Olimpi.html",
                            "embed": "true"
-                          }
-                        ]
-                    },
-             {
-             "name": "DEPORTES MIX",
-             "image": "https://i.postimg.cc/7hXDvkgn/Multideporte.png",
-             "info": "",
-             "stations": 
-                        [
+                          },
                          {
                          "name": "DEPORTES MIX",
                          "info":"[CANALES MIX]",
@@ -60,8 +37,4 @@
                         }            
                       ]
                     }
-                  ]
-                }
-              ]
-            }
 
