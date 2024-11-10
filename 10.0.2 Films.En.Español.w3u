@@ -8,6 +8,28 @@
 "stations":
     [
       {
+      "name": "RED CLASIFICADA ",
+      "image": "https://i.postimg.cc/G2NNVTWZ/IMG-20241110-152130-527.jpg",
+      "url": "https://filemoon.sx/d/6ybw60cpp002",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
+      "name": "UNA JIRAFA EN EL BALCÓN",
+      "image": "https://i.postimg.cc/8zS8TW7G/IMG-20241108-161101-259.jpg",
+      "url": "https://filemoon.sx/d/lespjrtvborr",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "DE NATURALEZA VIOLENTA",
       "image": "https://i.postimg.cc/Y9vshMCp/IMG-20241108-161115-042.jpg",
       "url": "https://filemoon.sx/d/ee69mi7gbzje",
