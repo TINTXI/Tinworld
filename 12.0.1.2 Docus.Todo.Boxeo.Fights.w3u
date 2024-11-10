@@ -542,6 +542,70 @@ De Auschwitz (Pelicula)",
         "info":"",
         "groups":
             [
+{ 
+"name": "LA JAULA", 
+"image": "https://i.postimg.cc/TPV8D80L/la-jaula-serie-netflix.jpg",  
+"info": "", 
+"stations": 
+	[
+ 
+	{ 
+	"name": "EPISODIO 1", 
+	"image": "https://i.postimg.cc/cHWS91CB/9f45a46dbc7073240771701072132a04-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg", 
+	"url": "https://filemoon.sx/d/yrngxbj026gr", 
+	"info": "2024", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+{ 
+	"name": "EPISODIO 2", 
+	"image": "https://i.postimg.cc/cHWS91CB/9f45a46dbc7073240771701072132a04-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg", 
+	"url": "https://filemoon.sx/d/0ia99cnrqv9a", 
+	"info": "2024", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+{ 
+	"name": "EPISODIO 3", 
+	"image": "https://i.postimg.cc/cHWS91CB/9f45a46dbc7073240771701072132a04-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg", 
+	"url": "https://filemoon.sx/d/qq4nuej5haos", 
+	"info": "2024", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+	{ 
+	"name": "EPISODIO 4", 
+	"image": "https://i.postimg.cc/cHWS91CB/9f45a46dbc7073240771701072132a04-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg", 
+	"url": "https://filemoon.sx/d/qpb09nvnd3w2", 
+	"info": "2024", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+	{ 
+	"name": "EPISODIO 5", 
+	"image": "https://i.postimg.cc/cHWS91CB/9f45a46dbc7073240771701072132a04-jpg-c-310-420-x-f-jpg-q-x-xxyxx.jpg", 
+	"url": "https://filemoon.sx/d/pqwy5nngwonm", 
+	"info": "2024", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	}
+	] 
+    },
 
 { 
 "name": "The Making of Joshua", 
