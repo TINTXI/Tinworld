@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "AMOR PLATÓNICO",
+      "image": "https://i.postimg.cc/dVnbM0Ps/IMG-20241110-165850-919.jpg",
+      "url": "https://filemoon.sx/d/gvrg3cfp1r3z",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "RED CLASIFICADA ",
       "image": "https://i.postimg.cc/G2NNVTWZ/IMG-20241110-152130-527.jpg",
       "url": "https://filemoon.sx/d/6ybw60cpp002",
