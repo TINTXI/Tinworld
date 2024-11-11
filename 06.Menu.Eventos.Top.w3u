@@ -13,8 +13,8 @@
          "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/03.Menu.Abecedarios.w3u",
         },
         {
-          "name": "plex-3",
-          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "name": "DAILY EVENTS",
+          "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
           "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/vlc_playlist.m3u8",
 	  "import":true
           },
