@@ -17,7 +17,7 @@
           "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
           "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/playlist.m3u8",
           "referer": "https://embedme.top/",
-          "user-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0",
+          "userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0",
 	  "import":true
           },
                    
