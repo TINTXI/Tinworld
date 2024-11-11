@@ -15,7 +15,7 @@
         {
           "name": "DAILY EVENTS",
           "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-          "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/playlist.m3u8",
+          "url": "https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/streamed_su.json",
 	  "import":true
           },
                    
