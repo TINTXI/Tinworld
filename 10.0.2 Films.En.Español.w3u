@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "HONEYMOON",
+      "image": "https://i.postimg.cc/7Y89Rn5g/IMG-20241112-194351-715.jpg",
+      "url": "https://filemoon.sx/d/udow9tzz5m5r",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "AMOR PLATÓNICO",
       "image": "https://i.postimg.cc/dVnbM0Ps/IMG-20241110-165850-919.jpg",
       "url": "https://filemoon.sx/d/gvrg3cfp1r3z",
