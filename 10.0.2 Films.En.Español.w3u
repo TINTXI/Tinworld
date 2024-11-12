@@ -7,6 +7,28 @@
 "info": "",
 "stations":
     [
+{
+"name": "SKINCARE",
+      "image": "https://i.postimg.cc/3xYxtN2K/IMG-20241112-205832-546.jpg",
+      "url": "https://filemoon.sx/d/cn4baettxf51",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
+      "name": "MARMALADE",
+      "image": "https://i.postimg.cc/sgVYdV5c/IMG-20241112-205814-955.jpg",
+      "url": "https://filemoon.sx/d/r9ytzrcefss7",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "HONEYMOON",
       "image": "https://i.postimg.cc/7Y89Rn5g/IMG-20241112-194351-715.jpg",
