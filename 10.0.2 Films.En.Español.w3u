@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "LA CASA EN LLAMAS",
+      "image": "https://pics.filmaffinity.com/casa_en_flames-906244724-large.jpg",
+      "url": "https://filemoon.sx/d/q0d1cn59sqhb",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "SKINCARE",
       "image": "https://i.postimg.cc/3xYxtN2K/IMG-20241112-205832-546.jpg",
       "url": "https://filemoon.sx/d/cn4baettxf51",
