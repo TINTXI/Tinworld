@@ -7,6 +7,13 @@
 "info":"",
 "groups":
       [
+         {
+         "name": "UFC Fight Night: Moreno vs Albazi",
+         "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
                 {
                 "name": "UFC Fight Night: Moreno vs Albazi",
                 "info":"[Latino]",
