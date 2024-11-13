@@ -8,6 +8,28 @@
 "stations":
     [
 {
+"name": "1978",
+      "image": "https://i.postimg.cc/ZK1SFF21/IMG-20241113-212112-481.jpg",
+      "url": "https://filemoon.sx/d/d1p5smmeebjg",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
+"name": "AIRE",
+      "image": "https://i.postimg.cc/x8ZSZKCN/IMG-20241113-212055-194.jpg",
+      "url": "https://filemoon.sx/d/m6e5w1sae06r",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "LA CASA EN LLAMAS",
       "image": "https://pics.filmaffinity.com/casa_en_flames-906244724-large.jpg",
       "url": "https://filemoon.sx/d/q0d1cn59sqhb",
