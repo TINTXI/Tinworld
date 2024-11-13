@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "LA HOJARASCA",
+      "image": "https://i.postimg.cc/pL7WmMJM/IMG-20241112-233758-622.jpg",
+      "url": "https://filemoon.sx/d/ukoai5cghgtx",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "1978",
       "image": "https://i.postimg.cc/ZK1SFF21/IMG-20241113-212112-481.jpg",
       "url": "https://filemoon.sx/d/d1p5smmeebjg",
