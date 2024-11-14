@@ -1,23 +1,23 @@
 {
-"name": "𝕆ℕ𝕃𝕐 𝕊ℙ𝕆ℝ𝕋𝕊",
+"name": "DOCUS WORLD",
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"url": "https://tinworld.vercel.app/12.0.Menu.Docus",
+"url": "https://tinworld.vercel.app/12.0.Menu.Docus World.w3u",
 "telegram": "TINWORLD_3_0",
 "info":"",
 "groups":
 [
         {
-         "name": "𝕆ℕ𝕃𝕐 𝕊ℙ𝕆ℝ𝕋𝕊 𝟙",
-         "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+         "name": "DOCUS SPORTS",
+         "image": "https://i.postimg.cc/KjrgczPC/Polish-20240624-231217040.png",
          "url": "https://tinworld.vercel.app/12.0.0 Menu.Docus.Sport.w3u",
          "info":"",
          "import": false
         },
 	{
-        "name": "𝕆ℕ𝕃𝕐 𝕊ℙ𝕆ℝ𝕋𝕊 𝟚",
+        "name": "DOCUS TELEVISIÓN ",
         "image": "https://i.postimg.cc/Xqv560JM/logo9-24-23755.png",
-	    "url": "https://tinworld.vercel.app/23.0.2.Menu.Only.Sports.2.w3u",
+        "url": "https://tinworld.vercel.app/23.0.2.Menu.Only.Sports.2.w3u",
         "info": "Adri",
         "import": false
 	}         
