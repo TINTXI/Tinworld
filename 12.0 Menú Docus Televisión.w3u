@@ -7,48 +7,7 @@
 "info": "",
 "groups":
     [
-{
-		"name": "Ambicion desmedida, C Tangana",
-		"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-		"info": "2023",
-		"stations":
-			[
-				{
-				"name": "CAPITULO 1",
-				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-				"url": "https://upstream.to/ghw8y1awbb3j",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-				},
-				{
-				"name": "CAPITULO 2",
-				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-				"url": "https://upstream.to/t4xmdvl5vzn2",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-				},
-				{
-				"name": "CAPITULO 3",
-				"image": "https://pics.filmaffinity.com/esta_ambicion_desmedida_la_serie-140599518-large.jpg",
-				"url": "https://upstream.to/3wooxw88hutp",
-       				"info": "2023",
-       				"embed": "",
-       				"isHost": "true",
-       				"online": "true",
-				"userAgent":"PlusMediaPlayer/0.0.9",
-       				"import": false
-				}
-			]
-		},
- 
+
 		{
 		"name":"Break Nation: La Electrónica Que Bailó Andalucía",
 		"image":"https://pics.filmaffinity.com/Break_Nation_La_electraonica_que_bailao_Andalucaia-218001604-large.jpg",
@@ -99,31 +58,6 @@
 				"isHost":"true",
 				"online":"true",
                                 "userAgent":"PlusMediaPlayer/0.0.9"
-				}
-			]
-		},
-		{
-		"name":"¿Puedo contarte un secreto?",
-		"image":"https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
-		"stations":
-			[
-				{
-				"name": "¿Puedo contarte un secreto? I",
-				"info":"[2024]",
-				"image": "https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
-				"url":"https://vidmoly.me/w/olopn0nxslt2",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "¿Puedo contarte un secreto? II",
-				"info":"[2024]",
-				"image": "https://pics.filmaffinity.com/can_i_tell_you_a_secret-359731091-large.jpg",
-				"url":"https://vidmoly.me/w/u8f9pyhxuu8u",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
 				}
 			]
 		},
