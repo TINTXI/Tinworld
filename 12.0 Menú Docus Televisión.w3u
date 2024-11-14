@@ -61,7 +61,8 @@
 				"url":"https://filemoon.sx/d/f43l0c9xhouq",
 				"embed":"",
 				"isHost":"true",
-				"online":"true"
+				"online":"true",
+                                "userAgent":"PlusMediaPlayer/0.0.9"
 				}
 			]
 		},
@@ -78,7 +79,8 @@
 				"url":"https://filemoon.sx/d/49rkgtkk7ziy/Concha_Velasco_La_artista_total__2023_Documental_.mp4",
 				"embed":"",
 				"isHost":"true",
-				"online":"true"
+				"online":"true",
+                                "userAgent":"PlusMediaPlayer/0.0.9"
 				}
 			]
 		},
@@ -95,7 +97,8 @@
 				"url":"https://filemoon.sx/d/r6eguq44iizp/Criptoestafas__2024_Documental_.mp4",
 				"embed":"",
 				"isHost":"true",
-				"online":"true"
+				"online":"true",
+                                "userAgent":"PlusMediaPlayer/0.0.9"
 				}
 			]
 		},
@@ -137,7 +140,8 @@
 				"url":"https://filemoon.sx/d/t730emhs57t0/No_Me_Llame_Ternera__2023_Documental_.mp4",
 				"embed":"",
 				"isHost":"true",
-				"online":"true"
+				"online":"true",
+                                "userAgent":"PlusMediaPlayer/0.0.9"
 				}
 			]
 		},
@@ -154,8 +158,9 @@
 				"url":"https://filemoon.sx/d/owna1rq290pq/Telara_a-_El_segundo_imperio_Brit_nico_-_Documental.mp4",
 				"embed":"",
 				"isHost":"true",
-				"online":"true"
-				}
+				"online":"true",
+                                "userAgent":"PlusMediaPlayer/0.0.9"				
+                              }
 			]
 		}
 	]
