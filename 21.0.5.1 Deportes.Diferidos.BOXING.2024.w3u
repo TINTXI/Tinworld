@@ -1100,6 +1100,16 @@
     "embed": "",
 	"isHost": "true",
 	"online": "true"
+	},
+        { 
+	"name":"Paul 🆚 Tyson (Solo El Combate )",
+	"image": "https://i.postimg.cc/YSfn8WWw/66c25228d2eee-1.jpg",
+	"url": "https://listeamed.net/v/mMq75LLp9kz5XPB",
+	"info": "15-11-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
 	}
  
 ]
