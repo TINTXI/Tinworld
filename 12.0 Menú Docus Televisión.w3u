@@ -7,6 +7,127 @@
 "info": "",
 "groups":
     [
+
+{
+"name": "¿Y ahora que el futuro?",
+"image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+"info": "2024",
+"stations":
+	[
+
+	      {
+	      "name": "Capitulo 1",
+        "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+        "url": "https://filemoon.sx/d/0jezyw50wg0u",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Capitulo 2",
+        "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+        "url": "https://filemoon.sx/d/dyfeq1ncjdhu",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Capitulo 3",
+        "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+        "url": "https://filemoon.sx/d/yxuif15qufvf",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Capitulo 4",
+        "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+        "url": "https://filemoon.sx/d/77yq2nx7tu77",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Capitulo 5",
+        "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
+        "url": "https://filemoon.sx/d/habnkliobn0d",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+     ]
+  },
+
+      {
+      "name": "Dinero electrico, El Misterio de Bitcoin",
+      "image": "https://pics.filmaffinity.com/money_electric_the_bitcoin_mystery-506302121-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "Dinero electrico, El Misterio de Bitcoin",
+          "image": "https://pics.filmaffinity.com/money_electric_the_bitcoin_mystery-506302121-large.jpg",
+          "url": "https://listeamed.net/v/dNjgOlPPXpVO9Wn",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+      {
+      "name": "Detener el robo",
+      "image": "https://pics.filmaffinity.com/stopping_the_steal-354829045-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "Detener el robo",
+          "image": "https://pics.filmaffinity.com/stopping_the_steal-354829045-large.jpg",
+          "url": "https://filemoon.sx/d/bao2tzlk1830",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+      {
+      "name": "Criptoestafas",
+      "image": "https://pics.filmaffinity.com/bitconned-659212072-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "Criptoestafas",
+          "info": "2024",
+          "image": "https://pics.filmaffinity.com/bitconned-659212072-large.jpg",
+          "url": "https://filemoon.sx/d/r6eguq44iizp/Criptoestafas__2024_Documental_.mp4",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
       {
       "name": "Chava: El ciclista del pueblo",
       "image": "https://pics.filmaffinity.com/Chava_El_ciclista_del_pueblo-676133012-large.jpg",
