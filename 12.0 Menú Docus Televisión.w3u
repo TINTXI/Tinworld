@@ -9,6 +9,26 @@
     [
 
 {
+      "name": "Soy Celine Dion",
+      "image": "https://pics.filmaffinity.com/i_am_celine_dion-549801823-large.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "Soy Celine Dion",
+          "info": "2024",
+          "image": "https://pics.filmaffinity.com/i_am_celine_dion-549801823-large.jpg",
+          "url": "https://filemoon.sx/d/czbx0shf9vdb/Soy_Celine_Dion__2024___Documental___VOSE_.mp4",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+
+{
 "name": "¿Y ahora que el futuro?",
 "image": "https://pics.filmaffinity.com/what_s_next_the_future_with_bill_gates-399330981-large.jpg",
 "info": "2024",
@@ -23,7 +43,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 	      {
@@ -34,7 +54,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 	      {
@@ -45,7 +65,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 	      {
@@ -56,7 +76,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 	      {
