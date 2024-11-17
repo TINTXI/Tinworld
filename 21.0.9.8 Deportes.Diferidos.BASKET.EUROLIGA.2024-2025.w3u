@@ -715,8 +715,10 @@
 	        	"url": "https://filemoon.sx/d/7ivowqxwxbrd/Euroliga_Panathinaikos_vs_Olympiacos_081124.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-{
+        		}
+                      ]
+		    },
+                {
         	"name": "JORNADA 9",
         	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         	"info": "",
@@ -803,8 +805,8 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
         		}
-            	]
-		},
+            	      ]
+		    },
 
 		{
         	"name": "JORNADA 10",
