@@ -7,6 +7,13 @@
 "info":"",
 "groups":
 [
+         {   
+         "name": "𝕊ℙ𝕆ℝ𝕋𝕊 TV",
+         "image": "https://i.postimg.cc/MTM5rbWn/logo11-18-11312.png",
+         "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u",
+         "info":"",
+         "import": false
+        },
         {
          "name": "𝕆ℕ𝕃𝕐 𝕊ℙ𝕆ℝ𝕋𝕊 𝟙",
          "image": "https://i.postimg.cc/Rhrs5KtF/logo11-18-05422.png",
