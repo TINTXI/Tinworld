@@ -7,6 +7,25 @@
 "info": "",
 "groups":
     [
+{
+      "name": "Chris Brown Una Historia De Violencia",
+      "image": "https://i.postimg.cc/MK75YwpL/IMG-20241119-195740-922.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "Chris Brown Una Historia De Violencia",
+          "info": "2024",
+          "image": "https://i.postimg.cc/MK75YwpL/IMG-20241119-195740-922.jpg",
+          "url": "https://swishsrv.com/e/ro5hr1aesdzq",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
 
 {
       "name": "Soy Celine Dion",
