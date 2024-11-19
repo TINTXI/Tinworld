@@ -14,6 +14,16 @@
         "info":"",
 	"stations":
     		[   
+                        {
+       			"name": "Aitana Bonmati Conca",
+        		"info":"Documental 2024",
+        		"image": "https://i.postimg.cc/XvtvjMc4/IMG-20241119-215404-370.jpg",
+        		"url":"https://swishsrv.com/e/7dzazg3m4pq6",
+                        "userAgent":"PlusMediaPlayer/0.0.9",
+        		"embed":"",
+        		"isHost":"true",
+        		"online":"true"
+        		},
                        {
        			"name": "Se Acabo , Diario De Las Campeonas",
         		"info":"[Documental][Español]",
