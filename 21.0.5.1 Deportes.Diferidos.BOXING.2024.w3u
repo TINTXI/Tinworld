@@ -1122,6 +1122,16 @@
 	"online": "true"
 	},
         { 
+	"name":"García 🆚 Pelaez",
+	"image": "https://i.postimg.cc/q7RWYqtq/FB-IMG-1731846322610.jpg",
+	"url": "https://swishsrv.com/e/1wlcgub7yk4g",
+	"info": "16-11-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+        { 
 	"name":"Ramírez 🆚 Smith",
 	"image": "https://i.postimg.cc/d1xGsM55/gilberto-zurdo-ramirez-vs-chris-billam-smith-15r2mpddwa50m18uay8r1i94c7.jpg",
 	"url": "https://swishsrv.com/e/47eeov9nxfes",
@@ -1131,6 +1141,5 @@
 	"isHost": "true",
 	"online": "true"
 	}
- 
-]
-}
+      ]
+     }
