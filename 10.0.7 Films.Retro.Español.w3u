@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "LOS CHULOS",
+      "image": "https://i.postimg.cc/pTNC3mjY/IMG-20241119-212202-790.jpg",
+      "url": "https://swishsrv.com/e/rotec4b12bgi",
+      "info": "1981[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
       "name": "PERROS CALLEJEROS 1",
       "image": "https://pics.filmaffinity.com/perros_callejeros-905880297-large.jpg",
       "url": "https://filemoon.sx/d/y98yl6sfx6u6/Perros_Callejeros_1_1977_Pelicula.mp4",
