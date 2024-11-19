@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "SMILE 2",
+      "image": "https://i.postimg.cc/YqjZXJYz/IMG-20241119-183616-232.jpg",
+      "url": "https://swishsrv.com/e/8y11od287i0y",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "LA HOJARASCA",
       "image": "https://i.postimg.cc/pL7WmMJM/IMG-20241112-233758-622.jpg",
       "url": "https://filemoon.sx/d/ukoai5cghgtx",
