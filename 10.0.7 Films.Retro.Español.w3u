@@ -7,8 +7,41 @@
 "info": "",
 "stations":
     [
+        {
+        "name": "BINGUEROS,LOS ",
+        "image": "https://i.postimg.cc/fRHgtMTB/IMG-20240929-165313-902.jpg",
+        "url": "https://filemoon.sx/d/5bhv688drlhn",
+        "info": "1979[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "CIUDAD NO ES PARA MI,LA",
+        "image": "https://i.postimg.cc/V6T1P2hk/IMG-20240929-172709-347.jpg",
+        "url": "https://filemoon.sx/d/vwa1dlhocjs9",
+        "info": "1966[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "GUERRILLEROS,LOS",
+        "image": "https://i.postimg.cc/vZ9B4nDY/IMG-20240929-151317-149.jpg",
+        "url": "https://filemoon.sx/d/f0wg0ixlox9q",
+        "info": "1963[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
       {
-      "name": "LOS CHULOS",
+      "name": "CHULOS,LOS",
       "image": "https://i.postimg.cc/pTNC3mjY/IMG-20241119-212202-790.jpg",
       "url": "https://swishsrv.com/e/rotec4b12bgi",
       "info": "1981[TINWORLD]",
@@ -17,7 +50,40 @@
       "isHost": "true",
       "online": "true",
       "import": false
-    },
+        },
+        {
+        "name": "LOLA LA PICONERA",
+        "image": "https://i.postimg.cc/8CrNKJqF/x-CJr-PI5-X0ma-LI1e-Ww-Mvx-M7x0-Qjb.jpg",
+        "url": "https://filemoon.sx/d/gsekla8wrryr",
+        "info": "1969[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "PESCADOR DE COPLAS,EL",
+        "image": "https://i.postimg.cc/SRtgvr2C/IMG-20240929-164506-866.jpg",
+        "url": "https://filemoon.sx/d/y1pgk9wg6nid",
+        "info": "1954[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
+      {
+        "name": "PEQUEÑO RUISEÑOR,EL",
+        "image": "https://i.postimg.cc/wTQd2WpZ/IMG-20240929-174454-522.jpg",
+        "url": "https://filemoon.sx/d/zbwhullbqiz6",
+        "info": "1956[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
       {
       "name": "PERROS CALLEJEROS 1",
       "image": "https://pics.filmaffinity.com/perros_callejeros-905880297-large.jpg",
@@ -51,61 +117,6 @@
       "online": "true",
       "import": false
     },
-        {
-        "name": "EL PEQUEÑO RUISEÑOR",
-        "image": "https://i.postimg.cc/wTQd2WpZ/IMG-20240929-174454-522.jpg",
-        "url": "https://filemoon.sx/d/zbwhullbqiz6",
-        "info": "1956[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-        {
-        "name": "LA CIUDAD  NO ES PARA MI",
-        "image": "https://i.postimg.cc/V6T1P2hk/IMG-20240929-172709-347.jpg",
-        "url": "https://filemoon.sx/d/vwa1dlhocjs9",
-        "info": "1966[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-        {
-        "name": "LOS BINGUEROS ",
-        "image": "https://i.postimg.cc/fRHgtMTB/IMG-20240929-165313-902.jpg",
-        "url": "https://filemoon.sx/d/5bhv688drlhn",
-        "info": "1979[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-        {
-        "name": "EL PESCADOR DE COPLAS",
-        "image": "https://i.postimg.cc/SRtgvr2C/IMG-20240929-164506-866.jpg",
-        "url": "https://filemoon.sx/d/y1pgk9wg6nid",
-        "info": "1954[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-        {
-        "name": "LOLA LA PICONERA",
-        "image": "https://i.postimg.cc/8CrNKJqF/x-CJr-PI5-X0ma-LI1e-Ww-Mvx-M7x0-Qjb.jpg",
-        "url": "https://filemoon.sx/d/gsekla8wrryr",
-        "info": "1969[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
 	{
         "name": "UN RAYO DE LUZ",
         "image": "https://i.postimg.cc/mkx2w2P3/IMG-20240929-144731-316.jpg",
@@ -116,17 +127,6 @@
         "isHost":"true",
         "online":"true",
         "import": false
-        },
-        {
-        "name": "LOS GUERRILLEROS",
-        "image": "https://i.postimg.cc/vZ9B4nDY/IMG-20240929-151317-149.jpg",
-        "url": "https://filemoon.sx/d/f0wg0ixlox9q",
-        "info": "1963[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        }
+        } 
       ]
     }
