@@ -29,17 +29,6 @@
         "online":"true",
         "import": false
         },
-        {
-        "name": "GUERRILLEROS,LOS",
-        "image": "https://i.postimg.cc/vZ9B4nDY/IMG-20240929-151317-149.jpg",
-        "url": "https://filemoon.sx/d/f0wg0ixlox9q",
-        "info": "1963[TINWORLD]",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-      },
       {
       "name": "CHULOS,LOS",
       "image": "https://i.postimg.cc/pTNC3mjY/IMG-20241119-212202-790.jpg",
@@ -51,6 +40,17 @@
       "online": "true",
       "import": false
         },
+        {
+        "name": "GUERRILLEROS,LOS",
+        "image": "https://i.postimg.cc/vZ9B4nDY/IMG-20240929-151317-149.jpg",
+        "url": "https://filemoon.sx/d/f0wg0ixlox9q",
+        "info": "1963[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
         {
         "name": "LOLA LA PICONERA",
         "image": "https://i.postimg.cc/8CrNKJqF/x-CJr-PI5-X0ma-LI1e-Ww-Mvx-M7x0-Qjb.jpg",
