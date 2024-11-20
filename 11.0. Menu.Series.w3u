@@ -8,12 +8,12 @@
 "groups":
     [
          {
-         "name": "SERIES <minus2023",
+         "name": "SERIES <minus 2023",
          "image": "https://i.postimg.cc/fbL7Hxcy/Polish-20240624-231133460.png",
          "url": "https://tinworld.vercel.app/11.0.0 Menu.Series.w3u"
         },
         {
-          "name": "SERIES >plus2024",
+          "name": "SERIES >plus 2024",
           "image": "https://i.postimg.cc/15rpsWM4/Polish-20240624-231122463.png",
           "url": "https://tinworld.vercel.app/11.0.1 Menu.Series.2024.w3u",
           "import": "true"
