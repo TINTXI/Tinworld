@@ -32,7 +32,7 @@
 			"name": "EVENTOS DIARIOS OP.1",
 			"info":"",
 			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
-			"url": "https://eventos-diarios.vercel.app/",
+			"url": "https://ciriaco-liart.vercel.app/",
                         "online":"true",
                         "embed": "true"
 			},
@@ -40,26 +40,10 @@
 			"name": "EVENTOS DIARIOS OP.2",
 			"info":"",
 			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
-			"url": "https://ciriaco-liart.vercel.app/",
-                        "online":"true",
-                        "embed": "true"
-			},
-                        {
-			"name": "EVENTOS DIARIOS OP.3",
-			"info":"",
-			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
 			"url": "https://eventos2023-julio.vercel.app/",
                         "online":"true",
                         "embed": "true"
-			},
-                        {
-			"name": "EVENTOS DIARIOS OP.4",
-			"info":"",
-			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
-			"url": "https://eventos2023-hulio-6aemcnfgl-aketerajos-projects.vercel.app/",
-                        "online":"true",
-                        "embed": "true"
-			}
+			}          
                      ]
 	         },
  
