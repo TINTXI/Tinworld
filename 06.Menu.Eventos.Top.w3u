@@ -21,8 +21,7 @@
         {
           "name": "DAILY EVENTS",
           "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-          "url": "https://bit.ly/topembed-m3u4",
-	  "import":true
+          "url": "https://bit.ly/topembed-m3u4"
           }
         ]
       },
