@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "LAS SOMBRAS DEL PODER",
+      "image": "https://i.postimg.cc/bvKsHLGP/F4317920.jpg",
+      "url": "https://filemoon.sx/d/xo63cevgjxfc",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "LA SUERTE DEL GANADOR",
       "image": "https://i.postimg.cc/4N5W6qgX/IMG-20241121-131700-329.jpg",
       "url": "https://filemoon.sx/d/572hmlp45cpt",
