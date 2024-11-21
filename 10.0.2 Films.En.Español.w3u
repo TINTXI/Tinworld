@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "LA SUERTE DEL GANADOR",
+      "image": "https://i.postimg.cc/4N5W6qgX/IMG-20241121-131700-329.jpg",
+      "url": "https://filemoon.sx/d/572hmlp45cpt",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "KILL: MASACRE EN EL TREN",
       "image": "https://i.postimg.cc/zBWLCJF2/IMG-20241119-192906-825.jpg",
       "url": "https://swishsrv.com/e/fsxxc03wrnq2",
