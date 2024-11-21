@@ -8,6 +8,25 @@
 "groups":
      [
      {
+     "name": "La Gran Noche Del Pop",
+      "image": "https://i.postimg.cc/d3yNfyyM/IMG-20241121-220647-516.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "La Gran Noche Del Pop",
+          "info": "2024",
+          "image": "https://i.postimg.cc/d3yNfyyM/IMG-20241121-220647-516.jpg",
+          "url": "https://filemoon.sx/d/phdfjb3tqlef",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+     {
      "name": "Orgullo Vieja",
       "image": "https://i.postimg.cc/wMLmSCMb/IMG-20241119-225240-240.jpg",
       "info": "2024",
