@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "GT MAX",
+      "image": "https://i.postimg.cc/v81Rfpjx/bx92hl70-NUhojj-O3e-V6-Lq-Kllj4-L.jpg",
+      "url": "https://filemoon.sx/d/st4w2ydm9o1w",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "LAS SOMBRAS DEL PODER",
       "image": "https://i.postimg.cc/bvKsHLGP/F4317920.jpg",
       "url": "https://filemoon.sx/d/xo63cevgjxfc",
