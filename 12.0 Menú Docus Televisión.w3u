@@ -8,6 +8,25 @@
 "groups":
      [
      {
+     "name": "Amor, Acoso, Asesinato",
+      "image": "https://i.postimg.cc/Gpc9NRNq/979-In5-AADOcbc-Uri0-WW5-PViipqp.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "Amor, Acoso, Asesinato",
+          "info": "2024",
+          "image": "https://i.postimg.cc/Gpc9NRNq/979-In5-AADOcbc-Uri0-WW5-PViipqp.jpg",
+          "url": "https://filemoon.sx/d/ie5dy57wvd2u",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+     {
      "name": "La Gran Noche Del Pop",
       "image": "https://i.postimg.cc/d3yNfyyM/IMG-20241121-220647-516.jpg",
       "info": "2024",
