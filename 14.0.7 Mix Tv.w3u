@@ -21,6 +21,9 @@
                 "url":"https://filemoon.sx/d/s4kbljzy7ua2",
                 "isHost":"true",
                 "online":"true"
+                "embed": "",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
                 }
             ]
         },
@@ -38,6 +41,9 @@
                 "url":"https://filemoon.sx/d/ljvxje0tephp",
                 "isHost":"true",
                 "online":"true"
+                "embed": "",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
                 }
             ]
         }
