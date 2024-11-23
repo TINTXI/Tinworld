@@ -43,6 +43,14 @@
 			"url": "https://eventos2023-julio.vercel.app/",
                         "online":"true",
                         "embed": "true"
+			},
+                        {
+			"name": "EVENTOS DIARIOS OP.3",
+			"info":"",
+			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
+			"url": "https://enlaces-omega.vercel.app/horario.html",
+                        "online":"true",
+                        "embed": "true"
 			}          
                      ]
 	         },
