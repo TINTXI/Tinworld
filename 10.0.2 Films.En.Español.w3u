@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "BLITZ",
+      "image": "https://i.postimg.cc/0NC4Jqdw/IMG-20241123-145628-936.jpg",
+      "url": "https://filemoon.sx/d/87u6m6w9230l",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "LA LECCIÓN DE PIANO",
       "image": "https://i.postimg.cc/k5V7WmyD/IMG-20241123-092437-035.jpg",
       "url": "https://filemoon.sx/d/ssf34vfgdvln",
