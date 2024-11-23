@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+        {
+        "name": "Mix Tv",
+        "image": "https://i.postimg.cc/7Zx7Nywn/unnamed.jpg",
+        "url": "",
+        "info":"",
+        "import": false
+        },
 
         {
         "name": "Mix Conciertos",
