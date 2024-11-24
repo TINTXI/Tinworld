@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "NO HABLES CON EXTRAÑOS",
+      "image": "https://i.postimg.cc/TY144fh9/IMG-20241124-112005-862.jpg",
+      "url": "https://filemoon.sx/d/7hmsbsj5duqy",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "TIGRES Y HIENAS",
       "image": "https://i.postimg.cc/k5MzZdVy/IMG-20241123-234647-456.jpg",
       "url": "https://filemoon.sx/d/1tqd7tdyzl3k",
