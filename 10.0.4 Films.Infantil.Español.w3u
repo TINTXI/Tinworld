@@ -7,6 +7,14 @@
 "info": "",
 "stations":
     [
+       {
+       "name": "Under Paris",
+       "info":"[PRUEBA][MULTIAUDIO]",
+       "online":"true",
+       "image": "https://mexico.quadratin.com.mx/www/wp-content/uploads/2024/06/unnamed-19.jpg",
+       "url" : "https://iosmirror.cc/hls/81767564.m3u8",
+       "referer" : "referer=https://iosmirror.cc/"
+       }, 
 	{
         "name": "AAA, Sin limite en el tiempo",
         "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
