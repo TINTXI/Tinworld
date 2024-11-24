@@ -8,6 +8,25 @@
 "groups":
      [
      {
+     "name": "Mugaritz Sin Pan Ni Postre",
+      "image": "https://i.postimg.cc/8CvxN6J4/IMG-20241124-123346-782.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "Mugaritz Sin Pan Ni Postre",
+          "info": "2024",
+          "image": "https://i.postimg.cc/8CvxN6J4/IMG-20241124-123346-782.jpg",
+          "url": "https://filemoon.sx/d/2qeg3cxvhpwo",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
+     {
      "name": "Zuckerberg-El Rey Del Metaverso",
       "image": "https://i.postimg.cc/zvpF9jzQ/IMG-20241123-130523-427.jpg",
       "info": "2024",
