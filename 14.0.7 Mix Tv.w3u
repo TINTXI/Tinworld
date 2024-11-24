@@ -8,6 +8,26 @@
 "groups":
     [
         {
+        "name": "Latin Grammy 2024",
+        "info":"2024",
+        "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Latin Grammy 2024",
+                "info":"2024",
+                "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
+                "url":"https://filemoon.sx/d/pp9t6f66kny0",
+                "isHost":"true",
+                "online":"true",
+                "embed": "",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                }
+            ]
+        },
+        {
         "name": "Gala Fim Moto Gp Adwards 2024",
         "info":"2024",
         "image": "https://i.postimg.cc/cL8hVSVy/F4319113.jpg",
