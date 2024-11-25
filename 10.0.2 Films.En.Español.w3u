@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "SIN RASTRO",
+      "image": "https://i.postimg.cc/G2sTS9QB/IMG-20241125-191600-150.jpg",
+      "url": "https://filemoon.sx/d/rumesxq5f8f3",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
 "name": "NO HABLES CON EXTRAÑOS",
       "image": "https://i.postimg.cc/TY144fh9/IMG-20241124-112005-862.jpg",
       "url": "https://filemoon.sx/d/7hmsbsj5duqy",
