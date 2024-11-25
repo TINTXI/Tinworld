@@ -1242,6 +1242,39 @@
 			}
 		]
 	},
+{
+	"name": "PPVP",
+	"image": "",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "PPVP 1",
+			"info": "0006",
+			"image": "",
+			"url": "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006"
+			},
+			{
+			"name": "PPVP 2",
+			"info": "22c9",
+			"image": "",
+			"url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9"
+			},
+			{
+			"name": "PPVP 3",
+			"info": "bb48",
+			"image": "",
+			"url": "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48"
+			},
+			{
+			"name": "PPVP 4",
+			"info": "22c9",
+			"image": "",
+			"url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9"
+			}
+		]
+	},
 
         {
 	"name": "MOVISTAR PLUS [1080]",
