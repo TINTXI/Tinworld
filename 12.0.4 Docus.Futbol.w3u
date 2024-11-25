@@ -15,6 +15,15 @@
 	"stations":
     		[   
                         {
+       			"name": "Informe+ Reyes, sonrisa y leyenda (2024)",
+        		"info":"[Documental][Español]",
+        		"image": "https://pics.filmaffinity.com/informe_reyes_sonrisa_y_leyenda-322735768-large.jpg",
+        		"url":"https://listeamed.net/v/g9Vd5JyDr9AOqQj",
+        		"userAgent":"PlusMediaPlayer/0.0.9",
+        		"isHost":"true",
+        		"online":"true"
+        		},
+                        {
        			"name": "Aitana Bonmati Conca",
         		"info":"[Documental][Español]",
         		"image": "https://i.postimg.cc/XvtvjMc4/IMG-20241119-215404-370.jpg",
