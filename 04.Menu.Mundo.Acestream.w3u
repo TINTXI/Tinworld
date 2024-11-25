@@ -1279,7 +1279,10 @@
 			"info": "22c9",
 			"image": "",
 			"url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9"
-			},
+			}
+                      ]
+                    },
+
         {
 	"name": "MOVISTAR PLUS [1080]",
 	"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
