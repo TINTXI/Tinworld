@@ -7,6 +7,13 @@
 "info":"",
 "groups":
 [   
+        {
+	"name": "TDT CHANNELS",
+	"image": "https://i.postimg.cc/g2bdpTm1/logo4-17-203257.png",
+	"url": "https://pastebin.com/UWXsWLF9",
+    	"info": "",
+    	"import": false
+    	},
          {
          "name": "Rakuten TV",
          "image": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/rakuten.png",
