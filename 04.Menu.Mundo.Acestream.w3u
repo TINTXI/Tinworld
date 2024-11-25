@@ -1041,13 +1041,6 @@
 	"stations":
 		[
 			{
-	"name": "ELEVEN SPORT",
-	"image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
-			{
 			"name": "Eleven Sport 1 (BE)",
 			"info":"acestream:d51b   [1080p]",
 			"image": "https://i.postimg.cc/JnytndG2/eleven-sport-1.png",
