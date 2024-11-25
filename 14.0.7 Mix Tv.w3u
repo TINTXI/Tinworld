@@ -8,6 +8,37 @@
 "groups":
     [
         {
+        "name": "Las Voces De La Radio",
+        "info":"2024",
+        "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Las Voces De La Radio",
+                "info":"CAP 1",
+                "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+                "url":"https://filemoon.sx/d/y4tyyoivvzif",
+                "isHost":"true",
+                "online":"true",
+                "embed": "",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "Las Voces De La Radio",
+                "info":"CAP 2",
+                "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+                "url":"https://filemoon.sx/d/2o6z3yi691i3",
+                "isHost":"true",
+                "online":"true",
+                "embed": "",
+                "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                }
+            ]
+        },
+        {
         "name": "Latin Grammy 2024",
         "info":"2024",
         "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
