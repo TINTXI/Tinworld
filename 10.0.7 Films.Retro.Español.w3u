@@ -171,6 +171,17 @@
         "isHost":"true",
         "online":"true",
         "import": false
-        } 
+        },
+        {
+        "name": "¡VENTE A ALEMANIA PEPE!",
+        "image": "https://i.postimg.cc/G228SRCT/IMG-20241126-184402-239.jpg",
+        "url": "https://filemoon.sx/d/rpi58w6b9s1l",
+        "info": "1971[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }
       ]
     }
