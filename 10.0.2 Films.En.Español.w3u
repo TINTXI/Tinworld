@@ -7,6 +7,39 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "PAINTER, THE",
+      "image": "https://pics.filmaffinity.com/the_painter-323060415-large.jpg",
+      "url": "https://filemoon.sx/d/ef7w79jhawki/The_painter__2024_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
+      "name": "SOCIEDAD AMERICANA DE NEGROS MAGICOS, LA",
+      "image": "https://pics.filmaffinity.com/the_american_society_of_magical_negroes-458586123-large.jpg",
+      "url": "https://filemoon.sx/d/svhtk7ai8sng/La_sociedad_americana_de_negros_m_gicos__2024__Pelicula.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+     },
+      {
+      "name": "WANTED MAN",
+      "image": "https://pics.filmaffinity.com/wanted_man-382746509-large.jpg",
+      "url": "https://filemoon.sx/d/ee7ekpqhz696/Wanted_man_2024_Pelicula.mp4",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 {
 "name": "SIN RASTRO",
       "image": "https://i.postimg.cc/G2sTS9QB/IMG-20241125-191600-150.jpg",
