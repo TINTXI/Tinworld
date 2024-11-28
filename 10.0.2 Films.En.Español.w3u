@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "FUNERAL,THE",
+      "image": "https://i.postimg.cc/3x6x27BZ/IMG-20241127-184420-353.jpg",
+      "url": "https://filemoon.sx/d/vpvlf9gi0hlx",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
 
       {
       "name": "MALA PERSONA",
