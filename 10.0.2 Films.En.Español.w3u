@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "MALA PERSONA",
+      "image": "https://i.postimg.cc/nrxCWRKX/IMG-20241126-214707-921.jpg",
+      "url": "https://filemoon.sx/d/a3g3liruylwd",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
       {
       "name": "PAINTER, THE",
       "image": "https://pics.filmaffinity.com/the_painter-323060415-large.jpg",
