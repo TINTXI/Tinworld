@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "MERCENARIA",
+      "image": "https://i.postimg.cc/Wp5JfQNB/IMG-20241129-222153-046.jpg",
+      "url": "https://filemoon.sx/d/g6stlxqzag2p",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
       {
       "name": "TAROT",
       "image": "https://i.postimg.cc/rF5xBvRg/Tarot-256287294-large.jpg",
