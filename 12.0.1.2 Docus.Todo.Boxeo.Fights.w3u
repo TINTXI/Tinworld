@@ -22,7 +22,10 @@
 		"url": "https://filemoon.sx/d/nze12p71wtqs", 
 		"embed":"", 
 		"isHost": "true", 
-		"online": "true" 
+		"online": "true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false 
 		},
 		{ 
 		"name": "Sandor Martín,The American Dream (Documental)", 
@@ -31,7 +34,10 @@
 		"url": "https://filemoon.sx/d/de0ss5ifpx1w", 
 		"embed":"", 
 		"isHost": "true", 
-		"online": "true" 
+		"online": "true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false 
 		},
                  {
                 "name": "Maria Jesus Rosa, Derecho a boxear (Documental)",
@@ -40,7 +46,10 @@
                 "url": "https://filemoon.sx/d/edy15lzainrq",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Ali y Cavett (Documental)",
@@ -49,7 +58,10 @@
                 "url": "https://filemoon.sx/d/3t1cerbwgdp3",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                  {
                 "name": "Golpes duros (Documental)",
@@ -58,7 +70,10 @@
                 "url": "https://filemoon.sx/d/9nj41umnk3p8",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 }, 
             {
                 "name": "Libra x Libra. La historia de Juan Manuel Marquez (Documental)",
@@ -67,7 +82,10 @@
                 "url": "https://filemoon.sx/d/h2vef65rzurk",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                {
                 "name": "Salvador Sanchez (Documental)",
@@ -76,7 +94,10 @@
                 "url": "https://filemoon.sx/d/3ylx3jcommbg",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                {
                 "name": "Oscar De la Hoya (Documental)",
@@ -85,7 +106,10 @@
                 "url": "https://upstream.to/5ydohta17nzo",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
               {
                 "name": "J.C. Chavez (Documental)",
@@ -94,7 +118,10 @@
                 "url": "https://upstream.to/zmsan6if6ryb",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                {
                 "name": "Thriller in Manila (Documental)",
@@ -103,7 +130,10 @@
                 "url": "https://upstream.to/vzie1ncu8wwf",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Soldado Callejero, Erase una vez un sueño (Documental)",
@@ -112,7 +142,10 @@
                 "url": "https://upstream.to/8wvdoowpv1oa",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "La lucha de Muhammad Ali",
@@ -121,7 +154,10 @@
                 "url": "https://filemoon.sx/d/u6hogbd95gzy",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Manny",
@@ -130,7 +166,10 @@
                 "url": "https://upstream.to/oljxogrfmwit",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Yo soy Bruce Lee (Documental)",
@@ -139,7 +178,10 @@
                 "url": "https://upstream.to/ty3cv6osv0sa",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },  
                 {
                 "name": "Contragolpe (Documental)",
@@ -148,7 +190,10 @@
                 "url": "https://upstream.to/p0f3mlzwxpjq",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "El grande de mexico, Andy Ruiz (Documental)",
@@ -157,7 +202,10 @@
                 "url": "https://upstream.to/0pzzf44gomth",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 }, 
                 {
                 "name": "Yo Soy Duran (Documental)",
@@ -166,7 +214,10 @@
                 "url": "https://filemoon.sx/d/uuw0r5jipvhb",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },          
 		{
                 "name": "Javier El Lince Castillejo (Documental)",
@@ -175,7 +226,10 @@
                 "url": "https://upstream.to/vfcy7663x1g5",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "40 años de Rocky (Documental)",
@@ -184,7 +238,10 @@
                 "url": "https://upstream.to/kbu9zi9dpru9",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Hermanos de sangre (Documental)",
@@ -193,7 +250,10 @@
                 "url": "https://upstream.to/sbaccbk5u79a",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Pacto con el diablo (Documental)",
@@ -202,7 +262,10 @@
                 "url": "https://upstream.to/odm4fpw16wel",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
 		{
         	"name": "El regreso de Ali (Documental)",
@@ -211,7 +274,10 @@
         	"url":"https://www.documaniatv.com/biografias/el-regreso-de-ali-la-historia-jamas-contada-video_8c5404f96.html",
         	"embed":"",
         	"isHost":"true",
-        	"online":"true"
+        	"online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
         	},
                 {
                 "name": "Bisping, Peleando por un sueño (Documental)",
@@ -220,7 +286,10 @@
                 "url": "https://upstream.to/44pi76l1inlo",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Leyenda Maravilla, triunfar, caer, volver (Documental)",
@@ -229,7 +298,10 @@
                 "url": "https://upstream.to/8raka4u13y05",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Mike Tyson, Los brutales nocauts contra los monstruos (Documental)",
@@ -238,7 +310,10 @@
                 "url": "https://upstream.to/9zunbzgvxrmw",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Big George Foreman (Documental)",
@@ -247,7 +322,10 @@
                 "url": "https://upstream.to/s8p3ac9helec",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "El caso de Edwin Valero, el boxeador asesino (Documental)",
@@ -256,7 +334,10 @@
                 "url": "https://upstream.to/rnck8pnhrhya",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "John Miguez, The good boy (Documental)",
@@ -265,7 +346,10 @@
                 "url": "https://upstream.to/ozmws5fia0he",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
               {
                 "name": "Abigail Medina, El Mazo. El Retorno (Documental)",
@@ -274,7 +358,10 @@
                 "url": "https://filemoon.sx/d/xd5kjrqc3dav",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Kiko Martínez, O lo haces de verdad o ni lo intentes (Video Podcast)",
@@ -283,7 +370,10 @@
                 "url": "https://embedme.xyz/d/tjhq8qw2ny6u",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Dentro Del Ring-Kiko Martínez-\nQuiero ver a mí sobrino en lo más alto(Video Podcast)",
@@ -292,7 +382,10 @@
                 "url": "https://filemoon.sx/d/bi3agc41j6p7",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Campeones De Oro(Programa/Documental)",
@@ -301,7 +394,10 @@
                 "url": "https://filemoon.sx/d/txn3xl0itx9w",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Golpe A Golpe(Documental)",
@@ -333,7 +429,10 @@
                 "url": "https://filemoon.sx/d/9dwb2pp7gy69",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },   
                 {
                 "name": "Rocky (Pelicula)",
@@ -342,7 +441,10 @@
                 "url": "https://upstream.to/5ooywkr528j1",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },                
                 {
                 "name": "Rocky II (Pelicula)",
@@ -351,7 +453,10 @@
                 "url": "https://upstream.to/2ub5pzq0bl0r",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Rocky III (Pelicula)",
@@ -360,7 +465,10 @@
                 "url": "https://upstream.to/aobd7f0zrdyc",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Rocky IV (Pelicula)",
@@ -369,7 +477,10 @@
                 "url": "https://upstream.to/nsjhr7aqkg54",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Rocky V (Pelicula)",
@@ -378,7 +489,10 @@
                 "url": "https://upstream.to/7kxerp15l4n9",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Rocky Balboa (Pelicula)",
@@ -387,7 +501,10 @@
                 "url": "https://upstream.to/rktftwf7i6j1",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Tommy Riley-El luchador (Pelicula)",
@@ -396,7 +513,10 @@
                 "url": "https://filemoon.sx/d/asfohk8feebm",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
 		{
                 "name": "La forja de un campeón (Jem Belcher)(Pelicula)",
@@ -405,7 +525,10 @@
                 "url": "https://upstream.to/2o8y2bdf8jqi",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Ali (Pelicula)",
@@ -414,7 +537,10 @@
                 "url": "https://upstream.to/yw066n1suzhy",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Cinderella man (Pelicula)",
@@ -423,7 +549,10 @@
                 "url": "https://filemoon.sx/d/s4h2y3xrtdwh",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Sacrificio de Leyenda (Pelicula)",
@@ -432,7 +561,10 @@
                 "url": "https://upstream.to/k97h1cuvbs35",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Manos de piedra (Pelicula)",
@@ -441,7 +573,10 @@
                 "url": "https://upstream.to/kq7zfvvcj85w",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Rompiendo las reglas (Pelicula)",
@@ -450,7 +585,10 @@
                 "url": "https://filemoon.sx/d/18t77ig0blq6",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Million dolar baby (Pelicula)",
@@ -459,7 +597,10 @@
                 "url": "https://upstream.to/9jtwy8go6kxx",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Redencion (Pelicula)",
@@ -468,7 +609,10 @@
                 "url": "https://filemoon.sx/d/164ghphcvadf",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Una oración antes del amanecer (Pelicula)",
@@ -477,7 +621,10 @@
                 "url": "https://filemoon.sx/d/pnjmwlls37bg",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Creed I La leyenda de Rocky (Pelicula)",
@@ -486,7 +633,10 @@
                 "url": "https://upstream.to/909p3u7e7vrr",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Creed II Defendiendo el legado (Pelicula)",
@@ -495,7 +645,10 @@
                 "url": "https://upstream.to/svdty57k29xd",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Creed III No puedes huir de tu pasado (Pelicula)",
@@ -504,7 +657,10 @@
                 "url": "https://upstream.to/ny4hc0m50v5r",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "El superviviente 
@@ -514,7 +670,10 @@ De Auschwitz (Pelicula)",
                 "url": "https://filemoon.sx/d/q21b5axitm45",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Retumbar A Través De La Oscuridad (Película)",
@@ -523,7 +682,10 @@ De Auschwitz (Pelicula)",
                 "url": "https://filemoon.in/d/lr2m7ez0cbo7",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "Boxer (Película)",
@@ -532,7 +694,10 @@ De Auschwitz (Pelicula)",
                 "url": "https://filemoon.sx/d/tywp325j9iqb",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 },
                 {
                 "name": "V De Victor (Película)",
@@ -541,7 +706,10 @@ De Auschwitz (Pelicula)",
                 "url": "https://filemoon.sx/d/3f8pfquyznhy",
                 "embed":"",
                 "isHost":"true",
-                "online":"true"
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 }
             ]
         },
@@ -828,7 +996,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://filemoon.sx/d/gtt4yxuk8uzb/EL_DOCUMENTAL_1_JONFER_BEFORE_THE_FIGHT_2017.mp4",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2 Jonfer before the fight",
@@ -837,7 +1008,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://filemoon.sx/d/l239arzbevrj/EL_DOCUMENTAL_2_JONFER_BEFORE_THE_SILVER_2017.mp4",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 },
@@ -856,7 +1030,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/5b60hetle1cb",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "Cap.2 La Lucha del Siglo",
@@ -865,7 +1042,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/kbsu0eca7ko3",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "Cap.3 Un Negocio Sucio",
@@ -874,7 +1054,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/dtkpdderme9r",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                        {
                         "name": "Cap.4 El Boxeo, fuera y dentro del Ring",
@@ -883,7 +1066,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/iy17e0234mvi",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                },
@@ -902,7 +1088,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/jjjbkcakdv2n",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2. Carne y sangre",
@@ -911,7 +1100,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/1hd78rfk223g",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "3. El deseo de ganar",
@@ -920,7 +1112,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/w23jxts2z3if",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "4. Un campeón nunca para",
@@ -929,7 +1124,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://filemoon.sx/d/elfjlkj1w0ug",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                },
@@ -948,7 +1146,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/o3t26dkhosr5",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2. Grandes ídolos del boxeo II",
@@ -957,7 +1158,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/ibv9woo46gsl",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "3. Grandes ídolos del boxeo III",
@@ -966,7 +1170,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/ueb99hxz8p30",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 },
@@ -985,7 +1192,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/j52t16ees0s5",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2 Me llamo Muhammad Ali",
@@ -994,7 +1204,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/jlys6x1fnlas",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 },
@@ -1067,7 +1280,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/j6d3ggh0dsz7",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2. Ringo, gloria y muerte",
@@ -1076,7 +1292,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/iyghsb6puczn",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "3. Ringo, gloria y muerte",
@@ -1085,7 +1304,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/wi0vz9a4ai0r",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "4. Ringo, gloria y muerte",
@@ -1094,7 +1316,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/7wpqx9bpz2ld",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "5. Ringo, gloria y muerte",
@@ -1103,7 +1328,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/tpm8grfx1gtj",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "6. Ringo, gloria y muerte",
@@ -1112,7 +1340,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/mx3a2zmeoymu",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "7. Ringo, gloria y muerte",
@@ -1121,7 +1352,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/61aywj3qhy0q",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 },
@@ -1140,7 +1374,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/e0o5rygl4sgv",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2  Monstruo (Mike, mas allá de Tyson)",
@@ -1149,7 +1386,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/cfgkgp7wo215",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "3 Amante (Mike, mas allá de Tyson)",
@@ -1158,7 +1398,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/lz91mj7xyizb",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "4 Ticket de descuento (Mike, mas allá de Tyson)",
@@ -1167,7 +1410,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/84xs6lk66dzc",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "5 Desirée (Mike, mas allá de Tyson)",
@@ -1176,7 +1422,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/uo3jccb8suip",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "6 Ave atrapada (Mike, mas allá de Tyson)",
@@ -1185,7 +1434,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/utzzkngdg9te",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "7 Caníbal (Mike, mas allá de Tyson)",
@@ -1194,7 +1446,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/207ocmop4hwp",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "8 Fénix (Mike, mas allá de Tyson)",
@@ -1203,7 +1458,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/ucq7v56a51im",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 },
@@ -1222,7 +1480,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/yrd4awe6xacp",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         },
                         {
                         "name": "2 El niño de oro, Oscar de la Hoya",
@@ -1231,7 +1492,10 @@ De Auschwitz (Pelicula)",
                         "url": "https://upstream.to/ybfmtlattkbi",
                         "embed":"",
                         "isHost":"true",
-                        "online":"true"
+                        "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                         }
                     ]
                 }
