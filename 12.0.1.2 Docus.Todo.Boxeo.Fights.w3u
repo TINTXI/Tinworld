@@ -302,7 +302,19 @@
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
-                }
+                },
+                {
+                "name": "Golpe A Golpe(Documental)",
+                "info":"2024",
+                "image": "https://i.postimg.cc/rF2LTHYm/maxresdefault.jpg",
+                "url": "https://filemoon.sx/d/sfcssz38o8t6",
+                "embed":"",
+                "isHost":"true",
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
+                }     
             ]
         },
 
