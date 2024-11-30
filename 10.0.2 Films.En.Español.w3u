@@ -7,6 +7,28 @@
 "info": "",
 "stations":
     [
+  {
+      "name": "ALL YOU NEED IS BLOOD",
+      "image": "https://i.postimg.cc/htNsjrGG/IMG-20241129-222256-242.jpg",
+      "url": "https://filemoon.sx/d/l5q3d6aonb5g",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+      },
+     {
+      "name": "CONCLAVE",
+      "image": "https://i.postimg.cc/Vk9QBdbm/IMG-20241129-222237-901.jpg",
+      "url": "https://filemoon.sx/d/zt6gjxnu6jme",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+      },
 
       {
       "name": "THELMA,LA VENGANZA NUNCA HA SIDO TAN DULCE",
