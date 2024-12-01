@@ -150,6 +150,18 @@
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://raw.githubusercontent.com/Love4vn/love4vn/main/Relax.m3u",
 	  "import":true
+          },
+          {
+          "name": "plex-11",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://bit.ly/moj-m3u8",
+	  "import":true
+          },
+          {
+          "name": "plex-11",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://bit.ly/tubi-m3u",
+	  "import":true
           }
    
         ]
