@@ -173,10 +173,33 @@
       "import": false
     },
       {
-      "name": "TO ER MUNDO E GÜENO",
+      "name": "TO ER MUNDO É GÜENO",
       "image": "https://i.postimg.cc/c48RptFV/IMG-20241201-115517-442.jpg",
       "url": "https://filemoon.sx/d/n8dsmamg8lrv",
       "info": "1982[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
+      "name": "TO ER MUNDO É MEJÓ",
+      "image": "https://i.postimg.cc/YC7wggZ7/IMG-20241201-115534-843.jpg",
+      "url": "https://filemoon.sx/d/hql9t60734bf",
+      "info": "1982[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+
+      {
+      "name": "TO ER MUNDO É DEMASIAO",
+      "image": "https://i.postimg.cc/JzK4zPnv/IMG-20241201-115543-356.jpg",
+      "url": "https://filemoon.sx/d/4ya9m5vz7e2n",
+      "info": "1985[TINWORLD]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
