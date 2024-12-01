@@ -8,6 +8,13 @@
 "groups":
     [
                 {
+		"name": "LOS AÑOS NUEVOS",
+		"image": "https://i.postimg.cc/NftXBFC5/IMG-20241201-151207-932.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Los Años Nuevos.w3u",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
+                {
 		"name": "FROM",
 		"image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
