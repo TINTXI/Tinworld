@@ -8,6 +8,13 @@
 "groups":
     [
                 {
+		"name": "FROM",
+		"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
+                {
 		"name": "A QUE ESTAS ESPERANDO",
 		"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
 		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie A Que Estas Esperando.w3u",
