@@ -12,9 +12,12 @@
       "image": "https://i.postimg.cc/Vv7GLK5f/2ve-VEL9t-Iz-L3-JOLQm-FAk0-ZBGQ0r.jpg",
       "url": "https://big.fileditchstuff.me/b47/ZUMdPZTfHJtQUCifGZKq.mp4",
       "info": "2024[TINWORLD]",
-      "embed": "",
+      "embed": "true",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     },
       {
       "name": "PUNTOS SUSPENSIVOS",
