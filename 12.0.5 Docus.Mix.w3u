@@ -1,142 +1,142 @@
 {
-"name": "Docus Mix",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"url": "https://tinworld.vercel.app/12.0.5 Docus.Mix.w3u",
-"telegram": "TINWORLD_3_0",
-"info":"",
-"groups":
-[
-
-	{
-        	"name": "Fiz, puro maraton",
-        	"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
-        	"imageScale": "",
-        	"info":"",
-		"stations":
-    		[
-				{
-				"name": "Fiz, puro maraton",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
-				"url":"https://filemoon.sx/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
-				"isHost":"true",
-				"online":"true"
-				}
-		]
-	},
-
+    "name": "Docus Mix",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+    "url": "https://tinworld.vercel.app/12.0.5 Docus.Mix.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "groups":
+    [
+    
         {
-        "name": "DoCu Mix",
-        "image": "https://i.postimg.cc/0N7kCdFg/Docu-Mix.png",
-        "imageScale": "",
-        "info":"",
-	"stations":
-    		[
-				{
-				"name": "Michael Jordan to the Max 2015",
-				"info":"[Documental][Español]",
-				"image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
-				"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Rodman: para lo bueno y para lo malo 2019",
-				"info":"[Documental][Español]",
-				"image": "https://pics.filmaffinity.com/30_for_30_rodman_for_better_or_worse-853152931-mmed.jpg",
-				"url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Serena 2016",
-				"info":"[Documental][Español]",
-				"image": "https://image.tmdb.org/t/p/w500/n6RHfOP2tcqhqm26n65Sbq3f2qB.jpg",
-				"url":"https://www.documaniatv.com/biografias/serena-video_73d1db0b6.html",
-				"embed":"",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-
-		{
-        	"name": "Anillos de Pau, Los",
-        	"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
-        	"imageScale": "",
-        	"info":"",
-		"stations":
-    		[
-				{
-				"name": "Episodio 01",
-				"info":"[Documental]",
-				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
-				"url":"https://filemoon.sx/d/jpod9i6eezfn/Los_Anillos_de_Pau_Capitulo_1.mp4",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[Documental]",
-				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
-				"url":"https://filemoon.sx/d/lum19p8ky29t/Los_Anillos_de_Pau_Capitulo_2.mp4",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[Documental]",
-				"image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
-				"url":"https://filemoon.sx/d/te64rqo8g94v/Los_Anillos_de_Pau_Capitulo_3.mp4",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		},
-
-		{
-        	"name": "Pau Gasol: Lo Importante Es El Viaje",
-        	"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
-        	"imageScale": "",
-        	"info":"",
-		"stations":
-    			[
-				{
-				"name": "Episodio 01",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
-				"url":"https://filemoon.sx/d/8cmze77bx8ku",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 02",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
-				"url":"https://filemoon.sx/d/t11eehkfabcs",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 03",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
-				"url":"https://filemoon.sx/d/u89lv50can35",
-				"isHost":"true",
-				"online":"true"
-				},
-				{
-				"name": "Episodio 04",
-				"info":"[Documental]",
-				"image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
-				"url":"https://filemoon.sx/d/1i2d1hgv6zos",
-				"isHost":"true",
-				"online":"true"
-				}
-			]
-		}
-	]
-}		
+                "name": "Fiz, puro maraton",
+                "image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+                "imageScale": "",
+                "info":"",
+            "stations":
+                [
+                    {
+                    "name": "Fiz, puro maraton",
+                    "info":"[Documental]",
+                    "image": "https://pics.filmaffinity.com/fiz_puro_maraton-429090733-large.jpg",
+                    "url":"https://filemoon.to/d/lfky6i7esqxm/Fiz_Puro_Maraton_2014.mkv",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+            ]
+        },
+    
+            {
+            "name": "DoCu Mix",
+            "image": "https://i.postimg.cc/0N7kCdFg/Docu-Mix.png",
+            "imageScale": "",
+            "info":"",
+        "stations":
+                [
+                    {
+                    "name": "Michael Jordan to the Max 2015",
+                    "info":"[Documental][Español]",
+                    "image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
+                    "url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Rodman: para lo bueno y para lo malo 2019",
+                    "info":"[Documental][Español]",
+                    "image": "https://pics.filmaffinity.com/30_for_30_rodman_for_better_or_worse-853152931-mmed.jpg",
+                    "url":"https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Serena 2016",
+                    "info":"[Documental][Español]",
+                    "image": "https://image.tmdb.org/t/p/w500/n6RHfOP2tcqhqm26n65Sbq3f2qB.jpg",
+                    "url":"https://www.documaniatv.com/biografias/serena-video_73d1db0b6.html",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+    
+            {
+                "name": "Anillos de Pau, Los",
+                "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
+                "imageScale": "",
+                "info":"",
+            "stations":
+                [
+                    {
+                    "name": "Episodio 01",
+                    "info":"[Documental]",
+                    "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
+                    "url":"https://filemoon.to/d/jpod9i6eezfn/Los_Anillos_de_Pau_Capitulo_1.mp4",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Episodio 02",
+                    "info":"[Documental]",
+                    "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
+                    "url":"https://filemoon.to/d/lum19p8ky29t/Los_Anillos_de_Pau_Capitulo_2.mp4",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Episodio 03",
+                    "info":"[Documental]",
+                    "image": "https://i.postimg.cc/Z5cVxWT6/Anillos-de-Pau-2023-Documental.png",
+                    "url":"https://filemoon.to/d/te64rqo8g94v/Los_Anillos_de_Pau_Capitulo_3.mp4",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+    
+            {
+                "name": "Pau Gasol: Lo Importante Es El Viaje",
+                "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
+                "imageScale": "",
+                "info":"",
+            "stations":
+                    [
+                    {
+                    "name": "Episodio 01",
+                    "info":"[Documental]",
+                    "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
+                    "url":"https://filemoon.to/d/8cmze77bx8ku",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Episodio 02",
+                    "info":"[Documental]",
+                    "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
+                    "url":"https://filemoon.to/d/t11eehkfabcs",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Episodio 03",
+                    "info":"[Documental]",
+                    "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
+                    "url":"https://filemoon.to/d/u89lv50can35",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Episodio 04",
+                    "info":"[Documental]",
+                    "image": "https://pics.filmaffinity.com/Pau_Gasol_Lo_importante_es_el_viaje_Miniserie_de_TV-705389056-large.jpg",
+                    "url":"https://filemoon.to/d/1i2d1hgv6zos",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            }
+        ]
+    }	
