@@ -1,104 +1,102 @@
 {
-"name": "Mix Tv",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"url": "https://tinworld.vercel.app/14.0.7 Mix Tv.w3u",
-"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"telegram": "TINWORLD_3_0",
-"info": "",
-"groups":
-    [
-        {
-        "name": "Las Voces De La Radio",
-        "info":"2024",
-        "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Las Voces De La Radio",
-                "info":"CAP 1",
-                "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
-                "url":"https://filemoon.sx/d/7247y869rfcd",
-                "isHost":"true",
-                "online":"true",
-                "embed": "",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "import": false
-                },
-                {
-                "name": "Las Voces De La Radio",
-                "info":"CAP 2",
-                "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
-                "url":"https://filemoon.sx/d/2o6z3yi691i3",
-                "isHost":"true",
-                "online":"true",
-                "embed": "",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "import": false
-                }
-            ]
-        },
-        {
-        "name": "Latin Grammy 2024",
-        "info":"2024",
-        "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Latin Grammy 2024",
-                "info":"2024",
-                "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
-                "url":"https://filemoon.sx/d/u3sccrxx6cxd",
-                "isHost":"true",
-                "online":"true",
-                "embed": "",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "import": false
-                }
-            ]
-        },
-        {
-        "name": "Gala Fim Moto Gp Adwards 2024",
-        "info":"2024",
-        "image": "https://i.postimg.cc/cL8hVSVy/F4319113.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Gala Fim Moto Gp Adwards 2024",
-                "info":"2024",
-                "image": "https://i.postimg.cc/cL8hVSVy/F4319113.jpg",
-                "url":"https://filemoon.sx/d/s4kbljzy7ua2",
-                "isHost":"true",
-                "online":"true",
-                "embed": "",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "import": false
-                }
-            ]
-        },
-        {
-        "name": "Gala Balon De Oro 2024",
-        "info":"2024",
-        "image": "https://i.postimg.cc/Ls9qjkkC/CARTEL-GALA-DE-BALON-DE-ORO.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "Gala Balon De Oro 2024",
-                "info":"2024",
-                "image": "https://i.postimg.cc/Ls9qjkkC/CARTEL-GALA-DE-BALON-DE-ORO.jpg",
-                "url":"https://filemoon.sx/d/ljvxje0tephp",
-                "isHost":"true",
-                "online":"true",
-                "embed": "",
-                "userAgent":"PlusMediaPlayer/0.0.9",
-                "import": false
-                }
-            ]
-        }
-     ]
-  }
-        
-		
+    "name": "Mix Tv",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "url": "https://tinworld.vercel.app/14.0.7 Mix Tv.w3u",
+    "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+    "telegram": "TINWORLD_3_0",
+    "info": "",
+    "groups":
+        [
+            {
+            "name": "Las Voces De La Radio",
+            "info":"2024",
+            "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Las Voces De La Radio",
+                    "info":"CAP 1",
+                    "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+                    "url":"https://filemoon.to/d/7247y869rfcd",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    },
+                    {
+                    "name": "Las Voces De La Radio",
+                    "info":"CAP 2",
+                    "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
+                    "url":"https://filemoon.to/d/2o6z3yi691i3",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            },
+            {
+            "name": "Latin Grammy 2024",
+            "info":"2024",
+            "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Latin Grammy 2024",
+                    "info":"2024",
+                    "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
+                    "url":"https://filemoon.to/d/u3sccrxx6cxd",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            },
+            {
+            "name": "Gala Fim Moto Gp Adwards 2024",
+            "info":"2024",
+            "image": "https://i.postimg.cc/cL8hVSVy/F4319113.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Gala Fim Moto Gp Adwards 2024",
+                    "info":"2024",
+                    "image": "https://i.postimg.cc/cL8hVSVy/F4319113.jpg",
+                    "url":"https://filemoon.to/d/s4kbljzy7ua2",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            },
+            {
+            "name": "Gala Balon De Oro 2024",
+            "info":"2024",
+            "image": "https://i.postimg.cc/Ls9qjkkC/CARTEL-GALA-DE-BALON-DE-ORO.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Gala Balon De Oro 2024",
+                    "info":"2024",
+                    "image": "https://i.postimg.cc/Ls9qjkkC/CARTEL-GALA-DE-BALON-DE-ORO.jpg",
+                    "url":"https://filemoon.to/d/ljvxje0tephp",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            }
+         ]
+      }
