@@ -1,153 +1,153 @@
 {
-"name": "Deferred Sports BASKET Copa Del Rey 2024",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"url": "https://tinworld.vercel.app/21.0.9.2 Deportes.Diferidos.BASKET.Copa.Del.REY.ACB.2024.w3u",
-"telegram": "TINWORLD_3_0",
-"info":"",
-"groups":
-[
- {
-        "name": "Copa del Rey ACB 2022/23",
-        "image": "https://i.postimg.cc/fypZXssz/copa-acb-23-new.png",
-        "imageScale": "",
-        "info": "",
-        "stations":
-            [
-		{
-       		"name": "Real Madrid VS FC Barcelona",
-	        "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
-	        "url": "https://filemoon.sx/d/d82tjh9maet4/2023_09_16_Baloncesto_Supercopa_Real_Madrid_vs_Barsa_by_ACEstream_spanish.mkv",
-        	"info": "SEMIFINAL 1",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "UCAM Murcia VS Unicaja",
-	        "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
-	        "url": "https://filemoon.sx/d/y1ms2clmyxaz/2023_09_16_Baloncesto_Supercopa_UCAM_Murcia_vs_Unicaja_by_ACEstream_spanish.mkv",
-        	"info": "SEMIFINAL 2",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	       {
- 	       	"name": "Unicaja VS Real Madrid",
-	        "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
-	        "url": "https://filemoon.sx/d/ogya9o63alb4/2023_09_17_Baloncesto_Supercopa_Unicaja_vs_Real_Madrid_by_ACEstream_spanish.mkv",
-        	"info": "FINAL",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	}
-            ]
-        },
-
-        {
-        "name": "Copa del Rey ACB 2023/24",
-        "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-        "imageScale": "",
-        "info":"",
-        "stations":
-            [
-		{
-       		"name": "DreamLand Gran Canaria VS Valencia Basket",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/42g6abc1zmk5/Copa_del_Rey_Cuartos_Dreamland_Gran_Canaria_VS_Valencia_Basquet_150224.mp4",
-        	"info": "CUARTOS",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "Real Madrid VS UCAM Murcia",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/3zv4j4dr5dsa/Copa_del_Rey_Cuartos_Real_Madrid_VS_Ucam_Murcia_150224.mp4",
-        	"info": "CUARTOS",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "Unicaja Malaga VS Lenovo Tenerife",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/jgkt0w1ci40j/Unicaja_Malaga_VS_Lenovo_Tenerife_160224.mp4",
-        	"info": "CUARTOS",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "FC Barcelona VS BAXI Manresa",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/p4yilqqwff7r/Barsa_VS_Baxi_Manresa_160224.mp4",
-        	"info": "CUARTOS",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "Real Madrid VS Valencia Basket",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/fle1y363mcis/Real_Madrid_VS_Valencia_Basket_170224.mp4",
-        	"info": "SEMIFINAL 1",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-		{
-       		"name": "FC Barcelona VS Lenovo Tenerife",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/hf40nlzcppzi/Barsa_VS_Lenovo_Tenerife_170224.mp4",
-        	"info": "SEMIFINAL 2",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	        {
- 	       	"name": "FC Barcelona Vs Real Madrid",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://filemoon.sx/d/u8gp40zy4yn3",
-        	"info": "FINAL",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
-	        {
- 	       	"name": "FC Barcelona Vs Real Madrid",
-	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "https://embedv.net/v/qA3WOmGJ4kgxKkz",
-        	"info": "PREVIA FINAL POST",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	}
-            ]
-        }
-
-]
-}
+    "name": "Deferred Sports BASKET Copa Del Rey 2024",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+    "url": "https://tinworld.vercel.app/21.0.9.2 Deportes.Diferidos.BASKET.Copa.Del.REY.ACB.2024.w3u",
+    "telegram": "TINWORLD_3_0",
+    "info":"",
+    "groups":
+    [
+     {
+            "name": "Copa del Rey ACB 2022/23",
+            "image": "https://i.postimg.cc/fypZXssz/copa-acb-23-new.png",
+            "imageScale": "",
+            "info": "",
+            "stations":
+                [
+            {
+                   "name": "Real Madrid VS FC Barcelona",
+                "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
+                "url": "https://filemoon.to/d/d82tjh9maet4/2023_09_16_Baloncesto_Supercopa_Real_Madrid_vs_Barsa_by_ACEstream_spanish.mkv",
+                "info": "SEMIFINAL 1",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "UCAM Murcia VS Unicaja",
+                "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
+                "url": "https://filemoon.to/d/y1ms2clmyxaz/2023_09_16_Baloncesto_Supercopa_UCAM_Murcia_vs_Unicaja_by_ACEstream_spanish.mkv",
+                "info": "SEMIFINAL 2",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+               {
+                    "name": "Unicaja VS Real Madrid",
+                "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
+                "url": "https://filemoon.to/d/ogya9o63alb4/2023_09_17_Baloncesto_Supercopa_Unicaja_vs_Real_Madrid_by_ACEstream_spanish.mkv",
+                "info": "FINAL",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                }
+                ]
+            },
+    
+            {
+            "name": "Copa del Rey ACB 2023/24",
+            "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
+            "imageScale": "",
+            "info":"",
+            "stations":
+                [
+            {
+                   "name": "DreamLand Gran Canaria VS Valencia Basket",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/42g6abc1zmk5/Copa_del_Rey_Cuartos_Dreamland_Gran_Canaria_VS_Valencia_Basquet_150224.mp4",
+                "info": "CUARTOS",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "Real Madrid VS UCAM Murcia",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/3zv4j4dr5dsa/Copa_del_Rey_Cuartos_Real_Madrid_VS_Ucam_Murcia_150224.mp4",
+                "info": "CUARTOS",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "Unicaja Malaga VS Lenovo Tenerife",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/jgkt0w1ci40j/Unicaja_Malaga_VS_Lenovo_Tenerife_160224.mp4",
+                "info": "CUARTOS",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "FC Barcelona VS BAXI Manresa",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/p4yilqqwff7r/Barsa_VS_Baxi_Manresa_160224.mp4",
+                "info": "CUARTOS",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "Real Madrid VS Valencia Basket",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/fle1y363mcis/Real_Madrid_VS_Valencia_Basket_170224.mp4",
+                "info": "SEMIFINAL 1",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+            {
+                   "name": "FC Barcelona VS Lenovo Tenerife",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/hf40nlzcppzi/Barsa_VS_Lenovo_Tenerife_170224.mp4",
+                "info": "SEMIFINAL 2",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                    "name": "FC Barcelona Vs Real Madrid",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://filemoon.to/d/u8gp40zy4yn3",
+                "info": "FINAL",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                    "name": "FC Barcelona Vs Real Madrid",
+                "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+                "url": "https://embedv.net/v/qA3WOmGJ4kgxKkz",
+                "info": "PREVIA FINAL POST",
+                "embed": "",
+                "isHost": "true",
+                "online": "true",
+            "userAgent":"PlusMediaPlayer/0.0.9",
+                "import": false
+                }
+                ]
+            }
+    
+    ]
+    }
 
