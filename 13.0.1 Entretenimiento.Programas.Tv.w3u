@@ -1,77 +1,75 @@
 {
-"name": " Entretenimiento Programas Tv",
-"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
-"url": "https://tinworld.vercel.app/13.0.1 Entretenimiento.Programas.Tv.w3u",
-"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
-"telegram": "TINWORLD_3_0",
-"info": "",
-"groups":
-    [
-                {
-		"name": "Martinez Y Hermanos",
-		"image": "https://imgs.search.brave.com/h85CQ9sCikrB22X_bT5g1Nj6V7HI3gjRvaC9HRssjJE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bW92aXN0YXJwbHVz/LmVzL3JlY29ydGUv/bi9jYXJhdHVsYTUv/RjQxMjU4MzY.jpeg",
-		"info": "2024",
-		"stations":
-			[
-				{
-				"name": "T1-Programa 1",
-				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
-				"url": "https://filemoon.sx/d/sse1bixw74f0",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                },
-				{
-				"name": "T1-Programa 2",
-				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
-				"url": "https://filemoon.sx/d/lj9cdok0bl8w",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                },
-				{
-				"name": "T1-Programa 3",
-				"image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
-				"url": "https://filemoon.sx/d/bb964bykztsu",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                }
-                            ]
-		         },
-                {
-		"name": "Apatrullando",
-		"image": "https://i.postimg.cc/rFXhH0xS/images.jpg",
-		"info": "2024",
-		"stations":
-			[
-                                {
-				"name": "Programa 1 (El Centro)",
-				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
-				"url": "https://filemoon.sx/d/ve2j1ssz486b",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                },
-                                {
-				"name": "Programa 2 (Ibiza)",
-				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
-				"url": "https://filemoon.sx/d/l3xx95dvgmly",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                },
-                                {
-				"name": "Programa 3 (Marbella)",
-				"image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
-				"url": "https://filemoon.sx/d/fl2l677ar7o9",
-       				"info": "2024",
-                                "isHost":"true",
-                                "online":"true"
-                                }
-			      ]
-		            }
-		          ]
-		        }
-	              
-                    
+    "name": " Entretenimiento Programas Tv",
+    "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+    "url": "https://tinworld.vercel.app/13.0.1 Entretenimiento.Programas.Tv.w3u",
+    "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+    "telegram": "TINWORLD_3_0",
+    "info": "",
+    "groups":
+        [
+                    {
+            "name": "Martinez Y Hermanos",
+            "image": "https://imgs.search.brave.com/h85CQ9sCikrB22X_bT5g1Nj6V7HI3gjRvaC9HRssjJE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bW92aXN0YXJwbHVz/LmVzL3JlY29ydGUv/bi9jYXJhdHVsYTUv/RjQxMjU4MzY.jpeg",
+            "info": "2024",
+            "stations":
+                [
+                    {
+                    "name": "T1-Programa 1",
+                    "image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+                    "url": "https://filemoon.to/d/sse1bixw74f0",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    },
+                    {
+                    "name": "T1-Programa 2",
+                    "image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+                    "url": "https://filemoon.to/d/lj9cdok0bl8w",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    },
+                    {
+                    "name": "T1-Programa 3",
+                    "image": "https://imgs.search.brave.com/88cOddX1P8-K_Nyo1fJsFaFRyEsvZ84Qdiu9MpP9lOI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/anVzdHdhdGNoLmNv/bS9pbWFnZXMvYmFj/a2Ryb3AvMzEwNTQ4/MjgyL3M0ODAvbWFy/dGluZXoteS1oZXJt/YW5vcy9tYXJ0aW5l/ei15LWhlcm1hbm9z.jpeg",
+                    "url": "https://filemoon.to/d/bb964bykztsu",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    }
+                                ]
+                     },
+                    {
+            "name": "Apatrullando",
+            "image": "https://i.postimg.cc/rFXhH0xS/images.jpg",
+            "info": "2024",
+            "stations":
+                [
+                                    {
+                    "name": "Programa 1 (El Centro)",
+                    "image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
+                    "url": "https://filemoon.to/d/ve2j1ssz486b",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    },
+                                    {
+                    "name": "Programa 2 (Ibiza)",
+                    "image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
+                    "url": "https://filemoon.to/d/l3xx95dvgmly",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    },
+                                    {
+                    "name": "Programa 3 (Marbella)",
+                    "image": "https://i.postimg.cc/pVY82p3Q/IMG-20240617-205447-320.jpg",
+                    "url": "https://filemoon.to/d/fl2l677ar7o9",
+                           "info": "2024",
+                                    "isHost":"true",
+                                    "online":"true"
+                                    }
+                      ]
+                        }
+                      ]
+                    }
