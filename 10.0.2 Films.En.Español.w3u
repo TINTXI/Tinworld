@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+     {
+      "name": "LA MUJER DEL PRESIDENTE",
+      "image": "https://i.ibb.co/3Mzz8Ny/IMG-20241205-223354-567.jpg",
+      "url": "https://filemoon.to/d/b4c9s28xixdy",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "EL SILENCIO DE LAS PALABRAS",
       "image": "https://i.postimg.cc/vZQSWV8j/IMG-20241205-100024-606.jpg",
