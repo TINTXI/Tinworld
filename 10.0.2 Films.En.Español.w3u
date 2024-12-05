@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "EL SILENCIO DE LAS PALABRAS",
+      "image": "https://i.postimg.cc/vZQSWV8j/IMG-20241205-100024-606.jpg",
+      "url": "https://filemoon.to/d/m3lo2gqbq0v3",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 
       {
       "name": "UN REGALO PARA PAPÁ Y MAMÁ",
