@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+               {
+		"name": "CELESTE",
+		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/Serie Celeste.w3u",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
                 {
 		"name": "LOS AÑOS NUEVOS",
 		"image": "https://i.postimg.cc/NftXBFC5/IMG-20241201-151207-932.jpg",
