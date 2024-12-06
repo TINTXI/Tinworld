@@ -1521,7 +1521,23 @@
                         "online":"true"
                 }
             ]
-        }
+        },
+        {
+        "name": "LA VIDA EN ROJO",
+        "image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+                 {
+                "name": "LA VIDA EN ROJO",
+                "info":"",
+                "image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
+                "url": "https://filemoon.to/d/zy66vuykaqz2",
+                "embed":"",
+                        "isHost":"true",
+                        "online":"true"
+                },
     
         
         ]
