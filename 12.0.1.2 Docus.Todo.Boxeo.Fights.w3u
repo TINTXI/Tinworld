@@ -410,7 +410,21 @@
         "userAgent": 
         "PlusMediaPlayer/0.0.9", 
 	    "import": false
-                }     
+                },
+                {
+                "name": "The Hitman : Ricky Hatton (Documental)",
+                "info":"2024",
+                "image":
+"https://i.ibb.co/BqcVGwT/4c8359231809a89537493ee1ff0062bc8360de7b-The-Hitman-Ricky-Hatton-3840x2160-FILM-LANDSCAPE-NOBRAND-EN.jpg",
+                "url":
+"https://filemoon.to/d/estb46swe5vl",
+                "embed":"",
+                "isHost":"true",
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
+                }
             ]
         },
 
