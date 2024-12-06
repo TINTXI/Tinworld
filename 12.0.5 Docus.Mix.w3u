@@ -34,6 +34,15 @@
         "stations":
                 [
                     {
+                    "name": "Carolina Marín: La Lucha  Infinita- 2024",
+                    "info":"[Documental][Español]",
+                    "image": "https://i.ibb.co/dpGN7tr/IMG-20241206-142657-217.jpg",
+                    "url":"https://filemoon.to/d/4r39oqfbzfpd",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
                     "name": "Michael Jordan to the Max 2015",
                     "info":"[Documental][Español]",
                     "image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
