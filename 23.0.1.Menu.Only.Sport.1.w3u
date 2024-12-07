@@ -41,43 +41,41 @@
         "name": "DAZN - LA LIGA",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
-        "url": "https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "https://qqwebplay.xyz/",
+        "url": "https://enz.gdplayertv.to/live-tv/dazn-laliga/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
         "name": "DAZN - LA LIGA",
         "info":"[ OPC-2 🇪🇸  ]",
         "image": "https://i.ibb.co/ZdF6dCM/fotoefectos-com-4.png",
-        "url": "https://streamtp1.com/global1.php?stream=dazn_laliga",
+        "url": "https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "embed": "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "DAZN 1",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
-        "url": "https://streamtp1.com/global1.php?stream=dazn1",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "url": "https://webufffit.mizhls.ru/lb/primadazn1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "DAZN 1",
         "info":"[ OPC-2 🇪🇸  ]",
         "image": "https://i.ibb.co/D7F6Z1z/fotoefectos-com-14.png",
-        "url": "https://en.gdplayertv.to/live-tv/dazn-1-es/?embed=1",
+        "url": "https://streamtp1.com/global1.php?stream=dazn1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
-        "embed": "true",
         "online":"true",
-        "isHost":""
+        "isHost":"true"
         },
         {
         "name": "DAZN 1",
@@ -93,10 +91,11 @@
         "name": "DAZN 2",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
-        "url": "https://webufffit.mizhls.ru/lb/primadazn2es/index.m3u8",
-        "userAgent": "PlusMediaPlayer/0.0.9",
-        "referer" : "https://qqwebplay.xyz/",
+        "url": "https://enz.gdplayertv.to/live-tv/dazn-2-es/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "",
         "online":"true",
+        "embed": "true",
         "isHost":""
         },
         {
@@ -114,21 +113,22 @@
         "name": "DAZN 2",
         "info":"[ OPC-3 🇪🇸  ]",
         "image": "https://i.ibb.co/x7QwhCY/fotoefectos-com-15.jpg",
-        "url": "https://streamtp1.com/global1.php?stream=dazn2",
+        "url": "https://webufffit.mizhls.ru/lb/primadazn2es/index.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
+        "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
-        "isHost":"true"
+        "isHost":""
         },
         {
         "name": "DAZN 3",
         "info":"[ OPC-1 🇪🇸  ]",
         "image": "https://i.ibb.co/LSPM0pr/fotoefectos-com-36.png",
-        "url": "https://streamtp1.com/global1.php?stream=dazn3",
+        "url": "https://enz.gdplayertv.to/live-tv/dazn-3-es/?embed=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "DAZN 3",
@@ -156,11 +156,12 @@
         "name": "DAZN 4",
         "info":"[ OPC-2 🇪🇸  ]",
         "image": "https://i.ibb.co/yfw2w2v/fotoefectos-com-37.png",
-        "url": "https://streamtp1.com/global1.php?stream=dazn4",
+        "url": "https://enz.gdplayertv.to/live-tv/dazn-4-es/?embed=1",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "",
         "online":"true",
-        "isHost":"true"
+        "embed": "true",
+        "isHost":""
         },
         {
         "name": "DAZN F1 🏎",
