@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "LA VIRGEN ROJA",
+      "image": "https://i.postimg.cc/k4PZGcTR/IMG-20241208-130732-606.jpg",
+      "url": "https://filemoon.to/d/8hiwlckd1ji1",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
      {
       "name": "LA MUJER DEL PRESIDENTE",
       "image": "https://i.ibb.co/3Mzz8Ny/IMG-20241205-223354-567.jpg",
