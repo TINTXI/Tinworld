@@ -1140,6 +1140,16 @@
         "embed": "",
         "isHost": "true",
         "online": "true"
-        }
+        },
+    { 
+	"name":"Navarrete 🆚 Valdez 2",
+	"image": "https://i.postimg.cc/pdsmshzr/17333499336345-2.jpg",
+	"url": "https://filemoon.to/d/nyxthx6kyg22",
+	"info": "07-12-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	}
           ]
          }
