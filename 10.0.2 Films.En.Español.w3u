@@ -8,6 +8,17 @@
 "stations":
     [
       {
+      "name": "CRESCENT CITY",
+      "image": "https://i.postimg.cc/2SwKv6D2/IMG-20241208-185042-574.jpg",
+      "url": "https://filemoon.to/d/u5kaxr5qbb0g",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
       "name": "LA VIRGEN ROJA",
       "image": "https://i.postimg.cc/k4PZGcTR/IMG-20241208-130732-606.jpg",
       "url": "https://filemoon.to/d/8hiwlckd1ji1",
