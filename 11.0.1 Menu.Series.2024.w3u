@@ -7,6 +7,13 @@
 "info":"",
 "groups":
     [
+                {
+		"name": "SOMBRA TIERRA",
+		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Sombra Tierra.w3u",
+		"info": "2024[TINWORLD]",
+		"import": false
+		},
                {
 		"name": "CELESTE",
 		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
