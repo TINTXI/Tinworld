@@ -4,9 +4,15 @@
     "url": "https://tinworld.vercel.app/04.Menu.Mundo.Acestream.w3u",
     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
     "telegram": "TINWORLD_3_0",
-    "info": "Lista recopilada de Ids. bY. Lukas",
+    "info": "",
     "groups": 
 	[
+
+         { "name": "ACESTREAM TINWORLD",
+         "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png",
+         "url": "https://tinworld.vercel.app/04.1.Menu.Mundo.Acestream.Tinworld.w3u",
+         "import": false
+        },
         {
         "name": "ℤ𝕆ℕ𝔼",
         "image": "https://i.postimg.cc/wBmMTMHF/Polish-20240624-231445473.png",
