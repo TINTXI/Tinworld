@@ -8,6 +8,26 @@
     "groups":
         [
             {
+            "name": " MTV Premios De La Música 2024",
+            "info":"2024",
+            "image": "https://i.postimg.cc/XvNMQYYL/Latin-Grammy-2024-e60wgbsaqix1byl5mozzls4scq6hgapdqagqfen4f2urllgt44c6u42yv6zsxs.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "MTV Premios De La Música 2024",
+                    "info":"2024",
+                    "image": "https://i.postimg.cc/Y09g9y3F/IMG-20241212-223944-918.jpg",
+                    "url":"https://filemoon.to/d/jmjv3gc6lqmm",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            },
+            {
             "name": "Las Voces De La Radio",
             "info":"2024",
             "image": "https://i.postimg.cc/Fs42wS90/IMG-20241124-150115-771.jpg",
