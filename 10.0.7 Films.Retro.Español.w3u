@@ -117,6 +117,18 @@
         "online":"true",
         "import": false
       },
+
+        {
+        "name": "GOONIES,LOS",
+        "image": "https://i.postimg.cc/Cxs2nBhC/IMG-20241213-002220-095.jpg",
+        "url": "https://filemoon.to/d/gxdfn8fj7w35",
+        "info": "1985[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
         {
         "name": "LOLA LA PICONERA",
         "image": "https://i.postimg.cc/8CrNKJqF/x-CJr-PI5-X0ma-LI1e-Ww-Mvx-M7x0-Qjb.jpg",
