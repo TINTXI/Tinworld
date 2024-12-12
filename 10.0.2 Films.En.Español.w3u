@@ -7,6 +7,18 @@
 "info": "",
 "stations":
     [
+
+      {
+      "name": "DESPERTAR",
+      "image": "https://i.postimg.cc/3x3K3Z6Y/IMG-20241211-200628-262.jpg",
+      "url": "https://filemoon.to/d/jgnkv61a73tw",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
       {
       "name": "CRESCENT CITY",
       "image": "https://i.postimg.cc/2SwKv6D2/IMG-20241208-185042-574.jpg",
