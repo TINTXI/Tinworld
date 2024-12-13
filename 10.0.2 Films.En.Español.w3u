@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+      {
+      "name": "CONDE DE MONTECRISTO, EL",
+      "image": "https://i.postimg.cc/3N93VF4x/IMG-20241213-152657-186.jpg",
+      "url": "https://filemoon.to/d/zj65lnhxluqd",
+      "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
 
       {
       "name": "RED ONE",
