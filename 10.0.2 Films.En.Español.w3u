@@ -8,6 +8,15 @@
 "stations":
     [
       {
+      "name": "CUERPO ESCOMBRO",
+      "image": "https://pics.filmaffinity.com/cuerpo_escombro-537227189-large.jpg",
+      "url": "https://listeamed.net/v/l4vexvg03gZE8B9",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "isHost": "true",
+      "online": "true"
+      },
+      {
       "name": "CONDE DE MONTECRISTO, EL",
       "image": "https://i.postimg.cc/3N93VF4x/IMG-20241213-152657-186.jpg",
       "url": "https://filemoon.to/d/zj65lnhxluqd",
