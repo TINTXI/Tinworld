@@ -1,0 +1,601 @@
+{ "name": "ACESTREAM TINWORLD 2", 
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/04.2.Menu.Mundo.Acestream.Tinworld 2.w3u",
+"image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png",
+"telegram": "TINWORLD_3_0",
+"stations": [
+
+{ "name": "BT Sport 1", 
+"image": "https://ia600803.us.archive.org/13/items/BtSport1/bt%20sport%201.png", 
+"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b" },
+
+{ "name": "BT Sport 2",
+
+"image": "https://ia800805.us.archive.org/4/items/BtSport2Hd/bt%20sport%202%20hd.png", 
+"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801" },
+
+{ "name": "BT Sport 3", 
+"image": "https://ia600809.us.archive.org/7/items/BtSport3Hd//bt%20sport%203%20hd_thumb.jpg", 
+"url": "acestream://5f966c123759de46dff29c379266b7a403452033" },
+
+{ "name": "BT Sport ESPN",
+"image": "https://ia800809.us.archive.org/29/items/BtSportEspnHd/bt%20sport%20espn%20hd.png", 
+"url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce" },
+
+{ "name": "Sky Sports Arena", 
+"image": "https://www.pikpng.com/pngl/m/315-3152556_sky-sports-arena-sky-sports-arena-live-sky.png", 
+"url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c" },
+
+{ "name": "Sky Sports Cricket", 
+"image": "https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png", 
+"url": "acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd" },
+
+{ "name": "Sky Sports Football", 
+"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png", 
+"url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d" },
+
+{ "name": "Sky Sports Mainevent", 
+"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png", 
+"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e" },
+
+{ "name": "Sky Sports News", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png", 
+"url": "acestream://41843da5359ec96ab4805f5e8c6f7bfa68be0fd5" },
+
+{ "name": "Polsat Sport", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png", 
+"url": "acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee" },
+
+{ "name": "Polsat Sport", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png", 
+"url": "acestream://b0eaeeb0bf4ab5946bfa840d9ceec3a14c93f4c5" },
+
+{ "name": "Polsat Sport Extra", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Polsat_Sport_Extra_HD_logo.jpg", 
+"url": "acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f" },
+
+{ "name": "Polsat Sport Fight", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Polsat_Sport_Fight_HD_%E2%80%93_logo.jpg", 
+"url": "acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f" },
+
+{ "name": "Polsat Sport Premium 1 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f" },
+
+{ "name": "Polsat Sport Premium 1 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://37d9305dc59f789282d0abe2711c580124a3c2cb" },
+
+{ "name": "Polsat Sport Premium 2 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://3147c586346aee00c005d1caa55204d38678c95f" },
+
+{ "name": "Polsat Sport Premium 3 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://71ef40ea6b59a168dc8fb367484fa4e4561d56bc" },
+
+{ "name": "Polsat Sport Premium 4 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://3fc72c8f037a00e8aa444c7ca6592276029f610d" },
+
+{ "name": "Polsat Sport Premium 5 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://d2f76b2488aee1d540098f8cd60e4c0b36087016" },
+
+{ "name": "Polsat Sport Premium 6 (PL)", 
+"image": "https://taksiegra.pl/wp-content/uploads/2018/08/Polsat-Sport-Premium-Super-HD-600x300.png", 
+"url": "acestream://370a598ae53f1da733ba66ae3ee95044c8b41303" },
+
+{ "name": "ESPN (BE)", 
+"image": "https://i.pinimg.com/736x/f0/34/06/f03406427d65c17350fc5cbfb32a030a--cable-television-programming.jpg", 
+"url": "acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab" },
+
+{ "name": "ESPN 2 (BE)", 
+"image": "https://i.pinimg.com/736x/f0/34/06/f03406427d65c17350fc5cbfb32a030a--cable-television-programming.jpg", 
+"url": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63" },
+
+{ "name": "ESPN 3 (BE)", 
+"image": "https://i.pinimg.com/736x/f0/34/06/f03406427d65c17350fc5cbfb32a030a--cable-television-programming.jpg", 
+"url": "acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a" },
+
+{ "name": "ESPN 4 (BE)", 
+"image": "https://i.pinimg.com/736x/f0/34/06/f03406427d65c17350fc5cbfb32a030a--cable-television-programming.jpg", 
+"url": "acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a" },
+
+{ "name": "ESPN", 
+"image": "https://i.pinimg.com/originals/74/c8/4a/74c84a5c82d4d2426c995b57e48c4ef4.jpg", 
+"url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442" },
+
+{ "name": "ESPN2", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png", 
+"url": "acestream://664eb5fe460b96941aed633959a845b185cd8394" },
+
+{ "name": "Fox TV", 
+"image": "https://farm8.staticflickr.com/7800/47431123221_30bf9418e8_n.jpg", 
+"url": "acestream://2fb819e99635e383b8dede140a7404177f346203" },
+
+{ "name": "Fox Sports 1", 
+"image": "https://www.pngitem.com/pimgs/m/555-5551961_fox-sports-1-logo-png-fox-sport-1.png", 
+"url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898" },
+
+{ "name": "Fox Sports 2", 
+"image": "https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png", 
+"url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7" },
+
+{ "name": "Fox News", 
+"image": "https://m.media-amazon.com/images/I/51HQb9kiUnL.png", 
+"url": "acestream://159df0eafac5dc9ecddbc8c57508328fa7bacaba" },
+
+{ "name": "Fox HD (PL)", 
+"image": "https://i.pinimg.com/originals/94/f7/e3/94f7e3999b4227b73b681840f81a7214.png", 
+"url": "acestream://ade7437d52002e864f851c4de016923dcd6d2548" },
+
+{ "name": "Fox HD (RU)", 
+"image": "https://i.pinimg.com/originals/94/f7/e3/94f7e3999b4227b73b681840f81a7214.png", 
+"url": "acestream://df94afd23701839b3fdcdf669c73f2e3d656126e" },
+
+{ "name": "Canal+ Sport 1", 
+"image": "https://iconape.com/wp-content/png_logo_vector/canal-sport-1.png", 
+"url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7" },
+
+{ "name": "Canal+ Sport 2", 
+"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-sport-2.png", 
+"url": "acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3" },
+
+{ "name": "Canal+ Sport 3", 
+"image": "https://img.sport-tv-guide.live/images/stations/a1883.png", 
+"url": "acestream://3e87464ed8c42ed14464461ea08860a3040a8944" },
+
+{ "name": "Canal+ Sport 4", 
+"image": "https://img.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png", 
+"url": "acestream://04448c3ca0b7518819491e468adbabc8a2551bd7" },
+
+{ "name": "Eurosport 1", 
+"image": "https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png", 
+"url": "acestream://314eb626864faf52e01624361bd6906b5406127f" },
+
+{ "name": "Eurosport 2", 
+"image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg", 
+"url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8" },
+
+{ "name": "Art Sport HD", 
+"image": "https://mail.kz/images/b7f444aab9093a73057d049468976f3c-slider.jpg", 
+"url": "acestream://fd00f07bba4c473fad115bb176ab3dc800bcc97f" },
+
+{ "name": "Abu Dhabi Sports 1", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png", 
+"url": "acestream://2f0a68fe4e1e45e0ab6cf40cee09e1d56a7e39b5" },
+
+{ "name": "Abu Dhabi Sports 2", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg", 
+"url": "acestream://96b555cad0a987a7a9c7a692500aeba1445c7152" },
+
+{ "name": "Abu Dhabi Sports 3", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png", 
+"url": "acestream://2ef26bcb8976ae411c032c22d85830f7c4305d6f" },
+
+{ "name": "Abu Dhabi Sports 4", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ad_sport_4.png", 
+"url": "acestream://4e627b0f392c66603616e42af4fbc2a092196a31" },
+
+{ "name": "Arryadia Sport HD (Marocco)", 
+"image": "https://w7.pngwing.com/pngs/808/863/png-transparent-abu-dhabi-sports-television-channel-abu-dhabi-tv-others-television-text-sport.png", 
+"url": "acestream://9426afaed3fff9ed267dcc582f7b370a9d529357" },
+
+{ "name": "BEin Sports 1 (BE)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0" },
+
+{ "name": "BEin Sports 2 (BE)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc" },
+
+{ "name": "BEin Sports 3 (BE)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8" },
+
+{ "name": "BEin Sports 1 ", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://54cbfaf8ad446499aae28ae50b512d95c263f811" },
+
+{ "name": "BEin Sports 2 ", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://705e0086f2156e1d76609393666b95a5bd43bebb" },
+
+{ "name": "BEin Sports 3 ", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png", 
+"url": "acestream://d161e2aa8a15a3c04fc02ef6cb7301559ada151a" },
+
+{ "name": "BEin Sports Xtra R", 
+"image": "https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png", 
+"url": "acestream://b5c017e94b72013902c02f6d145c77f753bc3e12" },
+
+{ "name": "DD Sport", 
+"image": "https://i.pinimg.com/originals/ba/06/02/ba060298249635ffc9f73de974be2335.jpg", 
+"url": "acestream://a54b83b3337c1b30d450a6753638a7d95d28ea38" },
+
+{ "name": "Eleven Sports 1 4k (PL)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652" },
+
+{ "name": "Eleven Sports 1 HD (PL)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00" },
+
+{ "name": "Eleven Sports 1 (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b" },
+
+{ "name": "Eleven Sports 2 HD (PL)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9" },
+
+{ "name": "Eleven Sports 2 HD (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce" },
+
+{ "name": "Eleven Sports 3 HD (PL)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212" },
+
+{ "name": "Eleven Sports 3 HD (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e" },
+
+{ "name": "Eleven Sports 4 HD (PL)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09" },
+
+{ "name": "Eleven Sports 4 HD (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98" },
+
+{ "name": "Eleven Sports 5 HD (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a" },
+
+{ "name": "Eleven Sports 6 HD (BE)", 
+"image": "https://uploads-ssl.webflow.com/5f24443d2e287e19d266df35/609b94c8575ea1930414230c_sports.png", 
+"url": "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80" },
+
+{ "name": "Esport 3 GEO CAT", 
+"image": "https://seeklogo.com/images/E/esport-logo-B80AF9936C-seeklogo.com.png", 
+"url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" },
+
+{ "name": "Eurosport 1 HD (DE)", 
+"image": "https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png", 
+"url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766" },
+
+{ "name": "Eurosport 1 HD (RU)", 
+"image": "https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png", 
+"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62" },
+
+{ "name": "Eurosport 2 HD (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg", 
+"url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6" },
+
+{ "name": "Eurosport 2 HD (RU)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg", 
+"url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0" },
+
+{ "name": "Eurosport360 HD 1 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c" },
+
+{ "name": "Eurosport360 HD 2 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://57f95543ac41656d473b1a27123fc413388a728c" },
+
+{ "name": "Eurosport360 HD 3 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://7adbca42657ace1fe228142d351d0896974bbe0c" },
+
+{ "name": "Eurosport360 HD 4 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://7adbca42657ace1fe228142d351d0896974bbe0c" },
+
+{ "name": "Eurosport360 HD 5 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://148921c4dda96df445e253d6f26c4d092bf85809" },
+
+{ "name": "Eurosport360 HD 6 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://005ac522315699bd93bbf743329eb2f3c347dc3f" },
+
+{ "name": "Eurosport360 HD 7 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://b18657f64507cc859cd7edef1aef90feb053e791" },
+
+{ "name": "Eurosport360 HD 8 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://8f4f572005ca2557743474087aa622693ba9b5fe" },
+
+{ "name": "Eurosport360 HD 9 (DE)", 
+"image": "https://img.over-blog-kiwi.com/0/95/30/84/20160118/ob_111a20_capture.JPG", 
+"url": "acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47" },
+
+{ "name": "Extreme Sport (PL)", 
+"image": "https://seeklogo.com/images/E/extreme_sports_chanel-logo-7387DEF1AD-seeklogo.com.png", 
+"url": "acestream://73ff07648e367efebd94636047b07625f664a082" },
+
+{ "name": "Magenta Sport 1 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://501141c649a2b78c4965cbf3257224181cc55072" },
+
+{ "name": "Magenta Sport 2 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab" },
+
+{ "name": "Magenta Sport 3 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8" },
+
+{ "name": "Magenta Sport 4 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://1fb794b1503c5955b75ea0106ee6360b80d78849" },
+
+{ "name": "Magenta Sport 5 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730" },
+
+{ "name": "Magenta Sport 6 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8" },
+
+{ "name": "Magenta Sport 7 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://ac839cda9709255c21a98af455731f037e77a9e4" },
+
+{ "name": "Magenta Sport 8 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175" },
+
+{ "name": "Magenta Sport 9 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://86495fe134ff065d5217497babe6be33f81d37d1" },
+
+{ "name": "Magenta Sport 10 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29" },
+
+{ "name": "Magenta Sport 11 HD (DE)", 
+"image": "https://searchvectorlogo.com/wp-content/uploads/2021/09/magenta-sport-logo-vector-xs.png", 
+"url": "acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6" },
+
+{ "name": "ORF Sport+ HD (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png", 
+"url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974" },
+
+{ "name": "Premier Sports 1 (UK)", 
+"image": "https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png", 
+"url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565" },
+
+{ "name": "Premier Sports 1 ace", 
+"image": "https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png", 
+"url": "acestream://ff033560a5f033f28525475ba175a1c06347c1da" },
+
+{ "name": "Premier Sports 2 (UK)", 
+"image": "https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png", 
+"url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537" },
+
+{ "name": "Premier Sports 2 ace", 
+"image": "https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png", 
+"url": "acestream://0d7d6449e34826dc8bb94ce37213b2de1b6dc9a8" },
+
+{ "name": "Qazsport HD", 
+"image": "https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png", 
+"url": "acestream://c9014901637b29cad1c39519f0952453c20ce27b" },
+
+{ "name": "RTL+ SPORT EVENT 1 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3" },
+
+{ "name": "RTL+ SPORT EVENT 2 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466" },
+
+{ "name": "RTL+ SPORT EVENT 3 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b" },
+
+{ "name": "RTL+ SPORT EVENT 4 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6" },
+
+{ "name": "RTL+ SPORT EVENT 5 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5" },
+
+{ "name": "RTL+ SPORT EVENT 6 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30" },
+
+{ "name": "RTL+ SPORT EVENT 7 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://eec3f8107e008cec3679f76e078deeefd1348a3e" },
+
+{ "name": "RTL+ SPORT EVENT 8 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://ce4ae0c3491acd4272340029139ba25642e2516b" },
+
+{ "name": "RTL+ SPORT EVENT 9 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://a435581e6cba56972e48cf4519d1b2af735eec2f" },
+
+{ "name": "RTL+ SPORT EVENT 10 (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png", 
+"url": "acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e" },
+
+{ "name": "RU: SPORT", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sports.ru_Logo.gif", 
+"url": "acestream://8a69451a792ab38ca80786d6e2e922ef0cec5b41" },
+
+{ "name": "RU: SPORT HD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sports.ru_Logo.gif", 
+"url": "acestream://32779a8a8cd7bfcb0d45ebe68f28457e4b3aeae4" },
+
+{ "name": "SPORT TVRI Sports", 
+"image": "https://www.tvkeep.com/uploads/tvrisport.jpg", 
+"url": "acestream://cc7a0882a2df663f2e5589c24eb99b9321bfa450" },
+
+{ "name": "SPORT1 (DE)", 
+"image": "https://pbs.twimg.com/profile_images/951815177334292480/JFq_wxld_400x400.jpg", 
+"url": "acestream://1950633a3723cb52b17c764125decc04445bd5ff" },
+
+{ "name": "SPORT1+ (DE)", 
+"image": "https://pbs.twimg.com/profile_images/951815177334292480/JFq_wxld_400x400.jpg", 
+"url": "acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b" }, 
+{ "name": "Setanta Sports 1 FHD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png", 
+"url": "acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a" },
+
+{ "name": "Setanta Sports 2 FHD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png", 
+"url": "acestream://629b9b0aeb8116056c7fa441a68bd02b05b43490" },
+
+{ "name": "Setanta Sports 3 FHD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png", 
+"url": "acestream://6108ce1b6f2ef716ca2c45b9a6f813ef29811912" },
+
+{ "name": "Setanta Sports Plus UA FHD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png", 
+"url": "acestream://6717b41d6715758055ed49d28594b99588fa0698" },
+
+{ "name": "Setanta Sports UA FHD", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Setanta_sports_hd.png", 
+"url": "acestream://086d85dc6d030434c3ebaa5d45c0887310fd14a7" },
+
+{ "name": "Sharjah Sports", 
+"image": "https://i.goalzz.com/?i=logo_sport%2Fsharjah_sport.jpg", 
+"url": "acestream://1cc249698ad6e962ad61f6d57473161fc5b28519" },
+
+{ "name": "Sky Sport 1 HD (DE)", 
+"image": "https://www.kindpng.com/picc/m/27-278102_sky-sports-logo-graphic-design-hd-png-download.png", 
+"url": "acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d" },
+
+{ "name": "Sky Sport 2 HD (DE)", 
+"image": "https://www.kindpng.com/picc/m/27-278102_sky-sports-logo-graphic-design-hd-png-download.png", 
+"url": "acestream://fc9f1f580da8f641a5991d44b399982a3a069f69" },
+
+{ "name": "Sky Sport F1 (DE)", 
+"image": "https://www.kindpng.com/picc/m/27-278102_sky-sports-logo-graphic-design-hd-png-download.png", 
+"url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076" },
+
+{ "name": "Sky Sport News (DE)", 
+"image": "https://www.kindpng.com/picc/m/27-278102_sky-sports-logo-graphic-design-hd-png-download.png", 
+"url": "acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8" },
+
+{ "name": "Sky Sport UHD (DE)", 
+"image": "https://www.kindpng.com/picc/m/27-278102_sky-sports-logo-graphic-design-hd-png-download.png", 
+"url": "acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3" },
+
+{ "name": "SporTTV-Daddylive.live", 
+"image": "http://4.bp.blogspot.com/_VKK5Zm9XIF8/S8JDwHLTHzI/AAAAAAAAACA/c24RMy5EWCc/s400/logo_sporttv.gif", 
+"url": "acestream://e94344ef557bc1f50a6591aa2b17638cb8cf44d4" },
+
+{ "name": "Sport Digital (DE)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1280px-Sport-Digital.svg.png", 
+"url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7" },
+
+{ "name": "Sport Klub (PL)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png", 
+"url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee" },
+
+{ "name": "TNT Sport 3 Brazin", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png", 
+"url": "acestream://8712cfc609c5a2fbaee0855149b0766360517cab" },
+
+{ "name": "TNT Sport 4 Brazin", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png", 
+"url": "acestream://7a08ff6fc9a60ec14021b6f0005ca3cc0b11617e" },
+
+{ "name": "TNT Sport 5 Brazin", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png", 
+"url": "acestream://446e8d2d35c577c98083dad23004c29484377b16" },
+
+{ "name": "TV 2 Sporten", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tv2_sport.png", 
+"url": "acestream://5813fdd8632fc247649eb7fb88dfec5104fddfa0" },
+
+{ "name": "Tv2 Sport", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tv2_sport.png", 
+"url": "acestream://9c9675e499f88ef06e596008ca7ffbfce2df5e56" },
+
+{ "name": "Tv2 Sport X", 
+"image": "https://omtv2.tv2.dk/media/5jabm4yb/tv-2-sport-x_logo_1260x630.jpg?width=720&quality=30", 
+"url": "acestream://f7c4ff53b6f411097e11b96fa794a48d2f220e6e" },
+
+{ "name": "TVP Sport HD (PL)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TVP_Sport_HD_Logo.png/640px-TVP_Sport_HD_Logo.png", 
+"url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867" },
+
+{ "name": "Turkmen Sport", 
+"image": "https://i.ytimg.com/vi/m5VX4ORvL9Y/hqdefault.jpg", 
+"url": "acestream://4332ec65088b85171ccb8c4aaffc771aee8f49cb" },
+
+{ "name": "Turkmenistan Sport HD", 
+"image": "https://i.ytimg.com/vi/m5VX4ORvL9Y/hqdefault.jpg", 
+"url": "acestream://79a91871831e876fc03db714420355c0536f6bca" },
+
+{ "name": "VIASAT SPORT HD (RU)", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg", 
+"url": "acestream://dec96c86080c26ddf667ea90adfb513a40007a0b" },
+
+{ "name": "Ziggo Sport Golf (BE)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", 
+"url": "acestream://035e34b791335962ca817f42fd14300382af3797" },
+
+{ "name": "Ziggo Sport Racing (BE)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", 
+"url": "acestream://77800bb07c1d69135024ee2379c97472eb12dd45" },
+
+{ "name": "Ziggo Sport Select (BE)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", 
+"url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a" },
+
+{ "name": "Ziggo Sport Voetbal (BE)", 
+"image": "https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", 
+"url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91" },
+
+{ "name": "beIN SPORTS HABER (TR)", 
+"image": "https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Ftur%2Fbeinhaber.jpg", 
+"url": "acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3" },
+
+{ "name": "beIN SPORTS HD 1 (TR)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", 
+"url": "acestream://118416583faa3fb4f03800173429b6b844b43a52" },
+
+{ "name": "beIN SPORTS HD 2 (TR)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", 
+"url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05" },
+
+{ "name": "beIN SPORTS HD 3 (TR)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", 
+"url": "acestream://ed81c333815247536edfcdb2755147e8c4144d62" },
+
+{ "name": "beIN SPORTS HD 4 (TR)", 
+"image": "https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", 
+"url": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d" },
+
+{ "name": "nSport+ (PL)", 
+"image": "https://i.goalzz.com/?i=amir_ganjvar%2Fnsports.jpg", 
+"url": "acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540" },
+
+{ "name": "Match Football 1 FHD", 
+"image": "https://www.thesportsdb.com/images/media/tvlogo/r7vubi1601731224.png", 
+"url": "acestream://c081a7eabe6eea6112624b1f7d5abd18de2bf247" },
+
+{ "name": "Match Football 2 FHD", 
+"image": "https://www.thesportsdb.com/images/media/tvlogo/r7vubi1601731224.png", 
+"url": "acestream://3832fe79145c6ca781d8c4fc4badab59cdad0382" },
+
+{ "name": "Match Football 3 FHD", 
+"image": "https://www.thesportsdb.com/images/media/tvlogo/r7vubi1601731224.png", 
+"url": "acestream://541188d4c73b20e7779f226910499b3803ee6875" },
+
+{ "name": "ALL Sports Channel", 
+"image": "https://image.shutterstock.com/image-vector/fitness-people-colorful-web-icon-260nw-523904158.jpg", 
+"url": "acestream://7101b21c3c95847ddcd5ab47b775fbbc2c4e200f" }
+
+]
+}
