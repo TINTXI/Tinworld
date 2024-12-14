@@ -7,3 +7,2972 @@
 "info": "BY TINTXI",
 "stations":
     [
+          {
+          "name": "TNT Sport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TNT Sport10",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/maxtnt10.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatsport1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatsport2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatsport3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport Premium1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatpremium1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport Premium2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatpremium2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport Premium3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatpremium3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub1 Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub2 Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub3 Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub4 Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport1 Croatia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport1hr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport2 Croatia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport2hr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport3 Croatia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport3hr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport4 Croatia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport4hr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport1 Premium Slovenia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena1premiumslovenia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport1 Slovenia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport1hr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport2 Slovenia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena2slovenia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport3 Slovenia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena3slovenia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport4 Slovenia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena4slovenia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport1 Premium Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena2premiumserbia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport2 Premium Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena2premiumserbia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport3 Premium Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arena3premiumserbia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "FOX Soccer Plus",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/foxsoccerplus.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Detroit",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsdetroit.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Florida",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsflorida.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Midwest",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsmidwest.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport North",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsnorth.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Ohio",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsohio.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Oklahoma",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportsoklahoma.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport San Diego",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportssandiego.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport South",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportssouth.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport South East",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportssoutheast.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport South West",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportssouthwest.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport Sun",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportssun.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Bally Sport West",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/ballysportswest.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "NBCS Boston",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/nbcsportsboston.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "NBCS California",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/nbcsportscalifornia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "NBCS Philadelphia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/nbcsportsphiladelphia.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "ESPN US",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/espnusa.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "ESPN2 US",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/espn2usa.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "FOX Sport",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/fox1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "FOX Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/fox2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "ESPN Deportes",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/espndeportes.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT USA",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/beinsportusa.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport News",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skysportsnews.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport MainEvent",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skymain.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport PremierLeaque",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skypremier.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Football",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skyfootball.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Action",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skyaction.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Arena",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skyarena.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Golf",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skygolf.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Mix",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skymix.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport Cricket",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/skycricket.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport1pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport2pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport3pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport4pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport5pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport TV6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport6pt.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport1 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky1nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport2 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky2nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport3 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky3nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport4 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky4nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport5 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky5nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport6 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky6nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport7 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky7nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport8 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky8nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SkySport9 NZ",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sky9nz.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cosmote9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport Prime",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasportprime.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport1gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport2gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport3gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport4gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport5gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport 6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/novasport6gr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 10",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd10.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antenasport 11",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd11.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TSN1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tsn1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TSN2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tsn2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TSN3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tsn3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TSN4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tsn4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TSN5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tsn5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Digisport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/digisport1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Digisport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/digisport2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Digisport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/digisport3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Digisport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/digisport4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Primasport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primasport1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Primasport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primasport2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Primasport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primasport3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Primasport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primasport4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Primasport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primasport5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Orangesport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/orangesport1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Orangesport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/orangesport2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Orangesport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/orangesport3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Orangesport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/orangesport4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Viaplay Sport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/viaplay6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max71.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max72.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max73.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max74.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max75.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max76.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport PL",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max77.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport Start",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max78.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport Prime",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max70.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Nova Sport News",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max96.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport Extra",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatsportextra.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport News",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/hd9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport Fight",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsatsportfight.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportnet Ontario",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/sportsnetontario.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportnet One",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/sportsnetone.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT1 TR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxbeinsport1tr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT2 TR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxbeinsport2tr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT3 TR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxbeinsport3tr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT4 TR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxbeinsport4tr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "beIN SPORT5 TR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxbeinsport5tr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis+8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennisplus8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Tennis",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supertennis.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Canal Plus",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canalplusfr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Canal Sport",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canalsportfr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Canal 360",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal360fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Canal Foot",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canalfootfr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "L'Equipe TV",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/lequipetv.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein1fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein2fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein3fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein4max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein5max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein6max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein7max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein8max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein9max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Beinsport10",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bein10max.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport1 UK",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1uk.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport2 UK",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2uk.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport1 FR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport2 FR",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport1 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport1bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport2 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport2bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport3 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport3bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport4 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport4bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport5 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport5bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Arena Sport6 Bosnia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/arenasport6bh.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Tennis TV",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tennis1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CNN",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/cnn.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "BBC One",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bbc1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "BBC Two",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/bbc2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "ITV1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/itv1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "ITV4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/itv4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CanalPlus1 Af",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal1afr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CanalPlus2 Af",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal2afr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CanalPlus3 Af",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal3afr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CanalPlus4 Af",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal4afr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "CanalPlus5 Af",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/canal5afr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportklub4 Serbia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sportklub4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "DAZN1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/dazn1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "DAZN2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/dazn2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "DAZN3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/dazn3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "DAZN4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/dazn4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 10",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag10.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 11",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag11.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 12",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag12.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 13",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag13.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 14",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag14.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 15",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag15.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 16",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag16.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 17",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag17.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Magenta 18",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/mag18.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max7.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max8.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max9.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 10",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max10.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 11",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max11.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 12",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max12.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 13",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max13.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 14",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max14.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 15",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max15.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 16",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max16.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 17",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max17.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 18",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max18.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 19",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max19.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 20",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max20.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 21",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max21.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 22",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max22.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 23",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max23.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 24",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max24.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 25",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max25.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 26",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max26.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 27",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max27.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 28",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max28.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 29",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max29.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 30",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max30.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 31",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max31.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 32",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max32.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 33",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max33.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 34",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max34.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 35",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max35.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 36",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max36.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 37",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max37.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 38",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max38.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 39",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max39.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 40",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max40.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 41",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max41.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 42",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max42.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 43",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max43.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 44",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max44.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 45",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max45.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 46",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max46.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 47",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max47.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 48",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max48.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 49",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max49.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 50",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max50.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 51",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max51.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 52",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max52.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 53",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max53.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+        {
+          "name": "Max 54",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max54.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Max 55",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max55.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT1 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport1de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT2 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport2de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT3 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport3de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT4 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport4de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT5 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport5de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT6 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport6de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT7 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport7de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT8 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport8de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SPORT9 DE",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport9de.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sportdigital FUSSBALL",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/sportdigital.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SetantaSport1 Eurasia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/setantasport1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SetantaSport2 Eurasia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/setantasport2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SetantaSport Ukraine",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/setantaukraine.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SetantaSport Ukraine Plus",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/setantaukraineplus.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "SetantaSport Kazakstan",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/setantakazakstan.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match TV",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/match.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Football1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/match1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Football2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/match2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Football3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/match3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Premier",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/matchpremier.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Boets",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/matchboets.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Igra",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/matchigra.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Match Arena",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/matcharena.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Futbol Russia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/futbolru.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TV Start Russia",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tvstart.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "BeinSport1 Au",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/beinsport1aus.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "BeinSport2 Au",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/beinsport2aus.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Polsat Sport 6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/polsat6.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Ruggy",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/superugby.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport PSL",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/superpsl.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport LaLiga",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/superlaliga.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Football",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/superfootball.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supervariety1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supervariety2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supervariety3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supervariety4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport  Tennis",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supertennis.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Action",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/superaction.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Grandstand",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supergrandstand.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport1 Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport1il.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport2 Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport2il.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport3 Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport3il.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport4 Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport4il.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport5 Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport5il.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport5 Live Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenasports.ru/maxsport5liveil.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport5 Plus Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport5plusil.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport5 Gold Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport5goldil.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Sport5 Stars Isarael",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sport5starsil.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport1 Fr",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport2 Fr",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2fr.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Pro TV",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/protv.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Pro Arena",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/proarena.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antena3 Ro",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/antena3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Antena1 Ro",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/antena1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Prima TV",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/primatv.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TVR 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tvr1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "TVR 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/tvr2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 1 RO",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1ro.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 2 RO",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2ro.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 1 EN",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1en.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 2 EN",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2en.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 1 ES",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport1spain.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Eurosport 2 ES",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/eurosport2spain.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max60.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max61.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max63.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max64.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max65.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport6",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max66.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport7",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max67.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport8",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max68.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport9",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max69.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Cosmote Sport Highlights",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/max95.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "SONY TEN 1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sonyten1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "SONY TEN 2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sonyten2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "SONY TEN 3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sonyten3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "SONY TEN 4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sonyten4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "SONY TEN 5",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/sonyten5.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+          
+          {
+          "name": "Supersport Tennis",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportennis.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Action",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportaction.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Rugby",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportrugby.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Cricket",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportcricket.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport PSL",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportpsl.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Maximo1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportmaximo1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Grandstand",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportgrandstand.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport LaLiga",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportlaliga.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Football",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportfootball.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport PremierLeaque",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportpremier.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety1",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportvariety1.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety2",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportvariety2.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety3",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportvariety3.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true},
+
+          {
+          "name": "Supersport Variety4",
+          "image": "https://i.postimg.cc/tgqDqVN8/IMG-20241214-155328-979-removebg-preview.png",
+          "url": "https://antenatime.site/supersportvariety4.php",
+          "referer": "https://antenatime.site/",
+          "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "isHost": true}          
+]
+}
