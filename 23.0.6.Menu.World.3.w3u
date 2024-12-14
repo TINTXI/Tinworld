@@ -31,6 +31,7 @@
                     "name": "Cosmote Sport 1+VPN",
                     "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
                     "url": "https://antenasports.ru/cosmote1.php",
+                    "referer": "https://antenatime.site/",
                     "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
                     "isHost": true
                 },
