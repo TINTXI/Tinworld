@@ -8,6 +8,15 @@
 "stations":
     [
       {
+      "name": "MARIA",
+      "image": "https://i.postimg.cc/L6bYGTKs/IMG-20241213-170523-638.jpg",
+      "url": "https://filemoon.to/d/5ospw4yrweb5",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD]",
+      "isHost": "true",
+      "online": "true"
+      },
+      {
       "name": "CUERPO ESCOMBRO",
       "image": "https://pics.filmaffinity.com/cuerpo_escombro-537227189-large.jpg",
       "url": "https://listeamed.net/v/l4vexvg03gZE8B9",
