@@ -1141,11 +1141,41 @@
         "isHost": "true",
         "online": "true"
         },
-    { 
+        { 
 	"name":"Navarrete 🆚 Valdez 2",
 	"image": "https://i.postimg.cc/pdsmshzr/17333499336345-2.jpg",
 	"url": "https://filemoon.to/d/nyxthx6kyg22",
 	"info": "07-12-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+        { 
+	"name":"González 🆚 Romero",
+	"image": "https://i.postimg.cc/vBgLNG1z/asley-gonzalez-vs-mary-romero-1-slug-1.jpg",
+	"url": "https://filemoon.to/d/pfobtmo7y28h",
+	"info": "12-12-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	}
+        { 
+	"name":"Flores 🆚 Blanco",
+	"image": "https://i.postimg.cc/0NvfjTB5/IJGW2-D3-LBNFXHMSZDHMYUJZKS4-1.jpg",
+	"url": "https://filemoon.to/d/v7166r9rtcl6",
+	"info": "13-12-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	},
+        { 
+	"name":"Rocha 🆚 Curiel",
+	"image": "https://i.postimg.cc/hvxFcFY8/alexis-rocha-vs-raul-curiel-1mb0lixkmtl7n1kenf013rqqpz.png",
+	"url": "https://filemoon.to/d/ywz8jqlg3j8z",
+	"info": "14-12-2024",
 	"userAgent": "PlusMediaPlayer/0.0.9",
     "embed": "",
 	"isHost": "true",
