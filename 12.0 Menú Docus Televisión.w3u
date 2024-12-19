@@ -7,6 +7,26 @@
 "info": "",
 "groups":
      [
+
+     {
+     "name": "El Tipo Malo",
+      "image": "https://i.postimg.cc/qBCpSGNx/IMG-20241219-154013-194.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "El Tipo malo",
+          "info": "2024",
+          "image": "https://i.postimg.cc/qBCpSGNx/IMG-20241219-154013-194.jpg",
+          "url": "https://filemoon.to/d/lgqy1ls89f69",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+       ]
+     },
       {
       "name": "900 dias sin Anabel",
       "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
