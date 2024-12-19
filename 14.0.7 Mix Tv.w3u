@@ -8,6 +8,37 @@
     "groups":
         [
             {
+            "name": "Redes Sociales : La Fabrica Del Terror",
+            "info":"2024",
+            "image": "https://i.postimg.cc/2yqb6Cst/IMG-20241219-212537-692.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Redes Sociales : La Fabrica Del Terror",
+                    "info":"CAP 1",
+                    "image": "https://i.postimg.cc/2yqb6Cst/IMG-20241219-212537-692.jpg",
+                    "url":"https://filemoon.to/d/wjcg0hxcitdo",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    },
+                    {
+                    "name": "Redes Sociales : La Fabrica Del Terror",
+                    "info":"CAP 2",
+                    "image": "https://i.postimg.cc/2yqb6Cst/IMG-20241219-212537-692.jpg",
+                    "url":"https://filemoon.to/d/tk3b6cwsaiqi",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
+            },
+            {
             "name": " MTV Premios De La Música 2024",
             "info":"2024",
             "image": "https://i.postimg.cc/Y09g9y3F/IMG-20241212-223944-918.jpg",
