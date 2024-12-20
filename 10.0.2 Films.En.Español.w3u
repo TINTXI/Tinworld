@@ -25,7 +25,8 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2024[TINWORLD],
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
       {
       "name": "TRATAMOS DEMASIADO BIEN A LAS MUJERES",
