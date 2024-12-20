@@ -8,6 +8,26 @@
 "stations":
     [
       {
+      "name": "ODIO EL VERANO",
+      "image": "https://pics.filmaffinity.com/odio_el_verano-647510264-large.jpg",
+      "url": "https://listeamed.net/v/PlBVEZ1oLW0xDv9",
+      "info": "2024[TINWORLD],
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+      {
+      "name": "CUERVO, EL",
+      "image": "https://pics.filmaffinity.com/the_crow-115009898-large.jpg",
+      "url": "https://listeamed.net/v/eL2157KnYgJ5rw4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024[TINWORLD],
+      "isHost": "true",
+      "online": "true"
+    },
+      {
       "name": "TRATAMOS DEMASIADO BIEN A LAS MUJERES",
       "image": "https://i.postimg.cc/NjXDHxcd/cartel-tratamos-demasiado-bien-a-las-mujeres-65f3f984e03e1.jpg",
       "url": "https://filemoon.to/d/72vjbxdo5ycy",
