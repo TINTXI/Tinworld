@@ -7,6 +7,14 @@
 "info":"",
 "groups":
     [
+
+               {
+               "name": "1992",
+               "image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
+               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie 1992.w3u",
+               "info":"2024[TINWORLD]",
+               "import": false
+		},
                 {
 		"name": "LA SOMBRA DE LA TIERRA",
 		"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
