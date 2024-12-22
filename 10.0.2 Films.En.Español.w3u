@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "ESTACIÓN ROCAFORT",
+"image": "https://i.postimg.cc/wxcHVcRF/IMG-20241222-103913-603.jpg",
+"url": "https://filemoon.to/d/kjxcuqa15swn",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "ODIO EL VERANO",
 "image": "https://pics.filmaffinity.com/odio_el_verano-647510264-large.jpg",
 "url": "https://listeamed.net/v/PlBVEZ1oLW0xDv9",
