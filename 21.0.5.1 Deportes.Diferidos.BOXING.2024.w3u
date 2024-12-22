@@ -1180,6 +1180,16 @@
     "embed": "",
 	"isHost": "true",
 	"online": "true"
+	},
+        { 
+	"name":"Usyk 🆚 Fury 2",
+	"image": "https://i.postimg.cc/wTzMfx2p/usyk-v-fury-2-alt-1.jpg",
+	"url": "https://filemoon.to/d/fu2zjfh9i54r",
+	"info": "21-12-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
 	}
           ]
          }
