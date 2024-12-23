@@ -1255,8 +1255,10 @@
 	        	"url": "https://filemoon.to/d/7vjbvmg9ckx8/Euroliga_Milan_VS_Asvel_061224.mkv",
 			"userAgent":"PlusMediaPlayer/0.0.9",
         		"isHost": "true"
-        		},
-{
+        		}
+                      ]
+		   },
+                {
         	"name": "JORNADA 15",
         	"image": "https://th.bing.com/th/id/OIP.FXoRP7u4LOzmoJEoBYdY7AHaE8?rs=1&pid=ImgDetMain",
         	"info": "",
