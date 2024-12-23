@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "PISCINA, LA",
+"image": "https://i.postimg.cc/6pskxF5s/IMG-20241223-084937-830.jpg",
+"url": "https://filemoon.to/d/khnc203sy47q",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "ESTACIÓN ROCAFORT",
 "image": "https://i.postimg.cc/wxcHVcRF/IMG-20241222-103913-603.jpg",
 "url": "https://filemoon.to/d/kjxcuqa15swn",
