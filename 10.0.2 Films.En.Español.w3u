@@ -8,6 +8,28 @@
 "stations":
     [
 {
+"name": "THICKET, THE",
+"image": "https://i.postimg.cc/qqQzsj67/f88a4558d3be9fc67eed6b64fef6b928aaa559ad9b9772c55aa56fa2349b2506.jpg",
+"url": "https://filemoon.to/d/8tl8w5dplbwo",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "ARTHUR",
+"image": "https://i.postimg.cc/zvNgSydx/IMG-20241223-230738-434.jpg",
+"url": "https://filemoon.to/d/ojzf4d7mgusi",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "AVISPA ,LA",
 "image": "https://i.postimg.cc/RCTV53FQ/the-wasp.jpg",
 "url": "https://filemoon.to/d/g9vi381385jg",
