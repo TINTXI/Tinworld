@@ -8,6 +8,28 @@
 "stations":
     [
 {
+"name": "AVISPA ,LA",
+"image": "https://i.postimg.cc/RCTV53FQ/the-wasp.jpg",
+"url": "https://filemoon.to/d/g9vi381385jg",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "SEIS TRIPLE OCHO",
+"image": "https://i.postimg.cc/JzFz69hf/IMG-20241223-085107-649.jpg",
+"url": "https://filemoon.to/d/esje6z4ipwcs",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "PISCINA, LA",
 "image": "https://i.postimg.cc/6pskxF5s/IMG-20241223-084937-830.jpg",
 "url": "https://filemoon.to/d/khnc203sy47q",
