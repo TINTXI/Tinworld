@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "GLADIATOR II",
+"image": "https://i.postimg.cc/9f1CqcmT/gladiator-ii-2024-poster.png",
+"url": "https://filemoon.to/d/01qx69z6dpf6",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "DESPERTAR DE LA BESTIA, EL",
 "image": "https://i.postimg.cc/GtNN13wn/IMG-20241224-095028-215.jpg",
 "url": "https://filemoon.to/d/kftvlmjbdt4z",
