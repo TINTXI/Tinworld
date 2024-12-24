@@ -8,6 +8,28 @@
 "stations":
     [
 {
+"name": "DESPERTAR DE LA BESTIA, EL",
+"image": "https://i.postimg.cc/GtNN13wn/IMG-20241224-095028-215.jpg",
+"url": "https://filemoon.to/d/kftvlmjbdt4z",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "JOCKEY, EL",
+"image": "https://i.postimg.cc/rFrCcDss/IMG-20241224-095139-440.jpg",
+"url": "https://filemoon.to/d/b0ae50gop0c1",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "THICKET, THE",
 "image": "https://i.postimg.cc/qqQzsj67/f88a4558d3be9fc67eed6b64fef6b928aaa559ad9b9772c55aa56fa2349b2506.jpg",
 "url": "https://filemoon.to/d/8tl8w5dplbwo",
