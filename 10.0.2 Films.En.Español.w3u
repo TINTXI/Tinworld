@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "KINGMAKER",
+"image": "https://i.postimg.cc/9fKFC9h0/IMG-20241225-112848-311.jpg",
+"url": "https://filemoon.to/d/678zr1q76tye",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "HORA DEL SILENCIO, LA",
 "image": "https://i.postimg.cc/W3HtHy9D/IMG-20241225-112052-072.jpg",
 "url": "https://filemoon.to/d/mfdvqjh37ymi",
