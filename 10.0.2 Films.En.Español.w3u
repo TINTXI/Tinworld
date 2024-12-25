@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "MAXXXINE",
+"image": "https://i.postimg.cc/Fz805zKQ/IMG-20241225-120041-310.jpg",
+"url": "https://filemoon.to/d/cla0z0whfphe",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "PARANO-IA",
 "image": "https://i.postimg.cc/59Z7L2xz/IMG-20241225-113034-853.jpg",
 "url": "https://filemoon.to/d/tv2qqugjrdyp",
