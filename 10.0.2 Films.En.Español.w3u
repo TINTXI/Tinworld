@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "PARANO-IA",
+"image": "https://i.postimg.cc/59Z7L2xz/IMG-20241225-113034-853.jpg",
+"url": "https://filemoon.to/d/tv2qqugjrdyp",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "KINGMAKER",
 "image": "https://i.postimg.cc/9fKFC9h0/IMG-20241225-112848-311.jpg",
 "url": "https://filemoon.to/d/678zr1q76tye",
