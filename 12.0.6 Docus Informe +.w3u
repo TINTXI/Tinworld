@@ -1,0 +1,69 @@
+{
+"name": "Informe +",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/12.0.6 Docus Informe +.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"groups":
+     [
+        
+     {
+     "name": "El Tipo Malo",
+      "image": "https://i.postimg.cc/qBCpSGNx/IMG-20241219-154013-194.jpg",
+      "info": "2024",
+      "stations": 
+      [
+          {
+          "name": "El Tipo malo",
+          "info": "2024",
+          "image": "https://i.postimg.cc/qBCpSGNx/IMG-20241219-154013-194.jpg",
+          "url": "https://big.fileditchstuff.me/b48/sPBFDqXuUUWdfocDXoa.mp4",
+          "embed": "true",
+          "isHost": "true",
+          "online": "true",
+          "userAgent":"PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+       ]
+     },
+      {
+      "name": "900 dias sin Anabel",
+      "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+      "info": "2024",
+      "stations": [
+        {
+          "name": "CAPITULO 1",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/ZMVoErbQK9JE9Pa",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 2",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/3Q0lxBbyo4Mxj1J",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/900_dias_sin_anabel-543659830-large.jpg",
+          "url": "https://listeamed.net/v/MAlwEMWnk1y5J39",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        }
+      ]
+    },
