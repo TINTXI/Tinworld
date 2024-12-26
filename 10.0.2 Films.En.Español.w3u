@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "OUTRUN, THE",
+"image": "https://i.postimg.cc/PJ1RfLhg/IMG-20241226-205253-851.jpg",
+"url": "https://filemoon.to/d/l70p142opfti",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "BESTIA OCULTA, LA",
 "image": "https://i.postimg.cc/dVhVRN5L/the-beast-within-2024.jpg",
 "url": "https://filemoon.to/d/hdgjscvj4ye7",
