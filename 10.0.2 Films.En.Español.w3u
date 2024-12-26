@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "ISLA PERDIDA",
+"image": "https://i.postimg.cc/sXGGBDB2/IMG-20241225-134600-616.jpg",
+"url": "https://filemoon.to/d/9ch7t7aupxik",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "MAXXXINE",
 "image": "https://i.postimg.cc/Fz805zKQ/IMG-20241225-120041-310.jpg",
 "url": "https://filemoon.to/d/cla0z0whfphe",
