@@ -16,7 +16,7 @@
           "isHost": "true",
           "online": "true",
           "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": false
+          "import": "false"
         }
        ]
      }
