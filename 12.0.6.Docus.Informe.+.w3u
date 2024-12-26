@@ -4,20 +4,18 @@
 "url": "https://tinworld.vercel.app/12.0.6.Docus.Informe.+.w3u",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "telegram": "TINWORLD_3_0",
-"info": "",
-"stations":
-     [
-          {
-          "name": "Todas Las Cartas A Celia",
-          "info": "2023",
-          "image": "https://i.postimg.cc/9QQZ2J3G/F4336157.jpg",
-          "url": "https://big.fileditchstuff.me/b48/iqsVyjbLnMdTjfqunwpM.mkv",
-          "embed": "true",
-          "isHost": "true",
-          "online": "true",
-          "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": "false"
-        }
-       ]
-     }
+"info": "","stations":
+[
+{
+"name": "Todas Las Cartas A Celia","info": "2023",
+"image": "https://i.postimg.cc/9QQZ2J3G/F4336157.jpg",
+"url": "https://big.fileditchstuff.me/b48/iqsVyjbLnMdTjfqunwpM.mkv",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": "false"
+}
+]
+}
       
