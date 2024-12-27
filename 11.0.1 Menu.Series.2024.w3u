@@ -8,6 +8,13 @@
 "groups":
     [
                {
+               "name": "FURIAS",
+               "image": "https://i.postimg.cc/4yMhBbSt/4654549.jpg",
+               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Furias.w3u",
+               "info":"2024[TINWORLD]",
+               "import": false
+	       },
+               {
                "name": "DUNE , LA PROFECIA",
                "image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
                "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Dune,La Profecia.w3u",
