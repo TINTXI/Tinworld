@@ -7,7 +7,6 @@
 "info": "",
 "stations":
 [
-
 {
 "name": "(Informe +)
 Todas Las Cartas A Celia",
@@ -67,7 +66,19 @@ La Vuelta 26",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": "false"
-}
+},
+{
+"name": "(Informe +)
+Golden Boys 2.0- El Relevo Del Baloncesto Español",
+"info": "2024",
+"image": "https://i.postimg.cc/PqB71mSp/Informe-Golden-Boys-2-0-El-relevo-del-baloncesto-espaanol-TV-921343450-large.jpg",
+"url": "https://big.fileditchstuff.me/b48/DisFopSDsvSwSrpJUQO.mp4",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": "false"
+},
 ]
 }
       
