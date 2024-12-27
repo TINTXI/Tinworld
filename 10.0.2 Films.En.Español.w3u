@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "CULPA TUYA",
+"image": "https://i.postimg.cc/wvj1mZGj/IMG-20241227-112555-639.jpg",
+"url": "https://filemoon.to/d/hma6w6ufsqkm",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "OUTRUN, THE",
 "image": "https://i.postimg.cc/PJ1RfLhg/IMG-20241226-205253-851.jpg",
 "url": "https://filemoon.to/d/l70p142opfti",
