@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "ALICE SUBSERVIENCE",
+"image": "https://i.postimg.cc/CxQSdhQv/IMG-20241227-205846-708.jpg",
+"url": "https://iplayerhls.com/s6wk4ruvyqt6",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "HOMBRE DEL SACO, EL",
 "image": "https://i.postimg.cc/TYS5sndY/IMG-20241227-132046-264.jpg",
 "url": "https://filemoon.to/d/cmjgueb6tcdt",
