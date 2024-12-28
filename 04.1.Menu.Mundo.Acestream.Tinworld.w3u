@@ -4,6 +4,11 @@
 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png",
 "telegram": "TINWORLD_3_0",
 "stations": [
+
+             { "name": "BEIN SPORT 1 [BE]-SIN ACES", 
+	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
+			 "url": "http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4" 
+			 },
  
              { "name": "BEIN SPORT 1 [BE]", 
 			 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
