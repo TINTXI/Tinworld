@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "REINAS",
+"image": "https://i.postimg.cc/pL12Cbt9/IMG-20241228-101003-032.jpg",
+"url": "https://iplayerhls.com/5q9ft9b8626d",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "MI AMIGO EL PINGÜINO",
 "image": "https://i.postimg.cc/VvC7wcVH/IMG-20241228-004812-899.jpg",
 "url": "https://iplayerhls.com/y14hsskfzx8w",
