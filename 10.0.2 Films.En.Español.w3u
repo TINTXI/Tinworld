@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "MI AMIGO EL PINGÜINO",
+"image": "https://i.postimg.cc/VvC7wcVH/IMG-20241228-004812-899.jpg",
+"url": "https://iplayerhls.com/y14hsskfzx8w",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "ALICE SUBSERVIENCE",
 "image": "https://i.postimg.cc/CxQSdhQv/IMG-20241227-205846-708.jpg",
 "url": "https://iplayerhls.com/s6wk4ruvyqt6",
