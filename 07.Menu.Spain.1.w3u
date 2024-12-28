@@ -26,6 +26,8 @@ http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0&
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122&.mp4
 #EXTINF:-1 tvg-id="I156.32281.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-nba-tv .png" group-title="NBA" tvg-name="NBA EE.UU. 1",NBA EE.UU. 1
 http://127.0.0.1:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e&.mp4
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 720 NUEVO  8c8c
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&.mp4
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI", DAZN LaLiga 1080 NUEVO MultiAudio  ec29
 http://192.168.1.90:8008/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&.mp4
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-1-es-2510.png" título-grupo="DAZN" tvg-name="DAZN 1 1080",DAZN 1 1080
