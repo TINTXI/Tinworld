@@ -35,7 +35,7 @@ http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97&
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-4-es-2525.png" título-grupo="DAZN" tvg-name="DAZN 4 1080",DAZN 4 1080
 http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd&.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 NUEVO  d628
-http://192.168.1.90:8008/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+http://192.168.1.90:8008/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&.mp4
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="Multicámara DAZN F1",Multicámara DAZN F1
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e&.mp4
 #EXTINF:-1 grupo tvg-id="DAZN LALIGA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-laliga-1.png"- title="DAZN LaLiga" tvg-name="DAZN LaLiga 1080 multiaudio",DAZN LaLiga 1080 multiaudio
