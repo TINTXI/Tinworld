@@ -148,3 +148,12 @@ http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a&
 http://127.0.0.1:6878/ace/getstream?id=66a7e4727bccce8ccc04e54861b06b62d89452fa&.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5", Telecinco 1080  47e6
 http://127.0.0.1:6878/ace/getstream?id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1&.mp4
+#EXTINF:-1 group-title="Otros" tvg-id="PPVP 1" tvg-logo="", PPVP 1  0006
+http://127.0.0.1:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006&.mp4
+#EXTINF:-1 group-title="Otros" tvg-id="PPVP 2" tvg-logo="", PPVP 2  22c9
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9&.mp4
+#EXTINF:-1 group-title="Otros" tvg-id="PPVP 3" tvg-logo="", PPVP 3  bb48
+http://127.0.0.1:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48&.mp4
+#EXTINF:-1 group-title="Otros" tvg-id="PPVP 4" tvg-logo="", PPVP 4  22c9-BIS
+http://127.0.0.1:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9&.mp4
+
