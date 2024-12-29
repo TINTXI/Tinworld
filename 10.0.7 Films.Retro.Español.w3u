@@ -208,6 +208,17 @@
         "import": false
         },
       {
+      "name": "PERRAS CALLEJERAS",
+      "image": "https://i.postimg.cc/Z5wmjKqm/71-TN3-Kqs-Ly-L-AC-UF894-1000-QL80.jpg",
+      "url": "https://iplayerhls.com/3y85sthkowwf",
+      "info": "1985[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+      {
       "name": "PERROS CALLEJEROS 1",
       "image": "https://pics.filmaffinity.com/perros_callejeros-905880297-large.jpg",
       "url": "https://filemoon.to/d/won0qumfrj9h",
@@ -368,6 +379,17 @@
         "image": "https://i.postimg.cc/G228SRCT/IMG-20241126-184402-239.jpg",
         "url": "https://filemoon.to/d/rpi58w6b9s1l",
         "info": "1971[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "VOLANDO VOY",
+        "image": "https://i.postimg.cc/Yqkjs0tL/Volando-voy-769341774-large.jpg",
+        "url": "https://iplayerhls.com/eet7t82ocxoz",
+        "info": "2006[TINWORLD]",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
