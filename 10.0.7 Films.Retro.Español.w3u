@@ -107,6 +107,17 @@
         "import": false
       },
         {
+        "name": "ESTAQUERA DE VALLECAS,LA",
+        "image": "https://i.postimg.cc/766j6g1J/91b-Q0-QBx-EHL-AC-UF894-1000-QL80.jpg",
+        "url": "https://iplayerhls.com/lqtnc5g97a5k",
+        "info": "1987[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
+        {
         "name": "GUERRILLEROS,LOS",
         "image": "https://i.postimg.cc/vZ9B4nDY/IMG-20240929-151317-149.jpg",
         "url": "https://filemoon.to/d/f0wg0ixlox9q",
@@ -157,6 +168,17 @@
         "image": "https://i.postimg.cc/QN4z2yGJ/IMG-20241123-103144-610.jpg",
         "url": "https://filemoon.to/d/n876jn84xmkn",
         "info": "1992[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "MATAR AL NANI",
+        "image": "https://i.postimg.cc/CMCb1W1D/IMG-20241229-185648-145.jpg",
+        "url": "https://iplayerhls.com/sgh07d6rfa7a",
+        "info": "1988[TINWORLD]",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -396,11 +418,22 @@
         "online":"true",
         "import": false
         },
-{
-        "name": "WILLOW ",
+        {
+        "name": "WILLOW",
         "image": "https://i.postimg.cc/rmt8Jr3R/IMG-20241229-073821-507.jpg",
         "url": "https://filemoon.to/d/9hs4en1f2o6x",
         "info": "1988[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "YO, EL VAQUILLA",
+        "image": "https://i.postimg.cc/BvZ9R86b/51qh-YMr-Qk-SL-AC-UF894-1000-QL80.jpg",
+        "url": "https://iplayerhls.com/oecjohlbzwl6",
+        "info": "1985[TINWORLD]",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
