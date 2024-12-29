@@ -240,6 +240,28 @@
       "online": "true",
       "import": false
     },
+    {
+      "name": "PICO, EL",
+      "image": "https://i.postimg.cc/9MkWJg8p/Whf7jfbh-OKKZs-OPpp7b4-Fzs-Yy3.jpg",
+      "url": "https://iplayerhls.com/8rxs15b1tcfp",
+      "info": "1983[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "PICO 2, EL",
+      "image": "https://i.postimg.cc/HW5x6dm8/El-pico-2-740097020-large.jpg",
+      "url": "https://iplayerhls.com/4bmhjcc8ofrh",
+      "info": "1984[TINWORLD]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
       {
       "name": "QUE PAR DE GOLFANTES",
       "image": "https://i.postimg.cc/0yLGTzxP/IMG-20241122-221438-595.jpg",
