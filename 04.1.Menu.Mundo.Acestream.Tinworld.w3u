@@ -7,7 +7,7 @@
 
 { "name": "BEIN SPORT 1 [BE]-SIN ACES 3", 
 	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
-			 "url": "http://192.168.1.135:8000/ace/getstream?infohash=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
+			 "url": "http://127.0.0.1:6878/ace/getstream?infohash=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
                          "info": "2024[TINWORLD]",
                          "embed": "",
                          "isHost": "",
