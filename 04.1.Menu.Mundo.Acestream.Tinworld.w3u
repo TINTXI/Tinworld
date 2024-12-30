@@ -5,6 +5,16 @@
 "telegram": "TINWORLD_3_0",
 "stations": [
 
+{ "name": "BEIN SPORT 1 [BE]-SIN ACES 3", 
+	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
+			 "url": "http://192.168.1.135:8000/ace/getstream?infohash=dc0732e5f63a59001b7ef446a7e69c4a4adf7999",
+                         "info": "2024[TINWORLD]",
+                         "embed": "",
+                         "isHost": "",
+                         "online": "",
+                         "userAgent": ""
+			 },
+
              { "name": "BEIN SPORT 1 [BE]-SIN ACES 2", 
 	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
 			 "url": "http://127.0.0.1:43110/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
