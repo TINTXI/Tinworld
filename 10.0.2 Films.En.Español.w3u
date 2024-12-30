@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "VOLVEREIS",
+"image": "https://i.postimg.cc/HxdF4pWC/IMG-20241230-111137-379.jpg",
+"url": "https://iplayerhls.com/g61r838n0ou2",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "REINAS",
 "image": "https://i.postimg.cc/pL12Cbt9/IMG-20241228-101003-032.jpg",
 "url": "https://iplayerhls.com/5q9ft9b8626d",
