@@ -7,6 +7,16 @@
 "info":"",
 "groups":
     [
+
+               {
+               "name": "EL JUEGO DEL CALAMAR",
+               "image": "https://i.postimg.cc/MHXvcC1R/temporada-3.jpg",
+               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Juego.Del.Calamar.w3u",
+               "info":"2024[TINWORLD]",
+               "import": false
+	       },
+    
+
                {
                "name": "FURIAS",
                "image": "https://i.postimg.cc/4yMhBbSt/4654549.jpg",
