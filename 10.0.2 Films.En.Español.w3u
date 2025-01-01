@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "La Culpa No Es Mia",
+"image": "https://i.postimg.cc/7YG5mPyG/images.jpg",
+"url": "https://swishsrv.com/e/0c23gspr2nbh",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "ESPECIALISTA, EL",
 "image": "https://i.postimg.cc/j5GRc5c2/01.jpg",
 "url": "https://filemoon.to/d/ka8ynfln5dz7",
