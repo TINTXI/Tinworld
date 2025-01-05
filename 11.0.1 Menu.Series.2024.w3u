@@ -7,7 +7,13 @@
 "info":"",
 "groups":
     [
-
+               {
+               "name": "PALMA, LA",
+               "image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.La.Palma.w3u",
+               "info":"2024[TINWORLD]",
+               "import": false
+	       },
                {
                "name": "EL JUEGO DEL CALAMAR",
                "image": "https://i.postimg.cc/MHXvcC1R/temporada-3.jpg",
