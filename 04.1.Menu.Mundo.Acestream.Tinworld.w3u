@@ -7,7 +7,7 @@
 
 { "name": "BEIN SPORT 1 [BE]-SIN ACES 4", 
 	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
-			 "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&.mp4",
+			 "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
                          "info": "2024[TINWORLD]",
                          "embed": "",
                          "isHost": "",
@@ -19,8 +19,8 @@
 	                 "image": "https://i.postimg.cc/x8PXnXss/logo12-11-225018-removebg-preview.png", 
 			 "url": "http://127.0.0.1:6878/ace/m/4d1c555c8a60e03c83e3eb3973ac966ada616260/1a9217ce93f16fba433c5cda9e605a7d.m3u8",
                          "info": "2024[TINWORLD]",
-                         "embed": "true",
-                         "isHost": "",
+                         "embed": "",
+                         "isHost": "true",
                          "online": "",
                          "userAgent": ""
 			 },
