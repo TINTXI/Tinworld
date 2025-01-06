@@ -7,14 +7,7 @@
 "info": "",
 "stations":
     [
-       {
-       "name": "Under Paris",
-       "info":"[PRUEBA][MULTIAUDIO]",
-       "online":"true",
-       "image": "https://mexico.quadratin.com.mx/www/wp-content/uploads/2024/06/unnamed-19.jpg",
-       "url" : "https://iosmirror.cc/hls/81767564.m3u8",
-       "referer" : "referer=https://iosmirror.cc/"
-       }, 
+       
 	{
         "name": "AAA, Sin limite en el tiempo",
         "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
@@ -1488,6 +1481,17 @@
         "embed":"",
         "isHost":"true",
         "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "SONIC 3, LA PELICULA",
+	"info": "2024",
+	"image": "https://i.postimg.cc/wM5dgXZf/IMG-20250106-095014-122.jpg", 
+	"url": "https://iplayerhls.com/8ts26w4p4knk",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "import": false
 	},
 	{ 
