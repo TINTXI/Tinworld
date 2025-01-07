@@ -65,14 +65,22 @@
 	"info":"",
 	"stations":
 		[
-			{
-			"name": "DAKAR 2025",
-			"info":"7de9",
-			"image": "https://i.postimg.cc/8PVrXHc0/dakar-desert-rally-by-deepsquall-dgy2tm9-fullview.png",
-			"url": "acestream://f8a1acbf088e8484d178b52e86ab2510f8417de9"
-			}
-                      ]
-	            },
+                {
+        	"name": "DAKAR 2025",
+        	"info": "002e",
+        	"online":"true",
+        	"image": "https://i.postimg.cc/8PVrXHc0/dakar-desert-rally-by-deepsquall-dgy2tm9-fullview.png",
+        	"url": "acestream://c8912eb22f0761e0da81b2357127918d49d4002e"
+        	},
+	        {
+		"name": "DAKAR 2025",
+		"info":"7de9",
+                "online":"true",
+		"image": "https://i.postimg.cc/8PVrXHc0/dakar-desert-rally-by-deepsquall-dgy2tm9-fullview.png",
+		"url": "acestream://f8a1acbf088e8484d178b52e86ab2510f8417de9"
+		}
+                ]
+	        },
         {
 	"name": "CANALES ESPAÑA",
 	"image": "https://i.postimg.cc/V6ZrH8yx/logo4-17-21212.png",
