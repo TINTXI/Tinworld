@@ -528,6 +528,17 @@
         "isHost":"true",
         "online":"true",
         "import": false
+        },
+        {
+        "name": "YOYES",
+        "image": "https://i.postimg.cc/QMYD9qPd/IMG-20250108-185426-864.jpg",
+        "url": "https://swishsrv.com/e/s2gop0tlcydr",
+        "info": "1999[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
         }
       ]
     }
