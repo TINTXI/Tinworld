@@ -1,0 +1,25 @@
+{
+"name": "Films En Español",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
+"telegram": "TINWORLD_3_0",
+"info":"",
+"groups":
+[
+        {
+         "name": "Films En Español <Minus 2024",
+         "image": "https://i.postimg.cc/jjgk1yZ2/IMG_20240615_015131_326.jpg",
+         "url": "https://tinworld.vercel.app/10.0.3.1 Films.En.latino.2024.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "Films En Español <Minus 2025",
+         "image": "https://i.postimg.cc/htnwQDXD/IMG_20240615_015137_643.jpg",
+         "url": "https://tinworld.vercel.app/10.0.3.0 Films.En.latino.2023.w3u",
+         "info":"",
+         "import": false
+        }
+    ]
+}
