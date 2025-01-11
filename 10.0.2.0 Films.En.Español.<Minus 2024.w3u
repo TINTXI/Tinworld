@@ -8,6 +8,16 @@
 "stations":
     [
 {
+"name": "LA ABUELA Y EL FORASTERO",
+"info": "2024[TINWORLD]",
+"image": "https://i.postimg.cc/Nj1XSybc/IMG-20250111-011319-886.jpg",
+"url": "https://swishsrv.com/e/fvg3paprfdm6",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"isHost": "true",
+"online": "true"
+},
+{
 "name": "PERROS DE GUERRA",
 "info": "2024[TINWORLD]",
 "image": "https://i.postimg.cc/59F5jvSm/9bb7dce3686631139ea2f071e8d9d9e928c9237d5f289e427b8b5e4c065a4120.png",
