@@ -101,6 +101,7 @@
         "info": "1982[TINWORLD]",
         "image": "https://pics.filmaffinity.com/La_colmena-131368036-large.jpg",
         "url": "https://ok.ru/videoembed/7284201622063",
+        "embed":"true",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
