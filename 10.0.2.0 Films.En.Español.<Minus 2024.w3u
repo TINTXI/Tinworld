@@ -8,6 +8,16 @@
 "stations":
     [
 {
+"name": "KRAVEN, EL CAZADOR",
+"info": "2024[TINWORLD]",
+"image": "https://i.postimg.cc/brz1PkGG/IMG-20250114-232901-236.jpg",
+"url": "https://swishsrv.com/e/6lt40b029vz7",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"isHost": "true",
+"online": "true"
+},
+{
 "name": "PALACIO ESTILISTAS",
 "info": "2024[TINWORLD]",
 "image": "https://i.postimg.cc/WbMnHwnS/IMG-20250111-010526-345.jpg",
