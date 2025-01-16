@@ -8,7 +8,18 @@
 "stations":
     [
 {
-"name": "La Culpa No Es Mia",
+"name": "ASESINO DEL CALENDARIO, EL",
+"image": "https://i.postimg.cc/XNzDGv7f/the-calendar-killer.jpg",
+"url": "https://swishsrv.com/e/dhv4tp7vefbl",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CULPA NO ES MIA, LA",
 "image": "https://i.postimg.cc/7YG5mPyG/images.jpg",
 "url": "https://swishsrv.com/e/wl01wc0agbmy",
 "info": "2025[TINWORLD]",
@@ -19,7 +30,7 @@
 "import": false
 },
 {
-"name": "Ad Vitam",
+"name": "AD VITAM",
 "image": "https://i.postimg.cc/13k7HCsM/4a117a4622e98ed7cd3f3e3d76b9c1c1.jpg",
 "url": "https://swishsrv.com/e/u2raqb0d7e9l",
 "info": "2025[TINWORLD]",
