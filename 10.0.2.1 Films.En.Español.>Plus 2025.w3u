@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "DE VUELTA A LA ACCIÓN",
+"image": "https://i.postimg.cc/C1XKMsSt/IMG-20250119-153301-359.jpg",
+"url": "https://swishsrv.com/e/plls7f6dtx4n",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "ASESINO DEL CALENDARIO, EL",
 "image": "https://i.postimg.cc/XNzDGv7f/the-calendar-killer.jpg",
 "url": "https://filemoon.to/d/l0pr1cndpk5x/Calendario.mortal.2025.1080p.WEB-DL-DUAL.mkv",
