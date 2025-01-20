@@ -209,8 +209,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "Torrente 2: Misión en Marbella",
@@ -220,8 +219,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "Torrente 3: El protector",
@@ -231,8 +229,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "Torrente 4: Lethal Crisis (Crisis Letal)",
@@ -242,8 +239,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "Torrente 5: Operación Eurovegas",
@@ -253,8 +249,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"userAgent":"PlusMediaPlayer/0.0.9"
 }
 ]
 }
