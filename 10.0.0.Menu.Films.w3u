@@ -36,6 +36,12 @@
 "import": false
 },
 {
+"name": "Films Sagas",
+"image": "https://i.postimg.cc/NMmgK97v/fotoefectos-com-4.png",
+"url": "https://tinworld.vercel.app/10.0.5 Films.Sagas.Español.w3u",
+"import": false
+},
+{
 "name": "Cinema V.O.S.E",
 "image": "https://i.postimg.cc/MTjKP1WN/logo1-2-162243.png",
 "url": "https://tinworld.vercel.app/10.0.8.Cinema.V.O.SE.w3u",
@@ -61,12 +67,6 @@
 "image": "https://i.postimg.cc/59qTVTY2/Polish-20250103-093759392.png",
 "url": "https://tinworld.vercel.app/10.0.9.Films.En.V.O.w3u",
 "info": "",
-"import": false
-},
-{
-"name": "Films Sagas - Proximamente",
-"image": "https://i.postimg.cc/NMmgK97v/fotoefectos-com-4.png",
-"url": "https://tinworld.vercel.app/10.0.5 Films.Sagas.Español.w3u",
 "import": false
 }
 ]
