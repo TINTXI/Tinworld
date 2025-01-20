@@ -1,5 +1,5 @@
 {
-"name": "Deferred Sports BASKET 2024",
+"name": "Deferred Sports BASKET 2023-2025",
 "author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
 "url": "https://tinworld.vercel.app/21.0.9.7 Deportes.Diferidos.BASKET.MENU EUROLIGA.w3u",
@@ -7,19 +7,19 @@
 "info":"",
 "groups":
 [
-        {
-         "name": "EuroLiga 2023",
-         "image": "https://i.postimg.cc/fTqpYFch/Euroliga2023-new.png",
-         "url": "https://tinworld.vercel.app/21.0.9.4 Deportes.Diferidos.BASKET.Liga Europea.2024.w3u",
-         "info":"",
-         "import": false
-        },
-	{
-         "name": "EuroLiga 2024",
+{
+         "name": "EuroLiga 2024-2025",
          "image": "https://i.postimg.cc/Xqdq9FPR/Euroliga2024-new.png",
          "url": "https://tinworld.vercel.app/21.0.9.8 Deportes.Diferidos.BASKET.EUROLIGA.2024-2025.w3u",
          "info":"",
          "import": false
+        },
+        {
+         "name": "EuroLiga 2023-2024",
+         "image": "https://i.postimg.cc/fTqpYFch/Euroliga2023-new.png",
+         "url": "https://tinworld.vercel.app/21.0.9.4 Deportes.Diferidos.BASKET.Liga Europea.2024.w3u",
+         "info":"",
+         "import": false
         }
-	]
-}
+      ]
+    }
