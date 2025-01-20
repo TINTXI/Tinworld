@@ -28,7 +28,6 @@ Tang 🆚 Abdullaev",
 "isHost":"true",
 "online":"true"
 },
-
 {
 "name": "🥊One Friday Fights 94
 Puengluang 🆚 Guluzada",
@@ -38,6 +37,6 @@ Puengluang 🆚 Guluzada",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "isHost": "true",
 "online": "true"
-},
+}
 ]
 }
