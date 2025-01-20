@@ -9,14 +9,14 @@
 [
 
 {
-"name": "ROCKY",
+"name": "ROCKY SAGA *🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
 "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
 "stations": 
 [
 
 {
 "name": "Rocky I (Pelicula)",
-"info":"(1976)",
+"info":"1976[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
 "url": "https://filemoon.sx/d/0cnporojo3qm/Ver_rocky_1_1976_esp_bluray_1080p_mkv.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -26,7 +26,7 @@
 },                
 {
 "name": "Rocky II (Pelicula)",
-"info":"(1979)",
+"info":"1979[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky_ii-638848007-large.jpg",
 "url": "https://filemoon.sx/d/rh6j67abr9e8/Ver_rocky_2_1979_esp_1080p_mp4.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -36,7 +36,7 @@
 },
 {
 "name": "Rocky III (Pelicula)",
-"info":"(1982)",
+"info":"1982[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky_iii-182829734-large.jpg",
 "url": "https://filemoon.sx/d/t5tcw5e0j8pg/Ver_rocky_3_1982_esp_1080p_mp4.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -46,7 +46,7 @@
 },
 {
 "name": "Rocky IV (Pelicula)",
-"info":"(1985)",
+"info":"1985[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky_iv-104851625-large.jpg",
 "url": "https://filemoon.sx/d/yljv5f2aciuj/Ver_rocky_4_1985_esp_1080p_mp4.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -56,7 +56,7 @@
 },
 {
 "name": "Rocky V (Pelicula)",
-"info":"(1990)",
+"info":"1990[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky_v-872053278-large.jpg",
 "url": "https://filemoon.sx/d/s8jr3z5vh6ct/Ver_rocky_5_1990_esp_1080p_mp4.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -66,7 +66,7 @@
 },
 {
 "name": "Rocky Balboa (Pelicula)",
-"info":"(2006)",
+"info":"2006[TINWORLD]",
 "image": "https://pics.filmaffinity.com/rocky_balboa-314141025-large.jpg",
 "url": "https://filemoon.sx/d/zleecwnmcuox/Ver_rocky_6_balboa_2006_esp_1080p_mp4.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -78,13 +78,13 @@
 },
 
 {
-"name": "CREED",
+"name": "CREED SAGA",
 "image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
 "stations": 
 [
 {
 "name": "Creed I La leyenda Rocky (Pelicula)",
-"info":"(2015)",
+"info":"2015[TINWORLD]",
 "image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
 "url": "https://filemoon.sx/d/6aaa9kc79ai1/Ver_Creed_1_leyenda_Rocky_2015_Castellano_mkv.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -94,7 +94,7 @@
 },                
 {
 "name": "Creed II La leyenda Rocky (Pelicula)",
-"info":"(2018)",
+"info":"2018[TINWORLD]",
 "image": "https://pics.filmaffinity.com/creed_ii-331206102-large.jpg",
 "url": "https://filemoon.sx/d/lzrhj99tcfsx/Ver_Creed_2_HDR_Castellano_avi.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
@@ -104,13 +104,157 @@
 },
 {
 "name": "Creed III La leyenda Rocky (Pelicula)",
-"info":"(2023)",
+"info":"2023[TINWORLD]",
 "image": "https://pics.filmaffinity.com/creed_iii-358416025-large.jpg",
 "url": "https://filemoon.sx/d/jb5flpc3y3og/Ver_creed_3_2023_esp_1080p_mkv.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "embed":"",
 "isHost":"true",
 "online":"true"
+}
+]
+},
+
+{
+"name": "HARRY POTTER SAGA",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+"stations": 
+[
+
+{
+"name": "Harry Potter y La Piedra Filosofal",
+"info": "2001[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-154820574-mmed.jpg",
+"url": "https://filemoon.sx/d/vid0te9i4ws6",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y La Cámara Secreta",
+"info": "2002[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_chamber_of_secrets_harry_potter_2-420538488-mmed.jpg",
+"url": "https://filemoon.sx/d/vgc8ym5wbv5p",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y El Prisionero de Azkaban",
+"info": "2004[TINWORLD]",
+"image": "https://pics.filmaffinity.com/Harry_Potter_y_el_prisionero_de_Azkaban-240791915-large.jpg",
+"url": "https://filemoon.sx/d/0fq9dt8lxgl3",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y El Cáliz de Fuego",
+"info": "2005[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-612673227-mmed.jpg",
+"url": "https://filemoon.sx/d/90c66dvdcq1r",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y La Orden del Fénix",
+"info": "2007",[TINWORLD]
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-mmed.jpg",
+"url": "https://filemoon.sx/d/3qrug38rvkuj",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y El Misterio del Príncipe",
+"info": "2009[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-mmed.jpg",
+"url": "https://filemoon.sx/d/l83t4mqfatsq",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y Las Reliquias de la Muerte (parte 1)",
+"info": "2010[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg",
+"url": "https://filemoon.sx/d/djzonl7cpljk",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Harry Potter y Las Reliquias de la Muerte (parte 2)",
+"info": "2011[TINWORLD]",
+"image": "https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-mmed.jpg",
+"url": "https://filemoon.sx/d/3samj47rvbgn",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9"
+}
+]
+},
+
+{
+"name": "TORRENTE SAGA",
+"image": "https://pics.filmaffinity.com/torrente_el_brazo_tonto_de_la_ley-769153589-large.jpg",
+"stations": 
+[
+{
+"name": "Torrente, el brazo tonto de la ley",
+"image": "https://pics.filmaffinity.com/torrente_el_brazo_tonto_de_la_ley-769153589-large.jpg",
+"url": "https://filemoon.sx/d/44fwj4evz3t6/Torrente_1_El_brazo_tonto_de_la_Ley__1998_Pelicula_.mp4",
+"info": "1998[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Torrente 2: Misión en Marbella",
+"image": "https://pics.filmaffinity.com/torrente_2_mision_en_marbella-426650610-large.jpg",
+"url": "https://filemoon.sx/d/2ss946no2e00/Torrente_2_Misi_n_en_Marbella__2001_Pelicula__1080p_Cast.mp4",
+"info": "2001[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Torrente 3: El protector",
+"image": "https://pics.filmaffinity.com/torrente_3_el_protector-816745588-large.jpg",
+"url": "https://filemoon.sx/d/pkftfy47xy4e/Torrente_3_El_Protector__2005_Pelicula_.mp4",
+"info": "2005[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Torrente 4: Lethal Crisis (Crisis Letal)",
+"image": "https://pics.filmaffinity.com/torrente_4_lethal_crisis_crisis_letal-159607457-large.jpg",
+"url": "https://filemoon.sx/d/mhdrij3l79sx/Torrente_4_Letal_Crisis__2011_Pelicula_.mp4",
+"info": "2011[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Torrente 5: Operación Eurovegas",
+"image": "https://pics.filmaffinity.com/torrente_5_operacion_eurovegas-241259676-large.jpg",
+"url": "https://filemoon.sx/d/bd0pk21ehfkk/Torrente_5_Operacion_Eurovegas__2014_Pelicula_.mp4",
+"info": "[Español 2014]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 ]
 }
