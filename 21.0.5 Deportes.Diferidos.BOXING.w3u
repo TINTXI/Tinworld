@@ -7,19 +7,27 @@
 "info":"",
 "groups":
 [
+
 {
-          "name": "BOXING 2024",
-          "image": "https://i.postimg.cc/SQWXwDCF/boxing-gloves-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector-1.jpg",
-          "url": "https://tinworld.vercel.app/21.0.5.1 Deportes.Diferidos.BOXING.2024.w3u",
-          "info":"",
-          "import": false
-          },
-          {
-          "name": "BOXING Remenber",
-          "image": "https://i.postimg.cc/SQWXwDCF/boxing-gloves-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector-1.jpg",
-          "url": "https://tinworld.vercel.app/21.0.5.2 Deportes.Diferidos.BOXING.Remenber.w3u",
-          "info":"",
-          "import": false
-          }
-     ]
+"name": "BOXING 2⃣0⃣2⃣5⃣",
+"image": "https://i.postimg.cc/SQWXwDCF/boxing-gloves-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.5.2 Deportes.Diferidos.BOXING.2025.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "BOXING 2⃣0⃣2⃣4⃣",
+"image": "https://i.postimg.cc/SQWXwDCF/boxing-gloves-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.5.1 Deportes.Diferidos.BOXING.2024.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "BOXING 🅡🅔🅜🅔🅝🅑🅔🅡",
+"image": "https://i.postimg.cc/SQWXwDCF/boxing-gloves-design-element-for-logo-poster-card-banner-emblem-t-shirt-illustration-vector-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.5.2 Deportes.Diferidos.BOXING.Remenber.w3u",
+"info":"",
+"import": false
+}
+]          
 }
