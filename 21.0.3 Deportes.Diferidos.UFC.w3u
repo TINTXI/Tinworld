@@ -8,19 +8,26 @@
 "groups":
 [
 {
-          "name": "UFC 2024",
-          "image": "https://i.postimg.cc/7LxJV7f8/desktop-wallpaper-77-mma-ufc-1.jpg",
-          "url": "https://tinworld.vercel.app/21.0.3.1 Deportes.Diferidos.UFC.2024.w3u",
-          "info":"",
-          "import": false
-          },
-          {
-          "name": "UFC Remenber",
-          "image": "https://i.postimg.cc/7LxJV7f8/desktop-wallpaper-77-mma-ufc-1.jpg",
-          "url": "https://tinworld.vercel.app/21.0.3.2 Deportes.Diferidos.UFC.Remenber.w3u",
-          "info":"",
-          "import": false
-          }
-     ]
+"name": "UFC 2⃣0⃣2⃣5⃣",
+"image": "https://i.postimg.cc/7LxJV7f8/desktop-wallpaper-77-mma-ufc-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.3.3 Deportes.Diferidos.UFC.2025.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "UFC 2⃣0⃣2⃣4⃣",
+"image": "https://i.postimg.cc/7LxJV7f8/desktop-wallpaper-77-mma-ufc-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.3.1 Deportes.Diferidos.UFC.2024.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "UFC 🅡🅔🅜🅔🅝🅑🅔🅡",
+"image": "https://i.postimg.cc/7LxJV7f8/desktop-wallpaper-77-mma-ufc-1.jpg",
+"url": "https://tinworld.vercel.app/21.0.3.2 Deportes.Diferidos.UFC.Remenber.w3u",
+"info":"",
+"import": false
+}
+]
 }
 
