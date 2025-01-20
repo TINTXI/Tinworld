@@ -7,11 +7,13 @@
 "info":"",
 "groups":
 [
+
 {
 "name": "ROCKY",
 "image": "https://pics.filmaffinity.com/rocky-253483905-large.jpg",
 "stations": 
 [
+
 {
 "name": "Rocky I (Pelicula)",
 "info":"(1976)",
@@ -67,6 +69,44 @@
 "info":"(2006)",
 "image": "https://pics.filmaffinity.com/rocky_balboa-314141025-large.jpg",
 "url": "https://filemoon.sx/d/zleecwnmcuox/Ver_rocky_6_balboa_2006_esp_1080p_mp4.mp4",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"embed":"",
+"isHost":"true",
+"online":"true"
+}
+]
+},
+
+{
+"name": "CREED",
+"image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
+"stations": 
+[
+{
+"name": "Creed I La leyenda Rocky (Pelicula)",
+"info":"(2015)",
+"image": "https://pics.filmaffinity.com/creed-232228847-large.jpg",
+"url": "https://filemoon.sx/d/6aaa9kc79ai1/Ver_Creed_1_leyenda_Rocky_2015_Castellano_mkv.mp4",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"embed":"",
+"isHost":"true",
+"online":"true"
+},                
+{
+"name": "Creed II La leyenda Rocky (Pelicula)",
+"info":"(2018)",
+"image": "https://pics.filmaffinity.com/creed_ii-331206102-large.jpg",
+"url": "https://filemoon.sx/d/lzrhj99tcfsx/Ver_Creed_2_HDR_Castellano_avi.mp4",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"embed":"",
+"isHost":"true",
+"online":"true"
+},
+{
+"name": "Creed III La leyenda Rocky (Pelicula)",
+"info":"(2023)",
+"image": "https://pics.filmaffinity.com/creed_iii-358416025-large.jpg",
+"url": "https://filemoon.sx/d/jb5flpc3y3og/Ver_creed_3_2023_esp_1080p_mkv.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "embed":"",
 "isHost":"true",
