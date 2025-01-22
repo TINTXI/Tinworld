@@ -8,6 +8,28 @@
 "stations":
     [
 {
+"name": "UN DOLOR REAL",
+"image": "https://i.postimg.cc/G2CMw9RS/Un-dolor-real-afiche.png",
+"url": "https://listeamed.net/v/8lKQxYQ2YLexDGY",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "KNEECAP",
+"image": "https://pics.filmaffinity.com/kneecap-838209168-large.jpg",
+"url": "https://listeamed.net/v/eL2157K86mb5rw4",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "LA BALADA DE DAVY CROCKETT",
 "info": "2024[TINWORLD]",
 "image": "https://i.postimg.cc/Gtbcc5Dp/IMG-20250116-193156-846.jpg",
