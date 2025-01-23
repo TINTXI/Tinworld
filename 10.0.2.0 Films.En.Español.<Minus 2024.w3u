@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "NOSFERATU",
+"image": "https://pics.filmaffinity.com/nosferatu-964410519-large.jpg",
+"url": "https://listeamed.net/v/8lKQxYQ3AWDxDGY",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "UN DOLOR REAL",
 "image": "https://i.postimg.cc/G2CMw9RS/Un-dolor-real-afiche.png",
 "url": "https://listeamed.net/v/8lKQxYQ2YLexDGY",
