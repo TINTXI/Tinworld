@@ -318,6 +318,18 @@
         "online":"true",
         "import": false
       },
+
+        {
+        "name": "PAPÁ PIQUILLO",
+        "image": "https://i.postimg.cc/SQBvsvr8/IMG-20250121-124558-270.jpg",
+        "url": "https://swishsrv.com/e/59hrflyh94hy",
+        "info": "1998[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+      },
         {
         "name": "PESCADOR DE COPLAS,EL",
         "image": "https://i.postimg.cc/SRtgvr2C/IMG-20240929-164506-866.jpg",
