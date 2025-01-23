@@ -168,6 +168,12 @@
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://bit.ly/tubi-m3u",
 	  "import":true
+          },
+          {
+          "name": "plex-12",
+          "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
+          "url": "https://bit.ly/abbasport-vlc",
+	  "import":true
           }
    
         ]
