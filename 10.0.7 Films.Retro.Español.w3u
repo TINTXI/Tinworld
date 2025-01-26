@@ -207,6 +207,17 @@
         "online":"true",
         "import": false
       },
+        {
+        "name": "LABERINTO DEL FAUNO, EL",
+        "image": "https://i.postimg.cc/SNCC8YMV/IMG-20250126-194511-174.jpg",
+        "url": "https://ghbrisk.com/h9bkkc9k4i51",
+        "info": "2006[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 
         {
         "name": "LEYENDA DE LA CIUDAD SIN NOMBRE, LA",
