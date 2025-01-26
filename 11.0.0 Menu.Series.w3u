@@ -15,10 +15,91 @@
 "stations":
 [
 {
-"name": "Episodio 01",
-"info":"[Español]",
+"name": "TEMPORADA 1X1",
+"info":"[TINWORLD]",
 "image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
 "url":"https://ghbrisk.com/zlzbu8ocn4hy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X2",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/yshb7q5m4y1p",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X3",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/xsiebmfm1pgc",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X4",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/okllq3vgempy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X5",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/5mw1lr96te05",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X6",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/pjpy1t1uxmrb",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X7",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/zycrc42pugaj",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X8",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/rinq2amiq91b",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X9",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/lwpxcd6isfgy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+},
+{
+"name": "TEMPORADA 1X10",
+"info":"[TINWORLD]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/1bh9qtiip5fp",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost": "true",
 "online":"true"
