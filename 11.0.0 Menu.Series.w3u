@@ -7,16 +7,25 @@
     "info":"",
     "groups":
         [
-
-{ 
-"name": "30 Monedas", 
-"image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
-"info": "", 
-"stations": [
-
-
-
-                            { 
+{
+"name": "HAJIME NO IPPO",
+"info":"Temporada 1 (2000)",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"imageScale": "",
+"stations":
+[
+{
+"name": "Episodio 01",
+"info":"[Español]",
+"image": "https://i.postimg.cc/63BysXNn/IMG-20250126-123447-251.jpg",
+"url":"https://ghbrisk.com/zlzbu8ocn4hy",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"isHost": "true",
+"online":"true"
+}
+]
+},
+                         { 
                             "name": "30 Monedas", 
                             "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg", 
                             "info": "", 
