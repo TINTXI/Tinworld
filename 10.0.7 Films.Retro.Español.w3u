@@ -7,6 +7,17 @@
 "info": "",
 "stations":
     [
+{
+        "name": "60 SEGUNDOS",
+        "image": "https://i.postimg.cc/YCktfZqM/IMG-20241121-201859-401.jpg",
+        "url": "https://swishsrv.com/e/8111jaqdscf6",
+        "info": "2000[TINWORLD]",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
         {
         "name": "AGITESE ANTES  DE USARLA",
         "image": "https://i.postimg.cc/YCktfZqM/IMG-20241121-201859-401.jpg",
