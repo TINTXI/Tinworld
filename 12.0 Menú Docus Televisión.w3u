@@ -6,51 +6,51 @@
 "telegram": "TINWORLD_3_0",
 "info": "",
 "groups":
-     [
-          {
-          "name": "Informe +",
-          "image": "https://i.postimg.cc/hvyHh2GH/IMG-20241226-223137-598.jpg",
-          "url": "https://tinworld.vercel.app/12.0.6.Docus.Informe.+.w3u",
-          "import": "true"
-          },
-     {
-     "name": "No Te Mueras El Hombre Qué Quiere Vivir Para Siempre",
-      "image": "https://i.postimg.cc/FHwPNTKK/images-1.jpg",
-      "info": "2025",
-      "stations": 
-      [
-          {
-          "name": "No Te Mueras El Hombre Qué Quiere Vivir Para Siempre",
-          "info": "2025",
-          "image": "https://i.postimg.cc/FHwPNTKK/images-1.jpg",
-          "url": "https://swishsrv.com/e/uo554d12xe9h",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-       ]
-     },
-     {
-     "name": "Patria Y Vida",
-      "image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
-      "info": "2024",
-      "stations": 
-      [
-          {
-          "name": "Patria Y Vida",
-          "info": "2024",
-          "image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
-          "url": "https://swishsrv.com/e/ovyybp7wxfqp",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "userAgent":"PlusMediaPlayer/0.0.9",
-          "import": false
-        }
-       ]
-     },
+[
+{
+"name": "Informe +",
+"image": "https://i.postimg.cc/hvyHh2GH/IMG-20241226-223137-598.jpg",
+"url": "https://tinworld.vercel.app/12.0.6.Docus.Informe.+.w3u",
+"import": "true"
+},
+{
+"name": "No Te Mueras El Hombre Qué Quiere Vivir Para Siempre",
+"image": "https://i.postimg.cc/FHwPNTKK/images-1.jpg",
+"info": "2025",
+"stations": 
+[
+{
+"name": "No Te Mueras El Hombre Qué Quiere Vivir Para Siempre",
+"info": "2025",
+"image": "https://i.postimg.cc/FHwPNTKK/images-1.jpg",
+"url": "https://swishsrv.com/e/uo554d12xe9h",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+{
+"name": "Patria Y Vida",
+"image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
+"info": "2024",
+"stations": 
+[
+{
+"name": "Patria Y Vida",
+"info": "2024",
+"image": "https://i.postimg.cc/k4w8z7SD/IMG-20250128-200838-978.jpg",
+"url": "https://swishsrv.com/e/ovyybp7wxfqp",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
      {
      "name": "El Tipo Malo",
       "image": "https://i.postimg.cc/qBCpSGNx/IMG-20241219-154013-194.jpg",
