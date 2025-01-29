@@ -33,8 +33,8 @@
 	"stations":
 		[
 			{
-			"name": "EVENTOS DIARIOS OP.1",
-			"info":"",
+			"name": "EVENTOS DIARIOS OP.1 + VPN",
+			"info":"ACTIVA VPN",
 			"image": "https://i.postimg.cc/RZNd5LCZ/logo10-13-12538.png",
 			"url": "https://ciriaco-liart.vercel.app/",
                         "online":"true",
