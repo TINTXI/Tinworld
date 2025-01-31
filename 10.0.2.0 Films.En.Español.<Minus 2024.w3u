@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "CANINA",
+"image": "https://i.postimg.cc/nVYs5g9g/IMG-20250131-125029-937.jpg",
+"url": "https://filemoon.to/d/q7uqlj5ftvwv",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "NOSFERATU",
 "image": "https://pics.filmaffinity.com/nosferatu-964410519-large.jpg",
 "url": "https://listeamed.net/v/8lKQxYQ3AWDxDGY",
