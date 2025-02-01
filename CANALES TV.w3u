@@ -142,7 +142,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "DANZ COMBAT",
@@ -152,7 +152,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "XFC MMA",
@@ -162,7 +162,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "FITE",
@@ -172,7 +172,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "HARD KNOCK FIGHTING",
@@ -182,7 +182,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "HARD KNOCK FIGHTING CHAMPIONSHIP",
@@ -192,7 +192,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "IMPACT WRESTLING",
@@ -202,7 +202,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 },
 {
 "name": "MSG SPORT ZONE",
@@ -212,7 +212,7 @@
 "embed":"",
 "isHost":"true",
 "online":"true",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 }
 ]
 },
@@ -229,7 +229,7 @@
 "embed":"",
 "isHost":"true",
 "online":"",
-"userAgent":"PlusMediaPlayer/0.0.9
+"userAgent":"PlusMediaPlayer/0.0.9"
 }
 ]
 }
