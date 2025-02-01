@@ -1,0 +1,236 @@
+{
+"name": "CANALES TV",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"url": "https://tinworld.vercel.app/CANALES TV.w3u",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"groups":
+[
+{
+"name": "CANALES COMBAT SPORT",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"stations": 
+[
+{
+"name": "DAZN RINGSIDE",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://webudit.hlsjs.ru/lb/premium64/index.m3u8",
+"info":"[ TINWORLD ]",
+"origin":"https://weblivehdplay.ru",
+"referrer":"https://weblivehdplay.ru/premiumtv/daddylivehd.php
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "SFT COMBAT",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/0i6at3qxzqto",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "ONE CHAMPIONSHIP",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/b953t1equtx8",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "WBTV HBO BOXING",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/vxrekg4rnkdt",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "BOXING TV",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/ijo43x8du7wr",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "AXS TV",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/69ic4s9c1cuq",
+"info":[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "SWERVE COMBAT",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/j5ykbukx3cxj",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "PROFESSIONAL FIGHTERS LEAGUE",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/ktx1fb08zcks",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "PFL MMA",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/0jj82qz3edbk",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "UNBEATEN SPORTS CHANNEL",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/mxhp7j56j2q4",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "STROGMAN CHAMPIONS LEAGUE",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/1hguzyff36c0",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "DANZ RINGSIDE 2",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/nvkbwf2qud1z",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "DANZ RINGSIDE 3",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/cl9kw5pon8tv",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "DANZ COMBAT",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/kbpbnkehh0tk",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "XFC MMA",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/4mluisxqvovm",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "FITE",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/8v1box4evalz",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "HARD KNOCK FIGHTING",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/nkjvbtoq5hvn",
+"info":[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "HARD KNOCK FIGHTING CHAMPIONSHIP",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/uu7itc41cc1j",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "IMPACT WRESTLING",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/5rhmrmbafo61",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "MSG SPORT ZONE",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://ghbrisk.com/yebgodxesrh6",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"PlusMediaPlayer/0.0.9
+},
+{
+"name": "CANALES GOLF",
+"image":"https://i.postimg.cc/V6QKvg7X/6a00d8341bfb1653ef017742c31751970d.jpg",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image":"https://i.postimg.cc/V6QKvg7X/6a00d8341bfb1653ef017742c31751970d.jpg",
+"url":"",
+"info":"[ TINWORLD ]",
+"embed":"",
+"isHost":"true",
+"online":"",
+"userAgent":"PlusMediaPlayer/0.0.9
+}
+]
+}
+]
+}
+ 
