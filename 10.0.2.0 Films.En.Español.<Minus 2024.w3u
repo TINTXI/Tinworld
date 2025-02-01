@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "EMMANUELLE",
+"image": "https://i.postimg.cc/prmMDTSg/IMG-20250131-173654-007.jpg",
+"url": "https://filemoon.to/d/qd8381crlf10",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "CANINA",
 "image": "https://i.postimg.cc/nVYs5g9g/IMG-20250131-125029-937.jpg",
 "url": "https://filemoon.to/d/q7uqlj5ftvwv",
