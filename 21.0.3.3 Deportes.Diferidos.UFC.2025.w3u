@@ -100,7 +100,31 @@
 "isHost":"true",
 "referer" : "",
 "embed": ""
-}
+},
+{
+"name": "🥊 UFC 311: Makhachev 🆚 Moicano",
+"info":"[Preliminares][Latino]
+1⃣8⃣/0⃣1⃣/2⃣5⃣",
+"online":"true",
+"image": "https://i.postimg.cc/K8FXjD94/IMG-20250120-151947-146.jpg",
+"url":"https://filemoon.to/d/vgamg1jri8ia",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
+{
+"name": "🥊 UFC 311: Makhachev 🆚 Moicano",
+"info":"[Maincard][Latino]
+1⃣8⃣/0⃣1⃣/2⃣5⃣",
+"online":"true",
+"image": "https://i.postimg.cc/K8FXjD94/IMG-20250120-151947-146.jpg",
+"url":"https://filemoon.to/d/tf3njc79rd3k",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
 ]
 }
 
