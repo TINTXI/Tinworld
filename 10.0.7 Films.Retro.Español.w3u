@@ -8,6 +8,17 @@
 "stations":
     [
 {
+"name": "ATRAPADO EN EL TIEMPO",
+"image": "https://pics.filmaffinity.com/groundhog_day-111669822-large.jpg",
+"url": "https://filemoon.to/d/ep44hg5c3408/Atrapado_en_el_tiempo_1993_Pelicula_esp_dvdrip_mkv.mp4",
+"info": "[Español 1993]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+        {
         "name": "60 SEGUNDOS",
         "image": "https://i.postimg.cc/FHQXtdfz/IMG-20250127-193132-885.jpg",
         "url": "https://swishsrv.com/e/8111jaqdscf6",
