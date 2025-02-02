@@ -14,6 +14,25 @@
 "import": "true"
 },
 {
+"name": "Justicia Para Diego",
+"image": "https://i.postimg.cc/28rgCdvX/IMG-20250202-213917-812.jpg",
+"info": "2025",
+"stations": 
+[
+{
+"name": "Justicia Para Diego",
+"info": "2025",
+"image": "https://i.postimg.cc/28rgCdvX/IMG-20250202-213917-812.jpg",
+"url": "https://swishsrv.com/e/n3p9rs8n6j7h",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+{
 "name": "No Te Mueras El Hombre Qué Quiere Vivir Para Siempre",
 "image": "https://i.postimg.cc/FHwPNTKK/images-1.jpg",
 "info": "2025",
