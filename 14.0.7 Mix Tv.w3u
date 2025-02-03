@@ -146,6 +146,24 @@
                     "embed": "",
                     "userAgent":"PlusMediaPlayer/0.0.9",
                     "import": false
+                    },
+{
+            "name": "Latin Grammy 2025",
+            "info":"2025",
+            "image": "https://i.postimg.cc/XNQg0CY6/IMG-20250203-214732.png",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Latin Grammy 2025",
+                    "info":"2025",
+                    "image": "https://i.postimg.cc/XNQg0CY6/IMG-20250203-214732.png",
+                    "url":"nikaplayerr.com/file/u1kprin88p2h",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
                     }
                 ]
             }
