@@ -13,6 +13,18 @@
 "stations": 
 [
 {
+"name": "PRUEBAS",
+"image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
+"url":"https://webuit.mizhls.ru/lb/premium268/index.m3u8",
+"info":"[ TINWORLD ]",
+"origin":"https://weblivehdplay.ru/",
+"referer":"https://olalivehdplay.ru/z.m3u8/",
+"embed":"",
+"isHost":"true",
+"online":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+},
+{
 "name": "DAZN RINGSIDE",
 "image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
 "url":"https://webudit.hlsjs.ru/lb/premium64/index.m3u8",
