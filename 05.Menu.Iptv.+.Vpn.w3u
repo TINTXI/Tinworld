@@ -27,8 +27,15 @@
         "isHost":"",
         "online":""
         },
+{
+        "name": "IPTV MUNDIAL 1 🌎 ( SIN VPN )",
+        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+        "url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlJMVEpwMGp4cC1JX2xjMmZDbTlWd0dJc2VMU1VmeENkSjJaSmxVOUdqcHRkdG5reXY5NHlLTkRwS0tSOHQxMDRfSDc0U3VoUTg4TEJhcC9wdWI%2FZ2lkPTg3NzkyODA2MSZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
+        "info":"",
+        "import": false
+        },
         {
-        "name": "IPTV MUNDIAL 🌎 ( SIN VPN )",
+        "name": "IPTV MUNDIAL 2 🌎 ( SIN VPN )",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "https://iptv-org.github.io/iptv/index.m3u",
         "info":"",
