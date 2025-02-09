@@ -9,7 +9,7 @@
 [
 {
 "name": "SI NO FUNCIONA ACTIVA UN VPN 👉 👉",
-"image": "https://i.postimg.cc/Pf2WbMjY/logo11-20-20531.png",
+"image": "https://i.postimg.cc/pLvpSZQK/IMG-20250209-121358.jpg",
 "url": "",
 "info":"",
 "import": false
@@ -18,12 +18,6 @@
 "name": "DAILY EVENTS 1",
 "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
 "url": "https://github.com/emaschi123/eventi/raw/refs/heads/main/daily.m3u8",
-"import": false
-},
-{
-"name": "DAILY EVENTS 2",
-"image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-"url": "https://bit.ly/mstream-m3u4",
 "import": false
 }
 ]
