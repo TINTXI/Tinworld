@@ -381,7 +381,18 @@
         "embed": "",
         "isHost": "true",
         "online": "true"
-        }
+        },
+{ 
+	"name": "Hagler 🆚 Mugabi",
+	"image": "https://i.postimg.cc/wvsGPjM7/sddefault-1.jpg",
+	"url": "https://nikaplayerr.com/file/aqpxa9ictmef",
+"referer":"",
+	"info": "10-03-1986",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+    "embed": "",
+	"isHost": "true",
+	"online": "true"
+	}
      
      
     ]
