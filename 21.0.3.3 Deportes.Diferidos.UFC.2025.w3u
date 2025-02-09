@@ -127,6 +127,59 @@
 },
 ]
 }
+{
+"name": "🥊UFC Fight Night: Adesanya 🆚 Imavov",
+"image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+"imageScale": "",
+"info":"",
+"stations":
+[
+{
+"name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
+"info":"[Preliminares][Latino]",
+"online":"true",
+"image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+"url":"https://filemoon.to/d/u2cneimrwljw",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
+{
+"name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
+"info":"[Maincard][Latino]",
+"online":"true",
+"image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+"url":"https://filemoon.to/d/tv9br1zns4c5",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
+{
+"name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
+"info":"[Preliminares][Español]",
+"online":"true",
+"image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+"url":"https://filemoon.to/d/ewyx98xs1jkl",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
+{
+"name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
+"info":"[Maincard][Español]",
+"online":"true",
+"image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
+"url":"https://filemoon.to/d/7s89rs84sk3m",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+}
+]
+}
 
 ]
 }
