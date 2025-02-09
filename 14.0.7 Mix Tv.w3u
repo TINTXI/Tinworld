@@ -168,6 +168,26 @@
                     "import": false
                     }
                 ]
+            },
+            {
+            "name": "Los Goya 2025",
+            "info":"2025",
+            "image": "https://i.postimg.cc/QdGpdjXZ/IMG-20250209-144723-901.jpg",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Los Goya 2025",
+                    "info":"2025",
+                    "image": "https://i.postimg.cc/QdGpdjXZ/IMG-20250209-144723-901.jpg",
+                    "url":"https://nikaplayerr.com/file/6py3st6d080r",
+                    "isHost":"true",
+                    "online":"true",
+                    "embed": "",
+                    "userAgent":"PlusMediaPlayer/0.0.9",
+                    "import": false
+                    }
+                ]
             }
          ]
       }
