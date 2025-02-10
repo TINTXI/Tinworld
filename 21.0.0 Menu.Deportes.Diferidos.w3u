@@ -69,6 +69,13 @@
          "url": "https://tinworld.vercel.app/21.0.9 Deportes.Diferidos.BASKET.w3u",
          "info":"",
          "import": false
-        }        
+        },
+        {
+         "name": "NFL (Próximamente)",
+         "image": "https://i.postimg.cc/4xQ382Xc/IMG-20250210-203955-1.jpg",
+         "url": "",
+         "info":"",
+         "import": false
+        }
     ]
 } 
