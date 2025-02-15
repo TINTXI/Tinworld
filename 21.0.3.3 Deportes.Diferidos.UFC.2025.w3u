@@ -88,7 +88,6 @@
 "referer" : "",
 "embed": ""
 },
-
 {
 "name": "🥊 UFC 311: Makhachev 🆚 Moicano",
 "info":"[Maincard][Español]
@@ -131,12 +130,13 @@
 "name": "🥊UFC Fight Night: Adesanya 🆚 Imavov",
 "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
 "imageScale": "",
-"info":"",
+"info":"0⃣1⃣/0⃣2⃣/2⃣5⃣",
 "stations":
 [
 {
 "name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
-"info":"[Preliminares][Latino]",
+"info":"[Preliminares][Latino]
+0⃣1⃣/0⃣2⃣/2⃣5⃣",
 "online":"true",
 "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
 "url":"https://filemoon.to/d/u2cneimrwljw",
@@ -147,7 +147,8 @@
 },
 {
 "name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
-"info":"[Maincard][Latino]",
+"info":"[Maincard][Latino]
+0⃣1⃣/0⃣2⃣/2⃣5⃣",
 "online":"true",
 "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
 "url":"https://filemoon.to/d/tv9br1zns4c5",
@@ -158,7 +159,8 @@
 },
 {
 "name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
-"info":"[Preliminares][Español]",
+"info":"[Preliminares][Español]
+0⃣1⃣/0⃣2⃣/2⃣5⃣",
 "online":"true",
 "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
 "url":"https://filemoon.to/d/ewyx98xs1jkl",
@@ -169,10 +171,44 @@
 },
 {
 "name": "🥊 UFC Fight Night: Adesanya 🆚 Imavov",
-"info":"[Maincard][Español]",
+"info":"[Maincard][Español]
+0⃣1⃣/0⃣2⃣/2⃣5⃣",
 "online":"true",
 "image": "https://i.postimg.cc/jdC8Z7Zs/UFC.png",
 "url":"https://filemoon.to/d/7s89rs84sk3m",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+}
+]
+},
+{
+"name": "🥊 UFC 312: Du Plessis 🆚 Strickland",
+"image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+"imageScale": "",
+"info":"0⃣8⃣/0⃣2⃣/2⃣5⃣",
+"stations":
+[
+{
+"name": "🥊 UFC 312: Du Plessis 🆚 Strickland",
+"info":"[Preliminares][Latino]
+0⃣8⃣/0⃣2⃣/2⃣5⃣",
+"online":"true",
+"image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+"url":"https://listeamed.net/v/kKJVORKkbRp53XD",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"isHost":"true",
+"referer" : "",
+"embed": ""
+},
+{
+"name": "🥊 UFC 312: Du Plessis 🆚  Strickland",
+"info":"[Maincard][Latino]
+0⃣8⃣/0⃣2⃣/2⃣5⃣",
+"online":"true",
+"image": "https://i.postimg.cc/25CMCgKt/ufc-312.png",
+"url":"https://listeamed.net/v/4bQVOjJRr19OwKm",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "isHost":"true",
 "referer" : "",
