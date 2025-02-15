@@ -22,9 +22,9 @@
 "import": false
 },
 {
-"name": "Films En Latino",
-"image": "https://i.postimg.cc/Cxq6TGF0/fotoefectos-com-5.png",
-"url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
+"name": "Films Desesperados",
+"image": "https://i.postimg.cc/X7NXQmn1/Polish-20250215-210535993-removebg-preview.png",
+"url": "https://tinworld.vercel.app/10.0.2 Films.En.Español.w3u",
 "info":"",
 "import": false
 },
@@ -32,6 +32,13 @@
 "name": "Films En Español",
 "image": "https://i.postimg.cc/SRbxd7NK/fotoefectos-com-2.png",
 "url": "https://tinworld.vercel.app/10.0.2 Films.En.Español.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "Films En Latino",
+"image": "https://i.postimg.cc/Cxq6TGF0/fotoefectos-com-5.png",
+"url": "https://tinworld.vercel.app/10.0.3 Films.En.latino.w3u",
 "info":"",
 "import": false
 },
