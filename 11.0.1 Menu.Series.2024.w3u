@@ -7,174 +7,180 @@
 "info":"",
 "groups":
     [
-               {
-               "name": "EN LA NAVE DEL ENCANTO",
-               "image": "https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie En La Nave Del Encanto.w3u",
-               "info":"2025[TINWORLD]",
-               "import": false
-	       },
-               {
-               "name": "PALMA, LA",
-               "image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.La.Palma.w3u",
-               "info":"2024[TINWORLD]",
-               "import": false
-	       },
-               {
-               "name": "EL JUEGO DEL CALAMAR",
-               "image": "https://i.postimg.cc/MHXvcC1R/temporada-3.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Juego.Del.Calamar.w3u",
-               "info":"2024[TINWORLD]",
-               "import": false
-	       },
-               {
-               "name": "FURIAS",
-               "image": "https://i.postimg.cc/4yMhBbSt/4654549.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Furias.w3u",
-               "info":"2024[TINWORLD]",
-               "import": false
-	       },
-               {
-               "name": "DUNE , LA PROFECIA",
-               "image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Dune,La Profecia.w3u",
-               "info":"2024[TINWORLD]",
-               "import": false
-	       },
-               {
-               "name": "1992",
-               "image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
-               "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie 1992.w3u",
-               "info":"2024[TINWORLD]",
-               "import": false
-		},
-                {
-		"name": "LA SOMBRA DE LA TIERRA",
-		"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie La Sombra De La Tierra.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "CELESTE",
-		"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Celeste.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "LOS AÑOS NUEVOS",
-		"image": "https://i.postimg.cc/NftXBFC5/IMG-20241201-151207-932.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Los Años Nuevos.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "FROM",
-		"image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "A QUE ESTAS ESPERANDO",
-		"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie A Que Estas Esperando.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "ASALTO AL BANCO CENTRAL ",
-		"image": "https://i.postimg.cc/Dzv1XQyF/IMG-20241109-235716-874.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Asalto Al Banco Central.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "CIUDAD DE DIOS- LA LUCHA NO PARA",
-		"image": "https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Ciudad De Dios La Lucha No Para.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "VERONIKA",
-		"image": "https://i.postimg.cc/c6GgWT0h/IMG-20241105-221320-297.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Veronika.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "BUSCANDO A WANDA",
-		"image": "https://i.postimg.cc/CLxmJTcN/46lza-RAlxr-WGygyqysjx0-Eg2-A9-W.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Buscando A Wanda.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-
-                {
-		"name": "AGATHA QUIEN SI NO",
-		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Agatha quien si no.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "LA ÚLTIMA NOCHE EN TREMOR",
-		"image": "https://i.postimg.cc/15mtW0wW/IMG-20241029-233401-482.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie la última noche en tremor.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "HOTEL COCAINE",
-		"image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Hotel Cocaine.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "LAS AZULES",
-		"image": "https://pics.filmaffinity.com/las_azules-635617266-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Las Azules.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "TEHERAN",
-		"image": "https://i.postimg.cc/134ZfZy3/temporada-1.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Teherán.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "CICATRIZ",
-		"image": "https://i.postimg.cc/x1N4Hc16/images.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Cicatriz.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "MONSTRUOS: LA HISTORIA DE LYLE Y ERIK MENDEZ",
-		"image": "https://i.postimg.cc/cJkj82qN/Monstruos-La-historia-de-Lyle-y-Erik-Menendez-Miniserie-de-TV-419063003-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Monstruos: La historia de Lyle y Erik Menendez.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "RESPIRA",
-		"image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie%20RESPIRA.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		},
-                {
-		"name": "RYPLEY",
-		"image": "https://i.postimg.cc/TYK4GDqC/ripley-423947230-mmed.jpg",
-		"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Ripley.w3u",
-		"info": "2024[TINWORLD]",
-		"import": false
-		}
-	     ]
-           }
+{
+"name": "VALERIA",
+"image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Valeria.w3u",
+"info":"2020-2025[TINWORLD]",
+"import": false
+},
+{
+"name": "EN LA NAVE DEL ENCANTO",
+"image": "https://i.postimg.cc/TP9H2dg9/IMG-20250125-182418-138.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie En La Nave Del Encanto.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
+{
+"name": "PALMA, LA",
+"image": "https://pics.filmaffinity.com/la_palma-625058003-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.La.Palma.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
+"name": "EL JUEGO DEL CALAMAR",
+"image": "https://i.postimg.cc/MHXvcC1R/temporada-3.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Juego.Del.Calamar.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
+"name": "FURIAS",
+"image": "https://i.postimg.cc/4yMhBbSt/4654549.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Furias.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
+"name": "DUNE , LA PROFECIA",
+"image": "https://pics.filmaffinity.com/dune_prophecy-305039059-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Dune,La Profecia.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
+"name": "1992",
+"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie 1992.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
+"name": "LA SOMBRA DE LA TIERRA",
+"image": "https://pics.filmaffinity.com/la_sombra_de_la_tierra-810968825-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie La Sombra De La Tierra.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "CELESTE",
+"image": "https://pics.filmaffinity.com/celeste-568800287-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Celeste.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "LOS AÑOS NUEVOS",
+"image": "https://i.postimg.cc/NftXBFC5/IMG-20241201-151207-932.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Los Años Nuevos.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "FROM",
+"image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie FROM.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "A QUE ESTAS ESPERANDO",
+"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie A Que Estas Esperando.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "ASALTO AL BANCO CENTRAL ",
+"image": "https://i.postimg.cc/Dzv1XQyF/IMG-20241109-235716-874.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Asalto Al Banco Central.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "CIUDAD DE DIOS- LA LUCHA NO PARA",
+"image": "https://i.postimg.cc/wTMc1YCG/IMG-20241106-214814-242.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Ciudad De Dios La Lucha No Para.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "VERONIKA",
+"image": "https://i.postimg.cc/c6GgWT0h/IMG-20241105-221320-297.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Veronika.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "BUSCANDO A WANDA",
+"image": "https://i.postimg.cc/CLxmJTcN/46lza-RAlxr-WGygyqysjx0-Eg2-A9-W.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Buscando A Wanda.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "AGATHA QUIEN SI NO",
+"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Agatha quien si no.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "LA ÚLTIMA NOCHE EN TREMOR",
+"image": "https://i.postimg.cc/15mtW0wW/IMG-20241029-233401-482.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie la última noche en tremor.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "HOTEL COCAINE",
+"image": "https://i.postimg.cc/hGk4Jgkk/hotel.png",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Hotel Cocaine.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "LAS AZULES",
+"image": "https://pics.filmaffinity.com/las_azules-635617266-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Las Azules.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "TEHERAN",
+"image": "https://i.postimg.cc/134ZfZy3/temporada-1.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Teherán.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "CICATRIZ",
+"image": "https://i.postimg.cc/x1N4Hc16/images.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Cicatriz.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "MONSTRUOS: LA HISTORIA DE LYLE Y ERIK MENDEZ",
+"image": "https://i.postimg.cc/cJkj82qN/Monstruos-La-historia-de-Lyle-y-Erik-Menendez-Miniserie-de-TV-419063003-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Monstruos: La historia de Lyle y Erik Menendez.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "RESPIRA",
+"image": "https://i.postimg.cc/BnQMcpBZ/Respira-Serie-de-TV-165509751-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie%20RESPIRA.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+},
+{
+"name": "RYPLEY",
+"image": "https://i.postimg.cc/TYK4GDqC/ripley-423947230-mmed.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie Ripley.w3u",
+"info": "2024[TINWORLD]",
+"import": false
+}
+]
+}
