@@ -8,11 +8,51 @@
 "stations":
 [ 		
 {
-"name": "CANNONIER 🆚 RODRIGUES 23:00 Horas",
-"info": "UFC [ACESTREAM] ",
+"name": "VALLADOLID 🆚 SEVILLA 16:15 Horas",
+"info": "FUTBOL [ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/ZnZvTQ82/jared-cannonier-vs-gregory-rodrigues-1-slug.jpg",
-"url": "acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652",
+"image": "https://i.postimg.cc/4xCvTyYF/logo2-16-114456.png",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"embed": "true"
+},
+{
+"name": "VALLADOLID 🆚 SEVILLA 16:15 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/4xCvTyYF/logo2-16-114456.png",
+"url": "acestream://28c8115681bf6e4565cb5e987530c2f606cc561f",
+"embed": "true"
+},
+{
+"name": "VALLADOLID 🆚 SEVILLA 16:15 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/4xCvTyYF/logo2-16-114456.png",
+"url": "acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8",
+"embed": "true"
+},
+{
+"name": "BETIS 🆚 REAL SOCIEDAD 21:00 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/3wtDWxwh/logo2-16-114432.png",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"embed": "true"
+},
+{
+"name": "BETIS 🆚 REAL SOCIEDAD 21:00 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/3wtDWxwh/logo2-16-114432.png",
+"url": "acestream://28c8115681bf6e4565cb5e987530c2f606cc561f",
+"embed": "true"
+},
+{
+"name": "BETIS 🆚 REAL SOCIEDAD 21:00 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/3wtDWxwh/logo2-16-114432.png",
+"url": "acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8",
 "embed": "true"
 }
 ]
