@@ -8,14 +8,6 @@
 "stations":
 [ 		
 {
-"name": "WOW 16 BILBAO 18:30 Horas",
-"info": "MMA [ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/NFPHjS9G/cartel-wow-bilbao-20250116192924-U74617652422-Wfv-1200x840-diario-abc.jpg",
-"url": "acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e",
-"embed": "true"
-},
-{
 "name": "CANNONIER 🆚 RODRIGUES 23:00 Horas",
 "info": "UFC [ACESTREAM] ",
 "online":"true",
