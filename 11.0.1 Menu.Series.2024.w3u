@@ -8,6 +8,13 @@
 "groups":
     [
 {
+"name": "SANTUARIO",
+"image": "https://pics.filmaffinity.com/santuario-226360635-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Santuario.w3u",
+"info":"2024[TINWORLD]",
+"import": false
+},
+{
 "name": "VALERIA",
 "image": "https://pics.filmaffinity.com/valeria-180619364-large.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Valeria.w3u",
