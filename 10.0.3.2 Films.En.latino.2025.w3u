@@ -36,7 +36,7 @@
 "embed": "true",
 "userAgent": "PlusMediaPlayer/0.0.9"
 },
-
+{
 "name": "BRIDGET JONES-LOCA POR EL",
 "info": "2025[TINWORLD]",
 "image": "https://i.postimg.cc/fRTbjNbC/portada-bridget-jones-loca-por-el-ed-de-pelicula-helen-fielding-202501071025.jpg",
@@ -45,6 +45,6 @@
 "online": "true",
 "embed": "",
 "userAgent": "PlusMediaPlayer/0.0.9"
-},
+}
 ]
 }
