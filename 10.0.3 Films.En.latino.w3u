@@ -7,19 +7,26 @@
 "info":"",
 "groups":
 [
-        {
-         "name": "Films En Latino 2024",
-         "image": "https://i.postimg.cc/jjgk1yZ2/IMG_20240615_015131_326.jpg",
-         "url": "https://tinworld.vercel.app/10.0.3.1 Films.En.latino.2024.w3u",
-         "info":"",
-         "import": false
-        },
-        {
-         "name": "Films En Latino 2023",
-         "image": "https://i.postimg.cc/htnwQDXD/IMG_20240615_015137_643.jpg",
-         "url": "https://tinworld.vercel.app/10.0.3.0 Films.En.latino.2023.w3u",
-         "info":"",
-         "import": false
-        }
-    ]
+{
+"name": "Films En Latino 2025",
+"image": "https://i.postimg.cc/0Q3MmxrB/IMG-20250219-204047.jpg",
+"url": "https://tinworld.vercel.app/10.0.3.2 Films.En.latino.2025.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "Films En Latino 2024",
+"image": "https://i.postimg.cc/jjgk1yZ2/IMG_20240615_015131_326.jpg",
+"url": "https://tinworld.vercel.app/10.0.3.1 Films.En.latino.2024.w3u",
+"info":"",
+"import": false
+},
+{
+"name": "Films En Latino 2023",
+"image": "https://i.postimg.cc/htnwQDXD/IMG_20240615_015137_643.jpg",
+"url": "https://tinworld.vercel.app/10.0.3.0 Films.En.latino.2023.w3u",
+"info":"",
+"import": false
+}
+]
 }
