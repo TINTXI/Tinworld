@@ -8,7 +8,19 @@
 "stations":
     [
 {
-"name": "VALENCIANA ",
+"name": "EMILIA PÉREZ",
+"image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
+"url": "https://nikaplayerr.com/file/504tg04zhnll",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "VALENCIANA",
 "image": "https://i.postimg.cc/rpmMQgj5/IMG-20250217-221724-871.jpg",
 "url": "https://nikaplayerr.com/file/fnurniysgyfw",
 "userAgent": "PlusMediaPlayer/0.0.9",
