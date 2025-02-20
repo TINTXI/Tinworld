@@ -8,6 +8,18 @@
 "stations":
     [
 {
+"name": "ANORA",
+"image": "https://i.postimg.cc/8cFn5VX4/IMG-20250221-001828-826.jpg",
+"url": "https://nikaplayerr.com/file/acgd0oodl5vt",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "EMILIA PÉREZ",
 "image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
 "url": "https://nikaplayerr.com/file/iovqsebaaiek",
