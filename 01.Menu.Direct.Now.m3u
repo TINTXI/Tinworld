@@ -9,11 +9,27 @@
 [ 
 
 {
-"name": "Borussia Dortmund 🆚 Sporting Portugal 18:45 Horas",
+"name": "Betis 🆚 Gent 18:45 Horas",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
-"url": "acestream://",
+"url": "acestream://c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0",
+"embed": "true"
+},
+{
+"name": "Betis 🆚 Gent 18:45 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://7274ccecb51b67499c4239eda91d4de6c9af8dd3",
+"embed": "true"
+},
+{
+"name": "Betis 🆚 Gent 18:45 Horas",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://10ae32928d1320eb98d4656cd1faa16ad3648e82",
 "embed": "true"
 }
 ]
