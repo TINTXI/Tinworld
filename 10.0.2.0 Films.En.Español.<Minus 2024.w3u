@@ -6,7 +6,19 @@
 "telegram": "TINWORLD_3_0",
 "info": "",
 "stations":
-    [
+[
+{
+"name": "ANATEMA",
+"image": "https://i.postimg.cc/RhHhjJPv/IMG-20250221-204535-954.jpg",
+"url": "https://nikaplayerr.com/file/f8q4u3gf2882",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "ANORA",
 "image": "https://i.postimg.cc/8cFn5VX4/IMG-20250221-001828-826.jpg",
