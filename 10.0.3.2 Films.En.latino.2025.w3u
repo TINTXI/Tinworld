@@ -83,7 +83,7 @@
 "url": "http://170.0.92.152/cloud_1/Star.Trek.Seccion.31.2025.720.lat.mp4",
 "isHost": "true",
 "online": "true",
-"embed": "",
+"embed": "true",
 "userAgent": "PlusMediaPlayer/0.0.9"
 }
 ]
