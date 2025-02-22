@@ -8,7 +8,7 @@
 "stations":
 [ 
 {
-"name": "FUTBOL PARA HOY",
+"name": "FUTBOL PARA HOY 2°",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/Bb8ptMV0/IMG-20250222-141604.jpg",
@@ -16,7 +16,7 @@
 "embed": "true"
 },
 {
-"name": "FUTBOL PARA HOY",
+"name": "FUTBOL PARA HOY 2°",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/Bb8ptMV0/IMG-20250222-141604.jpg",
@@ -24,7 +24,7 @@
 "embed": "true"
 },
 {
-"name": "FUTBOL PARA HOY",
+"name": "FUTBOL PARA HOY 2°",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/Bb8ptMV0/IMG-20250222-141604.jpg",
@@ -32,11 +32,43 @@
 "embed": "true"
 },
 {
-"name": "FUTBOL PARA HOY",
+"name": "FUTBOL PARA HOY 2°",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/Bb8ptMV0/IMG-20250222-141604.jpg",
 "url": "acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1",
+"embed": "true"
+},
+{
+"name": "FUTBOL PARA HOY 1°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"embed": "true"
+},
+{
+"name": "FUTBOL PARA HOY 1°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"embed": "true"
+},
+{
+"name": "FUTBOL PARA HOY 1°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d",
+"embed": "true"
+},
+{
+"name": "FUTBOL PARA HOY 1°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos-com-1.jpg",
+"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d",
 "embed": "true"
 }
 ]
