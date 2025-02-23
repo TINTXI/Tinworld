@@ -8,10 +8,74 @@
 "stations":
 [ 
 {
-"name": "FUTBOL PARA HOY 2°",
+"name": "Athletic club VS Real valladolid 14:00 Horas°",
 "info": "FUTBOL [ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/Bb8ptMV0/IMG-20250222-141604.jpg",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9",
+"embed": "true"
+},
+{
+"name": "Deportivo VS Huesca 14:00 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb",
+"embed": "true"
+},
+{
+"name": "Real madrid VS Girona 16:15 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+"embed": "true"
+},
+{
+"name": "Elche VS Cartagena 16:15 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://121f719ebb94193c6086ef92865cf9b197750980",
+"embed": "true"
+},
+{
+"name": "Getafe VS Real betis 18:30 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e",
+"embed": "true"
+},
+{
+"name": "Albacete VS Eldense 18:30 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://98784fa0714190de289f42eb5b84e405df7e685a",
+"embed": "true"
+},
+{
+"name": "Levante VS Mirandes 18:30 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb",
+"embed": "true"
+},
+{
+"name": "Real sociedad VS Leganes 21:00 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb",
+"embed": "true"
+},
+{
+"name": "Cadiz VS Castellon 21:00 Horas°",
+"info": "FUTBOL [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
 "url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb",
 "embed": "true"
 }
