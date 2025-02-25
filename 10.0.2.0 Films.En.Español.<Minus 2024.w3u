@@ -8,6 +8,18 @@
 "stations":
 [
 {
+"name": "STRAIGHT",
+"image": "https://i.postimg.cc/pLGwQFCf/IMG-20250225-215952-486.jpg",
+"url": "https://nikaplayerr.com/file/lcw4gxpvp6iv",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024[TINWORLD]",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "EL FINAL DE NUESTROS DIAS",
 "image": "https://i.postimg.cc/RhQtsk17/IMG-20250224-122141-879.jpg",
 "url": "https://nikaplayerr.com/file/g2uqrg15swpy",
