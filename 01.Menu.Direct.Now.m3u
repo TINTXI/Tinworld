@@ -8,53 +8,59 @@
 "stations":
 [ 
 {
-"name": "Manchester united VS Ipswich town 20:30 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Szeged VS Barcelona 18:45 Horas°",
+"info": "BALONMANO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102",
+"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
 "embed": "true"
 },
 {
-"name": "Nottingham forest VS Arsenal 20:30 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Crvena zvezda VS Zalgiris 20:00 Horas°",
+"info": "BALONCESTO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8",
+"url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac",
 "embed": "true"
 },
 {
-"name": "Tottenham VS Manchester city 20:30 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Olimpia milano VS Monaco 20:30 Horas°",
+"info": "BALONCESTO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
+"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2",
 "embed": "true"
 },
 {
-"name": "Liverpool VS Newcastle 21:15 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Paris VS Bayern 20:30 Horas°",
+"info": "BALONCESTO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a",
+"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895",
 "embed": "true"
 },
 {
-"name": "Real sociedad VS Real madrid 21:30 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Real madrid VS Barcelona 20:45 Horas°",
+"info": "BALONCESTO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
+"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2",
 "embed": "true"
 },
 {
-"name": "Real sociedad VS Real madrid 21:30 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
+"name": "Maccabi VS Fenerbahce 21:00 Horas°",
+"info": "BALONCESTO [ACESTREAM] ",
 "online":"true",
 "image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
 "embed": "true"
 },
-
+{
+"name": "West ham VS Leiceter city 21:00 Horas°",
+"online":"true",
+"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
+"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
+"embed": "true"
+}
 ]
 }
