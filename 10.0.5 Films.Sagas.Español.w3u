@@ -8,6 +8,68 @@
 "groups":
 [
 {
+"name": "EL REY LEON (SAGA)",
+"image": "https://pics.filmaffinity.com/ocho_apellidos_vascos-836127633-large.jpg",
+"stations": 
+[
+{
+"name": "EL REY LEON",
+"image": "https://i.postimg.cc/BnS2wCK1/IMG-20250228-205920-227.jpg",
+"url": "https://nikaplayerr.com/file/vsmqwjte9et3",
+"info": "1994[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "EL REY LEON 2_ EL TESORO DE SIMBA",
+"image": "https://i.postimg.cc/W11J7bBG/IMG-20250228-205934-101.jpg",
+"url": "https://nikaplayerr.com/file/alan378emehn",
+"info": "1998[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "EL REY LEON 3_HAKUNA MATATA",
+"image": "https://i.postimg.cc/jS3n3YTG/IMG-20250228-205942-601.jpg",
+"url": "https://nikaplayerr.com/file/zjqpgpo896iw",
+"info": "2004[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "EL REY LEON LA PELÍCULA",
+"image": "https://i.postimg.cc/YS4GJDqj/IMG-20250228-214859-685.jpg",
+"url": "https://nikaplayerr.com/file/qu7jfhspg829",
+"info": "2019[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "MUFASA_EL REY LEON ",
+"image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-large.jpg",
+"url": "https://filemoon.to/d/kvtbr3uidrxi/8_Apellidos_3_marroquies_2023_pelicula_castellano.mp4",
+"info": "2024[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+},
+{
 "name": "8 APELLIDOS SAGA",
 "image": "https://pics.filmaffinity.com/ocho_apellidos_vascos-836127633-large.jpg",
 "stations": 
