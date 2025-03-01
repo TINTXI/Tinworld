@@ -8,60 +8,55 @@
 "stations":
 [ 
 {
-"name": "Szeged VS Barcelona 18:45 Horas°",
-"info": "BALONMANO [ACESTREAM] ",
+"name": "Kape 🆚 Almabayev 00:00 Horas°",
+"info": "UFC + VPN",
 "online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "https://streamtp3.com/global1.php?stream=disney2",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":"true"
+},
+{
+"name": "Kape 🆚 Almabayev 00:00 Horas°",
+"info": "UFC [ACESTREAM] ",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d",
 "embed": "true"
 },
 {
-"name": "Crvena zvezda VS Zalgiris 20:00 Horas°",
-"info": "BALONCESTO [ACESTREAM] ",
+"name": "Kape 🆚 Almabayev 00:00 Horas°",
+"info": "UFC[ ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://d23a8e8d30e8c7492618f2b634a86c4ad202cc13",
 "embed": "true"
 },
 {
-"name": "Olimpia milano VS Monaco 20:30 Horas°",
-"info": "BALONCESTO [ACESTREAM] ",
+"name": "Davis 🆚  Roach 02:00 Horas°",
+"info": "BOXEO [ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://44126aee029b8a79513c576affdbc9bfb955b990",
 "embed": "true"
 },
 {
-"name": "Paris VS Bayern 20:30 Horas°",
-"info": "BALONCESTO [ACESTREAM] ",
+"name": "Davis 🆚  Roach 02:00 Horas°",
+"info": "BOXEO [ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77",
 "embed": "true"
 },
 {
-"name": "Real madrid VS Barcelona 20:45 Horas°",
-"info": "BALONCESTO [ACESTREAM] ",
+"name": "Davis 🆚  Roach 02:00 Horas°",
+"info": "BOXEO [ACESTREAM] ",
 "online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f",
 "embed": "true"
 },
-{
-"name": "Maccabi VS Fenerbahce 21:00 Horas°",
-"info": "BALONCESTO [ACESTREAM] ",
-"online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
-"embed": "true"
-},
-{
-"name": "West ham VS Leiceter city 21:00 Horas°",
-"info": "FUTBOL [ACESTREAM] ",
-"online":"true",
-"image": "https://i.postimg.cc/v8P7KmG9/fotoefectos.com__(1).jpg",
-"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a",
-"embed": "true"
-}
 ]
 }
