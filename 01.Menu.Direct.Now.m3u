@@ -8,55 +8,48 @@
 "stations":
 [ 
 {
-"name": "Kape 🆚 Almabayev 00:00 Horas°",
-"info": "UFC + VPN",
+"name": "Moto Gp 09:00 Horas°",
+"info": "MOTOGP [ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "https://streamtp3.com/global1.php?stream=disney2",
+"url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "online":"true",
 "isHost":"true"
 },
 {
-"name": "Kape 🆚 Almabayev 00:00 Horas°",
-"info": "UFC [ACESTREAM] ",
+"name": "Moto Gp 09:00 Horas°",
+"info": "MOTOGP [ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://b1797c899abe3cbf7a075d2814bfbb0375832c7d",
-"embed": "true"
+"url": "acestream://e253307f495a6beeda976d2363d72501f2dc1fe3",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":"true"
 },
 {
-"name": "Kape 🆚 Almabayev 00:00 Horas°",
-"info": "UFC[ ACESTREAM] ",
+"name": "Moto Gp 09:00 Horas°",
+"info": "MOTOGP [ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://d23a8e8d30e8c7492618f2b634a86c4ad202cc13",
-"embed": "true"
+"url": "acestream://03de691c3fea9ea7b6abefdc88a86f3a47b455f4",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":"true"
 },
 {
-"name": "Davis 🆚  Roach 02:00 Horas°",
-"info": "BOXEO [ACESTREAM] ",
+"name": "Moto Gp 09:00 Horas°",
+"info": "MOTOGP [ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://44126aee029b8a79513c576affdbc9bfb955b990",
-"embed": "true"
-},
-{
-"name": "Davis 🆚  Roach 02:00 Horas°",
-"info": "BOXEO [ACESTREAM] ",
+"url": "acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
 "online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77",
-"embed": "true"
-},
-{
-"name": "Davis 🆚  Roach 02:00 Horas°",
-"info": "BOXEO [ACESTREAM] ",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f",
-"embed": "true"
-},
+"isHost":"true"
+}
 ]
 }
