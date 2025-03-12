@@ -28,6 +28,18 @@
 "online": "true",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "PARTHENOPE",
+"image": "https://pics.filmaffinity.com/parthenope-795912387-large.jpg",
+"url": "https://filemoon.to/d/8ib5ynqb65qj/Ver_Parthenope_Pelicula_VOSE_HDFull_2.mp4",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
