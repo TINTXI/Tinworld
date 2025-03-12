@@ -735,6 +735,18 @@ De Auschwitz (Pelicula)",
         "userAgent": 
         "PlusMediaPlayer/0.0.9", 
 	    "import": false
+                },
+                {
+                "name": "The Fire InSide(Película)",
+                "info":"2024",
+                "image": "https://i.postimg.cc/qqcTCZ1N/eb2c5c302a4554a0282d15f929476b4f985d246fbc77b3493e9451d1a6a44916.jpg",
+                "url": "https://filemoon.to/d/s7pjnb2sqtwf",
+                "embed":"",
+                "isHost":"true",
+                "online":"true", 
+        "userAgent": 
+        "PlusMediaPlayer/0.0.9", 
+	    "import": false
                 }
             ]
         },
