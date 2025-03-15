@@ -320,5 +320,38 @@
 "isHost": "true",
 "online": "true"
 },
+{
+"name": "DELICIA",
+"image": "https://i.postimg.cc/tTGgzwqH/IMG-20250315-091601-772.jpg",
+"url": "https://filemoon.to/d/hupejy7ddu8s",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true"
+},
+{
+"name": "LA GRAN LILLIAN HALL",
+"image": "https://i.postimg.cc/GmbVvQwS/IMG-20250315-091618-347.jpg",
+"url": "https://filemoon.to/d/z0p06rmvqd5c",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true"
+},
+{
+"name": "EL CRITICO DE TEATRO",
+"image": "https://i.postimg.cc/CxJt7qwM/IMG-20250315-091849-197.jpg",
+"url": "https://filemoon.to/d/ueqdcxbhbkql",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true"
+}
 ]
 }
