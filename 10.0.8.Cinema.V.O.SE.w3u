@@ -40,6 +40,32 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+,
+{
+"name": "POPEYE THE SLAYER MAN",
+"image": "https://i.postimg.cc/LsyJMn21/IMG-20250327-222209-140.jpg",
+"url": "https://niikaplayerr.com/file/426qwklvnm51",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+,
+{
+"name": "CLEANER",
+"image": "https://i.postimg.cc/HW8VfYKr/IMG-20250327-222225-363.jpg",
+"url": "https://niikaplayerr.com/file/l0fnyfkqcy4u",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
