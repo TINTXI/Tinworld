@@ -7,6 +7,30 @@
 "info": "",
 "stations":
 [
+{
+"name": "QUEER",
+"image": "https://i.postimg.cc/4y7Gh2wv/IMG-20250329-215402-820.jpg",
+"url": "https://filemoon.to/d/p7ikgrkqqnin",
+"info": "2024[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "QUIEN ES QUIEN ?",
+"image": "https://i.postimg.cc/nryJKKwy/IMG-20250329-215352-502.jpg",
+"url": "https://filemoon.to/d/j3oeepg0ixox",
+"info": "2024[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 
 {
 "name": "PIDEME LO QUE QUIERAS",
