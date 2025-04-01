@@ -1,0 +1,99 @@
+{
+"name": "DIRECT NOW",
+"image": "https://i.postimg.cc/L6ZtWkhh/logo4-2-215117.png",
+"url": "https://tinworld.vercel.app/01.Menu.Direct.Now.w3u",
+"author": "*🌍→𝕋𝕀𝝢𝐖𝕆ℝ𝕃𝐃←🌍*ⴺ.Ø®",
+"telegram": "TINWORLD_3_0",
+"info": "",
+"stations":
+[ 
+{
+"name": "Arsenal vs Fulham 20:45 Horas°",
+"info": "Premier[ACESTREAM] ",
+"online":"",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":"true"
+},
+{
+"name": "Arsenal vs Fulham 20:45 Horas°",
+"info": "Premier[ACESTREAM] ",
+"online":"",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":"true"
+},
+{
+"name": "Nottingham Forest vs Manchester Utd. 21:00 Horas°",
+"info": "Premier[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Nottingham Forest vs Manchester Utd. 21:00 Horas°°",
+"info": "Premier[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid vs Real Sociedad 21:30 Horas°",
+"info": "Copa[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid vs Real Sociedad 21:30 Horas°",
+"info": "Copa[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid vs Real Sociedad 21:30 Horas°",
+"info": "Copa[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid vs Real Sociedad 21:30 Horas°",
+"info": "Copa[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+}
+]
+}
