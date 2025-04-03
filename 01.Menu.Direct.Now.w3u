@@ -8,29 +8,62 @@
 "stations":
 [ 
 {
-"name": "Manchester City vs Leicester City 20:45 Horas°",
-"info": "Premier[ACESTREAM] ",
+"name": "AS Monaco Basket vs Panathinaikos BC 19:00 Horas°",
+"info": "Euroliga[ACESTREAM] ",
 "online":"",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+"url": "acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "online":"true",
 "isHost":"true"
 },
 {
-"name": "Manchester City vs Leicester City 20:45 Horas°",
-"info": "Premier[ACESTREAM] ",
-"online":"",
+"name": "Maccabi Tel Aviv BC vs FC Bayern Basketball 20:30 Horas°",
+"info": "Euroliga[ACESTREAM]",
+"online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://c34a6552886fad4627ea36947fdec3e46e4e3b08",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"url": "acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f",
+"userAgent": "",
 "referer" : "",
 "online":"true",
-"isHost":"true"
+"isHost":""
 },
 {
-"name": "Liverpool vs Everton 21:00 Horas°",
+"name": "Maccabi Tel Aviv BC vs FC Bayern Basketball 20:30 Horas°°",
+"info": "Euroliga[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid Baloncesto vs Paris Basketball 21:00 Horas°",
+"info": "Euroliga[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Madrid Baloncesto vs Paris Basketball 21:00 Horas°",
+"info": "Euroliga[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Chelsea vs Tottenham 21:00 Horas°",
 "info": "Premier[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
@@ -41,55 +74,11 @@
 "isHost":""
 },
 {
-"name": "Liverpool vs Everton 21:00 Horas°°",
+"name": "Chelsea vs Tottenham 21:00 Horas°",
 "info": "Premier[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
 "url": "acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "At. Madrid vs FC Barcelona 21:30 Horas°",
-"info": "Copa[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "At. Madrid vs FC Barcelona 21:30 Horas°",
-"info": "Copa[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://c0d688a5045c5446c35f802a567ac3f0fa72b4b6",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "At. Madrid vs FC Barcelona 21:30 Horas°",
-"info": "Copa[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://20d44589bc1e51ffb60d2cd98fb24019c6736772",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "At. Madrid vs FC Barcelona 21:30 Horas°",
-"info": "Copa[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://2dcc9fa21935872130029206395a12cd10533a75",
 "userAgent": "",
 "referer" : "",
 "online":"true",
