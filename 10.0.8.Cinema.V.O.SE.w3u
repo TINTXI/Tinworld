@@ -66,6 +66,18 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "FIGHT OR FLIGHT",
+"image": "https://i.postimg.cc/tC8vHfhc/IMG-20250404-214318-909.jpg",
+"url": "https://cybervynx.com/a7wojthl3bkh",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
