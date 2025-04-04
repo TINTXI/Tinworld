@@ -7,7 +7,13 @@
 "info":"",
 "groups":
     [
-
+{
+"name": "SOULS",
+"image": "https://i.postimg.cc/T12QjGT1/IMG-20250404-210246.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.SOULS.w3u",
+"info":"2022[TINWORLD]",
+"import": false
+},
 {
 "name": "CHOSEN,THE",
 "image": "https://i.postimg.cc/8cgqt2yz/los-elegidos-temporada-1.png",
