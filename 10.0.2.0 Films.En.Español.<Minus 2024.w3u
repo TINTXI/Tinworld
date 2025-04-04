@@ -124,7 +124,7 @@
 "userAgent": "PlusMediaPlayer/0.0.9",
 "info": "2024[TINWORLD]",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
