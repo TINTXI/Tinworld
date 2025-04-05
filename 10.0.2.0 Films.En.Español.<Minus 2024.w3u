@@ -8,6 +8,18 @@
 "stations":
 [
 {
+"name": "AL OTRO BARRIO",
+"image": "https://i.postimg.cc/SsYPVTVc/IMG-20250406-000006-069.jpg",
+"url": "https://cybervynx.com/h13liy9n834p",
+"info": "2024[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "AMANECE EN SAMANÁ",
 "image": "https://i.postimg.cc/TYsXdNCb/IMG-20250405-143750-673.jpg",
 "url": "https://cybervynx.com/9cz2ci3oqloz",
