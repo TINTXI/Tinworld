@@ -90,6 +90,30 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "OPUS",
+"image": "https://i.postimg.cc/vHDBWN40/IMG-20250406-152213-678.jpg",
+"url": "https://lulu.st/xhrxuz875xs6",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "MICKEY 17",
+"image": "https://i.postimg.cc/L5JpZGxf/IMG-20250406-152852-642.jpg",
+"url": "https://lulu.st/ri4rodnotp3s",
+"info": "2025[TINWORLD]-V.O.S.E",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
