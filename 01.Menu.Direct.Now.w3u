@@ -8,73 +8,18 @@
 "stations":
 [ 
 {
-"name": "PSG vs Aston Villa 21:00 Horas°",
+"name": "Rangers FC vs Athletic Club 21:00 Horas°",
 "info": "Champions[ACESTREAM] ",
 "online":"",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://c070cdb701fc46bb79d17568d99fc64620443d63",
+"url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "online":"true",
 "isHost":"true"
 },
 {
-"name": "PSG vs Aston Villa 21:00 Horas°",
-"info": "Champions[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "PSG vs Aston Villa 21:00 Horas°",
-"info": "Champions[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://3618edda333dad5374ac2c801f5f14483934b97d",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "PSG vs Aston Villa 21:00 Horas°",
-"info": "Champions[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://0b348cc1ae499e810729661878764a0fab88ab69",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "FC Barcelona vs Borussia Dortmund 21:00 Horas°",
-"info": "Champions[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "FC Barcelona vs Borussia Dortmund 21:00 Horas°",
-"info": "Champions[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "FC Barcelona vs Borussia Dortmund 21:00 Horas°",
+"name": "Rangers FC vs Athletic Club 21:00 Horas°",
 "info": "Champions[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
@@ -85,7 +30,7 @@
 "isHost":""
 },
 {
-"name": "FC Barcelona vs Borussia Dortmund 21:00 Horas°",
+"name": "Rangers FC vs Athletic Club 21:00 Horas°",
 "info": "Champions[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
@@ -96,7 +41,62 @@
 "isHost":""
 },
 {
-"name": "Dallas Mavericks vs Los Angeles Lakers 01:30 Horas Madrugada°",
+"name": "Rangers FC vs Athletic Club 21:00 Horas°",
+"info": "Champions[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Betis vs Jagiellonia Bialystok 21:00 Horas°",
+"info": "Champions[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://c070cdb701fc46bb79d17568d99fc64620443d63",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Betis vs Jagiellonia Bialystok 21:00 Horas°",
+"info": "Champions[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Betis vs Jagiellonia Bialystok 21:00 Horas°",
+"info": "Champions[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://3618edda333dad5374ac2c801f5f14483934b97d",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Real Betis vs Jagiellonia Bialystok 21:00 Horas°",
+"info": "Champions[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
+"url": "acestream://0b348cc1ae499e810729661878764a0fab88ab69",
+"userAgent": "",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "Detroit Pistons vs New York Knicks 01:00 Horas Madrugada°",
 "info": "Baloncesto[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
@@ -107,11 +107,11 @@
 "isHost":""
 },
 {
-"name": "Dallas Mavericks vs Los Angeles Lakers 01:30 Horas Madrugada°",
+"name": "Brooklyn Nets vs Atlanta Hawks 01:30 Horas Madrugada°",
 "info": "Baloncesto[ACESTREAM]",
 "online":"true",
 "image": "https://i.postimg.cc/fLNdGGG7/Polish-20250301-213936254.jpg",
-"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895",
+"url": "acestream://3a74d9869b13e763476800740c6625e715a39879",
 "userAgent": "",
 "referer" : "",
 "online":"true",
