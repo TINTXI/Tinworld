@@ -4033,37 +4033,44 @@
                                         }, {
                                             "name": "UPLOAD T2X01", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/3anqs44es1cw/Upload_Temp2_Cap_1.mp4", 
+                                            "url": "https://filemoon.to/d/3anqs44es1cw/Upload_Temp2_Cap_1.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X02", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/pqfai65etj6r/Upload_Temp2_Cap_2.mp4", 
+                                            "url": "https://filemoon.to/d/pqfai65etj6r/Upload_Temp2_Cap_2.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X03", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/3e55udj2ytfs/Upload_Temp2_Cap_3.mp4", 
+                                            "url": "https://filemoon.to/d/3e55udj2ytfs/Upload_Temp2_Cap_3.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X04", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/es5wmzv9tfgf/Upload_Temp2_Cap_4.mp4", 
+                                            "url": "https://filemoon.to/d/es5wmzv9tfgf/Upload_Temp2_Cap_4.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X05", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/7bhsck9ha4pa", 
+                                            "url": "https://filemoon.to/d/7bhsck9ha4pa",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X06", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/72p3nwu5jwv8/Upload_Temp2_Cap_6.mp4", 
+                                            "url": "https://filemoon.to/d/72p3nwu5jwv8/Upload_Temp2_Cap_6.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                         }, {
                                             "name": "UPLOAD T2X07", 
                                             "image": "https://pics.filmaffinity.com/Upload_Serie_de_TV-400168266-large.jpg", 
-                                            "url": "https://filemoon.to/d/k7qcc3iga493/Upload_Temp2_Cap_7_.mp4", 
+                                            "url": "https://filemoon.to/d/k7qcc3iga493/Upload_Temp2_Cap_7_.mp4",
+                                            "userAgent": "PlusMediaPlayer/0.0.9",
                                             "isHost":"true"
                                             }]
                         }, {
