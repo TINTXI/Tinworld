@@ -7,6 +7,7 @@
 "info": "",
 "stations":
 [
+
 {
 "name": "SIN INSTRUCCIONES",
 "image": "https://i.postimg.cc/rmghp21g/IMG-20250418-151925-364.jpg",
@@ -2338,6 +2339,18 @@
       "image": "https://m.media-amazon.com/images/M/MV5BZGY1MzBjYzktNjllZS00MmIwLTkyODEtZGU2ZjQ0OWZkMTI0XkEyXkFqcGc@.jpg",
       "url": "https://moon-fm43w1qv.com/d/p7inf3b40dk1",
       "info": "2024[TINWORLD]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+
+    {
+      "name": "AVATAR EL SENTIDO DEL AGUA",
+      "image": "https://i.postimg.cc/GpGyC5Nt/IMG-20250420-014327-044.jpg",
+      "url": "https://lulu.st/3tpqb7p3txca",
+      "info": "2022",
       "embed": "",
       "isHost": "true",
       "online": "true",
