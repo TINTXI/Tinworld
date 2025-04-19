@@ -193,6 +193,39 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "CITA, LA",
+"image": "https://i.postimg.cc/m2tF3mjk/4406a2d1d3e75d70c4a64a4f912feaff.webp",
+"url": "https://filemoon.to/d/swtffduhha9f",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "WARFARE",
+"image": "https://i.postimg.cc/N04MvXDZ/IMG-20250418-221607-444.jpg",
+"url": "https://filemoon.to/d/4a1tjoa7rk97",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "PECADORES, LOS",
+"image": "https://i.postimg.cc/tTJX0MYV/4e56af2ac8498963ab5f1e2003f26743.jpg",
+"url": "https://filemoon.to/d/w7wphvwwt5nn",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
 ]
 }
