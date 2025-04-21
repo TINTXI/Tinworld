@@ -2345,7 +2345,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-
+    {
+      "name": "AMELIE",
+      "image": "https://i.postimg.cc/kMLmvPs1/IMG-20250421-201733-366.jpg",
+      "url": "https://lulu.st/6ttnjkc45huv",
+      "info": "2001",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "AVATAR EL SENTIDO DEL AGUA",
       "image": "https://i.postimg.cc/GpGyC5Nt/IMG-20250420-014327-044.jpg",
