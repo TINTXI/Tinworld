@@ -8,79 +8,68 @@
 "stations":
 [ 
 {
-"name": "🏍️ MOTO GP SPAIN",
-"info": "[ACESTREAM] ",
+"name": "🏀 Zaragoza VS Coruña 20:00 Horas",
+"info": "[ACESTREAM]",
 "online":"",
 "image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4",
+"url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "",
 "online":"true",
 "isHost":"true"
 },
 {
-"name": "🏍️ MOTO GP SPAIN",
-"info": "[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "🏍️ MOTO GP SPAIN ",
-"info": "[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": "🏍️ MOTO GP SPAIN",
-"info": "[ACESTREAM]",
-"online":"true",
-"image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e",
-"userAgent": "",
-"referer" : "",
-"online":"true",
-"isHost":""
-},
-{
-"name": " 🏍️ MOTO GP SPAIN",
+"name": "⚽ Barcelona VS Inter 21:00 Horas",
 "info": "",
 "online":"true",
 "image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "https://windnew.newkso.ru/wind/premium521/mono.m3u8",
+"url": "https://esx1new.newkso.ru/esx1/primacampeones/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://huhu.to/",
 "online":"true",
 "isHost":""
 },
 {
-"name": " 🏍️ MOTO GP SPAIN",
+"name": "⚽ Barcelona VS Inter 21:00 Horas",
 "info": "",
 "online":"true",
 "image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "https://esx1new.newkso.ru/esx1/primavamos/mono.m3u8",
+"url": "https://wikinew.newkso.ru/wiki/mlaligahd/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://huhu.to/",
 "online":"true",
 "isHost":""
 },
 {
-"name": " 🏍️ MOTO GP SPAIN",
+"name": "⚽ Barcelona VS Inter 21:00 Horas",
 "info": "",
 "online":"true",
 "image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
-"url": "https://azonew.newkso.ru/azo/dazn1es/mono.m3u8",
+"url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://huhu.to/",
+"online":"true",
+"isHost":""
+},
+{
+"name": "⚽ Barcelona VS Inter 21:00 Horas",
+"info": "[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
+"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
+"online":"true",
+"isHost":""
+},
+{
+"name": "⚽ Barcelona VS Inter 21:00 Horas",
+"info": "[ACESTREAM]",
+"online":"true",
+"image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
+"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer" : "",
 "online":"true",
 "isHost":""
 }
