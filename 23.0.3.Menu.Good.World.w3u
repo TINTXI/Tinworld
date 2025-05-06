@@ -2,28 +2,40 @@
 
 #EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",ABC USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium51/index.m3u8
+
 #EXTINF:-1 tvg-name="A&E USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",A&E USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium302/index.m3u8
+
 #EXTINF:-1 tvg-name="AMC USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",AMC USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium303/index.m3u8
+
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Animal Planet
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium304/index.m3u8
+
 #EXTINF:-1 tvg-name="ACC Network USA" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",ACC Network USA
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium666/index.m3u8
+
 #EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Astro SuperSport 1
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webufffit.mizhls.ru/lb/premium123/index.m3u8
+
 #EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://i.postimg.cc/50kZFCQZ/logo6-15-175152.png" group-title="GOODWORLD",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
