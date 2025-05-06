@@ -7,7 +7,13 @@
 "info":"",
 "groups":
     [
-
+{
+"name": "LA TIERRA PERMANECE",
+"image": "https://i.postimg.cc/wT29zcnk/IMG-20250504-192552.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.LA.TIERRA.PERMANECE.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
 {
 "name": "FISICA O QUIMICA-LA NUEVA GENERACIÓN",
 "image": "https://i.postimg.cc/85vjQWFF/IMG-20250422-193439-123.jpg",
