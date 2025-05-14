@@ -76,13 +76,13 @@
 {
 "name": "Real Madrid - Mallorca",
 "info": "",
-"embed":"",
+"embed":"true",
 "image": "https://i.postimg.cc/htxZwbb0/logo4-18-123153.png",
 "url": "https://my.xtraball.xyz/hembedplayer/hgfjh5bhf5/4/640/480",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer" : "https://huhu.to/",
 "online":"true",
-"isHost":""
+"isHost":"true"
 },
 {
 "name": "Real Madrid - Mallorca",
