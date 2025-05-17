@@ -23,7 +23,13 @@
           "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
           "url": "https://tinworld.vercel.app/06.0.DAILY.EVENTS.w3u",
           "import": "true"
-          },                
+          },
+          {
+          "name": "PRUEBAS 1",
+          "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
+          "url": "https://tinworld.vercel.app/008.PRUEBAS.w3u",
+          "import": "true"
+          },  
        {
        "name": "LISTA TV",
        "image": "https://i.postimg.cc/KvBQw36P/3dgifmaker06595.gif",
