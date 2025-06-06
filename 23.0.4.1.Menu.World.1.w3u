@@ -1005,10 +1005,10 @@ https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
 
 #EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Sky Sport",Sky Sports F1 UK
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://daddylive.dad/
+#EXTVLCOPT:http-origin=https://daddylive.dad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium60/index.m3u8
+https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 player-buffer="15" tvg-logo="https://i.postimg.cc/MGfR6yxv/Polish-20241210-195905357-removebg-preview.png" group-title="Sky Sport",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
