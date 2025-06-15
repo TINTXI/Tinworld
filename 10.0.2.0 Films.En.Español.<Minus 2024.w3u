@@ -8,6 +8,18 @@
 "stations":
 [
 {
+"name": "CHICOS DEL CORO, LOS",
+"image": "https://i.postimg.cc/zBrzY1Zd/IMG-20250615-215339-618.jpg",
+"url": "https://filemoon.to/d/e8mz5xf40u3b",
+"info": "2004[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "PROYECTO ADAM, EL",
 "image": "https://pics.filmaffinity.com/the_adam_project-982692706-large.jpg",
 "url": "https://filemoon.to/d/d5f50mlt0ued/El_proyecto_Adam__2022_.mp4",
