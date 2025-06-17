@@ -17,7 +17,7 @@
 {
 "name": "DAILY EVENTS 1",
 "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-"url": "https://raw githubusercontent.com/Drewski2423/DrewLive/main/DaddyLive.m3u8",
+"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLive.m3u8",
 "import": false
 },
 {
@@ -41,13 +41,13 @@
 {
 "name": "DAILY EVENTS 5",
 "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-"url": "https://raw githubusercontent.com/Drewski2423/DrewLive/main/TVPass.m3u",
+"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/TVPass.m3u",
 "import": false
 },
 {
 "name": "DAILY EVENTS 6",
 "image": "https://i.postimg.cc/jqvP0HDp/images-removebg-preview.png",
-"url": "https://raw githubusercontent.com/Drewski2423/DrewLive/main/UDPTV.m3u",
+"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/UDPTV.m3u",
 "import": false
 }
 ]
