@@ -8,6 +8,13 @@
 "groups":
     [
 {
+"name": "EL JARDINERO",
+"image": "https://pics.filmaffinity.com/el_jardinero-762120016-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Jardinero.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
+{
 "name": "4400, LOS",
 "image": "https://i.postimg.cc/BZDLyj3k/530490.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.LOS.4400.w3u",
