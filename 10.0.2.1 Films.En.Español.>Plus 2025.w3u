@@ -1004,6 +1004,28 @@
 "online": "true",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "SIN EL",
+"image": "https://i.postimg.cc/D0Y1KZVW/IMG-20250803-132042-400.jpg",
+"url": "https://filemoon.to/d/j8rbxsf41qte",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "ZOMBIES 4",
+"image": "https://i.postimg.cc/Vs7qt7SY/IMG-20250803-132009-363.jpg",
+"url": "https://filemoon.to/d/rpkw4vxqt8z4",
+"info": "2025[TINWORLD]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
 }
 ]
 }
