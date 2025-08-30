@@ -8,6 +8,18 @@
 "stations":
 [
 {
+"name": "ELYSIUM",
+"image": "https://i.postimg.cc/QNw9sVTR/IMG-20250830-085705-496.jpg",
+"url": "https://filemoon.to/d/85lnr7mvnxdn",
+"info": "2013[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "WOULD YOU RATHER",
 "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/94/82/92/20359601.jpg",
 "url": "https://filemoon.in/d/2ioldpuucxv4",
