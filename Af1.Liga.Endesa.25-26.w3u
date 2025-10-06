@@ -15,10 +15,10 @@
         "stations":
             [
 		{
-       		"name": "",
-	        "info": "[05/10/2025]",
+       		"name": "Unicaja 🆚 Bilbao Basket",
+	        "info": "[04/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
-	        "url": "",
+	        "url": "https://filemoon.to/d/4s2pd8vq2rhq",
       		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       		"embed": "",
       		"referer": "",
@@ -27,6 +27,78 @@
       		"import": false
         	},
         	{
+       		"name": "Burgos 🆚 Girona",
+	        "info": "[04/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/ewdj5l4m0dxf",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+ 		{
+       		"name": "La Laguna 🆚 Manresa",
+	        "info": "[04/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/pqwva21zqqxv",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+      		},
+{
+       		"name": "Lleida 🆚 Breogan",
+	        "info": "[04/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/s95dpndwqrrf",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+      		},
+{
+       		"name": "Coviran 🆚 Joventut",
+	        "info": "[05/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/taldx0u2oywu",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+      		},
+{
+       		"name": "Real Madrid 🆚 Gran Canaria",
+	        "info": "[05/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/hpa1ploqp3p8",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+      		},
+{
+       		"name": "Zaragoza 🆚 Baskonia",
+	        "info": "[05/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://filemoon.to/d/w00ij23ihw44",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+      		},
+{
        		"name": "",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -37,8 +109,8 @@
       		"isHost": "true",
       		"online": "true",
       		"import": false
-        	},
- 		{
+      		},
+{
        		"name": "",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
