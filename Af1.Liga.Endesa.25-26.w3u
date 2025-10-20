@@ -239,6 +239,122 @@
       		"online": "true",
       		"import": false
         	}
+]
+},
+{
+        "name": "JORNADA 03",
+        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+        "info": "[18-19 Octubre 2025]",
+        "stations":
+            	[
+		{
+       		"name": "Básquet Girona 🆚 Ucam Murcia",
+	        "info": "[18/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		{
+       		"name": "Morabanc Andorra 🆚 La Laguna Tenerife",
+	        "info": "[18/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Dreamland Gran Canaria 🆚 Unicaja ",
+	        "info": "[18/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Baxi Manresa 🆚 Coviran Granada",
+	        "info": "[18/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Joventut Badalona 🆚 Casademont Zaragoza",
+	        "info": "[19/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Barça 🆚 Hiopos Lleida",
+	        "info": "[19/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Rio Breogan 🆚 Valencia Basket",
+	        "info": "[19/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Surne Bilbao Basket 🆚 Recoletas Salud Burgos",
+	        "info": "[19/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+{
+       		"name": "Baskonia 🆚 Real Madrid",
+	        "info": "[19/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
         	]
 	}
 	
