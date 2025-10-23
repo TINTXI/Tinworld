@@ -8,6 +8,13 @@
 "groups":
     [
 {
+"name": "YELLOWSTONE",
+"image": "https://pics.filmaffinity.com/yellowstone-884945491-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.YELLOWSTONE.w3u",
+"info":"2018-2024[TINWORLD]",
+"import": false
+},
+{
 "name": "PENNY DREADFUL",
 "image": "https://i.postimg.cc/hGrc3D4y/568588-penny-dreadful-temporada-3-mira-trailer-completo-cartel-final.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Penny.Dreadful.w3u",
