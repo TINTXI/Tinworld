@@ -14,7 +14,7 @@
         "info": "[04-05 Octubre 2025]",
         "stations":
             [
-		{
+		    {
        		"name": "Unicaja 🆚 Bilbao Basket",
 	        "info": "[04/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -38,7 +38,7 @@
       		"online": "true",
       		"import": false
         	},
- 		{
+ 		    {
        		"name": "La Laguna 🆚 Manresa",
 	        "info": "[04/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -50,7 +50,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Lleida 🆚 Breogan",
 	        "info": "[04/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -62,7 +62,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Coviran 🆚 Joventut",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -74,7 +74,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Real Madrid 🆚 Gran Canaria",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -86,7 +86,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Zaragoza 🆚 Baskonia",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -98,7 +98,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Ucam Murcia 🆚 Morabanc Andorra",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -110,7 +110,7 @@
       		"online": "true",
       		"import": false
       		},
-{
+            {
        		"name": "Valencia Basket 🆚 Barça",
 	        "info": "[05/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -131,7 +131,7 @@
         "info": "[11-12 Octubre 2025]",
         "stations":
             	[
-		{
+		    {
        		"name": "Básquet Girona 🆚 Ucam Murcia",
 	        "info": "[11/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -143,7 +143,7 @@
       		"online": "true",
       		"import": false
         	},
-		{
+		    {
        		"name": "Morabanc Andorra 🆚 La Laguna Tenerife",
 	        "info": "[11/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -155,7 +155,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Dreamland Gran Canaria 🆚 Unicaja ",
 	        "info": "[11/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -167,7 +167,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Baxi Manresa 🆚 Coviran Granada",
 	        "info": "[11/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -179,7 +179,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Joventut Badalona 🆚 Casademont Zaragoza",
 	        "info": "[12/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -191,7 +191,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Barça 🆚 Hiopos Lleida",
 	        "info": "[12/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -203,7 +203,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Rio Breogan 🆚 Valencia Basket",
 	        "info": "[12/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -215,7 +215,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Surne Bilbao Basket 🆚 Recoletas Salud Burgos",
 	        "info": "[12/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -227,7 +227,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Baskonia 🆚 Real Madrid",
 	        "info": "[12/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -247,7 +247,7 @@
         "info": "[18-19 Octubre 2025]",
         "stations":
             	[
-		{
+		    {
        		"name": "Manresa 🆚 Gran Canaria",
 	        "info": "[18/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -259,7 +259,7 @@
       		"online": "true",
       		"import": false
         	},
-		{
+		    {
        		"name": "Andorra 🆚 Girona",
 	        "info": "[18/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -271,7 +271,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Tenerife 🆚 Ucam",
 	        "info": "[18/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -283,7 +283,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Zaragoza 🆚 Breogan",
 	        "info": "[18/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -295,7 +295,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Joventut Badalona 🆚 Bilbao Basket",
 	        "info": "[19/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -307,7 +307,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Real  Madrid 🆚 Burgos",
 	        "info": "[19/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -319,7 +319,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Lleida 🆚 Valencia Basket",
 	        "info": "[19/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -331,7 +331,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Granada 🆚 Baskonia",
 	        "info": "[19/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -343,7 +343,7 @@
       		"online": "true",
       		"import": false
         	},
-{
+            {
        		"name": "Unicaja 🆚 Barça",
 	        "info": "[19/10/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
@@ -356,7 +356,123 @@
       		"import": false
         	}
         	]
-	}
+	      },
+        {
+        "name": "JORNADA 04",
+        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+        "info": "[25-26 Octubre 2025]",
+        "stations":
+            	[
+		    {
+       		"name": "Lleida 🆚 Granada",
+	        "info": "[25/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Barça 🆚 Breogan",
+	        "info": "[25/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Tenerife 🆚 Unicaja",
+	        "info": "[25/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Recoletas 🆚 Zaragoza",
+	        "info": "[25/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Girona 🆚 Gran Canaria",
+	        "info": "[26/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Murcia 🆚 Baskonia",
+	        "info": "[26/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Bilbao Basket 🆚 Andorra",
+	        "info": "[26/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Valencia  Basket 🆚 Badalona",
+	        "info": "[26/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Real Madrid  🆚 Manresa",
+	        "info": "[26/10/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+        	]
+	       }
 	
 ]
 }
