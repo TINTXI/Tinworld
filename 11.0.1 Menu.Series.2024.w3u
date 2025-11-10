@@ -8,6 +8,13 @@
 "groups":
     [
 {
+"name": "EL CENTRO",
+"image": "https://pics.filmaffinity.com/El_Centro_Serie_de_TV-288954481-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.El.Centro.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
+{
 "name": "YELLOWSTONE",
 "image": "https://pics.filmaffinity.com/yellowstone-884945491-large.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.YELLOWSTONE.w3u",
