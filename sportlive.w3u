@@ -15,7 +15,7 @@
 {
 "name": "ESPN-BR-DIRECT",
 "image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
-"url":"https://dwqejs.6522236688.shop:8443/hls/57g57feq.m3u8?s=cZ1KhqxtH9Pw2TuBtMab3g&e=1763692183",
+"url":"https://dwqejs.6522236688.shop:8443/hls/57g57feq.m3u8",
 "info":"[ TINWORLD ]",
 "origin":"https://dukehorror.net",
 "referer":"https://dukehorror.net",
@@ -29,11 +29,12 @@
 "image":"https://i.postimg.cc/gjj21Vv6/Yhu74J4.jpg",
 "url":"https://sportzonline.live/channels/bra/br2.php",
 "info":"[ TINWORLD ]",
-"origin":"https://dukehorror.net",
-"referer":"https://dukehorror.net",
+"origin":"",
+"referer":"",
 "embed":"",
 "isHost":"true",
 "online":"true",
+"import": "false",
 "userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
 }
 
