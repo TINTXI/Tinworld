@@ -152,7 +152,25 @@
                       "embed": ""
                       }
                     ]
+                  },
+{
+       "name": "𝕂𝕀𝕆𝕊𝕂𝕆 𝕋𝕀ℕ𝕎𝕆ℝ𝕃𝔻 4",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "𝕂𝕀𝕆𝕊𝕂𝕆 𝕋𝕀ℕ𝕎𝕆ℝ𝕃𝔻 4",
+                      "info":"",
+                      "image": "",
+                      "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/sportlive.w3u",
+                      "embed": ""
+                      }
+                    ]
                   }
+
+
 
 ]
 }
