@@ -8,17 +8,19 @@
                     "url": "https://dwqejs.6522236688.shop:8443/hls/57g57feq.m3u8?s=cZ1KhqxtH9Pw2TuBtMab3g&e=1763692183",
                     "referer": "https://dukehorror.net",
                     "origin": "https://dukehorror.net",
-                    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-                    "isHost": true
+                    "import": "false",
+                    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+                    "isHost": "true"
                 },
                 {
                     "name": "Rai 2 Italy",
                     "image": "https://i.ibb.co/tpBqc3q/ezgif-2-d425b0dc45-unscreen.gif",
-                    "url": "",
-                    "referer": "https://lefttoplay.xyz/",
-                    "origin": "https://lefttoplay.xyz",
-                    "userAgent": "Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-                    "isHost": true
+                    "url": "https://sportzonline.live/channels/bra/br2.php",
+                    "referer": "https://dukehorror.net",
+                    "origin": "https://dukehorror.net",
+                    "import": "false",
+                    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+                    "isHost": "true"
                   }
                  ]
                 }
