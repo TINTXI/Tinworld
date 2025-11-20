@@ -9,9 +9,9 @@
     [ 
   { "name": " SportsOnline HD 1", 
   "image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png", 
-  "url": "https://sportzonline.si/channels/hd/hd1.php", 
+  "url": "https://sportsonline.sn/channels/hd/hd1.php", 
   "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14", 
-  "referer": "https://sportsonline.gl/", 
+  "referer": "https://sportsonline.sn/", 
   "isHost": true 
   },
 
