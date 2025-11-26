@@ -820,7 +820,129 @@
       		"import": false
         	}
         	]
+	       },
+
+
+
+
+
+{
+        "name": "JORNADA 08",
+        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+        "info": "[22-23 Noviembre 2025]",
+        "stations":
+            	[
+		    {
+       		"name": "Lleida 🆚 Murcia",
+	        "info": "[22/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Granada 🆚 Real Madrid",
+	        "info": "[22/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Unicaja 🆚 Manresa",
+	        "info": "[22/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Breogan 🆚 Recoletas",
+	        "info": "[22/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Andorra 🆚 Badalona",
+	        "info": "[23/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Baskonia 🆚 Bilbao",
+	        "info": "[23/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Valencia Basket 🆚 Girona",
+	        "info": "[23/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Zaragoza 🆚 Tenerife",
+	        "info": "[23/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Gran Canaria 🆚 Barça",
+	        "info": "[23/11/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+        	]
 	       }
+
 
 ]
 }
