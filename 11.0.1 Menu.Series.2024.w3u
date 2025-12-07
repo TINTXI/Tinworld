@@ -8,10 +8,17 @@
 "groups":
     [
 {
+"name": "PUBERTAT",
+"image": "https://pics.filmaffinity.com/pubertat-661863144-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Pubertat.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
+{
 "name": "DEADWIND-TEMP-3",
 "image": "https://i.postimg.cc/y6XPQbD3/images-(1).jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Deadwind-Temp3.w3u",
-"info":"2025[TINWORLD]",
+"info":"2022[TINWORLD]",
 "import": false
 },
 {
