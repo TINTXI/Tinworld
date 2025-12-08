@@ -8,6 +8,13 @@
 "groups":
     [
 {
+"name": "SILENCIO",
+"image": "https://pics.filmaffinity.com/silencio-199090984-large.jpg",
+"url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Silencio.w3u",
+"info":"2025[TINWORLD]",
+"import": false
+},
+{
 "name": "STRANGER THINGS 5",
 "image": "https://pics.filmaffinity.com/stranger_things_5-290686966-large.jpg",
 "url": "https://raw.githubusercontent.com/TINTXI/SERIES2/main/Serie.Stranger.Things.5.w3u",
