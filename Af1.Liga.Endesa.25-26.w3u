@@ -1384,7 +1384,7 @@
        		"name": "Valencia Basket 🆚 Andorra",
 	        "info": "[28/12/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
-	        "url": "",
+	        "url": "https://bysefujedu.com/e/xh1th7epi2os",
       		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       		"embed": "",
       		"referer": "",
@@ -1396,7 +1396,123 @@
        		"name": "Real Madrid 🆚 Unicaja",
 	        "info": "[28/12/2025]",
 	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/e1x7bqhngevg",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+           ]
+          },
+{
+        "name": "JORNADA 13",
+        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+        "info": "[29-02 Diciembre-Enero 2025/26]",
+        "stations":
+            	[
+		    {
+       		"name": "Breogan 🆚 Baskonia",
+	        "info": "[29/12/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/jbtwv67iaykf",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Recoletas 🆚 Gran Canaria",
+	        "info": "[30/12/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/feo62915lsm5",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Unicaja 🆚 Badalona",
+	        "info": "[30/12/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/41ducx9tvxdv",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Tenerife 🆚 Granada",
+	        "info": "[30/12/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
 	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Murcia 🆚 Real Madrid",
+	        "info": "[30/12/2025]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/jg3qfot607r2",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Bilbao 🆚 Valencia",
+	        "info": "[02/01/2026]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/jeymfo9wrbsj",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Andorra 🆚 Lleida",
+	        "info": "[02/01/2026]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/ypie19bi628g",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Barça 🆚 Zaragoza",
+	        "info": "[02/01/2026]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/w6u3ynaq1yzw",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Manresa 🆚 Girona",
+	        "info": "[02/01/2026]",
+	        "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
+	        "url": "https://bysefujedu.com/e/6fc83yhc5r1z",
       		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       		"embed": "",
       		"referer": "",
@@ -1406,6 +1522,7 @@
         	}
            ]
           }
+
 
 ]
 }
