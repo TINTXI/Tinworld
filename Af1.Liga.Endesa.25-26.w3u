@@ -1752,11 +1752,10 @@
       		"isHost": "true",
       		"online": "true",
       		"import": false
-        	},
-
-
-
-{
+        	}
+           ]
+          },
+        {
         "name": "JORNADA 16",
         "image": "https://i.postimg.cc/jjXjrz59/logo10-5-173615.png",
         "info": "[17-18 Enero 2026]",
