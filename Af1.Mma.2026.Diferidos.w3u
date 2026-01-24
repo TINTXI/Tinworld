@@ -8,10 +8,19 @@
 "stations":
 	[
 		{
-      "name": "",
-      "image": "",
-      "url": "",
-      "info": "",
+      "name": "Parnasse 🆚 Held - KSW_114",
+      "image": "https://i.postimg.cc/GhDDSq58/images-(1).jpg",
+      "url": "https://voe.sx/e/cgpeq3rhpe5h",
+      "info": "17-01-26",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+      },
+      {
+      "name": "Parnasse 🆚 Held - KSW_114",
+      "image": "https://i.postimg.cc/GhDDSq58/images-(1).jpg",
+      "url": "https://voe.sx/e/cgpeq3rhpe5h",
+      "info": "17-01-26",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
