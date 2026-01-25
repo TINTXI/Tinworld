@@ -25,8 +25,16 @@
 	"userAgent": "PlusMediaPlayer/0.0.9",
 	"isHost":"true",
 	"online":"true"
+	},
+    {
+	"name": "Muratalla 🆚 Cruz",
+	"image": "https://i.postimg.cc/dQhZdBMN/img-3680.jpg",
+	"url": "https://voe.sx/e/3eeercxjzkje",
+	"info": "24-01-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
 	}
-	
     
 	
 ]
