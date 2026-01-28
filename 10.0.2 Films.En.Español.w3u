@@ -20,6 +20,13 @@
          "url": "https://tinworld.vercel.app/10.0.2.1 Films.En.Español.>Plus 2025.w3u",
          "info":"",
          "import": false
+        },
+        {
+         "name": "Films En Español >Plus 2026",
+         "image": "https://i.postimg.cc/SRbxd7NK/fotoefectos-com-2.png",
+         "url": "https://tinworld.vercel.app/10.0.2.2 Films.En.Español.>Plus 2026.w3u",
+         "info":"",
+         "import": false
         }
     ]
 }
