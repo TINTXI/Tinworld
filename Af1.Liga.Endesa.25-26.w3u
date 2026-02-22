@@ -2336,10 +2336,102 @@
       		"isHost": "true",
       		"online": "true",
       		"import": false
-        	}    
+        	}
 
         ]
-       }
+       },
+{
+        "name": "Copa Del Rey - Valencia 2026",
+        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+        "info": "[19-22-Febrero 2026]",
+        "stations":
+            	[
+		    {
+       		"name": "Cuartos- Valencia basket 🆚 Joventut Badalona",
+	        "info": "[19/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/0zp97d83mt34",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Cuartos- Real Madrid 🆚 Unicaja",
+	        "info": "[19/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/an23j8zlr7mh",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Cuartos - Baskonia 🆚 la Laguna Tenerife",
+	        "info": "[20/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/blskmz0m54fp",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Cuartos - Barça 🆚 Murcia",
+	        "info": "[20/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/6sgbw4g8y00w",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Semifinal - Valencia Basket 🆚 Real Madrid",
+	        "info": "[21/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/lyh1247wqpvu",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Semifinal - Barça 🆚 Baskonia",
+	        "info": "[21/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "https://bysefujedu.com/e/mljxk2ro6ok9",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "final - Real Madrid 🆚 Baskonia",
+	        "info": "[22/02/2026]",
+	        "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+	        "url": "",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+           ]
+          }
 
 ]
 }
