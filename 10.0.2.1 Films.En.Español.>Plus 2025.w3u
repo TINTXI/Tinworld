@@ -1337,6 +1337,30 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "SORDA",
+"image": "https://i.postimg.cc/QM7yZX00/IMG-20260305-212154-700.jpg",
+"url": "https://luluvdo.com/e/s4gc5957iv8a",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "ROMERIA",
+"image": "https://i.postimg.cc/HkcSbYGK/IMG-20260305-212201-025.jpg",
+"url": "https://luluvdo.com/e/yro5elk1d5bb",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
