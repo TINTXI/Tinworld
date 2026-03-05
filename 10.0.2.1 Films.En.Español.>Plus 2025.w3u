@@ -1385,6 +1385,30 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
+{
+"name": "LOS TORTUGA",
+"image": "https://i.postimg.cc/yNMfYwky/IMG-20260305-222548-943.jpg",
+"url": "https://luluvdo.com/e/1buraew5jsvd",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "MI AMIGA EVA",
+"image": "https://i.postimg.cc/ryJ9vdCv/IMG-20260305-222556-704.jpg",
+"url": "https://luluvdo.com/e/q5e61cal60wj",
+"info": "2025[TINWORLD]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 }
