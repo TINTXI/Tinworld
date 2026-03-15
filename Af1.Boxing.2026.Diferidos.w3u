@@ -142,6 +142,24 @@
 	"userAgent": "PlusMediaPlayer/0.0.9",
 	"isHost":"true",
 	"online":"true"
+	},
+    {
+	"name": "Dickens 🆚 Cacace",
+	"image": "https://i.postimg.cc/Gt8w8mRn/Dickens-vs-Cacace-poster-1200x675.jpg",
+	"url": "https://voe.sx/e/dzmhpwtdjmcm",
+	"info": "14-03-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
+	},
+    {
+	"name": "Barboza 🆚 Sims Jr",
+	"image": "https://i.postimg.cc/jjsp6XT4/BARBOZA-vs-SIMS-JR.jpg",
+	"url": "https://voe.sx/e/rcrzqckxq8jc",
+	"info": "14-03-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
 	}
 	
 ]
