@@ -160,7 +160,26 @@
 	"userAgent": "PlusMediaPlayer/0.0.9",
 	"isHost":"true",
 	"online":"true"
+	},
+    {
+	"name": "Itauma 🆚 Franklin",
+	"image": "https://i.postimg.cc/L5cmtZ39/f7a830ac-728b-4af3-8e83-599bfad4cb13.jpg",
+	"url": "https://luluvdo.com/e/kyizlh9x7fh7",
+	"info": "28-03-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
+	},
+    {
+	"name": "Fundora 🆚 Thurman",
+	"image": "https://i.postimg.cc/259yqyMb/images-(7).jpg",
+	"url": "https://luluvdo.com/e/eg1mz6vq26nl",
+	"info": "28-03-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
 	}
+
 	
 ]
 }
