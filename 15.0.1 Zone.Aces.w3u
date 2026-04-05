@@ -528,8 +528,8 @@
             {
               "name": "Eleven Sports 1",
               "image": "https://tudonumclick.com/imagens/tv/eleven-sports-1.png",
-              "desktop": "true",
-              "embed": "",
+              "desktop": "",
+              "embed": "true",
               "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
             },
             {
