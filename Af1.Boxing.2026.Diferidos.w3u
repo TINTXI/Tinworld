@@ -187,8 +187,25 @@
 	"userAgent": "PlusMediaPlayer/0.0.9",
 	"isHost":"true",
 	"online":"true"
+	},
+    {
+	"name": "Cortes 🆚 Garcia",
+	"image": "https://i.postimg.cc/3RwZS5pV/Watch-Zuffa-Boxing-05-Cortes-vs-Garcia-4526-5th-April-2026-Online-Full-Show-Free.jpg",
+	"url": "https://luluvdo.com/e/rjx9m8mwys6r",
+	"info": "05-04-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
+	},
+    {
+	"name": "Dubois 🆚 Harper",
+	"image": "https://i.postimg.cc/mkvNgPnp/Watch-Dubois-vs-Harper-4526-5th-April-2026-Online-Full-Show-Free.jpg",
+	"url": "https://luluvdo.com/e/dekiyikk73tl",
+	"info": "05-04-26",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost":"true",
+	"online":"true"
 	}
-
 	
 ]
 }
