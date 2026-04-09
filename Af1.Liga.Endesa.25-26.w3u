@@ -2806,6 +2806,123 @@
       		"import": false
         	}
         ]
+       },
+
+        {
+        "name": "JORNADA 25",
+        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+        "info": "[04-05- ABRIL 2026]",
+        "stations":
+            	[
+		    {
+       		"name": "Bilbao 🆚 Unicaja",
+	        "info": "[04/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/v269o37e0s5d",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Granada 🆚 Girona",
+	        "info": "[04/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/252jwqdz5y1g",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Gran Canaria 🆚 Recoletas",
+	        "info": "[04/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/luws45nlefhw",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Joventut 🆚 Murcia",
+	        "info": "[04/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/l4h322awyigf",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Manresa 🆚 Baskonia",
+	        "info": "[05/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/57j7fkfpqd0e",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Lleida 🆚 La Laguna Tenerife",
+	        "info": "[05/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/35cnclb3vg3i",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Real Madrid 🆚 Andorra",
+	        "info": "[05/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/p4q3g4u8g4p4",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Valencia Basket 🆚 Breogan",
+	        "info": "[05/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/swislsz5uytl",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Zaragoza 🆚 Barça",
+	        "info": "[05/04/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysefujedu.com/e/51qg147p7dyz",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+        ]
        }
 
 ]
