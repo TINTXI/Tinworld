@@ -63,13 +63,13 @@
           "isHost": "true"
         },
         {
-          "name": "ATP",
+          "name": "ATP-1",
           "info": "[]",
           "image": "https://i.postimg.cc/BbP813cC/photo-2026-05-09-23-34-53.jpg",
           "url": "https://zac01eo.mpipzni2naturally32kistomach.ru/es/player.html?mdata=MjE2MjgxM18z&ilang=es",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
-          "embed": "",
+          "embed": "true",
           "online": "true",
           "isHost": "true"
         }
