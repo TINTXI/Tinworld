@@ -190,24 +190,36 @@
   "name": "Dazn MotoGP",
   "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
   "stations": 
-	[
+ [
         {
-          "name": "DAZN MotoGP (1080)(Elcano)",
+          "name": "DAZN MotoGP (1080)(*)",
           "info": "[b558c]",
           "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
           "url": "http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
         },
         {
-          "name": "DAZN MotoGP (1080)(Elcano)",
-          "info": "[2abac]",
+          "name": "DAZN MotoGP (1080)()",
+          "info": "[d2028]",
           "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028"
         },
         {
-          "name": "DAZN MotoGP (1080)(Elcano)",
-          "info": "[5e1a5]",
+          "name": "DAZN MotoGP (1080)()",
+          "info": "[15cea]",
           "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
-          "url": "http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5"
+          "url": "http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea"
+        },
+        {
+          "name": "DAZN MotoGP (720)(*)",
+          "info": "[b9137]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137"
+        },
+        {
+          "name": "DAZN MotoGP (720)(**)",
+          "info": "[b5e624]",
+          "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624"
         }
   ]
 },
