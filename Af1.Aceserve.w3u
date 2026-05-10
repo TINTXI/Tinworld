@@ -7,6 +7,50 @@
   "info":"bY. Tintxi",
   "groups": [
 
+{  
+"name": "EL CLASICO",  "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",  "stations": [        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"        },        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889"        },        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"        },
+
+
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e"        },
+
+
+{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/tT2XNzgq/logo5-10-132536.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8" },
+    ]
+},
+
+
     {
       "name": "DAZN",
       "image": "https://i.postimg.cc/g0kVtxxx/logo1-17-10546-removebg-preview.png",
