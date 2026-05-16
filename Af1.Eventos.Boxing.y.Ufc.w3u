@@ -5,6 +5,7 @@
   "groups": [
     {
       "name": "📡 ACESTREAM",
+      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
       "stations": [
         {
           "name": "🏍️ [10:10] (Acestream) MOTOCICLISMO: MotoGP Cataluña - Libres 2 (Acestream 1)",
@@ -882,6 +883,7 @@
     },
     {
       "name": "📡 ACESERVE",
+      "image": "https://i.postimg.cc/D0Lr3DRF/logo5-14-202112.png",
       "stations": [
         {
           "name": "🏍️ [10:10] (Aceserve) MOTOCICLISMO: MotoGP Cataluña - Libres 2 (Acestream 1)",
