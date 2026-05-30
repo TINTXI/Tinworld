@@ -50,7 +50,30 @@
           "embed": "true",
           "online": "true",
           "isHost": "true"
-        }    
+        },
+        {
+          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
+          "info": "[02:00 Horas]",
+          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
+          "url": "https://jack53eo.mp7786j2ncsusov57general.ru/es/fighting/matchroom-boxing-2174630/foster-vs-ford.html?icg=RVM&ilang=es",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": "true"
+        },
+{
+          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
+          "info": "[03:00 Horas]",
+          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
+          "url": "https://jack53eo.mp7786j2ncsusov57general.ru/es/fighting/def-2173972/foster-o-vs-ford-r.html?icg=RVM&ilang=es",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "embed": "true",
+          "online": "true",
+          "isHost": "true"
+        },
+
 
       ]
     }
