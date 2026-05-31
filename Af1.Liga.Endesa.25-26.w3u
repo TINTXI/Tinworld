@@ -3625,7 +3625,7 @@
        		"name": "Zaragoza  🆚 Valencia Basket",
 	        "info": "[26/05/2026]",
 	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-	        "url": "",
+	        "url": "https://bysewihe.com/e/t9a0qsixr5sg",
       		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       		"embed": "",
       		"referer": "",
@@ -3846,7 +3846,7 @@
        		"name": "Real Madrid 🆚 Baskonia",
 	        "info": "[27/05/2026]",
 	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
-	        "url": "",
+	        "url": "https://bysewihe.com/e/o4yb7lejajqv",
       		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       		"embed": "",
       		"referer": "",
@@ -3867,7 +3867,124 @@
       		"import": false
         	}
         ]
+       },
+       {
+        "name": "JORNADA 34",
+        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+        "info": "[29- MAYO 2026]",
+        "stations":
+            	[
+		    {
+       		"name": "Manresa 🆚 Real Madrid",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/r3k62aemw8l2",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+		    {
+       		"name": "Recoletas 🆚 Granada",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/31budo1gogz3",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Girona 🆚 Joventut",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/o7aemmyrvekt",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Baskonia 🆚 Unicaja",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/hk84s0wnohys",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "La Laguna Tenerife 🆚 Bilbao",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/2pfm9g0rllec",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Andorra 🆚 Barça",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/fhgsuexpm0pk",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},    
+            {
+       		"name": "Breogan 🆚 Zaragoza",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/lji5ov07ap2r",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Murcia 🆚 Lleida",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/xxaj44txgtsr",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	},
+            {
+       		"name": "Valencia  Basket Tenerife 🆚 Gran Canaria",
+	        "info": "[29/05/2026]",
+	        "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+	        "url": "https://bysewihe.com/e/g2erairxnnoq",
+      		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      		"embed": "",
+      		"referer": "",
+      		"isHost": "true",
+      		"online": "true",
+      		"import": false
+        	}
+        ]
        }
+
 
 
 
