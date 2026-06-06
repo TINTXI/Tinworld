@@ -8,10 +8,10 @@
   "stations": 
   [
         {
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[02:00 Horas]-Aces",
+          "name": "Belal Muhammad 🆚 Gabriel Bonfim",
+          "info": "[00:00 Horas]-Aces",
           "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
+          "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
@@ -19,60 +19,17 @@
           "isHost": "true"
         },
         {
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[02:00 Horas]-Aces",
+          "name": "Belal Muhammad 🆚 Gabriel Bonfim",
+          "info": "[00:00 Horas]-Aces",
           "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
+          "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
           "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "embed": "true",
           "online": "true",
           "isHost": "true"
-        },
-        {
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[02:00 Horas]-Aces",
-          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "true",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[02:00 Horas]-Aces",
-          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "true",
-          "online": "true",
-          "isHost": "true"
-        },
-        {
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[02:00 Horas]",
-          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "true",
-          "online": "true",
-          "isHost": "true"
-        },
-{
-          "name": "Boxeo: O'Shaquie Foster 🆚 Raymond Ford",
-          "info": "[03:00 Horas]",
-          "image": "https://i.postimg.cc/1t8KPTXv/1001091456-removebg-preview.png",
-          "url": "",
-          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "true",
-          "online": "true",
-          "isHost": "true"
-        },
+        }
+        
 
 
       ]
