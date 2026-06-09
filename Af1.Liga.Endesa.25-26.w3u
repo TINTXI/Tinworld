@@ -4113,7 +4113,16 @@
   "isHost": true,
   "online": true,
   "import": false
+},
+{
+  "name": "11Baskonia 🆚 Joventut",
+  "info": "[6/06/2026]",
+  "image": "https://i.postimg.cc/Pxw6rKNp/logo1-25-123055.png",
+  "url": "https://bysewihe.com/e/tum7v17kzt9o",
+  "openWith": "browser",
+  "online": true
 }
+
 
         ]
        }
