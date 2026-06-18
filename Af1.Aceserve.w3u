@@ -7,48 +7,82 @@
   "info":"bY. Tintxi",
   "groups": [
 
-{  "name": "EL CLASICO",  "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",  "stations": [        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"        },        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889"        },        {          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"        },
-
-
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e"        },
-
-
-{          "name": "EL CLASICO",          "info": "",          "image": "https://i.postimg.cc/c4z04mCT/logo5-10-154125.png",          "url": "http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8" },
-    ]
-},
-
+{
+      "name": "Mundial Fifa 2026",
+      "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png",
+      "stations": [
+        {
+          "name": "Dazn Mundial 1",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 1",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 2",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 2",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 3",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 3",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 4",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Dazn Mundial 4",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Direct Sport 1080",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=79e6e01eb3db42e3da2428895181c0d32e4abd1f",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Direct Sport 1 1080",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Direct Sport 2 1080",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=0d780c1fb5fdf2121d9544f1a6892cb1053dd061",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Fox Sport 1080",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=91826b587ffc2a94dcb104928fca7a33ae6b4ce9",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "Fox Sport 4K ",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=d389b0c2474bb1ab827413d87823451ee4c07b0a",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        },
+        {
+          "name": "MUNDIALCANAL 5 MX 1080",
+          "url": "http://127.0.0.1:6878/ace/getstream?id=2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9",
+          "image": "https://i.postimg.cc/XqbCy40c/logo6-18-205818.png"
+        }
+       ]
+      },
 
     {
       "name": "DAZN",
